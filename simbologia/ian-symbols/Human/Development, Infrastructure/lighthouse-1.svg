@@ -1,0 +1,113 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="191" height="501" viewBox="0 0 191 501" xml:space="preserve">
+            <title>Lighthouse 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lighthouse 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a 3-D white lighthouse with entrance</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, lighthouse, 1, look, out</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-3ea5d015064814d4f1dd22b6d3a6b473">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lighthouse 1</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lighthouse-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lighthouse-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, lighthouse, 1, look, out</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a 3-D white lighthouse with entrance</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m127.86 33.727c0 7.472-18.97 13.518-42.383 13.518-23.403 0-42.373-6.046-42.373-13.518s18.972-13.517 42.375-13.517c23.411 0 42.381 6.045 42.381 13.517z" fill="#231F20"/>
+ <rect y="34.089" x="59.717" height="37.819" width="28.69" fill="#231F20"/>
+ <path stroke="#FBEC7F" stroke-width=".1283" d="m93.816 50.097c0 6.835-3.5 12.387-7.822 12.387-4.323 0-7.823-5.552-7.823-12.387 0-6.847 3.5-12.387 7.823-12.387 4.322-.001 7.822 5.54 7.822 12.387z" fill="#FBEC7F"/>
+ <linearGradient id="ian_symbols_0052bf7e2b8e7384cd7b92128dd3b68f" y2="46.97" gradientUnits="userSpaceOnUse" x2="120.04" y1="46.97" x1="50.906">
+  <stop stop-color="#7DA7D9" offset="0"/>
+  <stop stop-color="#fff" offset=".5225"/>
+  <stop stop-color="#fff" offset=".6742"/>
+  <stop stop-color="#BACDEA" offset="1"/>
+ </linearGradient>
+ <path opacity=".5" stroke="#231F20" stroke-width=".1283" d="m115.45 28.493c-7.67-2.446-18.269-3.96-29.975-3.96-14.274 0-26.903 2.249-34.572 5.705l1.328 37.874 65.194 1.295 2.611-37.809-4.58-3.105z" fill="url(#ian_symbols_0052bf7e2b8e7384cd7b92128dd3b68f)"/>
+ <linearGradient id="ian_symbols_a10606057b6bbf94c15e305cea0f7618" y2="88.322" gradientUnits="userSpaceOnUse" x2="129.17" y1="88.322" x1="47.012">
+  <stop stop-color="#DDD8CD" offset="0"/>
+  <stop stop-color="#E2DDD4" offset=".052"/>
+  <stop stop-color="#F7F6F3" offset=".3254"/>
+  <stop stop-color="#fff" offset=".4775"/>
+  <stop stop-color="#fff" offset=".8146"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".1283" d="m47.012 115.05l1.306-46.937s16.951-10.434 37.819-10.434c20.856 0 39.113 5.212 39.113 5.212l3.917 56.076-82.158-3.92z" fill="url(#ian_symbols_a10606057b6bbf94c15e305cea0f7618)"/>
+ <path stroke="#231F20" stroke-width=".1283" d="m47.319 88.793c-9.118-2.655-13.287-6.276-13.287-10.248 0-8.174 23.589-14.79 52.686-14.79 29.086 0 52.675 6.616 52.675 14.79 0 3.018-6.111 5.826-11.651 8.163" fill="none"/>
+ <path stroke="#231F20" stroke-width=".1283" d="m47.132 100.8c-7.296-2.545-13.1-5.771-13.1-9.282 0-8.163 23.589-14.79 52.686-14.79 29.086 0 52.675 6.627 52.675 14.79 0 3.226-5.123 6.21-11.377 8.646" fill="none"/>
+ <path stroke="#231F20" stroke-width=".1283" d="m37.905 106.06c-1.58-1.404-3.873-2.908-3.873-4.455 0-8.163 23.589-14.79 52.686-14.79 29.086 0 52.675 6.627 52.675 14.79 0 1.767-1.119 3.467-3.148 5.047" fill="none"/>
+ <path stroke="#231F20" stroke-width=".1283" d="m33.11 114.59c0-10.719 25.235-19.409 56.372-19.409 31.138 0 56.384 8.689 56.384 19.409l-10.182 8.284-91.273 1.306-11.307-9.59z" fill="#DDD8CD"/>
+ <linearGradient id="ian_symbols_d0dfc3a6c7d2eb4445230dbaf409b1cf" y2="301.19" gradientUnits="userSpaceOnUse" x2="190.44" y1="301.19" x1=".064">
+  <stop stop-color="#DDD8CD" offset="0"/>
+  <stop stop-color="#E2DDD4" offset=".052"/>
+  <stop stop-color="#F7F6F3" offset=".3254"/>
+  <stop stop-color="#fff" offset=".4775"/>
+  <stop stop-color="#fff" offset=".8146"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".1283" d="m35.996 121.8c0-10.719 23.38-19.409 52.214-19.409s52.214 8.69 52.214 19.409l50.021 368.04c0 5.618-42.614 10.16-95.19 10.16s-95.19-4.542-95.19-10.16l35.936-368.04z" fill="url(#ian_symbols_d0dfc3a6c7d2eb4445230dbaf409b1cf)"/>
+ <polygon points="79.619 22.47 78.313 6.824 92.796 6.693 92.653 22.47" fill="#231F20"/>
+ <path d="m97.054 4.564c0 2.524-5.256 4.564-11.74 4.564s-11.729-2.04-11.729-4.564c0-2.523 5.244-4.564 11.728-4.564s11.741 2.041 11.741 4.564z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".1283" d="m66.574 498.63c4.838.076 9.809.12 14.855.12 16.314 0 31.664-.438 45.082.23l.318-94.4-60.037-1.162-.219 95.21z" fill="#231F20"/>
+ <path d="m76.098 404.58l-8.569.274-.121 93.775c2.699.076 8.294-7.088 8.294-7.088" fill="#5C5D60"/>
+ <path d="m74.824 491.58l-7.361 7.318c4.696.076 9.501.109 14.405.109 15.821 0 29.876.943 42.889.197l-.264-20.154-49.676 12.52z" fill="#C6BD84"/>
+ <line y2="96.21" x1="104.72" x2="104.72" stroke="#000" y1="65.029" stroke-width=".1283" fill="none"/>
+ <line y2="99.096" x1="57.138" x2="57.138" stroke="#000" y1="66.466" stroke-width=".1283" fill="none"/>
+ <line y2="103.82" x1="136.23" x2="136.23" stroke="#000" y1="82.913" stroke-width=".1283" fill="none"/>
+</svg>

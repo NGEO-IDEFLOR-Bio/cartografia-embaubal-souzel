@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="188" height="501" viewBox="0 0 188 501" xml:space="preserve">
+            <title>Temperature: moderate</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Temperature: moderate</ian_image_library:title>
+                <ian_image_library:descr>Illustration of moderate temperature</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, temperature, moderate, thermometer</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-763ee4a12fab2c54edd7b5a9c7812ff0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Temperature: moderate</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/temperature-moderate/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/temperature-moderate/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, temperature, moderate, thermometer</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of moderate temperature</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m120.01 317.75v-290.85c0-14.859-12.041-26.9-26.899-26.9-14.852 0-26.9 12.042-26.9 26.9v290.85c-38.303 11.55-66.211 47.07-66.211 89.14 0 51.42 41.689 93.11 93.111 93.11 51.429 0 93.118-41.689 93.118-93.11 0-42.07-27.92-77.59-66.22-89.14z" fill="#231F20"/>
+ <path d="m111.99 325.63v-121.81c.008-14.613-9.831-20.279-18.731-20.202-9.008.062-19.14 5.297-19.023 20.202v121.8c-36.994 8.568-64.602 41.651-64.602 81.263 0 46.086 37.378 83.487 83.487 83.487 46.102 0 83.48-37.401 83.48-83.487 0-39.6-27.61-72.69-64.61-81.25z" fill="#9B1F22"/>
+ <linearGradient id="ian_symbols_3cca27ca4502fdf48504ad5ab3aed571" y2="395.61" gradientUnits="userSpaceOnUse" x2="106.93" y1="445.19" x1="36.115">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FBF7F7" offset=".0804"/>
+  <stop stop-color="#F1E0E0" offset=".2083"/>
+  <stop stop-color="#E0BABB" offset=".3677"/>
+  <stop stop-color="#C98687" offset=".5523"/>
+  <stop stop-color="#AB4446" offset=".7557"/>
+  <stop stop-color="#9B1F22" offset=".8606"/>
+ </linearGradient>
+ <path opacity=".7" d="m39.287 396.03c0-23.036 11.434-43.361 28.902-55.741-26.115 10.048-44.669 35.3-44.669 64.949 0 38.472 31.181 69.645 69.645 69.645 18.77 0 35.776-7.469 48.303-19.548-9.985 5.721-21.526 9.031-33.859 9.031-37.735 0-68.323-30.58-68.323-68.33z" fill="url(#ian_symbols_3cca27ca4502fdf48504ad5ab3aed571)"/>
+</svg>

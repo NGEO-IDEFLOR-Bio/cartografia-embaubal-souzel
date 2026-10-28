@@ -1,0 +1,97 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="150" viewBox="0 0 502 150" xml:space="preserve">
+            <title>Foothills 3D: foothills and plain</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Foothills 3D: foothills and plain</ian_image_library:title>
+                <ian_image_library:descr>Illustration of foothills and plain</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, terrestrial, landform, landscape, feature, foothills, plain</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8e5e490e0d0abae41da8f3bd9102e215">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Foothills 3D: foothills and plain</dc:title>
+                <dc:date>2005-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/foothills-3d-foothills-and-plain/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/foothills-3d-foothills-and-plain/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, terrestrial, landform, landscape, feature, foothills, plain</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of foothills and plain</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_5637e66c313de68425a2c07b70d964c8" y2="25.857" gradientUnits="userSpaceOnUse" x2="91.488" y1="96.885" x1="20.46">
+  <stop stop-color="#89AC7B" offset=".0056"/>
+  <stop stop-color="#C3BD92" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m52.538 27.47s17.559 4.242 28.632 3.393 15.332 3.393 19.591 5.09 6.814 8.484 6.814 8.484l-45.992 51.751-61.328-19.514 52.288-49.204z" stroke="#7A5353" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_5637e66c313de68425a2c07b70d964c8)"/>
+ <linearGradient id="ian_symbols_ecda82f407d9196471503b2f145324af" y2="-50.513" gradientUnits="userSpaceOnUse" x2="395.12" y1="192.6" x1="152">
+  <stop stop-color="#89AC7B" offset=".0056"/>
+  <stop stop-color="#C3BD92" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m117.8 31.711c6.814 0 15.331 1.697 22.146 0s24.896-20.36 28.303-21.209c3.408-.849 4.917-.654 10.88-2.352 5.962-1.697 9.369-8.678 18.739-7.829s16.184 9.333 22.999 11.877c6.814 2.544 11.072 3.395 16.183 1.697 5.111-1.697 5.111 6.787 13.629 5.938 8.519-.849 15.333-3.394 28.962-.849 13.628 2.545 27.255 15.271 34.07 17.816 6.816 2.544 7.145 2.544 20.772 4.242 13.628 1.697 28.768 13.573 28.768 13.573h137l-53.335 54.296h-157.91l-240.21-19.509s5.634-13.44 12.448-15.985 8.847-1.832 14.81-7.77c5.962-5.938 14.48-18.666 21.294-26.3 6.818-7.635 13.628-7.635 20.448-7.635z" stroke="#7A5353" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_ecda82f407d9196471503b2f145324af)"/>
+ <path stroke-linejoin="round" d="m191.81 44.904c9.396.899 16.107-8.093 18.346-8.543 2.236-.45 3.579 1.348 4.92-1.35 1.344-2.697 7.16-4.497 7.16-4.497s1.791-2.697 5.816-1.798c4.026.899 9.844 3.149 12.976 5.847 3.132 2.697 8.502 7.194 13.87 8.094 5.368.898 14.766 7.194 14.766 7.194" stroke="#7A5353" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke="#7A5353" stroke-width=".5" d="m234.71 71.527s4.666-2.435 10.483-3.453c5.817-1.021 7.583-8.576 11.811-10.586 4.229-2.011 8.235-1.78 11.313-5.208s9.589-9.36 14.405-7.284c4.817 2.078 9.451 7.297 13.91 8.452s6.764 3.99 10.4 5.1c3.64 1.108 21.629 3.038 25.318 3.249s8.532 1.84 8.532 1.84" fill="none"/>
+ <path stroke-linejoin="round" d="m92.713 59.774c4.079.899 7.787-7.644 10.753-8.094 2.968-.45 1.854 1.8 5.192 0 3.336-1.799 9.27-7.644 11.864-9.443 2.597-1.799 10.383-3.147 10.383-3.147" stroke="#7A5353" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke="#7A5353" stroke-width=".5" d="m156.12 47.183s-8.156-.001-11.124-2.698c-2.966-2.697-5.561-7.193-8.156-6.744-2.596.449-8.528.45-9.642 3.147-1.112 2.697-2.224 6.744-4.82 8.094" fill="none"/>
+ <linearGradient id="ian_symbols_8c8163a74905c3e4ad178732f933bec9" y2="135.8" gradientUnits="userSpaceOnUse" x2="487.31" y1="68.272" x1="462.73">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#BEA580" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_8c8163a74905c3e4ad178732f933bec9)" stroke="#7A5353" stroke-linecap="round" stroke-width=".5" points="446.92 108.91 500.25 54.617 500.25 102.55 451.7 148.76 448.78 146.68"/>
+ <linearGradient id="ian_symbols_1213c5b0c8d5b284c91406a165b727fe" y2="148.76" gradientUnits="userSpaceOnUse" x2="225.97" y1="57.163" x1="225.97">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#BEA47F" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m.25 148.76v-72.086s27.316 3.065 34.131 4.763 13.568 5.418 19.531 2.873 12.776-5.938 22.147-10.18c9.369-4.242 13.629.848 21.294 0 7.666-.85 11.73-9.005 18.545-9.005s10.417 1.37 16.379-1.176c5.961-2.546 8.518-6.787 19.59-6.787 11.075 0 6.815 5.938 12.778 9.332 5.961 3.394 16.184 4.242 23.85 4.242s6.291 4.57 13.956 5.418c7.668.847 12.45 1.368 21.818.52 9.37-.849 18.74 4.242 27.258 7.636 8.519 3.394 21.952 6.46 33.025 6.46 11.074 0 22.806 13.053 22.806 13.053h144.34v44.937h-451.46z" stroke="#7A5353" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_1213c5b0c8d5b284c91406a165b727fe)"/>
+</svg>

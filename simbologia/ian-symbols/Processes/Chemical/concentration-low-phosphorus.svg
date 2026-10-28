@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="520" height="519" viewBox="0 0 520 519" xml:space="preserve">
+            <title>Concentration: low phosphorus</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: low phosphorus</ian_image_library:title>
+                <ian_image_library:descr>Illustration of low phosphorus concentration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, low, nutrient, phosphorus</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f4fb4899cfc1e534817f03fb212c0828">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: low phosphorus</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-low-phosphorus/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-low-phosphorus/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, low, nutrient, phosphorus</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of low phosphorus concentration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width="18.575" stroke-dasharray="33.4344,33.4344,33.4344,33.4344,33.4344" d="m509.29 259.13c0 137.97-111.94 249.83-250.02 249.83-138.06 0-249.98-111.86-249.98-249.83 0-137.96 111.92-249.84 249.98-249.84 138.08-.002 250.02 111.88 250.02 249.84z" fill="#B9DA95"/>
+ <path d="m216.4 335.43v-152.4h40.589c15.123 0 25.002.74 29.671 2.186 7.418 2.362 13.533 7.362 18.346 15.067 4.835 7.705 7.241 17.606 7.241 29.727 0 11.027-2.092 20.245-6.236 27.696-4.161 7.462-9.36 12.683-15.598 15.697-6.248 3.013-16.982 4.526-32.243 4.526h-16.514v57.499h-25.26zm25.26-126.52v43.138h13.886c9.339 0 15.675-.64 19.042-1.965 3.356-1.313 6.115-3.665 8.24-7.108 2.158-3.422 3.24-7.605 3.24-12.595 0-5.033-1.115-9.283-3.333-12.738-2.208-3.455-4.945-5.773-8.18-6.954-3.267-1.181-10.155-1.777-20.664-1.777h-12.24z" fill="#D2232A"/>
+</svg>

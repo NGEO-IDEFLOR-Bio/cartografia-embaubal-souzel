@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="135" viewBox="0 0 500 135" xml:space="preserve">
+            <title>Nymphaea odorata (White Water Lily) : pad</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Nymphaea odorata (White Water Lily) : pad</ian_image_library:title>
+                <ian_image_library:descr>Illustration of White Water Lily pad (Nymphaea odorata).</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>lily, pad, white, aquatic, North America, Plantae, Angiosperms, Nymphaeales, Nymphaeaceae, Nymphaea, odorata</ian_image_library:contains>
+                    <ian_image_library:when>2012-08-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1b09ea195c4ffca41dd00273413b877a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Nymphaea odorata (White Water Lily) : pad</dc:title>
+                <dc:date>2012-08-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/nymphaea-odorata-white-water-lily-pad/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/nymphaea-odorata-white-water-lily-pad/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>lily, pad, white, aquatic, North America, Plantae, Angiosperms, Nymphaeales, Nymphaeaceae, Nymphaea, odorata</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of White Water Lily pad (Nymphaea odorata).</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<linearGradient id="ian_symbols_de58d4ba58ed7df4a9c2ded82af84733" gradientUnits="userSpaceOnUse" x1="170.1777" y1="189.5957" x2="335.2731" y2="-55.1682">
+		<stop  offset="0.3091" style="stop-color:#8FC691"/>
+		<stop  offset="1" style="stop-color:#5C8D60"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_de58d4ba58ed7df4a9c2ded82af84733)" d="M462.447,30.891c6.314,2.649,8.981,10.35,13.825,13.235c4.394,2.616,9.481,0.364,11.992,5.37
+		c3.062,6.104,1.673,8.874,3.324,11.673c1.947,3.3,8.411,12.7,8.411,16.143c0,31.344-83.383,45.888-195.354,52.412
+		c-17.536,1.023-35.766,5.208-54.476,5.208c-24.018,0-37.093-3.449-59.08-5.106c-17.297-1.305-43.916-2.5-59.521-4.184
+		C92.627,121.438,0,90.634,0,65.643c0-19.585,32.688-37.167,84.528-49.194c5.984-1.388,7.826-7.191,14.3-8.426
+		c5.388-1.028,31.112,7.276,36.103,4.376C156.278,0,202.433,0,250.171,0C339.699,0,418.241,12.339,462.447,30.891z"/>
+	<ellipse fill="#8FC691" cx="250.171" cy="64.913" rx="5.835" ry="2.918"/>
+	<path fill="#7EB081" d="M309.427,67.919l-47.039-2.276l229.201-4.474c0,0,9.229,10.716,6.938,12.385
+		c-1.408,1.026-114.975-4.629-114.975-4.629L309.427,67.919z"/>
+</g>
+</svg>

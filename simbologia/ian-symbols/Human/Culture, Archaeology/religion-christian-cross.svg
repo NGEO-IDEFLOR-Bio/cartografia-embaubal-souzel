@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="315" height="504" viewBox="0 0 315 504" xml:space="preserve">
+            <title>Religion: Christian cross</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Religion: Christian cross</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a religious symbol, the Christian cross.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, Christianity, cross, Christian, missionaries, religion</ian_image_library:contains>
+                    <ian_image_library:when>2009-11-18</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-100e72894462ec14713a26acb056bd72">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Religion: Christian cross</dc:title>
+                <dc:date>2009-11-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/religion-christian-cross/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/religion-christian-cross/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, Christianity, cross, Christian, missionaries, religion</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a religious symbol, the Christian cross.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="314.79 116.76 220.81 116.76 220.81 20.321 113.89 20.321 113.89 116.76 18.725 116.76 18.725 223.67 113.89 223.67 113.89 502.78 220.81 502.78 220.81 223.67 314.79 223.67" fill="#A4A7A9"/>
+ <polygon stroke="#808184" stroke-width="5.5609" points="298.84 99.227 204.86 99.227 204.86 2.78 97.945 2.78 97.945 99.227 2.78 99.227 2.78 206.13 97.945 206.13 97.945 485.24 204.86 485.24 204.86 206.13 298.84 206.13" fill="#fff"/>
+</svg>

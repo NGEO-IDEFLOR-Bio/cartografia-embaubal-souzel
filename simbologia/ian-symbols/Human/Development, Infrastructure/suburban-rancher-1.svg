@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="213" viewBox="0 0 501 213" xml:space="preserve">
+            <title>Suburban: rancher 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Suburban: rancher 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a rancher style home</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, house, home, rancher</ian_image_library:contains>
+                    <ian_image_library:when>2008-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a1936b6748f094149908a910aea8a4a8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Suburban: rancher 1</dc:title>
+                <dc:date>2008-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/suburban-rancher-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/suburban-rancher-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, house, home, rancher</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a rancher style home</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width=".1" points="20.119 55.271 20.119 10.625 49.951 10.625 49.951 52.431" fill="#843023"/>
+ <polygon stroke="#000" stroke-width=".1" points="12.431 64.095 .139 56.232 73.169 44.983 87.214 53.414" fill="#74271A"/>
+ <polygon stroke="#000" stroke-width=".1" points="142.85 212.23 142.85 126.46 488.91 81.504 488.91 169.22" fill="#EAE4BA"/>
+ <polygon stroke="#000" stroke-width=".1" points="142.85 212.23 142.85 126.46 87.214 53.414 12.431 64.095 12.431 127.53" fill="#D8D093"/>
+ <polygon stroke="#000" stroke-width=".1" points="87.214 53.414 142.85 126.46 488.91 81.504 500.13 75.89 427.11 .053 73.169 44.983" fill="#8F3621"/>
+ <polygon stroke="#000" stroke-width=".1" points="180.76 207.55 180.76 136.14 223.09 131.24 223.09 202.08" fill="#5387A3"/>
+ <polygon stroke="#000" stroke-width=".1" points="269.15 164.35 269.15 130.37 289.31 128.03 289.31 161.75" fill="#D1D3D4"/>
+ <polygon stroke="#000" stroke-width=".1" points="317.42 158.32 317.42 124.32 337.57 121.98 337.57 155.7" fill="#D1D3D4"/>
+ <polygon stroke="#000" stroke-width=".1" points="365.7 151.68 365.7 117.7 385.85 115.36 385.85 149.08" fill="#D1D3D4"/>
+ <polygon stroke="#000" stroke-width=".1" points="413.96 145.64 413.96 111.65 434.12 109.31 434.12 143.04" fill="#D1D3D4"/>
+</svg>

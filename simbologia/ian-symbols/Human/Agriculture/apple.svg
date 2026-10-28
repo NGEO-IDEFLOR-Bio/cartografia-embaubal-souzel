@@ -1,0 +1,96 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="438" height="502" viewBox="0 0 438 502" xml:space="preserve">
+            <title>Apple</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Apple</ian_image_library:title>
+                <ian_image_library:descr>Illustration of apple</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>apple, plant, vascular, Magnoliophyta, angiosperm, flowering, Magnoliopsida, dicot, Rosidae, Rosales, Rosaceae, rose, family, Malus, sp. pomaceous, fruit, commercial, cultivar</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-09</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-bed5d35999768bb4d594a8732e773c96">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Apple</dc:title>
+                <dc:date>2005-03-09</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/apple/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/apple/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>apple, plant, vascular, Magnoliophyta, angiosperm, flowering, Magnoliopsida, dicot, Rosidae, Rosales, Rosaceae, rose, family, Malus, sp. pomaceous, fruit, commercial, cultivar</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of apple</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_0b8b5517cf0bb5c4c9b2f0be92e88df0" y2="55.405" gradientUnits="userSpaceOnUse" x2="263.1" y1="55.405" x1="195.35">
+  <stop stop-color="#A5A63B" offset=".0056"/>
+  <stop stop-color="#A5B93B" offset="1"/>
+ </linearGradient>
+ <path stroke="#7B5A48" stroke-width=".25" d="m259.51 110.65c5.292-1.032 4.643-46.704-1.375-58.585-3.544-7.022-26.292-17.627-41.39-30.429-10.43-8.853-14.75-22.488-16.7-21.456-4.737 2.529-8.092 62.523 1.137 76.523 9.22 13.989 53.02 34.967 58.32 33.947z" fill="url(#ian_symbols_0b8b5517cf0bb5c4c9b2f0be92e88df0)"/>
+ <radialGradient id="ian_symbols_65834b06cc2ca664395ef0d4c577ce31" fx="320.74" fy="254.82" gradientUnits="userSpaceOnUse" cy="298.73" cx="218.15" r="209.87">
+  <stop stop-color="#CA362E" offset=".0056"/>
+  <stop stop-color="#C2352D" offset=".2809"/>
+  <stop stop-color="#B7322D" offset=".7022"/>
+  <stop stop-color="#A82F2B" offset="1"/>
+ </radialGradient>
+ <path stroke="#8E2621" stroke-width=".25" d="m252.21 130.62c-31.156-6.612-59.466-31.949-94.395-32.892-34.928-.943-63.327-1.897-102.03 19.824-38.697 21.71-54.671 53.74-55.62 123.58-.948 69.867 13.212 151.99 29.265 179.37 16.047 27.367 47.192 64.187 64.187 66.083 16.995 1.887 66.089-9.374 84.965-4.659 18.881 4.727 21.71 10.317 66.084 16.929 44.363 6.601 67.959-13.223 108.56-43.42 40.585-30.219 65.13-106.68 77.404-143.5 12.275-36.809 2.829-99.121-15.098-125.54-17.938-26.436-46.266-43.343-62.307-43.343-16.05-.01-69.85-5.82-101.01-12.43z" fill="url(#ian_symbols_65834b06cc2ca664395ef0d4c577ce31)"/>
+ <linearGradient id="ian_symbols_58716a0a5b9aa6c4557b04579891704c" y2="75.14" gradientUnits="userSpaceOnUse" x2="274.4" gradientTransform="matrix(.9642 .265 -.3059 1.1129 43.132 -53.61)" y1="75.14" x1="233.56">
+  <stop stop-color="#6C5634" offset=".0056"/>
+  <stop stop-color="#948673" offset="1"/>
+ </linearGradient>
+ <path stroke="#6C5634" stroke-width=".25" stroke-linecap="round" d="m231.03 143.97c23.851.133 30.202-78.564 40.53-87.683 10.317-9.141 21.277-13.889 24.794-5.125 3.527 8.775-5.275 18.482-12.175 38.761-6.579 19.325-15.403 36.032-19.048 57.963-8.947.854-11.604 3.383-20.246 1.098.01 0-14.24-1.73-13.85-5.02z" fill="url(#ian_symbols_58716a0a5b9aa6c4557b04579891704c)"/>
+ <linearGradient id="ian_symbols_491d9378df340de4a1f41aca7a515cec" y2="96.803" gradientUnits="userSpaceOnUse" x2="429.47" y1="96.803" x1="266.3">
+  <stop stop-color="#969834" offset=".0056"/>
+  <stop stop-color="#A5B93B" offset=".8708"/>
+ </linearGradient>
+ <path stroke="#7B5A48" stroke-width=".25" d="m266.88 123.38c-5.669-3.772 32.104-41.545 49.094-48.146 10.045-3.905 46.531-.244 75.431-2.618 19.945-1.642 36.292-10.639 37.84-8.719 3.782 4.726-40.663 56.644-63.322 63.255-22.66 6.62-93.38.01-99.04-3.77z" fill="url(#ian_symbols_491d9378df340de4a1f41aca7a515cec)"/>
+ <path stroke-linejoin="round" d="m218.77 132.55s14.638 20.889 37.141 18.016c22.498-2.884 24.317-17.04 48.146-11.115" stroke="#8E2621" stroke-linecap="round" stroke-width=".25" fill="none"/>
+</svg>

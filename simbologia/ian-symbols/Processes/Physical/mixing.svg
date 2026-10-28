@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="507" height="518" viewBox="0 0 507 518" xml:space="preserve">
+            <title>Mixing</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mixing</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mixing</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, mixing, water, depth, column, temperature, density, salinity</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-10</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0fab6f3ae78a4234ad5ab48d626f3900">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mixing</dc:title>
+                <dc:date>2005-02-10</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mixing/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mixing/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, mixing, water, depth, column, temperature, density, salinity</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mixing</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m258.6 194.54c35.368 0 64.053 28.686 64.053 64.087 0 35.368-28.685 64.053-64.053 64.053-35.379 0-64.064-28.686-64.064-64.053" fill-rule="evenodd" stroke="#3A89C9" clip-rule="evenodd" stroke-width="17.179" fill="none"/>
+ <path d="m194.54 227.52c5.431 14.627 14.694 32.775 24.506 44.051l-24.506-8.896-24.506 8.896c9.81-11.27 19.07-29.42 24.51-44.05z" fill="#3A89C9"/>
+ <path d="m258.6 375.79c-64.724 0-117.2-52.477-117.2-117.2 0-64.69 52.477-117.17 117.2-117.17s117.19 52.477 117.19 117.17" fill-rule="evenodd" stroke="#3A89C9" clip-rule="evenodd" stroke-width="17.179" fill="none"/>
+ <path d="m375.79 289.69c-5.431-14.627-14.694-32.775-24.506-44.05l24.506 8.895 24.506-8.895c-9.82 11.27-19.08 29.42-24.51 44.05z" fill="#3A89C9"/>
+ <path d="m432.02 258.59c0 95.789-77.646 173.43-173.4 173.43-95.823 0-173.46-77.642-173.46-173.43s77.64-173.43 173.46-173.43" fill-rule="evenodd" stroke="#3A89C9" clip-rule="evenodd" stroke-width="17.179" fill="none"/>
+ <path d="m289.72 85.158c-14.627 5.431-32.797 14.694-44.056 24.528l8.878-24.528-8.878-24.495c11.26 9.785 29.43 19.049 44.06 24.491z" fill="#3A89C9"/>
+ <path d="m497.91 331.1c-31.06 102.71-126.47 177.49-239.32 177.49-138.07 0-250-111.92-250-250s111.92-250 250-250c51.772 0 99.868 15.734 139.78 42.709" fill-rule="evenodd" stroke="#3A89C9" clip-rule="evenodd" stroke-width="17.179" fill="none"/>
+ <path d="m424.14 68.709c-15.164-3.688-35.407-6.202-50.225-4.358l21.059-15.332 6.381-25.266c3.84 14.427 13.71 32.239 22.78 44.956z" fill="#3A89C9"/>
+</svg>

@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="291" height="501" viewBox="0 0 291 501" xml:space="preserve">
+            <title>Uptake; iron</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Uptake; iron</ian_image_library:title>
+                <ian_image_library:descr>Illustration of iron uptake</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, iron, uptake</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-52a715c65a3967b4791d661a5c5014d7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Uptake; iron</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/uptake-iron/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/uptake-iron/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, iron, uptake</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of iron uptake</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width="8.3103" d="m214.19 96.315c0-50.888-41.272-92.16-92.149-92.16-50.888 0-92.161 41.272-92.161 92.16s41.272 92.139 92.161 92.139c50.88 0 92.15-41.25 92.15-92.135z" fill="#87AD87"/>
+ <polygon points="70.162 118.57 126.12 62.618 182.08 118.57"/>
+ <line y2="301.1" x1="122.04" x2="122.04" stroke="#000" y1="110.27" stroke-width="11.082"/>
+ <path d="m0 497.81v-129h87.459v15.311h-70.279v39.67h60.91v15.299h-60.91v58.72h-17.18z"/>
+ <path d="m171.25 467.83l16.208 2.18c-2.575 9.498-7.361 16.881-14.306 22.115-6.96 5.25-15.85 7.88-26.66 7.88-13.633 0-24.444-4.21-32.426-12.64-7.981-8.419-11.977-20.246-11.977-35.449 0-15.737 4.028-27.949 12.115-36.646 8.056-8.686 18.537-13.034 31.411-13.034 12.447 0 22.618 4.252 30.524 12.746 7.896 8.482 11.849 20.438 11.849 35.823 0 .94-.032 2.351-.097 4.22h-69.563c.588 10.3 3.483 18.185 8.719 23.654 5.214 5.471 11.741 8.206 19.552 8.206 5.812 0 10.77-1.518 14.883-4.541 4.11-3.02 7.37-7.86 9.78-14.51zm-51.99-25.93h52.159c-.705-7.778-2.714-13.602-5.982-17.501-5.043-6.025-11.571-9.049-19.616-9.049-7.266 0-13.387 2.414-18.334 7.232-4.95 4.82-7.7 11.26-8.23 19.32z"/>
+ <path d="m205.68 391.61v-19.669h-19.68v-8.28h19.68v-19.68h8.28v19.68h19.669v8.28h-19.669v19.669h-8.28z"/>
+ <path d="m289.13 394.43v8.43h-47.319c-.064-2.115.277-4.146 1.036-6.101 1.196-3.227 3.141-6.389 5.79-9.509 2.672-3.108 6.507-6.709 11.507-10.779 7.746-6.379 12.992-11.433 15.706-15.15s4.07-7.254 4.07-10.599c0-3.472-1.239-6.399-3.718-8.782-2.479-2.393-5.705-3.579-9.69-3.579-4.21 0-7.575 1.271-10.086 3.814-2.532 2.543-3.825 6.058-3.847 10.556l-9.049-.94c.609-6.763 2.938-11.912 6.966-15.449 4.018-3.558 9.434-5.32 16.208-5.32 6.858 0 12.286 1.901 16.271 5.705 3.996 3.825 5.994 8.537 5.994 14.178 0 2.863-.577 5.684-1.742 8.44-1.175 2.778-3.108 5.694-5.812 8.75s-7.201 7.255-13.483 12.575c-5.289 4.434-8.665 7.426-10.14 9.007-1.474 1.581-2.703 3.162-3.664 4.754h34.99z"/>
+</svg>

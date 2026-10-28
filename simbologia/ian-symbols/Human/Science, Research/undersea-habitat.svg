@@ -1,0 +1,514 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="356" height="501" viewBox="0 0 356 501" xml:space="preserve">
+            <title>Undersea habitat</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Undersea habitat</ian_image_library:title>
+                <ian_image_library:descr>Illustration of undersea habitat</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, setup, undersea, habitat, underwater</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4764c883bc47b3045d0f49c849d65ee9">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Undersea habitat</dc:title>
+                <dc:date>2008-12-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/undersea-habitat/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/undersea-habitat/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, setup, undersea, habitat, underwater</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of undersea habitat</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_525c8db5cb1437a4f112b44ff53309f1" y2="223.27" gradientUnits="userSpaceOnUse" x2="305.49" y1="103.65" x1="205.12">
+  <stop stop-color="#252518" offset=".4663"/>
+  <stop stop-color="#29291E" offset=".5579"/>
+  <stop stop-color="#34342F" offset=".681"/>
+  <stop stop-color="#45474B" offset=".8221"/>
+  <stop stop-color="#5E6072" offset=".9754"/>
+  <stop stop-color="#626579" offset="1"/>
+ </linearGradient>
+ <polygon points="332.31 200.77 300.47 193.12 153.62 146.87 213.04 139.22 354.8 177.43" fill="url(#ian_symbols_525c8db5cb1437a4f112b44ff53309f1)"/>
+ <polygon points="85.273 120.55 84.577 143.26 76.686 141.66 76.37 158.54 125.11 173.02 141.95 186.87 176.96 211.38 191.92 205.65 198.6 212.34 213.25 206.28 172.72 115.03" fill="#3B3B4B"/>
+ <linearGradient id="ian_symbols_243988404ac19984adc7125d9a40f50e" y2="211.6" gradientUnits="userSpaceOnUse" x2="136.21" y1="211.6" x1="33.92">
+  <stop stop-color="#6D6955" offset=".0056"/>
+  <stop stop-color="#68665E" offset=".3605"/>
+  <stop stop-color="#626169" offset=".9944"/>
+ </linearGradient>
+ <polygon points="33.92 215.62 78.068 207.13 130.7 199.93 136.21 203.31 36.478 223.26" fill="url(#ian_symbols_243988404ac19984adc7125d9a40f50e)"/>
+ <polygon points="48.353 205.44 60.239 202.89 67.031 210.95 52.173 214.35" fill="#626169"/>
+ <polygon points="52.587 219.44 52.173 214.35 67.031 210.95 67.88 216.9" fill="#4E4A39"/>
+ <polygon points="77.219 202.04 84.011 208.41 100.98 204.59 92.915 198.22" fill="#626169"/>
+ <linearGradient id="ian_symbols_5d910a13167f4174e13e956175d091b9" y2="207.77" gradientUnits="userSpaceOnUse" x2="100.98" y1="207.77" x1="77.219">
+  <stop stop-color="#626169" offset=".0056"/>
+  <stop stop-color="#5F5E63" offset=".1102"/>
+  <stop stop-color="#534F44" offset=".6757"/>
+  <stop stop-color="#4E4A39" offset=".9944"/>
+ </linearGradient>
+ <polygon points="78.068 207.13 84.424 213.5 100.98 209.68 100.98 204.59 84.011 208.41 77.219 202.04" fill="url(#ian_symbols_5d910a13167f4174e13e956175d091b9)"/>
+ <linearGradient id="ian_symbols_f29c0b6dae0968b41d75965e1996a294" y2="244.35" gradientUnits="userSpaceOnUse" x2="44.668" y1="252.63" x1="13.748">
+  <stop stop-color="#4E4C4F" offset=".0056"/>
+  <stop stop-color="#3A3B36" offset=".9944"/>
+ </linearGradient>
+ <path d="m.003 188.87l10.994 53.498 22.499 64.078s1.045 2.471 1.251 2.917c1.959 4.593 20.387 1.523 19.549-2.482 0-.011-25.1-120.27-25.1-120.27l-29.193 2.25z" fill="url(#ian_symbols_f29c0b6dae0968b41d75965e1996a294)"/>
+ <path d="m29.196 186.6c.174 2.231-6.226 4.528-14.281 5.16-8.065.62-14.749-.675-14.912-2.896-.174-2.22 6.226-4.528 14.281-5.148 8.077-.62 14.749.69 14.912 2.89z" fill="#62616B"/>
+ <linearGradient id="ian_symbols_3a9c06a6d3539d84294205659ef4e790" y2="219.3" gradientUnits="userSpaceOnUse" x2="35.618" y1="219.3" x1="5.4897">
+  <stop stop-color="#636167" offset=".0056"/>
+  <stop stop-color="#514E4E" offset=".4207"/>
+  <stop stop-color="#484543" offset=".7022"/>
+  <stop stop-color="#3F3E34" offset=".9944"/>
+ </linearGradient>
+ <path d="m20.303 221.24c-3.156.381-6.4.229-9.73-.098l-5.083-2.123.414 2.972s3.592 1.197 3.82 1.273c6.444 2.134 17.513.816 22.923-3.82l2.972-2.547-.425-2.547-2.96 2.547s-4.245 2.122-4.256 2.122c-2.472 1.25-5.04 1.93-7.675 2.23z" fill="url(#ian_symbols_3a9c06a6d3539d84294205659ef4e790)"/>
+ <linearGradient id="ian_symbols_786f0598b452a2e41936a4f6faecf173" y2="229.32" gradientUnits="userSpaceOnUse" x2="37.744" y1="229.32" x1="6.752">
+  <stop stop-color="#636167" offset=".0056"/>
+  <stop stop-color="#514E4E" offset=".4207"/>
+  <stop stop-color="#484543" offset=".7022"/>
+  <stop stop-color="#3F3E34" offset=".9944"/>
+ </linearGradient>
+ <path d="m6.752 228.77v2.134s2.787 1.589 2.972 1.687c4.104 2.352 11.363 1.524 15.695.436 1.165-.294 12.539-3.396 12.322-5.094l-.425-3.396-2.558 2.123s-4.104 2.057-4.224 2.111c-6.912 3.461-13.05 2.547-20.387.86l-3.395-.86z" fill="url(#ian_symbols_786f0598b452a2e41936a4f6faecf173)"/>
+ <linearGradient id="ian_symbols_15016f91f23f663431d09138d5be6481" y2="249.12" gradientUnits="userSpaceOnUse" x2="41.994" y1="249.12" x1="12.282">
+  <stop stop-color="#636167" offset=".0056"/>
+  <stop stop-color="#514E4E" offset=".4207"/>
+  <stop stop-color="#484543" offset=".7022"/>
+  <stop stop-color="#3F3E34" offset=".9944"/>
+ </linearGradient>
+ <path d="m12.282 249.16l.838 2.972c6.487 2.58 11.69 3.429 18.515 1.153 1.545-.511 10.678-4.44 10.351-6.672l-.424-2.972-2.123 2.536c-6.585 6.96-19.136 4.82-27.157 2.98z" fill="url(#ian_symbols_15016f91f23f663431d09138d5be6481)"/>
+ <linearGradient id="ian_symbols_6f4ea0cf189399c4a132b69879da86d5" y2="182.09" gradientUnits="userSpaceOnUse" x2="24.168" y1="182.09" x1="3.7808">
+  <stop stop-color="#62616B" offset=".0056"/>
+  <stop stop-color="#57565A" offset=".0943"/>
+  <stop stop-color="#4A4945" offset=".2355"/>
+  <stop stop-color="#424138" offset=".3741"/>
+  <stop stop-color="#3F3E34" offset=".5056"/>
+  <stop stop-color="#43423A" offset=".6259"/>
+  <stop stop-color="#4E4D4C" offset=".7915"/>
+  <stop stop-color="#616069" offset=".9828"/>
+  <stop stop-color="#62616B" offset=".9944"/>
+ </linearGradient>
+ <polygon points="9.517 189.1 5.065 189.41 3.781 179.23 6.97 176.05 7.917 177.95 16.831 177.64 16.516 175.4 20.021 174.76 24.167 181.78 23.841 188.47 20.021 188.47 19.063 187.18 9.833 187.18" fill="url(#ian_symbols_6f4ea0cf189399c4a132b69879da86d5)"/>
+ <radialGradient id="ian_symbols_3529c2b1465731d491f80bcc0d4adffe" gradientUnits="userSpaceOnUse" cy="235.9" cx="168.36" r="113.07">
+  <stop stop-color="#272618" offset=".1011"/>
+  <stop stop-color="#2C2B1E" offset=".1709"/>
+  <stop stop-color="#3B3830" offset=".2669"/>
+  <stop stop-color="#43403A" offset=".309"/>
+  <stop stop-color="#5D5A54" offset=".4944"/>
+  <stop stop-color="#807D7B" offset=".9944"/>
+ </radialGradient>
+ <polygon points="263.54 245.76 211.76 272.07 155.32 297.54 95.886 320.03 58.53 332.35 37.741 277.6 22.034 224.11 67.88 216.9 151.5 198.65" fill="url(#ian_symbols_3529c2b1465731d491f80bcc0d4adffe)"/>
+ <linearGradient id="ian_symbols_dcb389c5f18d93a4dd96f5ffdeb93a68" y2="229.19" gradientUnits="userSpaceOnUse" x2="226.09" y1="112.76" x1="171.8">
+  <stop stop-color="#474759" offset=".0056"/>
+  <stop stop-color="#3A3A40" offset=".2119"/>
+  <stop stop-color="#2E2E2A" offset=".4561"/>
+  <stop stop-color="#27271D" offset=".6896"/>
+  <stop stop-color="#252518" offset=".8989"/>
+  <stop stop-color="#2A2A1E" offset=".907"/>
+  <stop stop-color="#4B4A45" offset=".9681"/>
+  <stop stop-color="#585654" offset="1"/>
+ </linearGradient>
+ <polygon points="318.29 184.64 246.99 219.44 185.44 196.53 81.464 161.3 120.51 136.68" fill="url(#ian_symbols_dcb389c5f18d93a4dd96f5ffdeb93a68)"/>
+ <linearGradient id="ian_symbols_47dad6a4ddee051419722dac76eeeda7" y2="162.09" gradientUnits="userSpaceOnUse" x2="93.029" y1="183.24" x1="83.166">
+  <stop stop-color="#46475A" offset=".4045"/>
+  <stop stop-color="#4B4C5F" offset=".4378"/>
+  <stop stop-color="#57596C" offset=".5594"/>
+  <stop stop-color="#5B5D71" offset=".6685"/>
+  <stop stop-color="#46475A" offset=".8371"/>
+ </linearGradient>
+ <polygon points="68.718 172.76 66.596 163.42 83.576 160.45 108.63 169.36 104.36 193.12" fill="url(#ian_symbols_47dad6a4ddee051419722dac76eeeda7)"/>
+ <linearGradient id="ian_symbols_dd7323bd441b4ad421c1d54dd7a97ae5" y2="170.77" gradientUnits="userSpaceOnUse" x2="53.956" y1="189.97" x1="59.101">
+  <stop stop-color="#3B3B4B" offset=".1124"/>
+  <stop stop-color="#3E3E4D" offset=".1848"/>
+  <stop stop-color="#4B4A54" offset=".6143"/>
+  <stop stop-color="#504E56" offset="1"/>
+ </linearGradient>
+ <path d="m37.632 175.91c2.405-2.634 7.336-1.48 10.678-2.036 5.225-.86 10.351-1.676 15.608-2.373 2.09-.283 5.682-1.883 7.771-1.295.011 0 2.972.849 2.972.849l-.414 14.857-29.291 5.943s-3.276-1.23-3.396-1.263c-4.125-1.557-6.792-10.732-4.289-14.248.121-.16.230-.30.361-.43z" fill="url(#ian_symbols_dd7323bd441b4ad421c1d54dd7a97ae5)"/>
+ <linearGradient id="ian_symbols_7045812c718386e48d775f377f91bb67" y2="181.88" gradientUnits="userSpaceOnUse" x2="93.127" y1="193.33" x1="81.671">
+  <stop stop-color="#3B3B4B" offset=".1124"/>
+  <stop stop-color="#3E3E4D" offset=".1848"/>
+  <stop stop-color="#4B4A54" offset=".6143"/>
+  <stop stop-color="#504E56" offset="1"/>
+ </linearGradient>
+ <path d="m100.13 204.16l-25.883-18.253c-1.361-2.939-3.244-5.486-2.624-8.871.131-.762 3.32-5.791 3.037-5.986.011.011 22.934 15.292 22.934 15.292l2.536 17.82z" fill="url(#ian_symbols_7045812c718386e48d775f377f91bb67)"/>
+ <linearGradient id="ian_symbols_f2af397de4aa6324b505d28b771befd4" y2="211.7" gradientUnits="userSpaceOnUse" x2="251.77" y1="208.19" x1="255.27">
+  <stop stop-color="#56503E" offset=".0056"/>
+  <stop stop-color="#4C4735" offset=".3005"/>
+  <stop stop-color="#302F1E" offset=".8045"/>
+  <stop stop-color="#242414" offset="1"/>
+ </linearGradient>
+ <path d="m254.31 214.24s1.121.794 2.231.642c1.11-.163 2.862-1.916 2.862-1.916l-8.588-9.23-.958 4.463 4.46 6.05z" fill="url(#ian_symbols_f2af397de4aa6324b505d28b771befd4)"/>
+ <linearGradient id="ian_symbols_55bddc13b0983dc4b1d33ee7a2a51620" y2="25.682" gradientUnits="userSpaceOnUse" x2="320.84" y1="25.682" x1="152.77">
+  <stop stop-color="#373635" offset=".0056"/>
+  <stop stop-color="#3F3A3E" offset=".5225"/>
+  <stop stop-color="#373635" offset="1"/>
+ </linearGradient>
+ <polygon points="152.77 34.809 250.39 0 320.84 43.299 254.2 51.364" fill="url(#ian_symbols_55bddc13b0983dc4b1d33ee7a2a51620)"/>
+ <linearGradient id="ian_symbols_f62a6bb80748f554a5ad621e87953463" y2="59.849" gradientUnits="userSpaceOnUse" x2="172.72" y1="59.849" x1="78.492">
+  <stop stop-color="#3C3C58" offset=".0056"/>
+  <stop stop-color="#373635" offset="1"/>
+ </linearGradient>
+ <polygon points="78.492 77.683 120.08 55.185 159.56 36.931 171.87 49.231 172.72 57.732 92.915 82.766" fill="url(#ian_symbols_f62a6bb80748f554a5ad621e87953463)"/>
+ <linearGradient id="ian_symbols_4f3830e102804454a938c820cc634b50" y2="69.639" gradientUnits="userSpaceOnUse" x2="121.82" y1="127.27" x1="137.26">
+  <stop stop-color="#4E4D55" offset=".2528"/>
+  <stop stop-color="#5E5D59" offset=".5169"/>
+  <stop stop-color="#6E6963" offset=".7584"/>
+  <stop stop-color="#43434F" offset=".9438"/>
+ </linearGradient>
+ <path d="m171.01 56.458s-81.025 25.459-81.058 25.459c-4.31 1.437-9.382 11.32-10.688 15.292-1.839 5.649-.359 11.222 2.645 16.142 1.905 3.135 6.335 10.46 10.58 10.166.011 0 79.382-5.519 79.382-5.519l-.86-61.542z" fill="url(#ian_symbols_4f3830e102804454a938c820cc634b50)"/>
+ <linearGradient id="ian_symbols_12579fe416a2885489d6a1543cfdfe80" y2="35.026" gradientUnits="userSpaceOnUse" x2="314.48" y1="35.026" x1="159.56">
+  <stop stop-color="#333231" offset=".0056"/>
+  <stop stop-color="#38373B" offset=".2432"/>
+  <stop stop-color="#42414E" offset=".5337"/>
+  <stop stop-color="#373635" offset=".6517"/>
+  <stop stop-color="#42414E" offset="1"/>
+ </linearGradient>
+ <polygon points="159.56 36.931 250.39 6.803 314.06 44.572 314.48 63.25 251.23 27.592 159.97 53.911" fill="url(#ian_symbols_12579fe416a2885489d6a1543cfdfe80)"/>
+ <linearGradient id="ian_symbols_35e285aeca7fc104a1a7df8698546fee" y2="32.942" gradientUnits="userSpaceOnUse" x2="178.45" y1="32.942" x1="172.3">
+  <stop stop-color="#42414E" offset=".0449"/>
+  <stop stop-color="#535367" offset=".5169"/>
+  <stop stop-color="#6B6F74" offset=".9545"/>
+  <stop stop-color="#6E7275" offset="1"/>
+ </linearGradient>
+ <path d="m172.3 47.968s.163-26.199.207-26.732c.305-3.766 2.123-4.321 5.943-1.698l-.218 26.939" fill="url(#ian_symbols_35e285aeca7fc104a1a7df8698546fee)"/>
+ <polygon points="64.897 254.68 100.57 246.18 97.595 242.37 61.512 250.01" fill="#312E21"/>
+ <polygon points="71.689 270.37 113.29 260.61 117.96 265.29 75.521 276.32" fill="#312E21"/>
+ <linearGradient id="ian_symbols_ce382ecebcaefef4dd15b4b59673f447" y2="161.42" gradientUnits="userSpaceOnUse" x2="102.79" y1="161.42" x1="96.476">
+  <stop stop-color="#7B7B85" offset=".0281"/>
+  <stop stop-color="#81818B" offset=".1315"/>
+  <stop stop-color="#92939C" offset=".2737"/>
+  <stop stop-color="#AEB0B9" offset=".4384"/>
+  <stop stop-color="#D5D8E0" offset=".618"/>
+  <stop stop-color="#CBCED6" offset=".6885"/>
+  <stop stop-color="#B1B2BB" offset=".8093"/>
+  <stop stop-color="#868690" offset=".9651"/>
+  <stop stop-color="#7B7B85" offset="1"/>
+ </linearGradient>
+ <path d="m102.79 163.94c-1.11-.74.196-3.429-.381-4.321-.882-1.371-1.839-.653-1.839.816 0-2.471-5.867-1.11-3.548 1.807.631.794 3.037.054 3.222.424l.642 1.285 1.91-.02z" fill="url(#ian_symbols_ce382ecebcaefef4dd15b4b59673f447)"/>
+ <linearGradient id="ian_symbols_9a0c3b1387785e74cd1842cbf21b3118" y2="147.29" gradientUnits="userSpaceOnUse" x2="269.91" y1="47.756" x1="170.37">
+  <stop stop-color="#4E4B37" offset=".0449"/>
+  <stop stop-color="#4C4941" offset=".3427"/>
+  <stop stop-color="#434044" offset=".6685"/>
+  <stop stop-color="#3B373A" offset=".8652"/>
+ </linearGradient>
+ <polygon points="251.23 27.592 251.67 80.23 251.87 165.33 170.59 148.99 169.74 48.393" fill="url(#ian_symbols_9a0c3b1387785e74cd1842cbf21b3118)"/>
+ <linearGradient id="ian_symbols_e4ed95b337320634b9171d377d845c75" y2="61.128" gradientUnits="userSpaceOnUse" x2="314.47" y1="144.74" x1="230.86">
+  <stop stop-color="#4E4B37" offset=".0449"/>
+  <stop stop-color="#4C4941" offset=".3427"/>
+  <stop stop-color="#434044" offset=".6685"/>
+  <stop stop-color="#3B373A" offset=".8652"/>
+ </linearGradient>
+ <polygon points="320 152.37 318.29 64.948 251.23 27.592 251.23 165.11" fill="url(#ian_symbols_e4ed95b337320634b9171d377d845c75)"/>
+ <linearGradient id="ian_symbols_c66e16da013dc344997caee3b7a6bcee" y2="111.05" gradientUnits="userSpaceOnUse" x2="172" y1="139.81" x1="174.51">
+  <stop stop-color="#353027" offset=".0056"/>
+  <stop stop-color="#454343" offset=".3203"/>
+  <stop stop-color="#5A5B67" offset=".6742"/>
+  <stop stop-color="#75737B" offset="1"/>
+ </linearGradient>
+ <path d="m102.25 117.15c.022 0 66.636-4.245 66.636-4.245s80.97.424 81.503.424c-8.152-.043-10.101 16.414-3.406 19.103l2.133.849s-147.86-.425-148.55-.425c-8.767-.02-5.719-15.29 1.69-15.69z" fill="url(#ian_symbols_c66e16da013dc344997caee3b7a6bcee)"/>
+ <path d="m256.32 123.09c0 5.627-3.037 10.188-6.781 10.188-3.755 0-6.792-4.561-6.792-10.188s3.037-10.188 6.792-10.188c3.75.01 6.78 4.57 6.78 10.19z" fill="#504F45"/>
+ <linearGradient id="ian_symbols_2c8b696d1d14e0142db40948e9b1414d" y2="43.882" gradientUnits="userSpaceOnUse" x2="296.45" y1="56.936" x1="287.31">
+  <stop stop-color="#42414E" offset=".0449"/>
+  <stop stop-color="#535367" offset=".5169"/>
+  <stop stop-color="#6B6F74" offset=".9545"/>
+  <stop stop-color="#6E7275" offset="1"/>
+ </linearGradient>
+ <path d="m266.94 41.176c-3.069 1.023-4.517-2.503-4.658-4.92 2.547-.794 3.82-1.241 6.781-1.872 5.735-2.123 22.76 8.425 31.336 13.911 5.236 3.352 29.465 13.562 16.632 20.898l-1.709-1.067s-.838-1.829-.838-1.905c0-3.254 1.437-2.547-1.622-4.898-1.077-.827-2.568-1.372-3.776-2.024-4.038-2.199-8.076-4.397-12.126-6.585-6.041-3.276-12.082-6.563-18.123-9.839-2.786-1.502-4.974-2.46-8.076-2.972.01 0-3.75 1.251-3.81 1.273z" fill="url(#ian_symbols_2c8b696d1d14e0142db40948e9b1414d)"/>
+ <linearGradient id="ian_symbols_25fe94e05a425f04f90c071935de0df3" y2="22.007" gradientUnits="userSpaceOnUse" x2="294.9" y1="34.238" x1="286.34">
+  <stop stop-color="#42414E" offset=".0449"/>
+  <stop stop-color="#535367" offset=".5169"/>
+  <stop stop-color="#6B6F74" offset=".9545"/>
+  <stop stop-color="#6E7275" offset="1"/>
+ </linearGradient>
+ <path d="m266.1 9.339c4.006-1.175 8.021-1.916 11.657.849 6.52 4.952 13.649 9.088 20.169 14.041 4.713 3.57 9.394 7.206 14.117 10.776 2.635 2.002 8.196 3.918 7.902 7.848-.185 2.471-2.133 3.439-4.364 3.864-1.524.283-3.755-.653-5.007-1.36 1.654.936 1.991-3.124 1.73-3.755-.294-.708-3.222-2.166-3.973-2.688-3.494-2.416-6.967-4.865-10.46-7.282-5.366-3.723-10.831-7.314-16.056-11.233-7.662-5.747-10.492-4.332-15.935-2.351 0 0-2.754-.218-2.765-.218-1.828-.468-1.938-3.211-2.111-4.669-.19-1.428 5.07-3.811 5.09-3.822z" fill="url(#ian_symbols_25fe94e05a425f04f90c071935de0df3)"/>
+ <linearGradient id="ian_symbols_593b2da3093277c4a945d43d1b5ead93" y2="36.831" gradientUnits="userSpaceOnUse" x2="298.37" y1="36.831" x1="291.98">
+  <stop stop-color="#42414E" offset=".0449"/>
+  <stop stop-color="#535367" offset=".5169"/>
+  <stop stop-color="#6B6F74" offset=".9545"/>
+  <stop stop-color="#6E7275" offset="1"/>
+ </linearGradient>
+ <path d="m298.35 47.533c.011 0 .011-.021.021-.021-.544-6.553-.229-13.432-1.306-19.93-.838-2.558-5.203-2.145-5.083.011.011.033.849 15.26.849 15.282.11 1.926 3.15 6.149 5.52 4.658z" fill="url(#ian_symbols_593b2da3093277c4a945d43d1b5ead93)"/>
+ <linearGradient id="ian_symbols_6335391cdb4c2f44d50d2accd827ddc0" y2="45.42" gradientUnits="userSpaceOnUse" x2="311.09" y1="45.42" x1="305.14">
+  <stop stop-color="#42414E" offset=".0449"/>
+  <stop stop-color="#535367" offset=".5169"/>
+  <stop stop-color="#6B6F74" offset=".9545"/>
+  <stop stop-color="#6E7275" offset="1"/>
+ </linearGradient>
+ <path d="m311.08 38.15s0 14.542-.425 17.023c-2.972.631-5.203-3.723-5.519-4.147 0 0 .838-14.357.849-14.531.13-2.361 4.55 0.6 5.09 1.655z" fill="url(#ian_symbols_6335391cdb4c2f44d50d2accd827ddc0)"/>
+ <linearGradient id="ian_symbols_a452b38d230b51b411e004aa47df4212" y2="211.16" gradientUnits="userSpaceOnUse" x2="219.4" y1="211.16" x1="175.26">
+  <stop stop-color="#43434D" offset=".0281"/>
+  <stop stop-color="#555876" offset=".4326"/>
+  <stop stop-color="#5A5C78" offset=".6112"/>
+  <stop stop-color="#67687D" offset=".8085"/>
+  <stop stop-color="#7B7B85" offset="1"/>
+ </linearGradient>
+ <polygon points="175.26 220.72 175.26 218.6 178.65 216.9 181.63 217.75 182.05 198.65 186.3 197.79 187.58 216.47 188.85 220.72 207.52 228.77 213.46 224.54 216.02 184.21 219.4 181.66 217.28 240.66" fill="url(#ian_symbols_a452b38d230b51b411e004aa47df4212)"/>
+ <linearGradient id="ian_symbols_a213de62b0a7bb44217619cecba2d585" y2="249.77" gradientUnits="userSpaceOnUse" x2="130.13" y1="257.14" x1="123.94">
+  <stop stop-color="#7B7B85" offset=".0281"/>
+  <stop stop-color="#93939B" offset=".0918"/>
+  <stop stop-color="#CBCBCE" offset=".2506"/>
+  <stop stop-color="#eee" offset=".3689"/>
+  <stop stop-color="#FBFBFA" offset=".4326"/>
+  <stop stop-color="#F8F8F7" offset=".5452"/>
+  <stop stop-color="#EDEDED" offset=".6443"/>
+  <stop stop-color="#DBDBDC" offset=".7384"/>
+  <stop stop-color="#C1C1C5" offset=".8293"/>
+  <stop stop-color="#A1A1A8" offset=".9171"/>
+  <stop stop-color="#7B7B85" offset="1"/>
+ </linearGradient>
+ <polygon points="141.73 272.07 141.73 269.52 146.83 266.99 147.68 269.95 147.88 265.29 113.72 236 106.5 236.85 106.07 240.24" fill="url(#ian_symbols_a213de62b0a7bb44217619cecba2d585)"/>
+ <linearGradient id="ian_symbols_2b3a9f3bd4922d744d0855d2f219cd02" y2="200.96" gradientUnits="userSpaceOnUse" x2="111.59" y1="200.96" x1="94.826">
+  <stop stop-color="#312E21" offset=".0281"/>
+  <stop stop-color="#353227" offset=".273"/>
+  <stop stop-color="#3F3C39" offset=".6098"/>
+  <stop stop-color="#504E56" offset=".9984"/>
+  <stop stop-color="#504E56" offset="1"/>
+ </linearGradient>
+ <path d="m100.57 234.29c-1.491-16.729-3.102-33.448-4.484-50.2-.327-3.962-3.222-14.814 1.078-17.285l2.971-1.698v-1.687l3.407-.435.828 2.122 1.708.436 1.698 1.263 3.82 67.07v2.559c0 4.125-9.219 2.416-10.177-.011l-.86-2.13z" fill="url(#ian_symbols_2b3a9f3bd4922d744d0855d2f219cd02)"/>
+ <linearGradient id="ian_symbols_88aed747f741eaa4751bfe71303dd7b2" y2="198.6" gradientUnits="userSpaceOnUse" x2="110.32" y1="198.6" x1="94.612">
+  <stop stop-color="#7B7B85" offset=".0281"/>
+  <stop stop-color="#81818B" offset=".1315"/>
+  <stop stop-color="#92939C" offset=".2737"/>
+  <stop stop-color="#AEB0B9" offset=".4384"/>
+  <stop stop-color="#D5D8E0" offset=".618"/>
+  <stop stop-color="#CBCED6" offset=".6885"/>
+  <stop stop-color="#B1B2BB" offset=".8093"/>
+  <stop stop-color="#868690" offset=".9651"/>
+  <stop stop-color="#7B7B85" offset="1"/>
+ </linearGradient>
+ <path d="m96.746 195.25c.849-.12 2.297 1.143 3.276 1.284.642.076 9.48-1.48 9.448-1.708 0 .021.795 5.986.849 6.356.218 1.72-12.017 1.306-12.311.435l-.414-1.273-2.123-.849-.86-3.821c0-.01 1.981-.40 2.134-.43z" fill="url(#ian_symbols_88aed747f741eaa4751bfe71303dd7b2)"/>
+ <linearGradient id="ian_symbols_67b563768948f01441e82a388833ae5d" y2="238.38" gradientUnits="userSpaceOnUse" x2="80.424" y1="277.92" x1="80.424">
+  <stop stop-color="#312E21" offset=".0281"/>
+  <stop stop-color="#373427" offset=".1696"/>
+  <stop stop-color="#474439" offset=".3638"/>
+  <stop stop-color="#57544B" offset=".5112"/>
+  <stop stop-color="#615B5C" offset="1"/>
+ </linearGradient>
+ <path d="m75.935 239.38l-2.536-.838c-2.972-.99-7.663 2.602-7.598 5.421.055 2.416 3.614 7.532 4.691 9.774 2.96 6.105 5.921 12.212 8.838 18.329 0 0 2.939 3.788 2.972 3.82 3.537 4.539 8.925.414 12.31-2.122l.436-3.82-.849-4.234-18.264-26.33z" fill="url(#ian_symbols_67b563768948f01441e82a388833ae5d)"/>
+ <linearGradient id="ian_symbols_edd95392a05ff34469c8a8ac7643e002" y2="276.75" gradientUnits="userSpaceOnUse" x2="95.472" y1="276.75" x1="89.519">
+  <stop stop-color="#7B7B85" offset=".0281"/>
+  <stop stop-color="#81818B" offset=".1984"/>
+  <stop stop-color="#92939C" offset=".4327"/>
+  <stop stop-color="#AEB0B9" offset=".7041"/>
+  <stop stop-color="#D5D8E0" offset="1"/>
+ </linearGradient>
+ <polygon points="92.076 273.36 89.954 273.36 89.519 275.04 90.368 276.32 90.368 278.01 91.641 280.14 94.199 280.14 95.472 277.6 95.472 275.89 93.764 274.63" fill="url(#ian_symbols_edd95392a05ff34469c8a8ac7643e002)"/>
+ <path d="m75.521 264.43s-.795-1.981-.849-2.112c-1.263-3.156 3.603-8.489 6.792-8.489h4.669l1.698 2.547s-2.014-.806-2.123-.85c-2.612-1.045-8.12 1.328-8.925 4.234.001.01-1.262 4.67-1.262 4.67z" fill="#7B7B85"/>
+ <linearGradient id="ian_symbols_e39bb5108d0133c42540c6ee5d617f6e" y2="282.9" gradientUnits="userSpaceOnUse" x2="263.54" y1="282.9" x1="22.458">
+  <stop stop-color="#96949D" offset=".0056"/>
+  <stop stop-color="#929097" offset=".055"/>
+  <stop stop-color="#878485" offset=".123"/>
+  <stop stop-color="#747168" offset=".2015"/>
+  <stop stop-color="#6E6A5E" offset=".2247"/>
+  <stop stop-color="#656052" offset=".3927"/>
+  <stop stop-color="#5F5949" offset=".5843"/>
+  <stop stop-color="#605B4D" offset=".7897"/>
+  <stop stop-color="#656258" offset=".9832"/>
+  <stop stop-color="#656359" offset=".9944"/>
+ </linearGradient>
+ <polygon points="60.664 341.25 42.41 290.32 22.458 224.54 44.533 293.09 59.804 331.5 113.29 313.25 157.44 296.28 211.54 271.65 263.54 245.76 262.69 254.24 181.63 296.69 132.39 317.49" fill="url(#ian_symbols_e39bb5108d0133c42540c6ee5d617f6e)"/>
+ <polygon points="280.11 186.34 275.43 188.47 265.25 184.64 269.06 183.79" fill="#404A76"/>
+ <polygon points="331.88 195.25 332.31 200.77 300.47 193.12 306.84 189.73" fill="#4D4D60"/>
+ <linearGradient id="ian_symbols_e7ee64407be0a8e4e5e817d62d76c27a" y2="194.31" gradientUnits="userSpaceOnUse" x2="325.73" y1="288.06" x1="325.73">
+  <stop stop-color="#696D8F" offset=".0056"/>
+  <stop stop-color="#606485" offset=".3622"/>
+  <stop stop-color="#484B69" offset=".972"/>
+  <stop stop-color="#474A68" offset="1"/>
+ </linearGradient>
+ <polygon points="337.83 194.31 336.98 206.99 328.06 248.79 316.18 288.06 313.63 287.22 325.52 250.06 334.43 208.67 334.01 206.14 332.31 200.66" fill="url(#ian_symbols_e7ee64407be0a8e4e5e817d62d76c27a)"/>
+ <linearGradient id="ian_symbols_0d2699046ad48724c1839907ede44358" y2="177.43" gradientUnits="userSpaceOnUse" x2="344.61" y1="252.6" x1="344.61">
+  <stop stop-color="#696D8F" offset=".0056"/>
+  <stop stop-color="#606485" offset=".3622"/>
+  <stop stop-color="#484B69" offset=".972"/>
+  <stop stop-color="#474A68" offset="1"/>
+ </linearGradient>
+ <polygon points="354.8 177.43 350.55 198.12 342.49 232.74 337.4 252.6 334.43 252.6 342.92 223.45 349.71 192.62 347.58 184.6" fill="url(#ian_symbols_0d2699046ad48724c1839907ede44358)"/>
+ <linearGradient id="ian_symbols_795433e387ae7e1419b4803440246356" y2="333.59" gradientUnits="userSpaceOnUse" x2="262.68" gradientTransform="matrix(.9924 -.123 .123 .9924 -40.812 28.89)" y1="333.59" x1="228.26">
+  <stop stop-color="#5C5A66" offset=".0281"/>
+  <stop stop-color="#5D5943" offset=".8708"/>
+  <stop stop-color="#514D3D" offset="1"/>
+ </linearGradient>
+ <path d="m245.76 257.44c.022-2.71 4.648-2.579 6.259-1.557-.185 7.358 1.056 15.13.175 22.434-.012.032-5.279 43.593-5.279 43.593l-6.227 80.938-1.959 1.47-3.2-1.644 10.766-123.62s-.501-20.104-.534-21.541c-.01-.01-.01-.05-.01-.07z" fill="url(#ian_symbols_795433e387ae7e1419b4803440246356)"/>
+ <linearGradient id="ian_symbols_9ad73b90128de0f4794c11a1dc570e22" y2="312.63" gradientUnits="userSpaceOnUse" x2="128.86" y1="500.01" x1="128.86">
+  <stop stop-color="#5C5A66" offset=".0281"/>
+  <stop stop-color="#514D3D" offset=".5225"/>
+  <stop stop-color="#5D5943" offset="1"/>
+ </linearGradient>
+ <path d="m121.99 315.37c-.457-2.427-3.657-3.287-5.899-2.405-1.959.772-3.091 2.329-2.797 4.311l3.82 27.45 18.471 155.28h5.084l3.82-1.797-17.829-158.84c.01.01-4.61-23.73-4.66-23.99z" fill="url(#ian_symbols_9ad73b90128de0f4794c11a1dc570e22)"/>
+ <path d="m120.4 315.58c0 1.197-1.273 2.145-2.862 2.145-1.579 0-2.874-.947-2.874-2.145 0-1.176 1.295-2.155 2.874-2.155 1.58 0 2.86.98 2.86 2.16z" fill="#564D2E"/>
+ <path d="m250.72 257.42c.108.882-.762 1.709-1.927 1.851-1.187.152-2.231-.446-2.34-1.328-.109-.893.762-1.72 1.938-1.861 1.17-.15 2.23.45 2.33 1.34z" fill="#564D2E"/>
+ <linearGradient id="ian_symbols_8f98f53b3f903844a5cc18f5874f9fca" y2="158.54" gradientUnits="userSpaceOnUse" x2="219.4" y1="158.54" x1="103.95">
+  <stop stop-color="#C8C9D6" offset=".0281"/>
+  <stop stop-color="#D5D8E0" offset=".2809"/>
+  <stop stop-color="#DFE1E7" offset=".3125"/>
+  <stop stop-color="#F4F4F5" offset=".3912"/>
+  <stop stop-color="#FBFBFA" offset=".4438"/>
+  <stop stop-color="#F8F8F8" offset=".5463"/>
+  <stop stop-color="#EFF0F2" offset=".6196"/>
+  <stop stop-color="#DFE1E7" offset=".6836"/>
+  <stop stop-color="#D5D8E0" offset=".7135"/>
+  <stop stop-color="#DADCE3" offset=".8037"/>
+  <stop stop-color="#E7E8EC" offset=".9033"/>
+  <stop stop-color="#FBFBFA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#BCBEC0" stroke-width=".1235" points="103.95 186.34 128.15 197.79 131.12 204.59 136.21 206.71 143.43 200.34 202 198.22 204.97 194.82 219.4 181.66 211.76 128.19 168.89 117.58 165.92 113.77 165.08 110.78 159.97 110.37 159.56 113.33 157.44 118.85 112.44 128.61" fill="url(#ian_symbols_8f98f53b3f903844a5cc18f5874f9fca)"/>
+ <path d="m177.38 156.24c0 5.834-4.952 10.569-11.069 10.569s-11.08-4.735-11.08-10.569c0-5.856 4.963-10.591 11.08-10.591s11.07 4.73 11.07 10.59z" fill="#53525D"/>
+ <linearGradient id="ian_symbols_2ca3e284e23f634489266ce2251f9bd0" y2="191.12" gradientUnits="userSpaceOnUse" x2="161.89" y1="191.12" x1="130.69">
+  <stop stop-color="#D5D8E0" offset=".2472"/>
+  <stop stop-color="#DFE1E7" offset=".3934"/>
+  <stop stop-color="#F4F4F5" offset=".7569"/>
+  <stop stop-color="#FBFBFA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#BCBEC0" stroke-width=".1235" points="140.46 262.31 136.21 201.19 140.02 132.86 161.68 122.26 161.89 119.49 135.78 129.89 130.7 199.93 134.94 253.39 135.36 261.03 137.06 262.74 138.75 262.74" fill="url(#ian_symbols_2ca3e284e23f634489266ce2251f9bd0)"/>
+ <linearGradient id="ian_symbols_0578a023d5087ba455f3be06a4eec870" y2="158.75" gradientUnits="userSpaceOnUse" x2="161.68" y1="158.75" x1="205.4">
+  <stop stop-color="#C8C9D6" offset=".0281"/>
+  <stop stop-color="#D5D8E0" offset=".3876"/>
+  <stop stop-color="#DFE1E7" offset=".5066"/>
+  <stop stop-color="#F4F4F5" offset=".8022"/>
+  <stop stop-color="#FBFBFA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#BCBEC0" stroke-width=".1235" points="200.3 196.96 194.36 133.71 161.68 122.26 161.89 119.27 197.75 132.43 205.4 196.53 204.12 197.79 202 198.22" fill="url(#ian_symbols_0578a023d5087ba455f3be06a4eec870)"/>
+ <linearGradient id="ian_symbols_573cd4b5340cc3f4456d9f8620df45c0" y2="178.7" gradientUnits="userSpaceOnUse" x2="161.89" y1="178.7" x1="103.95">
+  <stop stop-color="#C8C9D6" offset=".0281"/>
+  <stop stop-color="#D5D8E0" offset=".3876"/>
+  <stop stop-color="#DFE1E7" offset=".5066"/>
+  <stop stop-color="#F4F4F5" offset=".8022"/>
+  <stop stop-color="#FBFBFA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#BCBEC0" stroke-width=".1235" points="113.72 238.55 109.04 187.61 115.84 132.43 161.89 119.27 157.44 118.85 112.44 128.61 103.95 186.34 109.9 238.55" fill="url(#ian_symbols_573cd4b5340cc3f4456d9f8620df45c0)"/>
+ <path d="m176.1 155.99c0 5.04-4.277 9.121-9.546 9.121-5.268 0-9.545-4.082-9.545-9.121s4.277-9.121 9.545-9.121c5.29 0 9.56 4.08 9.56 9.12z" fill="#656471"/>
+ <linearGradient id="ian_symbols_bdc192472c01cd94397532363672886d" y2="122.26" gradientUnits="userSpaceOnUse" x2="240.47" y1="164.59" x1="240.47">
+  <stop stop-color="#242414" offset=".5899"/>
+  <stop stop-color="#282817" offset=".601"/>
+  <stop stop-color="#3C3928" offset=".6713"/>
+  <stop stop-color="#4B4635" offset=".7507"/>
+  <stop stop-color="#534E3C" offset=".8461"/>
+  <stop stop-color="#56503E" offset="1"/>
+ </linearGradient>
+ <polygon points="232.35 122.26 237.76 122.26 237.12 136.57 248.9 164.58 244.76 163.96 232.03 137.21" fill="url(#ian_symbols_bdc192472c01cd94397532363672886d)"/>
+ <path d="m189.98 73.046c.414 5.616-4.8 13.279-9.229 5.333-1.829-3.287 0-10.025 4.233-10.58 3.57-.479 4.746 2.221 4.996 5.181v.066z" fill="#403F2E"/>
+ <linearGradient id="ian_symbols_1c55e1bc7c34cb145df1203b09ec884d" y2="63.132" gradientUnits="userSpaceOnUse" x2="275.52" y1="63.132" x1="260.22">
+  <stop stop-color="#4C4941" offset=".0056"/>
+  <stop stop-color="#434044" offset="1"/>
+ </linearGradient>
+ <path d="m271.62 76.834c-.86.479-4.354.653-5.094 0-3.396-2.971-4.344-6.433-5.127-9.469-1.11-4.321-2.373-12.942 1.066-16.588 5.616-5.932 10.939 4.561 12.158 8.893 1.045 3.755 1.241 7.99.25 11.788-.55 2.1-1.01 4.092-3.26 5.376z" fill="url(#ian_symbols_1c55e1bc7c34cb145df1203b09ec884d)"/>
+ <path d="m267.66 52.921c-.152-.065-.315-.131-.479-.174-7.271-2.362-4.408 11.973-3.461 15.053.772 2.525 2.145 5.475 5.269 4.583 7.32-2.145 4.24-16.893-1.33-19.462z" fill="#404A76"/>
+ <path d="m185.17 69.868c-4.812.152-3.843 11.254 1.176 9.034 3.135-1.394 3.102-8.675-.763-9.023-.16-.011-.29-.022-.42-.011z" fill="#404A76"/>
+ <linearGradient id="ian_symbols_52dfa6587e7b25f421d806ebabc8c69b" y2="161.72" gradientUnits="userSpaceOnUse" x2="228.84" y1="161.72" x1="224.72">
+  <stop stop-color="#7B7B85" offset=".0281"/>
+  <stop stop-color="#81818B" offset=".1315"/>
+  <stop stop-color="#92939C" offset=".2737"/>
+  <stop stop-color="#AEB0B9" offset=".4384"/>
+  <stop stop-color="#D5D8E0" offset=".618"/>
+  <stop stop-color="#CBCED6" offset=".6885"/>
+  <stop stop-color="#B1B2BB" offset=".8093"/>
+  <stop stop-color="#868690" offset=".9651"/>
+  <stop stop-color="#7B7B85" offset="1"/>
+ </linearGradient>
+ <polygon points="226.62 163.31 225.99 160.76 224.72 160.45 224.72 158.86 228.53 158.86 228.84 160.13 227.57 160.76 227.57 163.96 225.66 164.58" fill="url(#ian_symbols_52dfa6587e7b25f421d806ebabc8c69b)"/>
+ <linearGradient id="ian_symbols_3cfe67c04dad32d4a1994d731c7a936e" y2="162.99" gradientUnits="userSpaceOnUse" x2="224.29" y1="243.35" x1="224.29">
+  <stop stop-color="#312E21" offset=".0281"/>
+  <stop stop-color="#353227" offset=".273"/>
+  <stop stop-color="#3F3C39" offset=".6098"/>
+  <stop stop-color="#504E56" offset=".9984"/>
+  <stop stop-color="#504E56" offset="1"/>
+ </linearGradient>
+ <path d="m215.16 240.19l2.122 1.73c2.416 1.045 7.412 2.809 9.339-.436l1.273-2.154 5.519-65.134c-.337-1.72-.174-3.94-1.187-5.442-.402-.588-3.069-1.872-3.069-2.318v-2.58l-2.536-.871-1.698.871-.424 1.72s-2.036 1.241-2.123 1.295c-5.91 3.603-4.146 24.458-4.517 30.357-.729 11.646-1.47 23.304-2.188 34.961-.16 2.66-.34 5.32-.50 7.99z" fill="url(#ian_symbols_3cfe67c04dad32d4a1994d731c7a936e)"/>
+ <linearGradient id="ian_symbols_9f3a2e1d7f401eb4318f58cef26a6c92" y2="198.77" gradientUnits="userSpaceOnUse" x2="234.26" y1="198.77" x1="216.86">
+  <stop stop-color="#7B7B85" offset=".0281"/>
+  <stop stop-color="#81818B" offset=".1315"/>
+  <stop stop-color="#92939C" offset=".2737"/>
+  <stop stop-color="#AEB0B9" offset=".4384"/>
+  <stop stop-color="#D5D8E0" offset=".618"/>
+  <stop stop-color="#CBCED6" offset=".6885"/>
+  <stop stop-color="#B1B2BB" offset=".8093"/>
+  <stop stop-color="#868690" offset=".9651"/>
+  <stop stop-color="#7B7B85" offset="1"/>
+ </linearGradient>
+ <path d="m217.28 194.4l-.425 6.792s1.688.849 1.698.849c3.418 1.709 6.771 1.752 10.602 1.273l1.709-.424v-2.547h2.972l.424-3.81-2.547-2.558-.849 2.558c-.696 2.09-9.307.381-11.037 0l-2.54-2.13z" fill="url(#ian_symbols_9f3a2e1d7f401eb4318f58cef26a6c92)"/>
+ <linearGradient id="ian_symbols_c0863a6456bcb9f46d5adf3ac4bfa850" y2="191.67" gradientUnits="userSpaceOnUse" x2="253.79" y1="191.67" x1="244.86">
+  <stop stop-color="#242414" offset=".0056"/>
+  <stop stop-color="#2E2D1D" offset=".3005"/>
+  <stop stop-color="#4A4534" offset=".8045"/>
+  <stop stop-color="#56503E" offset="1"/>
+ </linearGradient>
+ <path d="m244.86 218.17s.534.903 2.123 1.273c1.6.37 2.972-1.273 2.972-1.273l3.831-53.487-1.709-.838-2.122.424-5.09 53.91z" fill="url(#ian_symbols_c0863a6456bcb9f46d5adf3ac4bfa850)"/>
+ <linearGradient id="ian_symbols_dba9976efa286dc45d6f520328863e18" y2="171.69" gradientUnits="userSpaceOnUse" x2="319.73" y1="171.69" x1="314.9">
+  <stop stop-color="#242414" offset=".0056"/>
+  <stop stop-color="#2E2D1D" offset=".3005"/>
+  <stop stop-color="#4A4534" offset=".8045"/>
+  <stop stop-color="#56503E" offset="1"/>
+ </linearGradient>
+ <path d="m317.44 152.47l-2.536 37.443s-.109 1.056.37 1.437 1.327.065 1.327.065l3.124-39.565-2.28.61z" fill="url(#ian_symbols_dba9976efa286dc45d6f520328863e18)"/>
+ <linearGradient id="ian_symbols_0edcc5f760cbd1743189a1526d334af6" y2="211.77" gradientUnits="userSpaceOnUse" x2="242.46" y1="207.8" x1="238.48">
+  <stop stop-color="#56503E" offset=".0056"/>
+  <stop stop-color="#4C4735" offset=".3005"/>
+  <stop stop-color="#302F1E" offset=".8045"/>
+  <stop stop-color="#242414" offset="1"/>
+ </linearGradient>
+ <polygon points="236.81 215.83 246.35 207.87 246.67 203.1 232.03 214.24" fill="url(#ian_symbols_0edcc5f760cbd1743189a1526d334af6)"/>
+ <linearGradient id="ian_symbols_927ff3a1f35f0504a98d5fa6e349c3c0" y2="227.51" gradientUnits="userSpaceOnUse" x2="110.26" y1="267.83" x1="110.26">
+  <stop stop-color="#312E21" offset=".0281"/>
+  <stop stop-color="#373427" offset=".1696"/>
+  <stop stop-color="#474439" offset=".3638"/>
+  <stop stop-color="#57544B" offset=".5112"/>
+  <stop stop-color="#615B5C" offset="1"/>
+ </linearGradient>
+ <path d="m91.228 236.42s-.849-2.929-.86-2.972c-1.013-3.526 4.506-5.377 6.792-5.943l2.547.425 29.29 27.592 1.273 2.961v3.82c0 4.224-5.692 5.519-8.914 5.519l-4.245-1.273-25.892-30.14z" fill="url(#ian_symbols_927ff3a1f35f0504a98d5fa6e349c3c0)"/>
+ <linearGradient id="ian_symbols_b228df6be15279b439a55e719b851fd6" y2="266.13" gradientUnits="userSpaceOnUse" x2="131.97" y1="266.13" x1="125.6">
+  <stop stop-color="#7B7B85" offset=".0281"/>
+  <stop stop-color="#81818B" offset=".1984"/>
+  <stop stop-color="#92939C" offset=".4327"/>
+  <stop stop-color="#AEB0B9" offset=".7041"/>
+  <stop stop-color="#D5D8E0" offset="1"/>
+ </linearGradient>
+ <polygon points="127.3 262.74 125.6 264.02 126.02 265.29 126.88 268.68 128.15 269.52 130.7 269.52 131.97 267.4 131.54 264.85 129.42 264.02" fill="url(#ian_symbols_b228df6be15279b439a55e719b851fd6)"/>
+ <path d="m95.472 241.09v-2.972c0-3.842 3.516-5.094 6.781-5.094l3.396.849-2.112-2.122s-2.525-.838-2.558-.849c-3.026-1.013-6.433 3.581-7.216 5.942l-.414 2.536 2.122 1.7z" fill="#7B7B85"/>
+ <path d="m120.93 247.88c-2.221-.011-3.363-2.667-6.846-1.677-3.635 1.034-5.573 3.581-7.162 6.771v1.709l1.709 2.547.414-3.396c1.78-5.31 6.8-5.97 11.89-5.95z" fill="#7B7B85"/>
+</svg>

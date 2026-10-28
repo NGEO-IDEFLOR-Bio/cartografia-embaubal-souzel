@@ -1,0 +1,98 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="160" height="501" viewBox="0 0 160 501" xml:space="preserve">
+            <title>Concrete bollard</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concrete bollard</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a concrete bollard</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, traffic, control, concrete, bollard</ian_image_library:contains>
+                    <ian_image_library:when>2010-12-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d1f0215aa7074a4449b441df7e2dfa7f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concrete bollard</dc:title>
+                <dc:date>2010-12-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concrete-bollard/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concrete-bollard/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, traffic, control, concrete, bollard</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a concrete bollard</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_e4a592f4a45c38c4dd22b1a19af59352" gradientUnits="userSpaceOnUse" x1="10.2959" y1="93.6064" x2="142.1255" y2="93.6064">
+	<stop  offset="0" style="stop-color:#61615F"/>
+	<stop  offset="1" style="stop-color:#31302E"/>
+</linearGradient>
+<rect x="10.296" y="81.332" fill="url(#ian_symbols_e4a592f4a45c38c4dd22b1a19af59352)" stroke="#31302E" stroke-width="0.6934" stroke-miterlimit="10" width="131.83" height="24.549"/>
+<linearGradient id="ian_symbols_c3d5b43bcb5b73f4b9b4e6a92e608772" gradientUnits="userSpaceOnUse" x1="2.7197" y1="298.8047" x2="158.895" y2="298.8047">
+	<stop  offset="0" style="stop-color:#A69F9D"/>
+	<stop  offset="0.5212" style="stop-color:#8A8683"/>
+	<stop  offset="1" style="stop-color:#7D7572"/>
+</linearGradient>
+<path fill="url(#ian_symbols_c3d5b43bcb5b73f4b9b4e6a92e608772)" stroke="#31302E" stroke-width="0.6934" stroke-miterlimit="10" d="M7.831,478.472
+	c-1.077,7.238,38.258,21.184,75.033,21.184c37.12,0,71.917-16.609,75.249-21.516s-4.787-375.265-9.249-379.619
+	c-2.831-2.77-39.809,5.454-71.004,6.7c-31.182,1.25-71.938-9.155-74.667-5.068C0.707,103.897,8.887,471.236,7.831,478.472z"/>
+<linearGradient id="ian_symbols_bfdf6c05ba0c4ea47dd1815ef27c3a08" gradientUnits="userSpaceOnUse" x1="0.3467" y1="54.5361" x2="151.6206" y2="54.5361">
+	<stop  offset="0" style="stop-color:#A69F9D"/>
+	<stop  offset="0.5212" style="stop-color:#8A8683"/>
+	<stop  offset="1" style="stop-color:#7D7572"/>
+</linearGradient>
+<path fill="url(#ian_symbols_bfdf6c05ba0c4ea47dd1815ef27c3a08)" stroke="#31302E" stroke-width="0.6934" stroke-miterlimit="10" d="M75.368,93.995
+	C43.969,95.25,3.917,87.555,3.016,85.263C2.109,82.971-1.276,24.521,1.29,23.228c2.56-1.293,48.821,1.091,76.57,0.908
+	c35.542-0.359,71.024-9.856,71.965-9.158c0.948,0.694,3.596,68.227-0.149,70.719C145.938,88.191,107.145,92.722,75.368,93.995"/>
+<path fill="#BEBDC2" stroke="#31302E" stroke-width="0.6934" stroke-miterlimit="10" d="M1.29,23.228
+	c1.503,2.882,49.553,3.62,77.301,3.434c35.536-0.363,68.187-5.522,70.943-10.628c2.228-4.106-16.779-16.847-72.92-15.601
+	C20.479,1.681-0.227,20.343,1.29,23.228z"/>
+</svg>

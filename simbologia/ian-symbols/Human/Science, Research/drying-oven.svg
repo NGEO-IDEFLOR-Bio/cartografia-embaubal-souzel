@@ -1,0 +1,107 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="387" height="502" viewBox="0 0 387 502" xml:space="preserve">
+            <title>Drying oven</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Drying oven</ian_image_library:title>
+                <ian_image_library:descr>Illustration of drying oven</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, drying, oven, samples, desiccation</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-3305e7a1c366de940563e7165532216e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Drying oven</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/drying-oven/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/drying-oven/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, drying, oven, samples, desiccation</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of drying oven</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_48eb5573f1ec48c4dd94275033fda3b0" y2="447.31" gradientUnits="userSpaceOnUse" x2="179.43" y1="25.596" x1="110.42">
+  <stop stop-color="#7E7E7E" offset=".0452"/>
+  <stop stop-color="#C4C4C4" offset="1"/>
+ </linearGradient>
+ <rect height="440.22" width="301.47" stroke="#231F20" y="59.898" x="1.316" stroke-width=".2314" fill="url(#ian_symbols_48eb5573f1ec48c4dd94275033fda3b0)"/>
+ <line y2="130.15" x1=".664" x2="302.12" stroke="#231F20" y1="130.15" stroke-width=".499" fill="none"/>
+ <line y2="465.03" x2="301.25" stroke="#231F20" y1="465.03" stroke-width=".499" fill="none"/>
+ <path stroke="#231F20" stroke-width=".499" d="m249.13 289.01c5.939 0 10.777 4.848 10.777 10.777 0 5.95-4.838 10.777-10.777 10.777-5.93 0-10.767-4.827-10.767-10.777 0-5.93 4.84-10.78 10.77-10.78z" fill="none"/>
+ <linearGradient id="ian_symbols_b2130d034b3ccba4055a552a2970a3c3" y2="63.951" gradientUnits="userSpaceOnUse" x2="197.34" y1="-12.324" x1="184.86">
+  <stop stop-color="#7E7E7E" offset=".0452"/>
+  <stop stop-color="#C4C4C4" offset="1"/>
+ </linearGradient>
+ <polyline stroke="#231F20" stroke-width=".2314" points="382.26 .116 111.66 2.63 1.316 59.898 302.79 59.898 382.26 5.135" fill="url(#ian_symbols_b2130d034b3ccba4055a552a2970a3c3)"/>
+ <linearGradient id="ian_symbols_761603e7da52b854ad4c6e77b9355632" y2="417.34" gradientUnits="userSpaceOnUse" x2="369.48" y1="2.1504" x1="301.54">
+  <stop stop-color="#7E7E7E" offset=".0452"/>
+  <stop stop-color="#C4C4C4" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".2314" points="302.79 465.03 302.79 59.898 382.26 5.135 385.78 403.53 386.02 429.83 302.79 500.12" fill="url(#ian_symbols_761603e7da52b854ad4c6e77b9355632)"/>
+ <linearGradient id="ian_symbols_ee8b3f94af739864dd9728efa0e4f785" y2="412.87" gradientUnits="userSpaceOnUse" x2="345.68" y1="40.368" x1="284.73">
+  <stop stop-color="#7E7E7E" offset=".0452"/>
+  <stop stop-color="#C4C4C4" offset="1"/>
+ </linearGradient>
+ <line y2="481.19" x1="320.88" x2="322.13" stroke="#231F20" y1="48.982" stroke-width=".7142" fill="url(#ian_symbols_ee8b3f94af739864dd9728efa0e4f785)"/>
+ <path stroke="#A8A9AF" stroke-width=".3571" d="m279.53 95.334c0 16.61-13.464 30.063-30.073 30.063h-124.02c-16.61 0-30.073-13.453-30.073-30.063 0-16.6 13.463-30.063 30.073-30.063h124.02c16.61-.003 30.07 13.46 30.07 30.06z" fill="#231F20"/>
+ <path d="m147.16 83.936c-1.23 0-2.462.064-2.462.064-.117 0-.182-.118-.299-.118-2.633 0-5.619.813-7.909 2.044-4.741 2.58-7.492 7.909-7.556 14.298 1.702-2.226 4.452-4.977 9.493-4.977 6.443 0 10.135 4.741 10.135 10.189 0 5.865-4.388 10.199-10.488 10.199-5.095 0-12.308-3.575-12.308-14.887 0-8.787 3.457-13.881 8.327-17.167 2.986-1.99 6.561-2.921 10.542-2.921h4.163v3.348c-.40-.064-1.06-.064-1.63-.064zm-2.76 17.704c-1.349-2.119-3.917-3.167-6.497-3.167-3.81 0-7.267 2.344-8.851 5.33.171 1.349.76 2.986 1.103 3.81 1.241 2.868 4.174 4.805 7.513 4.805 5.8 0 7.792-3.746 7.792-6.914.01-1.36-.40-2.82-1.05-3.87z" fill="#ED1C24"/>
+ <path d="m173.06 115.57c-10.081 0-11.259-12.008-11.259-17.626 0-.771.182-3.403.418-5.223.642-4.806 2.75-10.135 7.609-11.602 1.059-.289 2.236-.46 3.403-.46 3.928 0 6.507 1.637 8.54 5.094 2.29 3.81 2.536 8.968 2.536 11.655-.01 5.512-.42 18.162-11.25 18.162zm6.09-28.06c-1.23-2.279-3.521-3.628-6.09-3.628-6.453 0-8.037 7.374-8.037 14.116 0 2.933.417 5.854 1.113 8.551.353 1.413 1.937 5.801 7.096 5.801 6.913 0 7.908-8.262 7.908-14.181v-.524c-.06-3.574-.41-7.148-1.99-10.135z" fill="#ED1C24"/>
+ <path d="m208.44 86.333c-3.157 0-5.683-2.515-5.683-5.672 0-3.168 2.525-5.694 5.683-5.694 3.168 0 5.693 2.526 5.693 5.694 0 3.157-2.53 5.672-5.69 5.672zm0-7.909c-1.22 0-2.226 1.006-2.226 2.237 0 1.22 1.006 2.215 2.226 2.215 1.23 0 2.227-.996 2.227-2.215-.01-1.231-1-2.237-2.23-2.237z" fill="#ED1C24"/>
+ <path d="m245.48 115.64c-10.724 0-16.064-8.498-16.064-18.162 0-8.968 6.101-16.813 15.294-16.813 3.114 0 5.982.877 8.443 2.451l1.756 1.113v-3.564h3.168v12.475h-3.168v-4.751c-2.579-2.75-6.036-4.57-9.782-4.57-4.398 0-12.426 3.104-12.426 13.945 0 9.257 5.673 14.651 13.068 14.651 3.98 0 7.908-1.584 11.013-3.874l1.412 2.761c-3.57 2.63-8.09 4.33-12.71 4.33z" fill="#ED1C24"/>
+ <radialGradient id="ian_symbols_14ba1c17e609ccd44d50af85a5f6cfc9" gradientUnits="userSpaceOnUse" cy="99.706" cx="60.206" r="17.418">
+  <stop stop-color="#231F20" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </radialGradient>
+ <path stroke="#231F20" stroke-width=".499" d="m60.04 82.288c9.825 0 17.584 7.781 17.584 17.584 0 9.472-7.759 17.252-17.584 17.252-9.471 0-17.252-7.78-17.252-17.252 0-9.8 7.78-17.58 17.252-17.58z" fill="url(#ian_symbols_14ba1c17e609ccd44d50af85a5f6cfc9)"/>
+ <line y2="87.372" x1="59.462" x2="73.118" stroke="#fff" y1="99.39" stroke-width=".499" fill="#fff"/>
+</svg>

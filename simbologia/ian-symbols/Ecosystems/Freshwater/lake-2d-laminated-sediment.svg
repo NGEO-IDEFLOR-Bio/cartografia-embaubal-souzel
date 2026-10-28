@@ -1,0 +1,113 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="292" viewBox="0 0 500 292" xml:space="preserve">
+            <title>Lake 2D: laminated sediment</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lake 2D: laminated sediment</ian_image_library:title>
+                <ian_image_library:descr>Illustration of lake cross sectional base with laminated sediment</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, lake river, stream, cross, section, laminated, sediment, laminations</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-06</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-dfb8da8b4b0401f4bd5cf28899fd1333">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lake 2D: laminated sediment</dc:title>
+                <dc:date>2004-01-06</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lake-2d-laminated-sediment/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lake-2d-laminated-sediment/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, lake river, stream, cross, section, laminated, sediment, laminations</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of lake cross sectional base with laminated sediment</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_5a0772bc3c26023465344406ee47d126">
+	<g>
+			<linearGradient id="ian_symbols_fb8eae18f804f7f4c581fee1ab8f43c5" gradientUnits="userSpaceOnUse" x1="257.05" y1="-88.977" x2="257.05" y2="-294.077" gradientTransform="matrix(1 0 0 1 0 323.277)">
+			<stop  offset="0.5112" style="stop-color:#0B97C2"/>
+			<stop  offset="1" style="stop-color:#96BFD5"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_fb8eae18f804f7f4c581fee1ab8f43c5)" d="M24.4,234.3h465.4V31.6c0,0-2.4,2.3-4.5,2.4s-7.4-2.4-7.4-2.4s-4.5,2.1-7.4,2.4s-8.1-2.4-8.1-2.4
+			s-6.4,2.5-9.6,2.4s-7.4-2.4-7.4-2.4s-2.7,2.3-6.7,2.4s-8.9-2.4-8.9-2.4s-3.6,2.5-7.4,2.4s-8.1-2.4-8.1-2.4s-4.5,2.3-8.9,2.4
+			s-8.9-2.4-8.9-2.4s-3.4,2.3-8.1,2.4s-7.4-2.4-7.4-2.4s-4.7,2.3-8.9,2.4c-4.2,0.1-8.9-2.4-8.9-2.4s-6.2,2.1-11.1,2.4
+			s-8.9-2.4-8.9-2.4s-5,2.1-10.4,2.4c-5.3,0.3-8.1-2.4-8.1-2.4s-1.7,2.9-7.4,2.4c-5.7-0.5-6.7-2.4-6.7-2.4s-6,2.5-9.6,2.4
+			s-6.7-2.4-6.7-2.4s-3.9,2.3-10.4,2.4s-10.4-2.4-10.4-2.4s-5.8,2.3-10.4,2.4c-4.5,0.1-7.4-2.4-7.4-2.4s-5,1.9-10.4,2.4
+			s-10.4-2.4-10.4-2.4s-3.3,2.3-8.9,2.4c-5.6,0.1-9.6-2.4-9.6-2.4s-3.3,2.3-8.1,2.4s-8.9-2.4-8.9-2.4s-2.2,2.3-7.4,2.4
+			s-8.9-2.4-8.9-2.4s-4.7,2.5-9.6,2.4c-4.9-0.1-8.1-2.4-8.1-2.4s-3.9,1.9-8.1,2.4c-4.3,0.5-7.4-2.4-7.4-2.4s-3.1,2.5-7.4,2.4
+			c-4.3-0.1-8.1-2.4-8.1-2.4s-5.2,2.3-9.6,2.4c-4.5,0.1-8.1-2.4-8.1-2.4s-0.2,2.3-6.7,2.4s-8.9-2.4-8.9-2.4S98.5,34.1,94,34
+			c-4.6-0.1-7.4-2.4-7.4-2.4s-4.1,2.3-8.9,2.4c-4.7,0.1-8.1-2.4-8.1-2.4s-3.3,2.9-7.4,2.4s-6.7-2.4-6.7-2.4s-2,2.1-7.4,2.4
+			s-7.4-2.4-7.4-2.4S39.2,34.3,34,34s-9.7-4.8-9.7-4.8L24.4,234.3L24.4,234.3z"/>
+		<path fill="#B17158" d="M486.9,290.9H13.1V16c0,0,22.7,8.8,35.7,18.5c12.9,9.7,20.2,71.4,30.1,105c12.7,43.1,68.5,60.7,108.2,63
+			c39.6,2.4,85.8,4.3,132.1-2.1c46.2-6.4,75.5-18.7,87.8-49c11-27.2,16.2-110.4,27.3-121.8C445.5,18.2,486.9,16,486.9,16V290.9
+			L486.9,290.9z"/>
+		<path fill="#8E735D" d="M486.9,290.9H13.1V16c0,0,22.7,8.8,35.7,18.5c12.9,9.7,17.4,71.4,27.3,105c12.7,43.1,71.4,66.5,111,68.8
+			c39.6,2.4,85.8,4.3,132.1-2.1c46.2-6.4,76.9-25.9,89.2-56.2c11.1-27.3,14.8-109.1,25.9-120.5C445.5,18.2,486.9,16,486.9,16V290.9
+			L486.9,290.9z"/>
+		<path fill="#B17158" d="M486.9,290.9H13.1V16c0,0,22.7,8.8,35.7,18.5c12.9,9.7,15,71.4,24.9,105c12.7,43.1,73.8,72.4,113.4,74.8
+			c39.6,2.4,85.8,4.3,132.1-2.1c46.2-6.4,79.3-34.8,91.6-65.1c11.1-27.3,12.4-106.2,23.6-117.6C445.5,18.2,486.9,16,486.9,16V290.9
+			L486.9,290.9z"/>
+		<path fill="#8E735D" d="M486.9,290.9H13.1V16c0,0,22.7,8.8,35.7,18.5c4.2,3.1,21.4,98.3,22.6,102.1
+			c12.7,43.1,76.1,82.5,115.7,84.9s85.8,4.3,132.1-2.1c46.2-6.4,81.6-46.3,93.9-76.6c11.1-27.3,10.1-101.9,21.2-113.2
+			C445.5,18.2,486.9,16,486.9,16V290.9L486.9,290.9z"/>
+		<path fill="#B17158" d="M486.9,290.9H13.1V16c0,0,22.7,8.8,35.7,18.5c12.9,9.7,13,98.7,31.6,125.8c18,26.3,67.1,63.6,106.7,66
+			c39.6,2.4,85.8,6.4,132.1,0c46.2-6.4,76.6-48.8,89.9-76.3c15.3-31.5,14.1-109.1,25.3-120.4C445.5,18.2,486.9,16,486.9,16V290.9
+			L486.9,290.9z"/>
+			<linearGradient id="ian_symbols_958ee2a08af64b54498395be98c40a5b" gradientUnits="userSpaceOnUse" x1="250" y1="-323.277" x2="250" y2="-31.077" gradientTransform="matrix(1 0 0 1 0 323.277)">
+			<stop  offset="0.3989" style="stop-color:#C4B29D"/>
+			<stop  offset="0.7191" style="stop-color:#A68E78"/>
+			<stop  offset="1" style="stop-color:#957A64"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_958ee2a08af64b54498395be98c40a5b)" d="M500,292.2H0V2.9c0,0,43.5,7.3,56.5,17.1c12.9,9.7,22.1,113.2,40.7,140.3
+			c18,26.3,50.3,72.2,89.9,74.6s85.8,6.4,132.1,0c46.2-6.4,59.6-55.9,72.9-83.4c15.3-31.5,29.2-125,40.3-136.3
+			C443.6,3.6,500,0,500,0V292.2L500,292.2z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,115 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="365" viewBox="0 0 501 365" xml:space="preserve">
+            <title>Quarry mining</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Quarry mining</ian_image_library:title>
+                <ian_image_library:descr>Illustration of quarry mining</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, industry, resource, extraction, mining, quarry, open, pit, mine, bedrock, minerals, construction</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-79ae46a0e51ed7144907ebc9db9877ef">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Quarry mining</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Kate Moore
+Moreton Bay Waterways and Catchments Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Kate Moore
+Moreton Bay Waterways and Catchments Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/quarry-mining/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/quarry-mining/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, industry, resource, extraction, mining, quarry, open, pit, mine, bedrock, minerals, construction</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of quarry mining</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_620c4b082f846af4350206fbf12d3fbb" y2="389.83" gradientUnits="userSpaceOnUse" x2="354.23" gradientTransform="matrix(-1.5534 .232 .1965 1.8344 521.58 -458.26)" y1="276.49" x1="173.71">
+  <stop stop-color="#BDA06B" offset=".0113"/>
+  <stop stop-color="#503009" offset=".7853"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".4606" d="m288 21.567c-61.53 8.819-75.574 18.239-103.47 31.736-36.639 17.746-74.828 32.873-110.74 52.1-21.694 11.63-34.145 33.066-51.659 50.833-11.094 11.265-19.022 9.903-21.125 29.408-2.538 23.25 1.319 43.924 9.339 64.834 6.475 16.844 11.238 35.791 15.326 53.688 2.618 11.501 10.225 21.64 14.457 32.336 3.362 8.5 6.076 17.74 13.672 21.76 6.523 3.476 11.823 4.57 19.253 5.128 27.997 2.104 55.549.762 83.486-2.317 19.141-2.081 38.345-3.433 57.475-5.461 11.898-1.244 39.364 1.813 47.378-11.008 6.668-10.643 7.639-37.604 10.504-50.49 5.139-23.12 9.678-46.445 16.222-69.007 4.86-16.802 4.817-31.382 12.011-46.703 12.258-26.007 7.784-47.476 13.996-75.456 4.774-21.543-2.446-26.49-6.019-50.801-2.5-16.764-11.18-18.588-20.11-30.572" fill="url(#ian_symbols_620c4b082f846af4350206fbf12d3fbb)"/>
+ <linearGradient id="ian_symbols_3eae5a96693b9d64511ee051f1e2b39f" y2="280.67" gradientUnits="userSpaceOnUse" x2="414.62" gradientTransform="matrix(-1.5534 .232 .1965 1.8344 521.85 -458.3)" y1="273.87" x1="135.73">
+  <stop stop-color="#664A2D" offset="0"/>
+  <stop stop-color="#BA9924" offset=".0621"/>
+  <stop stop-color="#8E6E28" offset=".1582"/>
+  <stop stop-color="#654724" offset=".2655"/>
+  <stop stop-color="#BEA66E" offset=".3333"/>
+  <stop stop-color="#BDA36C" offset=".3616"/>
+  <stop stop-color="#664A2D" offset=".4237"/>
+  <stop stop-color="#AB8B59" offset=".4746"/>
+  <stop stop-color="#664A2D" offset=".5763"/>
+  <stop stop-color="#BDA36C" offset=".6554"/>
+  <stop stop-color="#654724" offset=".7571"/>
+  <stop stop-color="#BDA36C" offset=".8362"/>
+  <stop stop-color="#997855" offset=".9266"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".4606" d="m306.34 5.925c3.348 16.715 8.889 49.782 11.362 73.825-24.537-5.032-54.385 18.335-78.407 23.378-33.753 7.081-67.259 14.785-100.23 25.728-47.816 15.9-104.99 45.57-129.29 101.3-30.749-50.86 22.004-135.97 57.409-158.06 57.367-35.813 129.02-47.54 191.69-68.214 13.92-4.559 45.73-5.858 47.47 2.039" fill="url(#ian_symbols_3eae5a96693b9d64511ee051f1e2b39f)"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m217.26 151.69c-.081 15.471.188 36.542-1.411 68.085-.429 8.326.29 13.25.998 21.232.526 5.847 4.345 14.055 6.738 18.518 3.498 6.48 9.194 16.33 10.686 4.807.804-6.47-4.345-13.068-6.137-18.54-.987-3.079-4.656-7.553-4.871-11.137 2.821-.751 9.785-5.45 11.973-2.532 3.519 4.603-1.834 13.486 2.35 16.565 2.382 1.802 10.976 12.07 11.319 2.972.891-22.981-1.674-76.239-1.47-92.096.257-20.557-.794-40.791.183-61.541 5.407-2.671 10.621 1.513 15.61 3.841 13.282 6.083 28.764 8.465 41.435 16.362 7.886 4.903 15.128 4.517 23.229 8.905 11.131 6.062 23.195 9.72 31.328 21.479 3.379 4.881 1.642 15.246 5.455 20.342 5.906 7.982 10.734 11.694 16.152 19.645 2.307 3.326 4.764 28.303 7.939 24.086 1.47-2.006 3.348-25.835 4.109-29.386 2.414-11.448 5.804-12.713 1.523-23.925-2.554-6.695-4.303-16.576-5.558-19.397-3.938-8.53-6.405-13.175-10.354-20.481-1.846-3.358-1.631-10.021-4.28-12.049-5.011-3.755-14.667-12.96-22.542-16.951-18.872-9.538-39.461-17.167-58.321-27.724-4.313-2.403-7.661-3.98-11.909-6.641-3.906-2.393-13.089-7.338-21.351-10.471-5.687-2.2-12.027-8.165-17.553-10.278-4.662-1.771-11.254-6.834-15.042-6.888 0 0-6.931 24.108-7.317 33.732-.40 9.346-2.81 69.801-2.92 89.461z" fill="#F5BB22"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m226.29 134.37c-.043 2.747-4.023 76.196-4.807 90.079 3.616.375 11.405 4.152 13.894-.611 0 0-1.771-21.94-2.232-27.681-1.207-14.612-3.187-23.721-3.39-33.238-.23-9.21-1.97-20.04-3.46-28.55" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m239.88 45.289c21.807 9.806 39.589 21.49 67.699 37.98-1.855-.064-25.878-5.257-57.86-13.873 0 0-3.83-13.604-9.84-24.107" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m398.79 163.14c7.098-.161 15.182-.418 22.102-.558 4.045-.086 21.747 1.041 25.803 3.219 7.65 4.066 3.423 22.208 7.864 30.352 6.063 11.062 16.855-1.523 25.191 3.38 2.188 1.223 1.942 7.103 3.841 9.001 2.827 2.811 8.208 1.18 11.77 3.208 7.778 4.388 3.841 13.357 4.131 25.878.193 9.27 2.672 13.475-3.337 17.413-5.793 3.788-17.22.107-23.335-.397-10.257-.901-20.084 2.071-30.304 1.309-15.97-1.18-32.567.483-48.564.086-6.029-.129-27.69-5.118-27.69-5.118.118-5.45-1.846-16.244 1.47-18.357 5.879-3.788 11.404 2.811 12.026-6.041.44-6.609-.896-7.231-3.476-11.501-3.723-6.147-4.088-7.682-6.309-14.505-2.769-8.594-6.813-17.552-5.976-27.777 13.207 2.543 17.917-10.106 22.681 3.036.20-4.17 14.06-10.44 12.13-12.62" fill="#F5BB22"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m389.52 203.46c-1.545 7.778-.536 24.097.247 32.262.482 4.967-.644 1.438 1.877 3.669 3.498 3.197 17.316 1.245 22.032.365 7.697-1.352 16.699 1.417 24.467-.697 8.111-2.178 6.298-3.025 7.242-14.366 2.382-28.142 8.497-48.333-17.075-54.406-5.702-1.352-16.303-3.766-21.409.343-1.105.901-11.608 5.214-12.714 7.156-5.128 9.195-1.706 18.658-4.109 28.721-.783 3.176-2.468 2.918-1.309 6.169" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m456.7 228.58c-.059 4.624 4.168 23.099 6.046 21.339 1.631-1.448 1.845-29.247 2.457-36.735 4.667-1.749 9.655-5.783 14.451-6.309-10.074-.182-23.185-.032-22.724 1.459l-.24 20.25z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m389.48 259.64c4.346 7.424-15.353 6.008-18.121 5.45-6.522-1.438-13.454-2.092-19.987.268-5.279 1.92-13.234 1.083-18.153 4.377-7.735 5.085-6.728 15.943-2.972 25.739 7.435 19.226 26.307 16.039 39.793 16.265 18.829.333 38.978.633 57.925 1.02 8.647.192 13.915-.301 22.713.407 8.54.665 22.933 3.701 30.942-.364 4.452-2.307 10.922-13.98 11.576-21.019.719-7.917-.719-16.222-4.807-20.309-6.941-6.899-25.267-3.519-33.409-4.249-2.736-.236-5.45-.118-8.176-.161-5.836-.107-11.737.086-17.579-.451.284-1.48 1.572-7.371 1.894-9.012-13.4-1.652-28.131.397-41.617.171" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m232.37 264.28c2.387 8.025-9.704 17.885-9.758 26.511-.011 9.237 1.384 19.72 6.684 24.762 5.944 5.708 19.033.344 26.468 1.609 5.793 1.009 14.237 2.511 20.159 1.276 3.68-.783 4.935-.289 8.82.161 1.373-7.51-2.79-8.551-7.35-10.428.284-6.063-3.315-1.428-5.729-4.539-2.156-2.789-3.015-9.634-5.053-13.679-4.678-9.185-9.624-20.213-14.795-28.829-2.714-4.41-11.217-14.044-16.651-10.45-2.907 1.963-6.673 18.239-4.721 20.041" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m423.19 180.1c-9.741.955-22.188-10.45-26.093 6.942-1.416 6.18-2.264 11.78 1.245 14.752 4.79 4.088 17.188 1.48 23.228 1.202 1.523-5.998 1.545-16.147.338-21.94" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m277.23 93.826c15.841 7.51 36.569 12.059 52.458 19.602" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m377.32 174.48c-1.781-13.4-1.116-27.563-.944-41.542" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m353.51 142.9c20.75 18.518 22.767 38.892 34.805 67.044" fill="none"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m247.62 72.562c-8.058 5.128-7.022 18.443-.805 26.597-8.991.623-17.993-.053-26.576 1.985" fill="none"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m240.82 45.439c9.388-.687 21.179 3.401 29.772 8.83" fill="none"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m219.3 186.24c.515 9.892.965 25.545-3.251 35.255" fill="none"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m237.27 232.24c2.822.064 5.686.14 8.508.15" fill="none"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m375.47 211.79c2.285-4.334 4.635-8.369 7.264-12.295" fill="none"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m477.55 244.73c5.9.054 12.66.879 17.091-1.792" fill="none"/>
+ <path stroke="#231F20" stroke-width=".3948" d="m307.28 83.966c14.291.15 31.554 3.819 45.361 9.087" fill="none"/>
+</svg>

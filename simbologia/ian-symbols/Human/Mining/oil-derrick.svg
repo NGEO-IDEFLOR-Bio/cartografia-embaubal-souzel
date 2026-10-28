@@ -1,0 +1,106 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="256" height="500" viewBox="0 0 256 500" xml:space="preserve">
+            <title>Oil Derrick</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Oil Derrick</ian_image_library:title>
+                <ian_image_library:descr>Icon representing oil extraction.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>extraction, exploration, petroleum, fossil fuel, energy</ian_image_library:contains>
+                    <ian_image_library:when>2016-05-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-73a820a0697c3cd499771c0aececefb8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Oil Derrick</dc:title>
+                <dc:date>2016-05-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/oil-derrick/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/oil-derrick/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>extraction, exploration, petroleum, fossil fuel, energy</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Icon representing oil extraction.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<title>Layer 1</title>
+	<path id="ian_symbols_4c20a79ba78cf344a16754c446ceae8f" fill="#231F20" d="M211.3,414l-1.5-9.9h3.2v9.9H211.3 M132.9,414v-10h63.9
+		l1.2,9.9h-65.1 M57.6,414l1.3-9.9h60.3v9.9H57.6 M33.5,414v-10h12.2l-1.5,9.9H33.5"/>
+	<path id="ian_symbols_e5ceff9892d8e7645585fbee9aaec5a2" fill="#231F20" d="M119.3,430.5v-58.6h13.6v58.6H119.3 M119.3,363.9v-35.7
+		H133v35.7H119.3 M119.3,320.2v-35.8h13.6v35.8H119.3 M119.3,276.4v-35.9h13.6v35.9H119.3 M119.3,232.7v-35.8h13.6v35.8H119.3
+		 M119.3,189v-35.8h13.5V189H119.3 M119.3,145.4v-35.9h13.5v35.9H119.3 M119.3,101.6V13.1h13.5v88.6L119.3,101.6"/>
+	<polygon id="ian_symbols_7d6189ef94aacd64c54c1a6e678e39df" fill="#231F20" points="185.2,47.4 185.2,35.2 67.5,35.2 67.5,47.4 	
+		"/>
+	<polyline id="ian_symbols_688a35ceb23c76e4e57b232036bd316c" fill="#231F20" points="192,367.8 192,363.9 191.6,363.9 186.6,324.7 
+		186.6,320.2 186,320.2 181.1,280.5 181.1,276.5 180.6,276.5 175.5,236.3 175.5,232.7 175,232.7 170,193.4 170,189.2 169.5,189.2 
+		164.4,149.2 164.4,145.4 164,145.4 158.8,104.9 158.8,101.6 158.4,101.6 151.4,45.7 156.3,42.2 213.6,428.9 199.9,430.5 192,367.8 
+			"/>
+	<polyline id="ian_symbols_7c0498d562e1d594adde91127c3a0537" fill="#231F20" points="42.1,428.9 99.5,42.2 104.4,45.7 97.3,101.6 
+		96.8,101.6 96.8,105.9 91.8,145.4 91.3,145.4 91.3,148.9 86.2,189.2 85.7,189.2 85.7,192.8 80.7,232.7 80.1,232.7 80.1,236.9 
+		75.2,276.5 74.6,276.5 74.6,281 69.6,320.2 69.1,320.2 69.1,323.9 64.1,363.9 63.6,363.9 63.6,368 55.6,430.5 42.1,428.9 	"/>
+	<polygon id="ian_symbols_a606e48711fcb4d4e57c152255e00427" fill="#231F20" points="148.2,9.5 148.2,0 106.3,0 106.3,9.5 67.5,9.5 
+		67.5,21.3 185.2,21.3 185.2,9.5 	"/>
+	<polyline id="ian_symbols_94642df13595da64051627851e1ed503" fill="#231F20" points="96.8,109.4 96.8,101.6 158.8,101.6 
+		158.8,109.4 96.8,109.4 	"/>
+	<polyline id="ian_symbols_a03de5a5b481890409357792e9123deb" fill="#231F20" points="91.3,153.1 91.3,145.4 164.4,145.4 
+		164.4,153.1 91.3,153.1 	"/>
+	<polyline id="ian_symbols_32683867fa8aa4d42d624040e6af5b91" fill="#231F20" points="85.7,196.9 85.7,189.2 170,189.2 170,196.9 
+		85.7,196.9 	"/>
+	<polyline id="ian_symbols_4c20a79ba78cf344a16754c446ceae8f0" fill="#231F20" points="80.1,240.6 80.1,232.7 175.5,232.7 
+		175.5,240.6 80.1,240.6 	"/>
+	<polyline id="ian_symbols_4c20a79ba78cf344a16754c446ceae8f1" fill="#231F20" points="74.6,284.4 74.6,276.5 181.1,276.5 
+		181.1,284.4 74.6,284.4 	"/>
+	<polyline id="ian_symbols_4c20a79ba78cf344a16754c446ceae8f2" fill="#231F20" points="69.1,328.1 69.1,320.2 186.6,320.2 
+		186.6,328.1 69.1,328.1 	"/>
+	<polyline id="ian_symbols_4c20a79ba78cf344a16754c446ceae8f3" fill="#231F20" points="63.6,371.9 63.6,363.9 192,363.9 192,371.9 
+		63.6,371.9 	"/>
+	<rect id="ian_symbols_4c20a79ba78cf344a16754c446ceae8f4" y="427.8" fill="#231F20" width="255.5" height="72.2"/>
+</g>
+</svg>

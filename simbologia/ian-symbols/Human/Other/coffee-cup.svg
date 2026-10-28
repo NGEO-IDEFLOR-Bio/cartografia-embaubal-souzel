@@ -1,0 +1,122 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="479" height="501" viewBox="0 0 479 501" xml:space="preserve">
+            <title>Coffee cup</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coffee cup</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coffee cup</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>coffee, cup, mug, liquid, beverage, hot, chocolate, cocoa, breakfast, caffeine, morning, brewed, drink</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fed3b6720c8c4174317280be79efb888">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coffee cup</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coffee-cup/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coffee-cup/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>coffee, cup, mug, liquid, beverage, hot, chocolate, cocoa, breakfast, caffeine, morning, brewed, drink</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coffee cup</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#007198" stroke="#000000" stroke-width="2.776" d="M135.147,369.375c0,0-99.176-41.347-118.706-81.923
+	c-19.54-40.577-19.54-119.432-3.003-135.958c16.525-16.537,48.081-34.569,70.625-36.077c22.533-1.497,49.588,10.529,49.588,10.529
+	v52.841c0,0-27.055-22.598-46.573-24.105c-19.551-1.496-39.07,17.708-49.599,26.719c-10.529,9.022-10.79,68.478,10.573,98.731
+	c21.362,30.254,90.1,71.211,90.1,71.211L135.147,369.375z"/>
+<path opacity="0.34" fill="#94B6CC" d="M126.147,137.961c0,0-19.551-12.015-31.566-12.015c-12.025,0-39.069,7.504-39.069,7.504
+	s24.431,0,42.475,3.014c18.022,2.993,29.646,18.033,29.646,18.033L126.147,137.961z"/>
+<path opacity="0.34" fill="#94B6CC" d="M20.931,234.144c0,0,1.518,34.548,13.533,55.596C46.5,310.776,85.57,333.32,85.57,333.32
+	S51,304.757,41.99,291.236C32.968,277.713,20.931,234.144,20.931,234.144z"/>
+<linearGradient id="ian_symbols_85643387556bdcd4ed8831e2bc144dad" gradientUnits="userSpaceOnUse" x1="139.5811" y1="90.2163" x2="459.644" y2="90.2163">
+	<stop  offset="0" style="stop-color:#808285"/>
+	<stop  offset="0.1685" style="stop-color:#D1D3D4"/>
+	<stop  offset="0.5" style="stop-color:#A7A9AC"/>
+	<stop  offset="0.7978" style="stop-color:#D1D3D4"/>
+	<stop  offset="1" style="stop-color:#808285"/>
+</linearGradient>
+<path fill="url(#ian_symbols_85643387556bdcd4ed8831e2bc144dad)" stroke="#000000" stroke-width="2.776" d="M459.643,91.442c-0.357,46.465-72.284,83.593-160.67,82.921
+	c-88.376-0.672-159.738-38.885-159.391-85.361c0.369-46.487,72.305-83.604,160.681-82.932C388.639,6.753,460,44.955,459.643,91.442z
+	"/>
+<path fill="#967D5F" stroke="#000000" stroke-width="2.776" d="M447.705,131.01c-0.304,40.241-67.155,72.37-149.307,71.752
+	c-82.162-0.618-148.525-33.756-148.21-74.019c0.304-40.241,67.154-72.37,149.295-71.741
+	C381.656,57.621,448.019,90.759,447.705,131.01z"/>
+<linearGradient id="ian_symbols_ee0136e09d33b0247d769dcef4e271c0" gradientUnits="userSpaceOnUse" x1="124.5845" y1="295.7407" x2="476.2661" y2="295.7407">
+	<stop  offset="0" style="stop-color:#007198"/>
+	<stop  offset="0.1685" style="stop-color:#94B6CC"/>
+	<stop  offset="0.5" style="stop-color:#137FA3"/>
+	<stop  offset="1" style="stop-color:#007198"/>
+</linearGradient>
+<path fill="url(#ian_symbols_ee0136e09d33b0247d769dcef4e271c0)" stroke="#000000" stroke-width="2.776" d="M124.629,92.873l7.515,308.057
+	c0,0,15.029,88.657,166.808,97.679c121.708-1.507,147.245-82.649,147.245-82.649l30.069-323.086c0,0-18.033,87.161-178.822,87.161
+	C117.125,160.516,124.629,92.873,124.629,92.873z"/>
+<path opacity="0.45" fill="#C2B59B" d="M195.047,92.591c4.663-4.446,26.838-16.472,38.864-17.523s31.967-3.795,29.744,5.487
+	c-2.212,9.282-30.795,5.715-34.753,18.174c-3.969,12.459-34.667,19.161-16.461,19.605c18.207,0.434,17.513-7.58,35.545-9.152
+	c18.033-1.573,29.538-31.848,39.558-32.726c10.009-0.868,28.53-8.545,40.252-1.486c11.711,7.048,44.903,17.274,28.486,25.775
+	c-16.406,8.512-27.934-7.656-38.029-7.786c-10.105-0.13-12.058,12.156-29.006,14.639c-16.949,2.494-28.921,15.637-22.306,22.143
+	c6.604,6.496,22.826,7.092,35.502,1.952c12.676-5.14,10.887-14.075,15.907-14.509c5.01-0.434,1.475-6.192,7.309-8.718
+	c5.834-2.516,11.776-4.045,14.217,0.792c2.429,4.836-21.362,9.933-14.737,16.417c6.626,6.495,28.063-3.481,41.998-5.715
+	c13.934-2.223,17.696,6.582,23.574-7.059c5.866-13.642-27.445-24.865-21.872-30.395c5.563-5.541,3.969-0.347,15.69,6.702
+	c11.712,7.059,7.525,16.515,17.893,19.648c10.377,3.134,4.022,22.87-12.102,23.26c-16.114,0.39-22.945,26.242-33.8,29.202
+	c-10.854,2.96-31.208-10.399-20.44-14.378c10.768-3.969,16.287,1.605,19.854-3.752c3.579-5.357-20.906-8.285-27.737-5.66
+	c-6.843,2.624-3.73-7.753-10.638-6.138c-6.919,1.616-31.273,23.964-20.81,28.096c10.454,4.143,21.026-13.988,23.737-6.148
+	c2.7,7.84,5.4,15.701-5.357,19.659c-10.757,3.958-39.785-4.619-35.382-12.069c4.402-7.45,13.066-12.253,10.626-17.079
+	c-2.429-4.826-12.644-5.964-29.581-3.47c-16.938,2.483-34.136,25.19-44.947,17.036c-10.811-8.144,33.756-18.087,38.159-25.537
+	c4.402-7.449-22.1-10.204-36.511-1.865c-14.422,8.328-46.486-12.124-34.895-18.163c11.581-6.051,21.199,0.173,25.428-9.282
+	s-14.119,0.217-20.386-2.267C181.374,97.818,190.385,97.037,195.047,92.591z"/>
+<path fill="#007198" stroke="#000000" stroke-width="2.776" d="M476.429,91.615c-0.64,48.536-81.208,90.262-177.901,89.004
+	c-96.682-1.258-176.23-45.034-175.59-93.581c0.64-48.558,81.208-86.879,177.901-85.621C397.52,2.687,477.058,43.068,476.429,91.615z
+	 M299.483,17.943c-82.141-0.618-152.386,31.501-152.701,71.752c-0.303,40.241,69.454,73.379,151.616,74.008
+	c82.151,0.629,152.396-31.49,152.711-71.752C451.413,51.7,381.656,18.572,299.483,17.943z"/>
+</svg>

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "hex": "#1f8d49",
+    "name": "1. Floresta"
+  },
+  {
+    "id": 3,
+    "hex": "#1f8d49",
+    "name": "1.1. Formação Florestal"
+  },
+  {
+    "id": 6,
+    "hex": "#007785",
+    "name": "1.2. Floresta Alagável"
+  },
+  {
+    "id": 4,
+    "hex": "#7dc975",
+    "name": "1.3. Formação Savânica"
+  },
+  {
+    "id": 7,
+    "hex": "#228c70",
+    "name": "1.4. Savana Alagada (beta)"
+  },
+  {
+    "id": 5,
+    "hex": "#04381d",
+    "name": "1.5. Mangue"
+  },
+  {
+    "id": 49,
+    "hex": "#02d659",
+    "name": "1.6. Restinga Arbórea"
+  },
+  {
+    "id": 10,
+    "hex": "#d6bc74",
+    "name": "2. Vegetação Herbácea e Arbustiva"
+  },
+  {
+    "id": 12,
+    "hex": "#d6bc74",
+    "name": "2.1. Formação Campestre"
+  },
+  {
+    "id": 77,
+    "hex": "#86b074",
+    "name": "2.2. Formação Herbáceo Arbustiva"
+  },
+  {
+    "id": 11,
+    "hex": "#519799",
+    "name": "2.3. Campo Alagado e Área Pantanosa"
+  },
+  {
+    "id": 84,
+    "hex": "#81dbbf",
+    "name": "2.4. Marisma (beta)"
+  },
+  {
+    "id": 50,
+    "hex": "#ffaa5f",
+    "name": "2.5. Restinga Herbácea ou Arbustiva"
+  },
+  {
+    "id": 32,
+    "hex": "#fc8114",
+    "name": "2.6. Apicum"
+  },
+  {
+    "id": 29,
+    "hex": "#ad5100",
+    "name": "2.7. Afloramento Rochoso"
+  },
+  {
+    "id": 14,
+    "hex": "#ffefc3",
+    "name": "3. Agropecuária"
+  },
+  {
+    "id": 15,
+    "hex": "#edde8e",
+    "name": "3.1. Pastagem"
+  },
+  {
+    "id": 18,
+    "hex": "#E974ED",
+    "name": "3.2. Agricultura"
+  },
+  {
+    "id": 19,
+    "hex": "#C27BA0",
+    "name": "3.2.1. Lavoura Temporária"
+  },
+  {
+    "id": 39,
+    "hex": "#f5b3c8",
+    "name": "3.2.1.1. Soja"
+  },
+  {
+    "id": 20,
+    "hex": "#db7093",
+    "name": "3.2.1.2. Cana"
+  },
+  {
+    "id": 40,
+    "hex": "#c71585",
+    "name": "3.2.1.3. Arroz"
+  },
+  {
+    "id": 62,
+    "hex": "#ff69b4",
+    "name": "3.2.1.4. Algodão (beta)"
+  },
+  {
+    "id": 41,
+    "hex": "#f54ca9",
+    "name": "3.2.1.5. Outras Lavouras Temporárias"
+  },
+  {
+    "id": 36,
+    "hex": "#d082de",
+    "name": "3.2.2. Lavoura Perene"
+  },
+  {
+    "id": 46,
+    "hex": "#d68fe2",
+    "name": "3.2.2.1. Café"
+  },
+  {
+    "id": 47,
+    "hex": "#9932cc",
+    "name": "3.2.2.2. Citrus"
+  },
+  {
+    "id": 35,
+    "hex": "#9065d0",
+    "name": "3.2.2.3. Dendê"
+  },
+  {
+    "id": 48,
+    "hex": "#e6ccff",
+    "name": "3.2.2.4. Outras Lavouras Perenes"
+  },
+  {
+    "id": 9,
+    "hex": "#7a5900",
+    "name": "3.3. Silvicultura"
+  },
+  {
+    "id": 21,
+    "hex": "#ffefc3",
+    "name": "3.4. Mosaico de Usos"
+  },
+  {
+    "id": 22,
+    "hex": "#d4271e",
+    "name": "4. Área não Vegetada"
+  },
+  {
+    "id": 23,
+    "hex": "#ffa07a",
+    "name": "4.1. Praia, Duna e Areal"
+  },
+  {
+    "id": 24,
+    "hex": "#d4271e",
+    "name": "4.2. Área Urbanizada"
+  },
+  {
+    "id": 30,
+    "hex": "#9c0027",
+    "name": "4.3. Mineração"
+  },
+  {
+    "id": 75,
+    "hex": "#757272",
+    "name": "4.4. Usina Fotovoltaica"
+  },
+  {
+    "id": 91,
+    "hex": "#403d3e",
+    "name": "4.5. Parque Eólico (beta)"
+  },
+  {
+    "id": 25,
+    "hex": "#db4d4f",
+    "name": "4.6. Outras Áreas não Vegetadas"
+  },
+  {
+    "id": 26,
+    "hex": "#2532e4",
+    "name": "5. Corpo D'Água"
+  },
+  {
+    "id": 33,
+    "hex": "#2532e4",
+    "name": "5.1. Rio, Lago e Oceano"
+  },
+  {
+    "id": 31,
+    "hex": "#091077",
+    "name": "5.2. Aquicultura"
+  },
+  {
+    "id": 27,
+    "hex": "#ffffff",
+    "name": "Não Observado"
+  }
+]

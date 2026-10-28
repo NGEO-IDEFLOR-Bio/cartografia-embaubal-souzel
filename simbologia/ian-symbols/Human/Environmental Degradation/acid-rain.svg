@@ -1,0 +1,95 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="310" viewBox="0 0 502 310" xml:space="preserve">
+            <title>Acid rain</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Acid rain</ian_image_library:title>
+                <ian_image_library:descr>Illustration of acid rain</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>environmental, degradation, air, quality, pollution, particulate, matter, acid, rain, deposition, precipitation, cloud, industry, industrial, processes, factory, power, plants</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a4257812c9f444148122a53a3a32df6d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Acid rain</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/acid-rain/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/acid-rain/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>environmental, degradation, air, quality, pollution, particulate, matter, acid, rain, deposition, precipitation, cloud, industry, industrial, processes, factory, power, plants</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of acid rain</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".0578" d="m16.335 261.32c1.267 0 2.522 3.151 3.779 6.302 3.15 8.174 5.663 20.139-4.407 20.139s-7.558-12.582-3.784-20.139c1.272-3.14 3.157-6.3 4.412-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m42.584 158.22c1.256 0 2.518 3.15 3.779 6.301 3.151 8.196 5.663 20.16-4.407 20.16-10.08 0-7.557-12.603-3.779-20.16 1.257-3.14 3.151-6.3 4.407-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m46.086 222.96c1.251 0 2.523 3.151 3.779 6.301 3.151 8.196 5.658 20.139-4.407 20.139-10.08 0-7.557-12.582-3.789-20.139 1.267-3.15 3.161-6.3 4.417-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m91.559 194.35c1.267 0 2.522 2.533 3.779 6.301 3.15 7.558 5.663 20.161-4.407 20.161-10.08 0-7.558-12.603-3.779-20.161 1.266-3.15 3.14-6.3 4.407-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m73.005 278.33c1.267 0 2.518 3.13 3.779 6.302 3.779 8.175 5.673 20.139-4.407 20.139s-7.547-12.603-3.779-20.139c1.267-3.17 3.152-6.3 4.407-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m163.68 225.43c1.256 0 2.522 2.533 3.779 6.301 3.779 7.557 5.663 20.139-4.407 20.139s-7.558-12.582-3.779-20.139c1.26-3.15 3.16-6.3 4.41-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m114.57 250c1.262 0 2.518 2.512 3.773 6.28 3.79 8.196 5.673 20.16-4.407 20.16s-7.552-12.603-3.768-20.16c1.26-3.13 3.14-6.28 4.41-6.28z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m203.36 265.09c1.256 0 2.506 3.151 3.778 6.302 3.768 8.196 5.663 20.16-4.407 20.16-10.08 0-7.557-12.603-3.778-20.16 1.88-3.15 3.14-6.3 4.41-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m159.9 272.65c1.256 0 2.523 3.15 3.779 6.302 3.779 8.195 5.663 20.16-4.407 20.16-10.08 0-7.558-12.604-3.779-20.16 1.26-3.15 3.16-6.3 4.41-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m244.9 282.1c1.272 0 2.517 3.15 4.412 6.302 3.15 8.175 5.045 20.777-5.035 20.777-10.08-.639-7.552-13.221-3.778-20.777 1.9-3.15 3.15-5.66 4.4-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m263.8 246.21c1.257 0 2.513 2.533 4.407 6.301 3.14 8.175 5.034 20.139-5.035 20.139-10.085 0-7.557-12.582-3.778-20.139 1.88-3.15 3.14-6.3 4.4-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m301.59 217.88c1.257 0 2.513 2.512 4.407 6.301 3.14 7.558 5.024 20.139-5.046 20.139-10.069 0-7.557-12.582-3.778-20.139 1.89-3.16 3.15-6.3 4.42-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m316.7 268.88c1.256 0 2.522 3.151 4.407 6.301 3.15 8.175 5.034 20.139-5.035 20.139s-7.563-12.581-3.789-20.139c1.88-3.15 3.15-6.3 4.41-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m233.57 212.21c1.262 0 2.528 2.512 4.423 6.301 3.151 7.558 5.024 20.139-5.045 20.139s-7.563-12.582-3.779-20.139c1.9-3.15 3.16-6.3 4.41-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m358.25 282.1c1.256 0 2.522 3.15 4.406 6.302 3.15 8.175 5.663 20.777-5.034 20.777-10.075-.639-7.558-13.221-3.779-20.777 1.88-3.15 3.14-5.66 4.4-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m358.25 231.1c1.256 0 2.522 2.533 4.406 6.301 3.15 7.558 5.663 20.16-5.034 20.16-10.075 0-7.558-12.603-3.779-20.16 1.88-3.15 3.14-6.3 4.4-6.3z" fill="#ED1C24"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m403.6 246.21c1.245 0 3.14 2.533 4.406 6.301 3.13 8.175 5.663 20.139-4.406 20.139-10.709 0-7.568-12.582-3.779-20.139 1.25-3.15 2.51-6.3 3.78-6.3z" fill="#ED1C24"/>
+ <linearGradient id="ian_symbols_7fb889ff4f232454f1a3cc11883eecbd" y2="42.799" gradientUnits="userSpaceOnUse" x2="572.5" gradientTransform="matrix(.5376 0 0 .672 -57.747 -41.867)" y1="421.13" x1="572.5">
+  <stop stop-color="#D74B39" offset="0"/>
+  <stop stop-color="#00B1EF" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".0578" d="m212.66.05c1.645 0-77.826 13.114-121.3 26.44-43.049 13.966-120.3 48.432-80.081 78.9 40.214 31.103 49.56 17.159 64.994 31.103 15.445 13.327-2.842 49.517 80.428 39.363 45.834-5.557 69.955-12.646 140.44 14.476 28.042 10.155 91.578 25.121 121.47 21.289 90.114-11.475 99.875-84.239 56.415-101.38-43.046-17.137 9.505-40.001-15.265-60.949-24.779-20.309-69.209-43.066-100.4-31.613-95.92 35.274-98.75-18.884-146.7-17.628z" fill="url(#ian_symbols_7fb889ff4f232454f1a3cc11883eecbd)"/>
+</svg>

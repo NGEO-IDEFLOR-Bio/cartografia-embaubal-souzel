@@ -1,0 +1,103 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="420" viewBox="0 0 500 420" xml:space="preserve">
+            <title>Amphitheater</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Amphitheater</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an amphitheater.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>amphitheater, amphitheatre, entertainment, performance, Ancient Greek, recreation, development, infrastructure, building</ian_image_library:contains>
+                    <ian_image_library:when>2013-05-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-bef458aafd4e62e44598ab0d63d37156">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Amphitheater</dc:title>
+                <dc:date>2013-05-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/amphitheater/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/amphitheater/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>amphitheater, amphitheatre, entertainment, performance, Ancient Greek, recreation, development, infrastructure, building</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an amphitheater.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<path fill="#808285" d="M421.102,335.563c-13.038,1.949-13.766,1.949-28.204,0c-103.053-0.649-180.432-0.649-295.9-0.468
+		c-7.971-0.492-9.401,0-23.165-0.987c-41.241-66.485,77.729-125.762,174.418-125.762
+		C344.953,208.346,455.123,266.169,421.102,335.563z"/>
+	<path fill="#4D4D4F" d="M373.782,298.114c-8.259,1.816-22.025,1.4-31.216-0.365c-32.777-61.289-55.943-78.171-94.418-78.171
+		c-39.164,0-73.315,35.475-93.938,77.705c-5.063-0.418-23.572,1.99-32.323,1.085c-26.256-61.343,66.553-117.598,128.129-117.598
+		C311.556,180.77,395.44,234.068,373.782,298.114z"/>
+	<path fill="#6D6E71" d="M396.168,309.097c-11.062,2.47-11.633,2.47-23.893,0c-5.559-90.39-76.925-123.642-128.101-123.642
+		c-52.149,0-121.984,41.341-122.582,123.021c-6.754-0.623-9.586-0.197-21.22-1.468c-34.958-85.368,61.662-160.224,143.597-160.224
+		C325.87,146.784,424.944,219.954,396.168,309.097z"/>
+	<path fill="#939598" d="M422.294,326.241c-12.984,3.427-13.711,3.427-28.15,0c-6.494-124.727-90.432-173.758-150.696-173.758
+		c-61.343,0-143.464,60.212-144.191,172.899c-7.947-0.883-9.377,0-23.089-1.74C35.084,205.812,152.86,110.344,249.239,110.344
+		C345.629,110.344,456.161,203.229,422.294,326.241z"/>
+	<path fill="#BCBEC0" d="M453.045,340.447c-15.271,4.466-16.154,4.466-33.088,0c-7.634-162.645-106.479-226.573-177.316-226.573
+		c-72.17,0-168.808,78.509-169.666,225.426c-9.323-1.117-11.039,0-27.138-2.231C-2.522,183.413,136.032,58.923,249.42,58.923
+		C362.77,58.923,492.884,180.05,453.045,340.447z"/>
+	<path fill="#636466" d="M499.686,319.491L0,316.412l3.725,64.032l10.952,1.396c2.3,0.294,56.811,7.187,97.629,7.187
+		c11.757,0,21.219-0.571,28.634-1.738c28.046,26.344,70.68,41.885,115.758,41.885c42.499,0,80.614-13.315,105.828-36.747
+		c28.649,3.125,65.072,3.81,91.464,3.81c0.002,0,0.003,0,0.006,0c19.185,0,32.462-0.356,33.018-0.371L500,395.51L499.686,319.491z"
+		/>
+	<path fill="#DCDDDE" d="M484.157,353.172c-17.556,5.48-18.542,5.48-38.124,0C437.254,154.612,323.451,76.556,241.81,76.556
+		c-83.158,0-194.493,95.857-195.48,275.266c-10.751-1.405-12.7,0-31.269-2.754C-40.647,161.455,118.994,9.46,249.628,9.46
+		C380.222,9.46,530.125,157.351,484.157,353.172z"/>
+	<path fill="#BCBEC0" stroke="#636466" stroke-width="26.5941" d="M341.475,368.13c0,17.011-40.359,30.803-90.157,30.803
+		c-49.787,0-90.146-13.794-90.146-30.803c0-16.984,40.359-30.75,90.146-30.75C301.115,337.38,341.475,351.146,341.475,368.13z"/>
+	<path fill="#FFFFFF" d="M480.419,351.328c-3.422,1.061-7.807,1.91-12,1.737C520.257,127.888,335.033,26.329,250.562,25.368
+		c-84.456-0.96-284.094,122.648-217.868,321.933c-5.504,0.563-7.767,0.703-12.959,0C-34.96,163.364,121.799,14.343,250.069,14.343
+		C378.352,14.343,525.502,159.337,480.419,351.328z"/>
+	<path d="M306.309,291.153c0,19.424-115.166,19.424-115.166,0c0-19.402,25.79-48.827,57.576-48.827
+		C280.547,242.326,306.309,271.751,306.309,291.153z"/>
+</g>
+</svg>

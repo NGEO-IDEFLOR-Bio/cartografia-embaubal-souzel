@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="505" height="441" viewBox="0 0 505 441" xml:space="preserve">
+            <title>Groundwater extraction and compression</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Groundwater extraction and compression</ian_image_library:title>
+                <ian_image_library:descr>Illustration of groundwater extraction and compression process</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, groundwater, extraction, compression, soil, hydrology, hydrologic, cycle, recharge, aquifer, water, table, withdrawal, irrigation, displacement, tiling</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-02a541c7b2b01864ad00b4b72203772f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Groundwater extraction and compression</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/groundwater-extraction-and-compression/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/groundwater-extraction-and-compression/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, groundwater, extraction, compression, soil, hydrology, hydrologic, cycle, recharge, aquifer, water, table, withdrawal, irrigation, displacement, tiling</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of groundwater extraction and compression process</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <line y2="348.08" x1="247.04" x2="247.04" stroke="#0072BC" y1="39.757" stroke-width="20.335" fill="#0081B3"/>
+ <path stroke="#0072BC" stroke-width="5.0834" stroke-dasharray="20.3348" d="m247.58 377.04c-36.536-.511-30.541-159.26-74.262-174.77-105.95-26.57-171.28 60.97-171.28 60.97" fill="none"/>
+ <path stroke="#0072BC" stroke-width="5.0834" stroke-dasharray="20.3348" d="m247.85 394.16c-41.989 4.104-56.34-89.453-108.76-114.72-52.412-25.268-100.48 51.609-100.48 51.609" fill="none"/>
+ <path stroke="#0072BC" stroke-width="5.0834" stroke-dasharray="20.3348" d="m256.49 377.04c36.536-.511 30.541-159.26 74.262-174.77 105.94-26.575 171.29 60.964 171.29 60.964" fill="none"/>
+ <path stroke="#0072BC" stroke-width="5.0834" stroke-dasharray="20.3348" d="m256.23 394.16c41.989 4.104 56.339-89.453 108.75-114.72 52.417-25.268 100.49 51.609 100.49 51.609" fill="none"/>
+ <path stroke="#0072BC" stroke-width="5.0834" stroke-dasharray="20.3348" d="m439.88 438.78s-48.931-76.505-89.155-57.849c-40.229 18.677-54.038 43.445-94.497 38.896h-8.376c-40.458 4.55-54.267-20.219-94.492-38.896-40.235-18.656-89.155 57.849-89.155 57.849" fill="none"/>
+ <line y2="257.63" x1="96.677" x2="109.25" stroke="#0072BC" y1="206.88" stroke-width="10.168" fill="none"/>
+ <path d="m114.12 274.15c.595-8.621 2.679-19.708 6.123-27.213l-11.619 8.525-14.409-.883c6.989 4.44 14.729 12.64 19.909 19.57z" fill="#0072BC"/>
+ <line y2="364.89" x1="86.813" x2="110.79" stroke="#0072BC" y1="291.33" stroke-width="10.168" fill="none"/>
+ <path d="m115.65 381.41c.606-8.621 2.679-19.708 6.133-27.213l-11.629 8.536-14.394-.882c6.984 4.43 14.734 12.63 19.894 19.55z" fill="#0072BC"/>
+ <line y2="257.63" x1="411.86" x2="399.28" stroke="#0072BC" y1="206.88" stroke-width="10.168" fill="none"/>
+ <path d="m394.42 274.15c-.595-8.621-2.689-19.708-6.144-27.213l11.629 8.525 14.394-.883c-6.95 4.44-14.71 12.64-19.88 19.57z" fill="#0072BC"/>
+ <line y2="364.89" x1="421.73" x2="397.74" stroke="#0072BC" y1="291.33" stroke-width="10.168" fill="none"/>
+ <path d="m392.88 381.41c-.595-8.621-2.679-19.708-6.134-27.213l11.63 8.536 14.383-.882c-6.96 4.43-14.71 12.63-19.88 19.55z" fill="#0072BC"/>
+ <polygon points="225.08 40.352 271.09 39.321 247.18 0" fill="#0072BC"/>
+</svg>

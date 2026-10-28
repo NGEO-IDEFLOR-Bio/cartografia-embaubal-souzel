@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="518" height="493" viewBox="0 0 518 493" xml:space="preserve">
+            <title>Limitation: light</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Limitation: light</ian_image_library:title>
+                <ian_image_library:descr>Illustration of light limitation</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, limitation, light, infiltration, water, depth, column</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1e62f6ba3b2af1d4b9541d1d45336eac">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Limitation: light</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/limitation-light/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/limitation-light/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, limitation, light, infiltration, water, depth, column</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of light limitation</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#231F20" stroke-width="8" points="258.6 9.038 335.85 165.57 508.6 190.68 383.6 312.51 413.1 484.56 258.6 403.34 104.1 484.56 133.6 312.51 8.596 190.68 181.34 165.57" fill="#B9DA95"/>
+ <linearGradient id="ian_symbols_9eb00acc928a1324dd02d9b777983a2b" y2="281.48" gradientUnits="userSpaceOnUse" x2="344.93" y1="281.48" x1="142.15">
+  <stop stop-color="#943895" offset=".1582"/>
+  <stop stop-color="#4A58AA" offset=".194"/>
+  <stop stop-color="#156FBA" offset=".2232"/>
+  <stop stop-color="#0078C0" offset=".2373"/>
+  <stop stop-color="#00A6E9" offset=".339"/>
+  <stop stop-color="#41AD49" offset=".4689"/>
+  <stop stop-color="#fd0" offset=".6045"/>
+  <stop stop-color="#F99D1C" offset=".774"/>
+  <stop stop-color="#D2232A" offset=".8814"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="4.2091" d="m172.38 184.42h155.49l-1.989 93.093 24.756.988-103 100.04-100.04-99.046 25.756.988-.98-96.06z" fill="url(#ian_symbols_9eb00acc928a1324dd02d9b777983a2b)"/>
+</svg>

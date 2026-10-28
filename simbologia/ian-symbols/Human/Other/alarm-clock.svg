@@ -1,0 +1,171 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="424" height="502" viewBox="0 0 424 502" xml:space="preserve">
+            <title>Alarm clock</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Alarm clock</ian_image_library:title>
+                <ian_image_library:descr>Illustration of alarm clock</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>alarm, clock, time, piece</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8cf13866869200449d73565b850c4dc0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Alarm clock</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/alarm-clock/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/alarm-clock/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>alarm, clock, time, piece</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of alarm clock</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_b6d81e571b8b4604ede4d68e5e09a1fc" y2="434.28" gradientUnits="userSpaceOnUse" x2="397.29" y1="434.28" x1="334.18">
+  <stop stop-color="#E3DCD4" offset="0"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_b6d81e571b8b4604ede4d68e5e09a1fc)" clip-rule="evenodd" d="m334.18 412.29s17.505 34.989 22.749 40.244c5.255 5.255 29.745 14.002 38.492 12.251 8.742-1.763-15.742-26.253-22.749-31.497-6.996-5.255-24.49-29.745-24.49-29.745l-14 8.75z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_72e4191bb796410401198d6f1bf26485" y2="434.28" gradientUnits="userSpaceOnUse" x2="100.18" gradientTransform="matrix(-1 0 0 1 133.46 0)" y1="434.28" x1="37.087">
+  <stop stop-color="#E3DCD4" offset="0"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_72e4191bb796410401198d6f1bf26485)" clip-rule="evenodd" d="m96.374 412.29s-17.484 34.989-22.739 40.244-29.756 14.002-38.493 12.251c-8.747-1.763 15.743-26.253 22.739-31.497 7.007-5.255 24.49-29.745 24.49-29.745l14.003 8.75z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_480e7aab23c8a744d11a4b29a71f7dad" y2="445.2" gradientUnits="userSpaceOnUse" x2="376.59" y1="492.59" x1="363.89">
+  <stop stop-color="#808285" offset=".0562"/>
+  <stop stop-color="#88898A" offset=".0617"/>
+  <stop stop-color="#9E9B97" offset=".0804"/>
+  <stop stop-color="#AFA9A1" offset=".1026"/>
+  <stop stop-color="#BAB3A9" offset=".13"/>
+  <stop stop-color="#C1B8AD" offset=".1685"/>
+  <stop stop-color="#C3BAAE" offset=".2753"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_480e7aab23c8a744d11a4b29a71f7dad)" clip-rule="evenodd" d="m337.68 447.28s17.494 35 22.749 40.244c5.244 5.255 29.734 14.002 38.493 12.251 8.747-1.741-15.754-26.242-22.75-31.497-6.995-5.255-24.49-29.745-24.49-29.745l-14 8.76z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_20683238e7e1efd49584a2243048dc86" y2="443.45" gradientUnits="userSpaceOnUse" x2="153.06" gradientTransform="matrix(-1 0 0 1 203.46 0)" y1="490.84" x1="140.36">
+  <stop stop-color="#808285" offset=".0562"/>
+  <stop stop-color="#88898A" offset=".0617"/>
+  <stop stop-color="#9E9B97" offset=".0804"/>
+  <stop stop-color="#AFA9A1" offset=".1026"/>
+  <stop stop-color="#BAB3A9" offset=".13"/>
+  <stop stop-color="#C1B8AD" offset=".1685"/>
+  <stop stop-color="#C3BAAE" offset=".2753"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_20683238e7e1efd49584a2243048dc86)" clip-rule="evenodd" d="m89.307 445.52s-17.5 34.989-22.744 40.244c-5.26 5.255-29.745 14.003-38.493 12.262-8.747-1.763 15.743-26.253 22.739-31.497 7.007-5.255 24.496-29.756 24.496-29.756l14.002 8.76z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_c40039ffef60b5947d7c10f5b64548ae" y2="134.97" gradientUnits="userSpaceOnUse" x2="391.92" y1="134.97" x1="38.503">
+  <stop stop-color="#D0181F" offset="0"/>
+  <stop stop-color="#CD181F" offset=".2266"/>
+  <stop stop-color="#C4181F" offset=".3808"/>
+  <stop stop-color="#B5191F" offset=".5133"/>
+  <stop stop-color="#9F1A1F" offset=".6338"/>
+  <stop stop-color="#831B1F" offset=".746"/>
+  <stop stop-color="#611C20" offset=".8521"/>
+  <stop stop-color="#391E20" offset=".9516"/>
+  <stop stop-color="#231F20" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_c40039ffef60b5947d7c10f5b64548ae)" clip-rule="evenodd" d="m38.503 186.59s33.237-111.97 169.7-115.48c166.23 5.244 183.72 127.72 183.72 127.72l-353.42-12.24z" fill-rule="evenodd"/>
+ <radialGradient id="ian_symbols_afd7ffe76dd6d52479bc91215817de67" gradientUnits="userSpaceOnUse" cy="297.69" cx="211.71" r="201.9">
+  <stop stop-color="#A7A9AC" offset="0"/>
+  <stop stop-color="#fff" offset=".8933"/>
+  <stop stop-color="#998667" offset="1"/>
+ </radialGradient>
+ <path fill="url(#ian_symbols_afd7ffe76dd6d52479bc91215817de67)" clip-rule="evenodd" d="m411.16 297.69c0 97.118-89.296 175.84-199.45 175.84-110.16 0-199.46-78.726-199.46-175.84 0-97.107 89.307-175.84 199.46-175.84 110.16-.01 199.45 78.73 199.45 175.84zm-199.45-191.59c-116.94 0-211.71 85.78-211.71 191.59s94.775 191.59 211.71 191.59c116.92 0 211.71-85.776 211.71-191.59s-94.79-191.59-211.71-191.59z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_d523767b4c2a7bb419e81570fb259367" y2="164.74" gradientUnits="userSpaceOnUse" x2="344.66" y1="430.64" x1="78.753">
+  <stop stop-color="#D1D3D4" offset=".3202"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".2071" d="m411.16 297.69c0 97.118-89.296 175.84-199.45 175.84-110.16 0-199.46-78.726-199.46-175.84 0-97.107 89.307-175.84 199.46-175.84 110.16-.01 199.45 78.73 199.45 175.84z" fill="url(#ian_symbols_d523767b4c2a7bb419e81570fb259367)"/>
+ <radialGradient id="ian_symbols_2ea1b26bd77c8384c1d399ed95bf0179" gradientUnits="userSpaceOnUse" cy="75.884" cx="325.22" r="82.013">
+  <stop stop-color="#E3DCD4" offset="0"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </radialGradient>
+ <path fill="url(#ian_symbols_2ea1b26bd77c8384c1d399ed95bf0179)" clip-rule="evenodd" d="m363.94 15.112c94.469 45.499 31.485 132.97 31.485 132.97s-50.742 0-87.489-20.987c-36.735-20.998-73.487-52.484-73.487-52.484s35.01-104.98 129.5-59.494z" fill-rule="evenodd"/>
+ <radialGradient id="ian_symbols_2a13b89ac0e9bb84957b429a4e75d341" gradientUnits="userSpaceOnUse" cy="74.376" cx="92.116" r="81.738">
+  <stop stop-color="#E3DCD4" offset="0"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </radialGradient>
+ <path fill="url(#ian_symbols_2a13b89ac0e9bb84957b429a4e75d341)" clip-rule="evenodd" d="m57.826 10.919c95.104-44.185 122.78 59.994 122.78 59.994s-32.187 39.226-71.719 54.312c-39.543 15.097-87.188 23.527-87.188 23.527s-58.974-93.645 36.124-137.83z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_c555151335e4cf149941db2e6f9c628c" y2="62.363" gradientUnits="userSpaceOnUse" x2="232.29" y1="62.363" x1="211.71">
+  <stop stop-color="#E3DCD4" offset="0"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_c555151335e4cf149941db2e6f9c628c)" clip-rule="evenodd" d="m211.71 97.353h10.499l1.751-27.994s3.503-12.25 6.996-19.246 0-22.739-8.747-22.739-10.499 15.743-10.499 22.739 0 20.998 0 20.998v26.242z" fill-rule="evenodd"/>
+ <polygon points="218.7 317.81 211.71 303.81 68.237 359.8 73.493 372.04" fill="#B71318" clip-rule="evenodd" fill-rule="evenodd"/>
+ <path d="m190.95 174.34v-34.453h-4.138v-10.45h15.885v44.897h-11.75z" fill="#231F20"/>
+ <path d="m211.71 174.34c6.164-8.835 10.586-15.809 13.291-20.921 2.704-5.102 4.051-9.032 4.051-11.78 0-1.248-.241-2.189-.723-2.824-.493-.646-1.221-.963-2.178-.963-1.051 0-1.785.547-2.212 1.653-.416 1.095-.646 3.251-.689 6.47h-10.521c0-.175-.011-.46-.033-.843-.038-.383-.038-.657-.038-.843 0-5.124 1.209-9.01 3.629-11.692 2.414-2.682 5.956-4.029 10.608-4.029 4.39 0 7.861 1.117 10.422 3.35 2.562 2.233 3.854 5.277 3.854 9.13 0 2.967-.766 6.208-2.288 9.733-1.521 3.514-4.072 7.817-7.63 12.896h9.043v10.663h-28.58z" fill="#231F20"/>
+ <polygon points="216.96 323.05 201.21 323.05 201.21 135.84 213.46 135.84" fill="#B91319" clip-rule="evenodd" fill-rule="evenodd"/>
+ <path d="m297.46 197.08v-34.453h-4.138v-10.444h15.885v44.897h-11.74z" fill="#231F20"/>
+ <path d="m348.4 246.07c6.164-8.835 10.587-15.809 13.291-20.91 2.692-5.113 4.039-9.043 4.039-11.791 0-1.248-.24-2.189-.722-2.824s-1.205-.953-2.179-.953c-1.04 0-1.785.547-2.201 1.642-.427 1.095-.656 3.251-.7 6.481h-10.51c0-.187-.022-.471-.044-.854s-.033-.657-.033-.843c0-5.112 1.204-9.01 3.624-11.692 2.419-2.682 5.955-4.028 10.619-4.028 4.379 0 7.855 1.116 10.423 3.361 2.562 2.222 3.842 5.266 3.842 9.12 0 2.967-.771 6.207-2.288 9.732-1.521 3.525-4.062 7.828-7.619 12.896h9.032v10.663h-28.57z" fill="#231F20"/>
+ <path d="m370.41 309.2h10.948c0 1.719.229 3.021.689 3.897.46.887 1.117 1.325 1.992 1.325.947 0 1.687-.361 2.201-1.073.525-.711.777-1.729.777-3.065 0-2.069-.438-3.612-1.303-4.609-.876-1.007-2.223-1.5-4.04-1.5-.187 0-.389 0-.603.011-.208.011-.547.033-1.018.077v-8.342c.164 0 .351.011.559.011.219.022.503.022.875.022 1.96 0 3.361-.416 4.193-1.237.843-.832 1.27-2.211 1.27-4.149 0-1.313-.24-2.31-.711-3.021-.46-.701-1.149-1.051-2.048-1.051-.788 0-1.423.361-1.894 1.084s-.733 1.741-.788 3.043h-10.526c0-4.116 1.21-7.368 3.629-9.766 2.42-2.386 5.709-3.58 9.875-3.58 4.253 0 7.686 1.117 10.27 3.339 2.572 2.223 3.864 5.157 3.864 8.802 0 2.616-.668 4.85-2.025 6.678-1.357 1.839-3.202 3.01-5.518 3.525 2.595.351 4.68 1.5 6.262 3.471 1.588 1.971 2.376 4.368 2.376 7.214 0 4.313-1.336 7.653-4.007 10.04-2.683 2.386-6.438 3.58-11.287 3.58-4.62 0-8.102-1.215-10.466-3.635-2.365-2.43-3.548-5.988-3.548-10.696v-.36z" fill="#231F20"/>
+ <path d="m356.19 400.05v-9.142h-15.59v-9.383l11.813-26.384h14.44v26.625h3.055v9.142h-3.055v9.142h-10.65zm0-18.28v-14.418l-5.978 14.418h5.98z" fill="#231F20"/>
+ <path d="m276.54 438.23c1.494.887 2.934 1.555 4.324 2.004 1.374.448 2.715.679 4.007.679 1.981 0 3.613-.471 4.894-1.413 1.26-.93 1.895-2.123 1.895-3.547 0-1.904-.701-3.36-2.113-4.39-1.412-1.019-3.427-1.533-6.054-1.533-.941 0-1.971.099-3.076.307-1.106.197-2.311.504-3.624.931l3.854-25.388h22.41v9.864h-13.958l-1.063 6.448c.701-.143 1.368-.252 2.004-.318.635-.076 1.248-.109 1.839-.109 3.82 0 6.996 1.292 9.53 3.887 2.556 2.584 3.815 5.847 3.815 9.755 0 4.784-1.653 8.692-4.981 11.714s-7.686 4.532-13.072 4.532c-2.058 0-4.116-.252-6.174-.723-2.069-.481-4.172-1.215-6.307-2.211l1.85-10.48z" fill="#231F20"/>
+ <path d="m211.68 437.41c.827-.405 1.615-.711 2.354-.908.761-.197 1.461-.296 2.118-.296 3 0 5.452 1.27 7.379 3.788 1.927 2.54 2.901 5.813 2.901 9.842 0 5.31-1.303 9.558-3.897 12.755-2.595 3.207-6.021 4.806-10.28 4.806-4.467 0-8.068-1.544-10.822-4.642-2.721-3.088-4.089-7.171-4.089-12.229 0-4.16.93-8.681 2.792-13.553 1.861-4.883 4.609-9.995 8.244-15.349h13.378c-2.037 2.484-3.887 5.047-5.562 7.663-1.66 2.64-3.17 5.34-4.51 8.13zm-2.59 13.83c0 2.113.219 3.656.635 4.631.427.975 1.095 1.445 2.025 1.445.963 0 1.675-.471 2.113-1.412.449-.952.663-2.507.663-4.664 0-2.058-.203-3.525-.608-4.412-.416-.887-1.095-1.335-2.047-1.335-.887 0-1.571.503-2.058 1.499-.46.99-.70 2.41-.70 4.24z" fill="#231F20"/>
+ <path d="m118.67 449.04l16.29-34.464h-14.473v-10.444h30.024l-17.73 44.908h-14.11z" fill="#231F20"/>
+ <path d="m63.519 360.5c2.387.756 4.226 2.113 5.518 4.072 1.303 1.949 1.96 4.336 1.96 7.16 0 3.931-1.38 7.138-4.139 9.623-2.764 2.496-6.36 3.733-10.794 3.733-4.521 0-8.145-1.248-10.904-3.744-2.748-2.496-4.127-5.78-4.127-9.854 0-2.66.679-4.98 2.031-6.951 1.352-1.981 3.18-3.317 5.479-4.04-2.102-.799-3.733-2.036-4.894-3.723-1.161-1.686-1.741-3.656-1.741-5.911 0-3.525 1.313-6.438 3.952-8.715 2.638-2.277 6.043-3.416 10.192-3.416 4.062 0 7.422 1.139 10.083 3.416 2.655 2.277 3.985 5.135 3.985 8.562 0 2.332-.569 4.357-1.73 6.043-1.149 1.7-2.78 2.95-4.871 3.74zm-10.225 9.5c0 1.763.241 3.12.722 4.083.493.964 1.171 1.435 2.059 1.435.952 0 1.631-.416 2.047-1.248.416-.843.613-2.267.613-4.27 0-1.774-.235-3.153-.717-4.117-.471-.974-1.133-1.456-1.998-1.456-.887 0-1.565.482-2.025 1.435-.472.96-.701 2.34-.701 4.14zm.071-17.68c0 1.521.247 2.682.717 3.492.481.81 1.182 1.215 2.085 1.215.837 0 1.461-.394 1.872-1.183.411-.788.629-1.971.629-3.524 0-1.577-.241-2.771-.711-3.58-.46-.811-1.139-1.216-2.036-1.216-.876 0-1.511.384-1.927 1.149-.415.77-.629 1.98-.629 3.65z" fill="#231F20"/>
+ <path d="m38.788 300.42c-.777.361-1.544.646-2.299.843-.766.197-1.5.284-2.211.284-3 0-5.452-1.259-7.368-3.799-1.905-2.529-2.857-5.835-2.857-9.896 0-5.288 1.297-9.536 3.886-12.754 2.595-3.208 6.01-4.806 10.226-4.806 4.478 0 8.09 1.555 10.838 4.675 2.759 3.109 4.138 7.193 4.138 12.262 0 4.16-.931 8.66-2.792 13.509-1.861 4.85-4.609 9.952-8.254 15.327h-13.467c2.135-2.584 4.04-5.167 5.726-7.751 1.686-2.58 3.164-5.21 4.434-7.89zm2.606-14.14c0-1.993-.23-3.47-.679-4.445-.46-.975-1.139-1.456-2.047-1.456-.963 0-1.669.471-2.08 1.412-.427.941-.635 2.496-.635 4.675 0 2.036.197 3.525.607 4.467.421.941 1.078 1.412 1.987 1.412.953 0 1.664-.503 2.135-1.511.471-.99.712-2.51.712-4.55z" fill="#231F20"/>
+ <path d="m47.47 254.82v-34.453h-4.127v-10.444h15.885v44.897h-11.758z" fill="#231F20"/>
+ <path d="m69.398 232.39c0-7.335 1.281-13.061 3.832-17.177 2.545-4.117 6.087-6.175 10.598-6.175 4.5 0 8.014 2.058 10.554 6.175 2.551 4.116 3.815 9.842 3.815 17.177s-1.265 13.05-3.793 17.145c-2.54 4.105-6.065 6.152-10.576 6.152-4.532 0-8.074-2.047-10.608-6.152-2.552-4.1-3.822-9.81-3.822-17.15zm11.462-.37c0 4.642.219 7.817.668 9.514.438 1.697 1.215 2.551 2.299 2.551 1.073 0 1.828-.832 2.266-2.485.422-1.664.646-4.85.646-9.579 0-4.751-.224-7.948-.646-9.612-.438-1.653-1.193-2.485-2.266-2.485-1.084 0-1.861.854-2.299 2.551-.449 1.7-.668 4.89-.668 9.55z" fill="#231F20"/>
+ <path d="m106.97 195.34v-34.464h-4.138v-10.444h15.885v44.908h-11.75z" fill="#231F20"/>
+ <path d="m138.03 195.34v-34.464h-4.138v-10.444h15.896v44.908h-11.76z" fill="#231F20"/>
+ <linearGradient id="ian_symbols_7cc5a32e6ee2aaf43589e2fcbbe33c80" y2="308.39" gradientUnits="userSpaceOnUse" x2="211.55" y1="320.23" x1="208.37">
+  <stop stop-color="#808285" offset=".0562"/>
+  <stop stop-color="#88898A" offset=".0617"/>
+  <stop stop-color="#9E9B97" offset=".0804"/>
+  <stop stop-color="#AFA9A1" offset=".1026"/>
+  <stop stop-color="#BAB3A9" offset=".13"/>
+  <stop stop-color="#C1B8AD" offset=".1685"/>
+  <stop stop-color="#C3BAAE" offset=".2753"/>
+  <stop stop-color="#92836E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_7cc5a32e6ee2aaf43589e2fcbbe33c80)" clip-rule="evenodd" d="m216.09 314.3c0 3.383-2.748 6.131-6.131 6.131-3.377 0-6.12-2.748-6.12-6.131s2.743-6.12 6.12-6.12c3.38.01 6.13 2.74 6.13 6.12z" fill-rule="evenodd"/>
+</svg>

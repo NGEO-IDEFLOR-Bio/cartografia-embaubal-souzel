@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="372" height="501" viewBox="0 0 372 501" xml:space="preserve">
+            <title>Ceriops australis</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Ceriops australis</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Ceriops australis</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, yellow, mangrove, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Ceriops, australis, estuarine, Australia</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-39ae909d221c48841d21d0dc96fc604f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Ceriops australis</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/ceriops-australis/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/ceriops-australis/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, yellow, mangrove, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Ceriops, australis, estuarine, Australia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Ceriops australis</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_f6f7a83d6da55bc4a5dcae627d497048" y2="-177.85" gradientUnits="userSpaceOnUse" x2="455.89" gradientTransform="matrix(.8308 0 0 .9018 -168.6 496.12)" y1="-177.85" x1="311.44">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="1.7299" d="m146.63 247.02l-28.922-73.161c-.331 6.439-15.891 22.367-4.109 46.279 31.649 64.197 22.304 83.767 22.997 110.3 1.095 42.711-25.162 43.979-30.954 73.391-5.355 27.246-45.218 49.124-48.367 55.125-1.689 3.21 32.653 9.085 39.403 4.078 13.438-9.981 27.024-24.308 26.014-22.969-4.825 6.23-2.7 57.142-2.7 57.142s12.285-3.474 22.04-13.188c6.865-6.787 7.899-28.642 10.876-29.533 1.507-.268 37.684 44.214 45.357 44.644 3.315.189-13.279-46.327-19.121-46.901 0 0 10.755 4.896 26.986 8.18 13.191 2.68 34.042 10.8 36.289 12.472 6.48 3.48-9.082-34.788-45.965-50.55-14.339-6.112-26.534-17.606-27.814-22.959-1.852-7.85-10.714-75.665-6.89-131.47 1.419-20.833 42.222-69.88 41.275-83.621-.692-10.14-21.391-8.052-22.009-11.951l-34.42 74.69z" fill="url(#ian_symbols_f6f7a83d6da55bc4a5dcae627d497048)"/>
+ <path stroke="#000" stroke-width="1.7299" d="m131.75 407.91s-14.019 16.976-9.778 34.711" fill="none"/>
+ <path stroke="#000" stroke-width="1.7299" d="m161.81 427.55s16.583 17.481 18.141 25.327" fill="none"/>
+ <radialGradient id="ian_symbols_a9af6dae3a766c74bd1129a85cd5dc18" gradientUnits="userSpaceOnUse" cy="138.35" cx="183.45" r="234.4">
+  <stop stop-color="#E5CC11" offset="0"/>
+  <stop stop-color="#496E6E" offset="1"/>
+ </radialGradient>
+ <path d="m195.55 236.41l-7.443-14.583c-4.859-9.626-19.405 7.538-16.671-24.256 3.419-14.323-1.273-5.862-10.687-1.632-2.088 0-16.012 3.747-16.803-4.467-.5-4.923-2.436-17.404 3.869-21.158 10.846-13.664 15.691 1.652 23.466-6.369.97-10.353-24.26-36.461-4.534-30.112 14.894 2.338 11.336-17.167-.321-23.064-7.764-6.349-14.076-3.308-16.515.483h-.314c-2.771 5.64-10.18 17.164-4.034 17.647 12.934 1.173 7.609 25.155 1.459 25.401l-8.105-7.051c-2.25-4.72-13.1-5.183-12.147 9.4 6.163 14.583 13.441 25.888 1.97 35.761-2.753 0-9.072-4.011-12.626-.703-4.375 3.987-2.277 17.884-5.031 25.645-6.619 18.573-36.396 12.245-22.814-39.062.335-1.166-.808-7.058-3.571-5.886-10.505 4.47-2.744 27.538-13.427 23.534-1.774-.706-1.774-6.349-4.034-12.008-5.828-15.046-8.583 8.481-7.119 12.954 1.615 4.957-1.146 15.536-8.91 11.066-4.342-2.605-4.694-18.82-11.481-14.35-6.616 4.7 4.062 19.516-6.936 29.149-10.871 9.67-15.729-17.171-9.89-22.807 5.997-5.896 4.051-12.684-7.454-9.157-11.319 3.504-7.765-26.841-.784-24.02 7.106 2.814 18.766 3.548 15.526-10.572-1.457-6.372-13.438 1.628-15.526-.257-10.535-10.116 11.157-35.058 11.157-35.058s.977-5.176-.314-7.977c-1.152-2.838-1.94-4.011-3.909-6.606-2.409-3.527-11.786 3.078-14.864.967-11.2.199-3.233-16.502-1.459-30.842 1.773-14.37 14.082-31.291 26.527-26.108 12.458 5.176 23.941 11.738 25.739-6.362 1.774-18.11 13.249-33.646 40.603-35.076 27.351-1.392 25.567 19.54 41.596 22.148 16.002 2.572 10.677-22.148 26.689-28.473 16.029-6.345 38.035 6.582 45.137 16.941 7.136 10.335 10.045 9.653 26.872-5.64 14.241-12.954 26.699-5.199 44.326 1.406 12.957 4.696 15.403 21.178 16.211 22.583 1.764 3.754 3.21 7.289 2.896 11.282-2.285 27.071 5.027 30.119 10.193 23.997 1.467-1.649 1.781-4.943 6-8.707 0 0 5.495-3.991 9.698 1.189 2.919 3.53 2.449 13.156 2.449 13.156 0 4.957-8.751 21.898 2.243 21.898v.479c11.492-.243 7.119-1.652 16.827-3.551 8.112 0 10.853 6.373 10.521 16.239-.312 4.233-2.409 10.603-5.832 10.603l-3.535.236c-24.448-7.771-33.673 14.586-13.262 23.753 13.404 2.845 29.589-20.705 32.325 11.056-1.625 11.762-3.233 11.525-16.637 19.056-2.427 5.19-.662 6.839 2.754 8.731 3.239 0 8.237 2.558 8.237 5.866 1.774 4.223 1.943 11.055-4.527 17.178-13.759 5.659-12.789-8.717-22.013-18.374-11.326-5.639-6.133 15.549-.14 23.777 1.761 11.539-5.527 11.539-11.825 5.659-1.301-3.774-9.224-10.14-9.224-10.14-3.565-1.159-9.228.49-9.228 6.839-.312 11.302 1.459 16.694 8.751 19.08 3.071.916 21.996 6.332 21.996 17.154.8 12.694-5.515 29.875-17.816 24.232-2.095 2.585-11.799-20.246-16.826-27.077-1.46-2.112-5.656-.923-5.656-.923-3.24 0-6.802 11.282-11.826 16.945-4.527 5.166-9.866 6.349-12.934-4.234-2.912-25.182 4.534-13.9-3.224-26.831-3.751-3.99-8.92 2.821-8.92 4.957-3.7 3.504-11.991 33.636-27.517 3.761-15.54-29.9-22.16.67-37.38-8.73z" fill-rule="evenodd" stroke="#000" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7299" fill="url(#ian_symbols_a9af6dae3a766c74bd1129a85cd5dc18)"/>
+</svg>

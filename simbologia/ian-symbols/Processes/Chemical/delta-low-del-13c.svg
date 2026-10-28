@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="521" height="403" viewBox="0 0 521 403" xml:space="preserve">
+            <title>Delta: low del 13C</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Delta: low del 13C</ian_image_library:title>
+                <ian_image_library:descr>Illustration of low del 13C delta</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, delta, change, low, nutrient, carbon, 13C</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e9ac38007c5e7974f12553ed2e8446f6">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Delta: low del 13C</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/delta-low-del-13c/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/delta-low-del-13c/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, delta, change, low, nutrient, carbon, 13C</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of low del 13C delta</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width="11.018" stroke-dasharray="33.0541,33.0541,33.0541,33.0541,33.0541" points="509.94 397.27 9.939 397.27 251.89 10.155" fill="#B9DA95"/>
+ <path d="m290.65 273.5l15.498 4.469c-3.418 16.085-9.414 28.087-17.966 35.998-8.562 7.91-18.961 11.87-31.229 11.87-10.786 0-20.012-2.633-27.657-7.877-7.655-5.266-13.917-13.706-18.784-25.311-4.878-11.616-7.312-25.322-7.312-41.12 0-15.609 2.434-28.818 7.301-39.626 4.878-10.797 11.472-18.961 19.802-24.481 8.33-5.509 17.623-8.264 27.889-8.264 11.217 0 20.875 3.463 28.939 10.41 8.076 6.925 13.718 17.125 16.948 30.555l-15.145 4.48c-5.167-19.503-15.532-29.271-31.075-29.271-7.754 0-14.458 1.98-20.145 5.94s-10.211 10.122-13.596 18.485c-3.396 8.375-5.094 18.961-5.094 31.772 0 19.371 3.435 33.907 10.271 43.597 6.859 9.68 15.975 14.525 27.336 14.525 8.407 0 15.653-2.998 21.76-8.961 6.1-5.98 10.19-15.05 12.25-27.2z" fill="#D2232A"/>
+</svg>

@@ -1,0 +1,94 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="325" height="501" viewBox="0 0 325 501" xml:space="preserve">
+            <title>Buoy</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Buoy</ian_image_library:title>
+                <ian_image_library:descr>Illustration of buoy</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, buoy, floating, device, water</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9e5ba9b513d0827475dcefbb756dae86">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Buoy</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/buoy/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/buoy/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, buoy, floating, device, water</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of buoy</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#806021" d="M181.544,499.995c-5.537,0-10.027-4.491-10.027-10.028V278.048c0-5.537,4.49-10.027,10.027-10.027
+	s10.027,4.49,10.027,10.027v211.919C191.572,495.504,187.082,499.995,181.544,499.995z"/>
+<radialGradient id="ian_symbols_f69fc8f9586085345dee17d03f15a315" cx="-8033.8452" cy="-7956.9155" r="21.561" gradientTransform="matrix(11.0531 0 0 11.0531 88901.4141 88019.3281)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFAC3"/>
+	<stop  offset="0.1621" style="stop-color:#FFFABB"/>
+	<stop  offset="0.696" style="stop-color:#FFF8A3"/>
+	<stop  offset="1" style="stop-color:#FFF79A"/>
+</radialGradient>
+<path fill="url(#ian_symbols_f69fc8f9586085345dee17d03f15a315)" d="M324.446,162.223c0,89.601-72.622,162.229-162.223,162.229C72.633,324.452,0,251.824,0,162.223
+	C0,72.627,72.633,0,162.223,0C251.824,0,324.446,72.627,324.446,162.223z"/>
+<path fill="#BE9A91" d="M113.478,46.895c4.274,6.919-2.85,19.084-15.943,27.158c-13.093,8.085-27.158,9.013-31.443,2.051
+	c-4.274-6.908,2.871-19.073,15.964-27.136C95.149,40.915,109.214,39.976,113.478,46.895z"/>
+<path fill="#806021" d="M182.7,338.564c-2.678,0-4.9-2.115-5.009-4.819c-0.237-6.12,6.002-7.513,18.426-10.292
+	c18.436-4.123,49.285-11.021,55.901-32.198l0.454-1.042c4.965-8.468,0.15-44.536-9.358-70.166
+	c-12.208-32.89-29.921-57.672-43.976-75.585c-8.387-10.664-21.793-21.669-35.987-33.315c-9.758-8.015-19.85-16.299-28.658-24.81
+	l-1.101-1.08C108.76,61.11,100.849,61.434,99.057,62.082c-1.878,0.68-2.472,4.755-2.645,6.477c-0.259,2.763-2.752,4.711-5.483,4.496
+	c-2.752-0.275-4.771-2.731-4.49-5.489c0.788-7.96,3.875-12.979,9.186-14.912c12.284-4.426,30.331,11.28,44.785,25.441l1.058,1.036
+	c8.506,8.225,18.436,16.375,28.043,24.26c14.637,12.008,28.453,23.353,37.509,34.875c14.519,18.49,32.803,44.099,45.497,78.294
+	c8.743,23.563,16.234,64.294,8.916,78.187c-8.614,26.299-42.701,33.925-63.124,38.491c-4.198,0.938-9.304,2.083-11.312,2.903
+	c-0.842,1.393-2.354,2.354-4.102,2.418C182.829,338.564,182.764,338.564,182.7,338.564z"/>
+</svg>

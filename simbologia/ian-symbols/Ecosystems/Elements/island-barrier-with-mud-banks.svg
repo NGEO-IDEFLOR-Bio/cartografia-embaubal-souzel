@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="98" viewBox="0 0 502 98" xml:space="preserve">
+            <title>Island: barrier with mud banks</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Island: barrier with mud banks</ian_image_library:title>
+                <ian_image_library:descr>Illustration of barrier island with mud banks</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, islbarrier, mud, banks</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c69f767b1acbfc14b193e796aca44469">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Island: barrier with mud banks</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/island-barrier-with-mud-banks/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/island-barrier-with-mud-banks/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, islbarrier, mud, banks</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of barrier island with mud banks</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".25" d="m492.68 30.47c-95.067 13.302-103.94-4.159-207.23-13.352-33.25-2.957-249.46-6.834-281.52 28.345-2.136 2.345-3.12 11.311-3.515 13.955-9.63 35.796 219.89 41.312 327.12 34.391 29.96-1.932 214.54-17.91 163.81-65.547" fill="#926F4D"/>
+ <linearGradient id="ian_symbols_e3acb02e775782f46d0b007e8c07e776" y2="16.064" gradientUnits="userSpaceOnUse" x2="481.69" gradientTransform="matrix(.8915 0 0 .9085 70.92 26.06)" y1="16.064" x1="-79.132">
+  <stop stop-color="#7FAA7F" offset="0"/>
+  <stop stop-color="#688361" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m481.07 18.03c-95.071 13.302-92.332-8.159-195.62-17.356-35.47-3.153-277.24 6.526-283.54 48.821-9.638 35.796 218.4 34.794 325.63 27.878 29.96-1.936 227.77-13.973 153.53-59.343" fill="url(#ian_symbols_e3acb02e775782f46d0b007e8c07e776)"/>
+</svg>

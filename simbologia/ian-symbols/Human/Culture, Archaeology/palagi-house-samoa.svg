@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="268" viewBox="0 0 501 268" xml:space="preserve">
+            <title>Palagi house (Samoa)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Palagi house (Samoa)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a Palagi (foreigner) house in Samoa. This style of housing is usually enclosed, built of concrete bricks and a corrugated iron roof.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, development, Samoa, modern, architecture, home, house, building, Palagi, foreigner</ian_image_library:contains>
+                    <ian_image_library:when>2012-05-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-403509a5849443b42db088ada4d9ab1e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Palagi house (Samoa)</dc:title>
+                <dc:date>2012-05-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/palagi-house-samoa/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/palagi-house-samoa/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, development, Samoa, modern, architecture, home, house, building, Palagi, foreigner</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a Palagi (foreigner) house in Samoa. This style of housing is usually enclosed, built of concrete bricks and a corrugated iron roof.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#D29F2B" points="32.143,143.506 32.143,193.578 326.614,266.823 326.614,216 "/>
+<polygon fill="#797D67" points="135.754,161.44 135.754,219.351 157.741,224.821 157.741,166.763 "/>
+<polygon fill="#B88927" points="326.614,216 326.614,266.823 467.123,148.735 467.123,106.881 "/>
+<polygon fill="#7C8169" points="53.817,149.482 53.817,180.873 118.84,197.317 118.84,164.433 "/>
+<polygon fill="#7C8169" points="177.884,180.126 177.884,213.011 225.717,224.969 225.717,192.084 "/>
+<polygon fill="#7C8169" points="256.359,201.053 256.359,227.21 305.686,240.666 305.686,213.011 "/>
+<polygon fill="#766C57" points="334.088,219.739 334.088,236.927 358.751,215.252 358.751,198.812 "/>
+<polygon fill="#766C57" points="371.457,189.096 371.457,204.789 397.613,183.861 397.613,168.915 "/>
+<polygon fill="#766C57" points="405.835,162.191 405.835,175.644 434.234,152.475 434.234,139.019 "/>
+<path fill="#961B20" d="M165.912,0.008c0,0,133.79,32.881,171.158,41.104C374.441,49.333,500,87.459,500,87.459L268.311,68.767
+	l-41.105-14.95L165.912,0.008"/>
+<polygon fill="#BB202E" points="334.829,224.979 271.299,59.809 242.154,52.337 0,138.283 "/>
+<path fill="#A91F27" d="M242.154,52.337L0,138.283c0,0,56.795-57.559,87.437-78.486c30.642-20.927,74.729-59.038,78.475-59.789
+	S242.154,52.337,242.154,52.337z"/>
+<polygon fill="#CC2031" points="334.829,224.979 271.299,59.809 500,87.459 "/>
+</svg>

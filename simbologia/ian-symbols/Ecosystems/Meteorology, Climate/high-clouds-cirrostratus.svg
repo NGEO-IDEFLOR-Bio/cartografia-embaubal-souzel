@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="179" viewBox="0 0 502 179" xml:space="preserve">
+            <title>High clouds: Cirrostratus</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>High clouds: Cirrostratus</ian_image_library:title>
+                <ian_image_library:descr>Illustration of cirrostratus clouds, thin, generally uniform clouds, composed of ice-crystals, capable of forming halos. When thick enough to be seen, they are whitish, usually with no distinguishing features.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, climate, weather, atmosphere, sky, ice, moisture</ian_image_library:contains>
+                    <ian_image_library:when>2005-06-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9c4d5480f5a567449d4f1c22ea93ed3b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>High clouds: Cirrostratus</dc:title>
+                <dc:date>2005-06-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/high-clouds-cirrostratus/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/high-clouds-cirrostratus/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, climate, weather, atmosphere, sky, ice, moisture</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of cirrostratus clouds, thin, generally uniform clouds, composed of ice-crystals, capable of forming halos. When thick enough to be seen, they are whitish, usually with no distinguishing features.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_04f05fddc0f96304f1aeaa673fc8f08a" y2="-21.951" gradientUnits="userSpaceOnUse" x2="370.29" y1="227.42" x1="120.91">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".9494"/>
+ </linearGradient>
+ <path opacity=".75" stroke="#92AABD" stroke-width="1.6562" d="m64.183.852c8.604.571 96.419 21.813 106.17 24.1 9.77 2.296 19.512-.572 28.122.571 8.61 1.165 22.385 13.188 30.418 16.66 8.039 3.439.577-6.319 31.572 1.725 30.979 8.022 30.413 13.187 42.457 14.319 12.066 1.165 23.528-13.198 36.731-5.726 13.204 7.462 53.375 14.913 53.375 14.913s16.066 13.802 19.517 14.923c3.44 1.154 56.232 15.506 57.958 16.077 1.73.572 24.11-1.725 20.659 1.714-3.444 3.461-21.813 3.461-27.544 6.879-5.731 3.472-14.913 5.165-12.621 9.198 2.285 4.011 16.643 5.748 25.824 8.044 9.176 2.286 30.984 28.682 21.798 29.265-9.188.561-50.507-16.648-55.655-16.066-5.182.583 6.885 8.022.571 8.594-6.313.572-28.698-1.143-28.698 1.154s1.72 10.901 9.182 10.33c7.461-.583 17.78 1.725 22.374 3.45 4.604 1.726 5.741 8.022 12.637 6.879 6.886-1.143 35.584 1.726 37.293 4.594 1.725 2.857-7.445 4.021-16.627 4.583-9.192.582-44.775.582-60.842 0-16.066-.562-51.078-13.188-61.414-13.77-10.313-.561-18.929-8.604-29.27-8.604-10.319 0-17.781-1.143-17.209.582.577 1.704 16.072 3.429 17.792 6.879 1.715 3.451-7.456 4.011-13.764 5.165-6.324 1.154-41.331 1.154-64.287-1.714-22.951-2.868-28.122-18.374-43.04-20.67-14.918-2.297-34.435-17.231-36.149-14.913-1.73 2.275 2.286 8.044 2.847 10.319.583 2.297 2.308 6.89-5.154 6.89-7.467 0-40.166-6.33-49.347-4.593-9.192 1.725-22.967 6.89-29.27-1.736-6.313-8.604-40.753-9.726-51.078-14.33-10.335-4.583-6.879-10.33-12.632-10.901-5.742-.583-29.836.571-13.198-3.461 16.649-4 25.259 6.319 31.572 8.044 6.313 1.736 10.896 0 17.792 0 6.885 0 12.626 8.044 18.935 7.451 6.308-.55 16.061-2.275 28.688-2.275s23.539 2.275 30.99 2.868c7.473.561 16.077-4.593 16.077-4.593s4.593-8.033-1.725-8.033c-6.303 0-13.764 1.725-25.253-2.308-11.479-3.99-40.166-9.737-47.051-9.737-6.901 0-13.204-8.044-20.66-8.044-7.457 0-14.357-.583-19.522-.583s-9.181-8.033-17.214-11.473c-8.033-3.448-28.699-11.481-24.105-12.064 4.588-.561 43.611 8.616 60.265 9.187 16.638.593 30.418 7.461 37.309 6.89 6.879-.582 12.044-5.747 12.044-5.747l9.764-1.143s20.072-3.44 4.011-8.604c-16.066-5.176-18.368-5.176-33.281-6.319-14.929-1.122-43.05-17.21-55.677-18.353-12.621-1.164-38.456-18.956-35.583-21.824 2.879-2.857 32.715 10.341 39.605 10.923 6.89.572 6.89 5.144 16.633 4.572 9.764-.583 16.083 4.593 25.269 5.165 9.171.572 13.764 9.187 25.232 9.759 11.483.582 25.259 7.472 40.182 8.637 14.918 1.122 37.303 8.572 38.457 10.309 1.148 1.736 14.347 2.868 18.924 4.593 4.594 1.736 16.648-6.89 11.495-11.483-5.176-4.583-25.259-3.418-26.402-8.605-1.154-5.176 19.501-1.165 22.375-3.45 2.868-2.297-12.039-6.879-24.1-11.473-12.055-4.583-41.891-12.626-59.111-14.923-17.215-2.297-40.171-14.902-52.809-17.231-12.618-2.277-21.218-12.036-12.618-11.464z" fill="url(#ian_symbols_04f05fddc0f96304f1aeaa673fc8f08a)"/>
+</svg>

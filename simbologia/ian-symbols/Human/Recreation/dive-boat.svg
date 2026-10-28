@@ -1,0 +1,111 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="303" viewBox="0 0 500 303" xml:space="preserve">
+            <title>Dive boat</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Dive boat</ian_image_library:title>
+                <ian_image_library:descr>A commercial dive boat for tourists who want to snorkel or dive the coral reef. </ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>tourism, recreation, water sport, scuba, vessel, watercraft, marine, SCUBA</ian_image_library:contains>
+                    <ian_image_library:when>2015-02-25</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c01d847fff9bff64f93f2bc8f7ec3906">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Dive boat</dc:title>
+                <dc:date>2015-02-25</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/dive-boat/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/dive-boat/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>tourism, recreation, water sport, scuba, vessel, watercraft, marine, SCUBA</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>A commercial dive boat for tourists who want to snorkel or dive the coral reef. </dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_1bbda7d2708f5774958d9f9e85ccd695">
+	<g id="ian_symbols_7c4a1f1499aaf4248983674ba6251dd7">
+	</g>
+	<rect x="269.6" y="1.4" width="85.4" height="62.6"/>
+	<g>
+		<polygon fill="#D72028" points="355,1.4 284.4,1.4 355,52.8 		"/>
+		<polygon fill="#D72028" points="269.6,64 340.1,64 269.6,12.7 		"/>
+		<polygon fill="#FFFFFF" points="355,52.8 284.4,1.4 269.6,1.4 269.6,12.7 340.1,64 355,64 		"/>
+		<rect x="267.1" fill="#808285" width="5.7" height="122.4"/>
+	</g>
+	<path fill="#D2D3D4" d="M370.5,271.8c0,4.3-3.5,7.7-7.7,7.7l0,0c-4.3,0-7.7-3.5-7.7-7.7v-58.5c0-4.3,3.5-7.7,7.7-7.7l0,0
+		c4.3,0,7.7,3.5,7.7,7.7V271.8z"/>
+	<path fill="#D2D3D4" d="M395.4,271.8c0,4.3-3.5,7.7-7.7,7.7l0,0c-4.3,0-7.7-3.5-7.7-7.7v-58.5c0-4.3,3.5-7.7,7.7-7.7l0,0
+		c4.3,0,7.7,3.5,7.7,7.7V271.8z"/>
+	<path fill="#D2D3D4" d="M422.7,271.8c0,4.3-3.5,7.7-7.7,7.7l0,0c-4.3,0-7.7-3.5-7.7-7.7v-58.5c0-4.3,3.5-7.7,7.7-7.7l0,0
+		c4.3,0,7.7,3.5,7.7,7.7V271.8z"/>
+	<path fill="#E6EFF3" d="M494.5,234.8l-148.9-5.2l17,45.6l137.4,5.4L494.5,234.8z M364.9,271.6l-5-37.1l29.4,0.8l5.4,37L364.9,271.6
+		z M403.7,273.6l-6.1-36.5l41.9,1.2l6.1,36.5L403.7,273.6z M447.9,238l40.4,0.9l5,37.5l-39.3-0.9L447.9,238z"/>
+	<path fill="#E6EFF3" d="M298.5,127.1l-153.2-4.7l-43.2,97.4v9.9l179.6,3.2l0.5-26.5l-0.9-57.5L298.5,127.1z M218.9,203.6l-94.1-1.8
+		l30.2-63.2l76.8,2L218.9,203.6z"/>
+	<g>
+		<path fill="#E6EFF3" d="M209.7,228l24.5-30.8H324c5.3,15.9-6.2,45.1-6.2,45.1L209.7,228z"/>
+	</g>
+		<linearGradient id="ian_symbols_bccd3483bdc02f2429eeacc973448d02" gradientUnits="userSpaceOnUse" x1="0" y1="48" x2="499.8576" y2="48" gradientTransform="matrix(1 0 0 -1 0 306)">
+		<stop  offset="0.1027" style="stop-color:#E6EFF3"/>
+		<stop  offset="0.8461" style="stop-color:#D3DBDF"/>
+		<stop  offset="1" style="stop-color:#A7A9AC"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_bccd3483bdc02f2429eeacc973448d02)" d="M488.2,303.2h-471L5.7,260.5l-2.9-15.9L0,212.8l138.7,5.8l6.1,5.3l217.9,6.4l38.3,35.3l90.8-0.3
+		c0,0,4.5,2.9,6.4,12.5s2.5,10.5,0,14.5C495.8,295.9,488.2,303.2,488.2,303.2z"/>
+	<polygon fill="#CE3927" points="401,265.4 5.8,260.3 2.9,244.6 387.7,252.6 	"/>
+	<path fill="#5473B8" d="M488.2,303.2h-471l-3.9-14.7c0,0,69.8,3.6,145.5,4.3c75.8,0.7,339.3-0.8,339.3-0.8
+		C498.7,295.5,488.2,303.2,488.2,303.2z"/>
+	<rect x="149.3" y="232.9" fill="#BDE6FA" width="24.1" height="9.6"/>
+	<rect x="204.5" y="232.9" fill="#BDE6FA" width="24.1" height="9.6"/>
+	<polygon fill="#5473B8" points="303.8,132.2 133.5,126.2 127.7,112.6 309.6,119.7 	"/>
+	<path fill="#5473B8" d="M174,243.2h-25.5v-11H174V243.2z M150,241.7h22.6v-8.2H150V241.7z"/>
+	<path fill="#5473B8" d="M229.2,243.2h-25.5v-11h25.5V243.2z M205.2,241.7h22.6v-8.2h-22.6V241.7z"/>
+</g>
+</svg>

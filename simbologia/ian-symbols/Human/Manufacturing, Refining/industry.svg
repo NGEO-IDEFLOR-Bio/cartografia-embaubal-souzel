@@ -1,0 +1,119 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="258" height="501" viewBox="0 0 258 501" xml:space="preserve">
+            <title>Industry</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Industry</ian_image_library:title>
+                <ian_image_library:descr>Illustration of industrial power plant</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, industry, industrial, power, plant, smoke, stacks, air, pollution, production, coal</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6e9b3127043b0ae4510721cfb090892d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Industry</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/industry/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/industry/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, industry, industrial, power, plant, smoke, stacks, air, pollution, production, coal</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of industrial power plant</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_e8fee843de1260b44df329cd31cb3198" y2="861.03" gradientUnits="userSpaceOnUse" x2="-156.16" gradientTransform="matrix(1.7151 -1.3563 1.2009 1.937 -681.85 -1574.3)" y1="861.03" x1="-211.12">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <polygon points=".182 305.83 41.882 294.3 86.992 369.27 45.28 380.81 .182 305.83" fill="url(#ian_symbols_e8fee843de1260b44df329cd31cb3198)"/>
+ <polygon stroke-linejoin="bevel" stroke="#000" stroke-width=".3301" points=".182 305.83 41.882 294.3 86.992 369.27 45.28 380.81 .182 305.83" fill="none"/>
+ <linearGradient id="ian_symbols_89fc80ec8e37a544f122cb1c3778b398" y2="871.24" gradientUnits="userSpaceOnUse" x2="-144.89" gradientTransform="matrix(1.6938 -1.3899 1.2306 1.913 -699.77 -1563.3)" y1="871.24" x1="-200.08">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <polygon points="43.57 305.83 85.282 295.25 130.39 369.27 89.535 380.81 43.57 305.83" fill="url(#ian_symbols_89fc80ec8e37a544f122cb1c3778b398)"/>
+ <polygon stroke-linejoin="bevel" stroke="#000" stroke-width=".3301" points="43.57 305.83 85.282 295.25 130.39 369.27 89.535 380.81 43.57 305.83" fill="none"/>
+ <linearGradient id="ian_symbols_ba0aa0acba4e61e47d77bb9c2832edb3" y2="881.74" gradientUnits="userSpaceOnUse" x2="-132.99" gradientTransform="matrix(1.6938 -1.3899 1.2306 1.913 -692.88 -1562.4)" y1="881.74" x1="-188.8">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <polygon points="86.992 305.83 128.69 295.25 175.5 371.2 134.64 382.72 86.992 305.83" fill="url(#ian_symbols_ba0aa0acba4e61e47d77bb9c2832edb3)"/>
+ <polygon stroke-linejoin="bevel" stroke="#000" stroke-width=".3301" points="86.992 305.83 128.69 295.25 175.5 371.2 134.64 382.72 86.992 305.83" fill="none"/>
+ <linearGradient id="ian_symbols_a4a7eae804e4f32415775b9fdedf83e0" y2="841.74" gradientUnits="userSpaceOnUse" x2="-307.44" gradientTransform="matrix(-.0365 -2.3642 2.0934 -.0413 -1597.1 -322.82)" y1="841.74" x1="-313.26">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <polygon points="134.64 382.72 175.5 371.2 218.05 371.2 178.05 382.72 134.64 382.72" fill="url(#ian_symbols_a4a7eae804e4f32415775b9fdedf83e0)"/>
+ <polygon stroke-linejoin="bevel" stroke="#000" stroke-width=".3301" points="134.64 382.72 175.5 371.2 218.05 371.2 178.05 382.72 134.64 382.72" fill="none"/>
+ <linearGradient id="ian_symbols_dbc56c29a0c34754d5c804740ec24ec6" y2="856.14" gradientUnits="userSpaceOnUse" x2="-261.76" gradientTransform="matrix(-.0365 -2.3642 2.0934 -.0413 -1591 -346.46)" y1="856.14" x1="-267.07">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <polygon points="172.93 241.43 213.8 230.86 248.69 230.86 207.83 241.43 172.93 241.43" fill="url(#ian_symbols_dbc56c29a0c34754d5c804740ec24ec6)"/>
+ <polygon stroke-linejoin="bevel" stroke="#000" stroke-width=".3301" points="172.93 241.43 213.8 230.86 248.69 230.86 207.83 241.43 172.93 241.43" fill="none"/>
+ <linearGradient id="ian_symbols_98ae62ee9b0fce54d5a53fc96e397c3a" y2="865.85" gradientUnits="userSpaceOnUse" x2="-21.074" gradientTransform="matrix(2.0857 -.2061 .1825 2.3556 152.39 -1677.3)" y1="865.85" x1="-57.57">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <polygon points="201.88 250.08 242.73 240.47 257.21 487.5 217.21 500 201.88 250.08" fill="url(#ian_symbols_98ae62ee9b0fce54d5a53fc96e397c3a)"/>
+ <polygon stroke-linejoin="bevel" stroke="#000" stroke-width=".3301" points="201.88 250.08 242.73 240.47 257.21 487.5 217.21 500 201.88 250.08" fill="none"/>
+ <linearGradient id="ian_symbols_6e33dc17f0bd4c843d950668ccdfaced" y2="815.98" gradientUnits="userSpaceOnUse" x2="-25.444" gradientTransform="matrix(2.0908 -.1238 .1096 2.3614 208.04 -1690.5)" y1="815.98" x1="-45.357">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <polygon points="207.83 241.43 248.69 230.86 248.69 240.47 207.83 250.08 207.83 241.43" fill="url(#ian_symbols_6e33dc17f0bd4c843d950668ccdfaced)"/>
+ <polygon stroke-linejoin="bevel" stroke="#000" stroke-width=".3301" points="207.83 241.43 248.69 230.86 248.69 240.47 207.83 250.08 207.83 241.43" fill="none"/>
+ <polygon points="5.274 498.07 .182 305.83 45.28 380.81 43.57 305.83 89.535 380.81 86.992 305.83 134.64 382.72 178.05 382.72 178.89 251.04 173.8 251.04 172.93 241.43 207.83 241.43 207.83 250.08 201.88 250.08 217.21 500 5.274 498.07" fill="#fff"/>
+ <polygon stroke="#000" stroke-width=".3301" points="5.274 498.07 .182 305.83 45.28 380.81 43.57 305.83 89.535 380.81 86.992 305.83 134.64 382.72 178.05 382.72 178.89 251.04 173.8 251.04 172.93 241.43 207.83 241.43 207.83 250.08 201.88 250.08 217.21 500 5.274 498.07" fill="none"/>
+ <path d="m217.96 196.36c10.108-5.542 16.841-16.938 16.43-29.341-.4-11.429-6.613-21.159-15.866-26.559 3.82-6.559 5.769-14.275 5.509-22.273-.53-15.477-9.081-28.735-21.462-35.802.119-1.136.271-2.37.216-3.517-.13-4.394-1.764-8.215-4.404-11.115 0 0 12.521-12.132 7.966-40.304-4.665-28.28-32.241-31.917-42.074-23.388-3.593-2.349-8.388-3.506-13.058-3.344-9.833.335-17.874 7.111-20.212 16.256-9.979 1.223-17.771 10.108-17.414 20.65 0 0-1.202 19.222 28.756 38.627 0 0-9.103 19.492 11.753 35.239 20.948 15.747 11.83 29.524 6.396 32.695l4.059 5.845s22.669-1.028 23.578 17.944c0 0 .107 3.257-1.754 7.803 0 0-4.308 13.344 11.526 18.442 0 0 9.124 1.277 4.524 11.191-4.503 9.935 3.128 14.243 8.81 10.888 5.75-3.27 10.45-12.66 6.69-19.92z" fill="#939598"/>
+ <path d="m204.05 182.92c22.111-25.044-8.409-37.566-8.409-37.566 12.598-38.432-19.644-42.263-19.644-42.263l-4.34-6.018c11.548-25.477-11.305-37.729-14.974-39.352-3.571-1.731-7.532-4.243-7.532-4.243-4.567-2.392-19.86-17.543-9.103-34.968 11.115-17.273 26.191-3.539 26.191-3.539 2.944-3.961 7.148-4.459 7.148-4.459 12.024-3.312 18.572 10.379 18.572 10.379 12.76 28.691-7.252 48.292-7.252 48.292 5.087 2.197 8.681 7.089 8.886 12.977.087 2.641-.725 5.043-1.699 7.002 12.122 4.351 20.867 15.671 21.321 29.384.281 8.518-2.868 16.624-8.312 22.631l2.641 4.751c8.874 2.078 15.649 9.936 15.975 19.524 0 0 1.937 13.215-15.585 23.486l-3.91-6.01z" fill="#E6E7E8"/>
+</svg>

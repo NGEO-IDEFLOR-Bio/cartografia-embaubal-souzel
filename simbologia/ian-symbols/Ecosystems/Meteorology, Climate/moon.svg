@@ -1,0 +1,104 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="473" height="498" viewBox="0 0 473 498" xml:space="preserve">
+            <title>Moon</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Moon</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a waning gibbous moon.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>night sky, lunar, astronomy, space, moon, waning, gibbous</ian_image_library:contains>
+                    <ian_image_library:when>2010-07-30</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-07ecb537e48e82e4b5c9cfb70eea05b4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Moon</dc:title>
+                <dc:date>2010-07-30</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/moon/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/moon/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>night sky, lunar, astronomy, space, moon, waning, gibbous</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a waning gibbous moon.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<radialGradient id="ian_symbols_0cd4baaea775bd747d9e8227dcb85d45" cx="-8027.8589" cy="8581.4551" r="23.3431" gradientTransform="matrix(9.3611 8.2411 6.0737 -6.8992 23225.6484 125624.25)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.2521" style="stop-color:#FAF9F9"/>
+	<stop  offset="0.5815" style="stop-color:#EAE9E9"/>
+	<stop  offset="0.9523" style="stop-color:#D1CFCF"/>
+	<stop  offset="1" style="stop-color:#CDCBCA"/>
+</radialGradient>
+<path fill="url(#ian_symbols_0cd4baaea775bd747d9e8227dcb85d45)" d="M137.021,6.532C127.4,1.705,115.333,0,115.333,0S37.261,27.434,7.61,154.529
+	c-29.658,127.099,36.94,213.425,36.94,213.425s92.51,151.785,248.954,127.071c154.03-24.333,178.566-88.075,178.566-88.075
+	s-45.806-109.144-143.067-235.494C259.214,80.797,173.52,24.843,137.021,6.532z"/>
+<path fill="#CDCBCA" d="M112.963,222.22c-12.212,6.674-18.579-9.228-21.452-19.099c-3.989-13.7-1.037-17.519,3.528-31.335
+	c5.519-16.705,12.229-46.761,34.499-46.375c15.355,0.273,43.048,26.729,40.741,42.279c-2.525,17.037-32.146,38.337-42.543,50.16
+	c19.977,8.423,26.801,13.093,36.77,34.354c6.23,13.288,7.786,20.522,6.894,32.233c0.086-1.164-5.305,10.16-5.509,10.802
+	c-0.376,1.219,3.878,12.259,4.34,14.362c-13.732,8.166-21.973-11.16-39.114-4.254c-15.479,6.25-23.534,23.369-37.14,0.748
+	c-3.014-5.023-16.82-37.568-15.578-42.777c4.267-17.927,35.408-8.961,31.042-35.284L112.963,222.22z"/>
+<path fill="#CDCBCA" d="M66.097,295.361c-5.049-10.769-20.379-50.362-31.521-19.312c-6.868,19.147,13.981,45.599,32.763,31.761
+	c0.057-2.703,2.84-4.738,2.009-7.228L66.097,295.361z"/>
+<path fill="#CDCBCA" d="M138.911,397.498c-9.435-17.254,5.075-42.997-4.444-58.321c-3.667-5.915-39.802-19.178-46.275-15.31
+	c-12.743,7.609-4.114,43.771,3.185,52.18c8.168,9.434,12.221,4.434,22.361,8.719c8.645,3.66,11.553,16.966,22.611,14.484
+	L138.911,397.498z"/>
+<path fill="#CDCBCA" d="M103.015,12.248C92.458,18.94,92.84,24.733,91.854,35.842c-1.657,18.614,0.651,20.182,15.618,23.025
+	c15.652,2.972,28.573-1.418,42.644-6.926c14.412-5.627,25.288-10.289,21.04,8.826c-2.686,12.088-26.019,23.963-8.396,37.607
+	c6.833,5.292,13.442-2.63,20.125,1.924c4.949,3.382,3.261,11.445,6.588,16.174c6.633,9.413,20.22,15.869,23.796,27.126
+	c4.003,12.598-9.776,24.25,1.919,35.178c14.531-9.275,16.95-18.877,27.958-28.578c21.979-19.366,27.261-2.424,35.381,16.805
+	c5.992,14.187,21.459,50.714,39.396,56.825c11.612,3.952,24.67-5.796,35.716-11.056c-2.69-22.985-29.352-50.75-42.852-69.946
+	c-18.063-25.69-36.931-52.804-58.595-75.012C228.806,43.846,134.868-18.291,105.21,9.746L103.015,12.248z"/>
+<path fill="#CDCBCA" d="M461.431,383.87c-18.449-26.271-22.983-35.234-54.22-18.136c-21.873,11.979-44.212,24.295-61.085,42.806
+	c-5.74,6.291-10.356,22.108-19.273,25.039c-14.643,4.819-11.568-9.011-18.976-16.501c-9.523-9.625-15.339-13.752-17.543,0.685
+	c-1.611,10.618,12.92,14.102-0.957,25.786c-13.761-17.054-16.732-6.769-34.009-1.812c-13.495,3.88-30.066-5.239-41.337,4.62
+	c22.122,43.076,91.942,22.604,127.052,12.32c19.767-5.783,149.474-37.73,121.167-71.81L461.431,383.87z"/>
+</svg>

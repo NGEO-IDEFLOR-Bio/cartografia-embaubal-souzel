@@ -1,0 +1,133 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="418" viewBox="0 0 501 418" xml:space="preserve">
+            <title>Spartina spp. (Salt Marsh Grass)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Spartina spp. (Salt Marsh Grass)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Spartina spp. (Salt Marsh Grass)</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>grass, graminoid, salt, marsh, wetland, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Liliopsida, monocot, Commelinidae, Cyperales, Poaceae, Spartina, sp. North, America</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5872bcc22280bfc4e528d2d8edf6d26c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Spartina spp. (Salt Marsh Grass)</dc:title>
+                <dc:date>2004-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/spartina-spp-salt-marsh-grass/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/spartina-spp-salt-marsh-grass/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>grass, graminoid, salt, marsh, wetland, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Liliopsida, monocot, Commelinidae, Cyperales, Poaceae, Spartina, sp. North, America</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Spartina spp. (Salt Marsh Grass)</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_86d47369b707d8e411ad60f58d1e9f99" y2="247.16" gradientUnits="userSpaceOnUse" x2="316.78" y1="247.16" x1="277.98">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m287.26 142.92c18.157 62.19 36.509 135.33 10.361 246-.938 3.952 4.823 14.029 4.823 14.029 30.991-119.59 4.891-209.03-14.191-274.32l-10.27-37.26 9.28 51.55z" fill="url(#ian_symbols_86d47369b707d8e411ad60f58d1e9f99)"/>
+ <path d="m180.12 195.16c10.131 17.603 23.405 29.883 37.461 42.872 32.247 29.822 65.588 60.644 67.933 162.42l8.051-.176c-2.404-105.2-38.596-138.66-70.512-168.16-13.591-12.57-26.425-24.438-35.949-40.987l-6.98 4.04z" fill="#668929"/>
+ <linearGradient id="ian_symbols_faaa43025377b3a4a1d922339f4f7de8" y2="278.51" gradientUnits="userSpaceOnUse" x2="331.77" y1="278.51" x1="270.87">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m288.88 217.01c23.952 36.827 48.701 74.876 25.958 174.14l7.85 1.796c23.506-102.59-3.357-143.87-27.046-180.32-10.085-15.516-19.616-30.173-24.776-48.539.01-.01 7.6 36.89 18.02 52.92z" fill="url(#ian_symbols_faaa43025377b3a4a1d922339f4f7de8)"/>
+ <path d="m225.2 381.28l7.808 2.02c29.606-114.22-2.263-224.79-25.533-295.14l-14.671-33.997c0-.004 69.63 186.9 32.39 327.12z" fill="#668929"/>
+ <path d="m163.28 237.44c27.228 22.041 45.486 35.226 49.478 120.56l9.713 23.107c-2.458-108.14-25.27-126.6-54.139-149.94-10.97-8.862-22.311-18.028-33.78-33.436 0 .01 17.89 30.95 28.73 39.71z" fill="#668929"/>
+ <path d="m294.53 362.54c0 .054 2.729 45.195 2.729 45.195.196 5.289.29 8.18 4.134 8.343 3.83.128 4.201-3.148 4.627-6.951 14.36-191.73 186.65-333.86 186.65-333.86-131.61 99.11-174.99 225.83-189.33 299.31-.317-5.128-.776-12.746-.776-12.746-15.91-159.07-210.49-317.13-212.45-318.71-.002.001 188.85 163.82 204.42 319.42z" fill="#668929"/>
+ <path d="m271.67 297.5c0 18.123 1.121 34.604 2.763 49.35-61.69-137.71-190.71-188.23-192.05-188.75 0 0 133.51 60.657 190.9 205.95 2.797 7.491 4.972 13.598 6.877 19.082 3.856 18.353 7.902 29.795 9.423 31.302l5.16.561c.797-.514 1.642-1.054 1.642-3.573 0-3.735-1.979-12.078-8.552-30.869-3.884-19.677-7.552-47.823-7.552-81.59-4.829-117.03 54.855-227.22 54.855-227.22-49.98 79.46-63.47 161.73-63.47 225.76z" fill="#C6A571"/>
+ <linearGradient id="ian_symbols_bce7ccc6e6868b04b98565e30eebecbd" y2="250.85" gradientUnits="userSpaceOnUse" x2="500" y1="250.85" x1="154.39">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m336.99 345.35c-3.194 16.711-4.403 30.849-4.403 41.102 0 9.822.986 16.252 2.04 18.394 1.581 3.188 4.153 3.775 6.053 3.235 4.282-1.175 6.437-10.706 6.437-28.377 0-8.632-.527-19.176-1.533-31.652-.081-.771-.284-1.492-.365-2.249 15.348-121.31 154.78-239.76 154.78-239.76-100.76 75.855-142.26 159.05-158.24 218.52-29.44-145.16-185.73-230.26-187.37-231.13 0 .001 164.91 98.92 182.6 251.92z" fill="url(#ian_symbols_bce7ccc6e6868b04b98565e30eebecbd)"/>
+ <linearGradient id="ian_symbols_29f74e0dacf4a6c4fd0cfec976693a53" y2="234.23" gradientUnits="userSpaceOnUse" x2="357.64" y1="234.23" x1="307.93">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m320.38 135.83c21.386 61.758 45.878 141.06 17.299 251.32l7.795 2.026c29.193-112.62-.54-198.53-22.256-261.24-6.344-18.298-11.814-34.131-15.286-48.653 0 0 6.31 38.793 12.45 56.543z" fill="url(#ian_symbols_29f74e0dacf4a6c4fd0cfec976693a53)"/>
+ <linearGradient id="ian_symbols_b5855ebf106a78240502329f5976f5cc" y2="261.09" gradientUnits="userSpaceOnUse" x2="439.36" y1="261.09" x1="179.17">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m313.66 352.8c.831 7.693 1.263 13.401 1.723 19.318-1.276 9.821-2.08 18.724-2.08 25.357 0 8.68.878 14.388 2.087 16.394l5.174 2.02c1.271-.446 4.263-1.459 4.263-19.353 0-5.896-.507-14.529-1.331-24.668-.757-101.27 115.87-229.89 115.87-229.89-74.821 71.275-106.6 148.59-118.92 202.78-23.102-154.01-140.06-237.65-141.27-238.48 0 0 114.52 91.57 134.49 246.52z" fill="url(#ian_symbols_b5855ebf106a78240502329f5976f5cc)"/>
+ <linearGradient id="ian_symbols_48431279561965a441c8f4859d932a83" y2="244.97" gradientUnits="userSpaceOnUse" x2="387.55" y1="244.97" x1="41.913">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m224.55 339.5c-3.208 16.704-4.411 30.821-4.411 41.074 0 9.85.986 16.259 2.046 18.414 1.561 3.175 4.154 3.756 6.032 3.242 4.282-1.195 6.444-10.706 6.444-28.396 0-8.612-.52-19.184-1.533-31.659-.088-.771-.284-1.459-.365-2.223 11.942-120.18 154.79-239.78 154.79-239.78-100.76 75.855-142.28 159.07-158.27 218.51-29.41-145.15-185.7-230.24-187.37-231.12.003-.003 164.95 98.93 182.64 251.95z" fill="url(#ian_symbols_48431279561965a441c8f4859d932a83)"/>
+ <linearGradient id="ian_symbols_5f6e7b979a9786745559778095584d52" y2="195.11" gradientUnits="userSpaceOnUse" x2="277.57" y1="195.11" x1="12.963">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m210.77 259.57c0 31.321 2.493 64.305 6.734 98.409-1.364-3.601-6.133-16.455-6.133-16.455-58.77-148.76-197.02-202.51-198.41-203.05 0 0 133.5 60.657 190.9 205.94-.041-.061 6.951 18.718 6.951 18.718 10.341 27.849 10.341 27.849 14.597 26.769 4.086-1.027 3.85-2.669 1.634-18.501-37.9-228.48 50.53-371.4 50.53-371.4-44.46 70.688-66.8 157.68-66.8 259.57z" fill="url(#ian_symbols_5f6e7b979a9786745559778095584d52)"/>
+ <linearGradient id="ian_symbols_c5f61fcfae67e734cd231af9c910bd29" y2="223.64" gradientUnits="userSpaceOnUse" x2="439.7" y1="223.64">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m267.22 359.76c-1.054 11.037-1.513 20.817-1.513 28.822 0 13.584 1.161 22.331 2.316 24.669l5.289 2.647c1.945-.54 4.58-1.277 4.58-18.812 0-7.539-.487-18.171-1.729-33.193-.108-1.168-.507-2.357-.648-3.525 4.66-159.51 164.19-301.19 164.19-301.19-116.65 87.818-156.82 200.55-169.09 275.11-40.38-149.67-260.66-296.34-270.62-302.91 0-.002 246.99 174.31 267.22 328.37z" fill="url(#ian_symbols_c5f61fcfae67e734cd231af9c910bd29)"/>
+ <linearGradient id="ian_symbols_0aacbd7e59e2dce469a8c4c4b8d8449f" y2="264.58" gradientUnits="userSpaceOnUse" x2="291.76" y1="264.58" x1="258.88">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m268.25 402.99l7.802 2.02c30.687-118.42 9.814-202.44-6.957-258.56l-10.213-22.297c0 .01 46.12 147.64 9.37 278.84z" fill="url(#ian_symbols_0aacbd7e59e2dce469a8c4c4b8d8449f)"/>
+ <linearGradient id="ian_symbols_720a7b4487608e34ed3d7bae218ea7e0" y2="256.51" gradientUnits="userSpaceOnUse" x2="377.21" y1="256.51" x1="109.74">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m244.22 347.34c2.013 18.217 2.912 31.477 3.263 40.94-.581 5.788-.871 10.794-.871 14.421 0 4.316.331 6.964.756 7.688l4.864 1.797c1.073-.358 3.532-1.196 3.532-17.083 0-1.513-.067-3.397-.108-5.201-.304-98.011 121.56-243.31 121.56-243.31-80.921 77.071-112.35 157.66-124.02 209.32-.317-3.127-.602-6.045-.979-9.511-20.413-158.67-141.23-244.71-142.46-245.57-.01-.01 114.53 91.57 134.47 246.5z" fill="url(#ian_symbols_720a7b4487608e34ed3d7bae218ea7e0)"/>
+ <linearGradient id="ian_symbols_16f8b0dbbdb8b32451f3820faa153afb" y2="273.05" gradientUnits="userSpaceOnUse" x2="262.35" y1="273.05" x1="201.45">
+  <stop stop-color="#9D8B54" offset="0"/>
+  <stop stop-color="#5D954A" offset="1"/>
+ </linearGradient>
+ <path d="m219.47 211.57c22.925 35.246 46.607 71.668 28.572 161.91-.797 3.965 5.222 14.016 5.222 14.016 23.506-102.59-3.351-143.87-27.053-180.31-10.078-15.522-19.602-30.18-24.763-48.573 0-.01 7.59 36.89 18.02 52.95z" fill="url(#ian_symbols_16f8b0dbbdb8b32451f3820faa153afb)"/>
+</svg>

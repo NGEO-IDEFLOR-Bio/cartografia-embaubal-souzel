@@ -1,0 +1,104 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="220" viewBox="0 0 502 220" xml:space="preserve">
+            <title>Incubation chamber</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Incubation chamber</ian_image_library:title>
+                <ian_image_library:descr>Illustration of incubation chamber</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, incubation, incubate, chamber, tube</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-bf2eb1bc2aabe1d4b52e50869a0682d7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Incubation chamber</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/incubation-chamber/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/incubation-chamber/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, incubation, incubate, chamber, tube</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of incubation chamber</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" d="m420.83 109.38c0 60.142 17.832 108.85 39.829 108.85 22.007 0 39.839-48.713 39.839-108.85 0-60.121-17.832-108.88-39.839-108.88-22 0-39.83 48.755-39.83 108.88z" fill="none"/>
+ <line y2=".5" x2="38.454" stroke="#231F20" y1=".5" x1="460.66" fill="none"/>
+ <path stroke="#231F20" d="m82.841.5c-22.05 0-39.86 48.755-39.86 108.88 0 60.142 17.81 108.85 39.86 108.85" fill="none"/>
+ <path stroke="#231F20" d="m40.296.5c-21.964 0-39.796 48.755-39.796 108.88 0 60.142 17.832 108.85 39.796 108.85" fill="none"/>
+ <path stroke="#231F20" d="m50.927.5c-21.986 0-39.818 48.755-39.818 108.88 0 60.142 17.832 108.85 39.818 108.85" fill="none"/>
+ <path stroke="#231F20" d="m61.526.5c-21.975 0-39.786 48.755-39.786 108.88 0 60.142 17.811 108.85 39.786 108.85" fill="none"/>
+ <path stroke="#231F20" d="m72.178.5c-22.018 0-39.844 48.755-39.844 108.88 0 60.142 17.826 108.85 39.844 108.85" fill="none"/>
+ <line y2="218.23" x2="38.454" stroke="#231F20" y1="218.23" x1="460.66" fill="none"/>
+ <path stroke="#231F20" d="m376.07 33.948c0 11.078 8.99 20.047 20.09 20.047 11.035 0 20.005-8.969 20.005-20.047 0-11.046-8.97-20.016-20.005-20.016-11.1 0-20.09 8.969-20.09 20.016z" fill="none"/>
+ <path stroke="#231F20" d="m359.72 99.746c0 11.046 8.964 20.016 20.069 20.016 11.057 0 20.047-8.969 20.047-20.016 0-11.046-8.99-19.983-20.047-19.983-11.1.001-20.07 8.939-20.07 19.985z" fill="none"/>
+ <path stroke="#231F20" d="m304.27 70.676c0 11.089 8.958 20.015 19.993 20.015 11.121 0 20.048-8.926 20.048-20.015 0-11.046-8.927-20.016-20.048-20.016-11.03.001-19.99 8.97-19.99 20.016z" fill="none"/>
+ <path stroke="#231F20" d="m376.38 183.8c0 11.046 8.948 19.994 20.048 19.994 11.057 0 20.004-8.948 20.004-19.994 0-11.067-8.947-20.015-20.004-20.015-11.1.01-20.05 8.95-20.05 20.02z" fill="none"/>
+ <path stroke="#231F20" d="m312.56 139.57c0 11.046 8.969 20.015 20.047 20.015 11.052 0 20.005-8.969 20.005-20.015 0-11.089-8.953-20.069-20.005-20.069-11.09.01-20.06 8.99-20.06 20.08z" fill="none"/>
+ <path stroke="#231F20" d="m264.33 190.76c0 11.1 9.033 20.068 20.068 20.068 11.068 0 20.048-8.969 20.048-20.068 0-11.025-8.979-20.016-20.048-20.016-11.04 0-20.07 8.99-20.07 20.02z" fill="none"/>
+ <path stroke="#231F20" d="m265.05 31.104c0 11.036 8.964 20.015 20.032 20.015 11.035 0 20.004-8.979 20.004-20.015 0-11.078-8.969-20.069-20.004-20.069-11.06 0-20.03 8.99-20.03 20.069z" fill="none"/>
+ <path stroke="#231F20" d="m192.49 154.49c0 11.099 8.969 20.047 20.037 20.047 11.057 0 20.026-8.948 20.026-20.047 0-11.036-8.969-20.016-20.026-20.016-11.07 0-20.04 8.98-20.04 20.02z" fill="none"/>
+ <path stroke="#231F20" d="m242.63 113.64c0 11.057 8.98 20.079 20.016 20.079 11.089 0 20.068-9.022 20.068-20.079 0-11.046-8.979-20.037-20.068-20.037-11.04-.003-20.02 8.987-20.02 20.037z" fill="none"/>
+ <path stroke="#231F20" d="m355.71 9.917c-7.147 0-13.336-3.686-16.895-9.278h33.768c-3.57 5.591-9.79 9.278-16.88 9.278z" fill="none"/>
+ <path stroke="#231F20" d="m119.58.638c1.987 3.1 3.169 6.732 3.169 10.716 0 11.067-8.948 20.037-20.016 20.037s-20.058-8.969-20.058-20.037c0-3.984 1.183-7.616 3.143-10.716h33.765z" fill="none"/>
+ <path stroke="#231F20" d="m125.77 41.394c0 11.057 8.916 20.015 19.983 20.015 11.089 0 20.026-8.958 20.026-20.015 0-11.046-8.938-20.037-20.026-20.037-11.07 0-19.98 8.99-19.98 20.037z" fill="none"/>
+ <path stroke="#231F20" d="m62.9 59.097c0 11.046 8.964 20.047 20.015 20.047 11.057 0 20.026-9.001 20.026-20.047s-8.969-20.015-20.026-20.015c-11.05 0-20.014 8.969-20.014 20.015z" fill="none"/>
+ <path stroke="#231F20" d="m198.63 66.053c0 11.1 8.979 20.068 20.015 20.068 11.121 0 20.042-8.969 20.042-20.068 0-11.046-8.921-20.016-20.042-20.016-11.03.001-20.01 8.97-20.01 20.016z" fill="none"/>
+ <path stroke="#231F20" d="m143.09 103.92c0 11.057 8.969 20.026 20.026 20.026 11.089 0 20.047-8.969 20.047-20.026 0-11.078-8.958-20.047-20.047-20.047-11.06.001-20.03 8.97-20.03 20.047z" fill="none"/>
+ <path stroke="#231F20" d="m131.08 177.48c0 11.036 8.964 20.058 20.005 20.058 11.057 0 20.026-9.022 20.026-20.058 0-11.046-8.969-20.016-20.026-20.016-11.03 0-20 8.97-20 20.02z" fill="none"/>
+ <path stroke="#231F20" d="m62.9 128.8c0 11.046 8.937 20.005 20.015 20.005 11.057 0 20.026-8.958 20.026-20.005 0-11.099-8.969-20.068-20.026-20.068-11.077.01-20.014 8.98-20.014 20.07z" fill="none"/>
+ <path stroke="#231F20" d="m368.27 217.28c0-11.068-8.959-20.069-20.053-20.069-11.03 0-20.005 9.001-20.005 20.069" fill="none"/>
+ <path stroke="#231F20" d="m229.88 216.31c0-11.046-8.958-20.026-20.005-20.026-11.1 0-20.047 8.98-20.047 20.026" fill="none"/>
+ <path stroke="#231F20" d="m217.32 2.502c0 11.046 8.975 20.005 20.063 20.005 11.036 0 20.026-8.958 20.026-20.005" fill="none"/>
+ <path stroke="#231F20" d="m120.18 219.06c0-11.11-8.958-20.079-20.026-20.079-11.036 0-20.005 8.969-20.005 20.079" fill="none"/>
+ <path stroke="#231F20" stroke-dasharray="1" d="m85.451 218.23c22.029 0 39.85-48.713 39.85-108.85 0-60.125-17.82-108.88-39.849-108.88" fill="none"/>
+ <path stroke="#231F20" stroke-dasharray="1" d="m37.676 218.23c21.986 0 39.818-48.713 39.818-108.85 0-60.125-17.832-108.88-39.818-108.88" fill="none"/>
+</svg>

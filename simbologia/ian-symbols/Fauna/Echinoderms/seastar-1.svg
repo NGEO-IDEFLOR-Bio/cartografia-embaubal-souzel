@@ -1,0 +1,77 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="480" viewBox="0 0 501 480" xml:space="preserve">
+            <title>Seastar 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seastar 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a seastar or starfish</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Echinoderm, seastar, starfish</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-96afc1ed231c0964f5490a407b440534">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seastar 1</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seastar-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seastar-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Echinoderm, seastar, starfish</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a seastar or starfish</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".25" d="m312.07 143.46c-8.169-8.183-16.339-40.862-40.855-89.88-20.43-49.03-28.62-61.298-44.95-49.03-16.35 12.248-28.61 24.496-36.77 69.45-8.177 44.937-16.367 98.063-73.551 98.063-57.202 0-126.66 12.268-114.4 36.76 8.17 20.431 73.524 24.526 89.89 28.614 16.333 4.085 102.15 12.244 53.117 69.459-49.042 61.29-73.548 118.5-73.548 130.75 0 12.247 8.173 16.353 8.173 16.353s28.59 0 65.375-28.601c40.848-24.522 57.201-65.395 89.887-77.643 32.686-12.268 32.686 40.846 65.364 81.707 32.699 40.862 110.33 85.829 89.9 4.105-20.432-77.64-77.633-155.28-40.869-171.61 36.784-20.431 155.27-40.858 151.19-81.73-8.18-49.02-163.44 8.18-187.96-36.76z" fill="#F89F65"/>
+ <path stroke="#000" stroke-width=".25" d="m291.64 176.15c-4.085-4.085-12.254-16.353-28.601-49.032-12.254-32.675-20.438-65.384-28.601-57.211-12.255 8.17-20.431 40.859-24.516 69.459-4.084 28.59-8.169 61.289-44.94 61.289-36.787 0-89.914 0-81.73 12.268 4.085 16.333 61.3 20.428 69.462 24.516 12.268 0 61.293 16.353 28.607 53.106-28.607 36.783-44.94 73.567-44.94 81.727s4.071 8.16 4.071 8.16 16.353 0 40.869-16.319c24.516-16.356 36.777-40.872 57.201-49.031 20.431-8.184 32.692 24.492 53.117 49.031 24.516 28.587 57.194 65.351 44.946 16.319-12.268-53.104-49.031-122.56-24.516-130.75 24.516-12.244 98.063-16.333 93.979-40.858-4.09-32.69-98.06-4.08-114.41-32.69z" fill="#FDB913"/>
+</svg>

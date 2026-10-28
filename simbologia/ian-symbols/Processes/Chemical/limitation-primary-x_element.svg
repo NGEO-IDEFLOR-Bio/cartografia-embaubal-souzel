@@ -1,0 +1,76 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="538" height="511" viewBox="0 0 538 511" xml:space="preserve">
+            <title>Limitation: primary (x=element)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Limitation: primary (x=element)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of primary limitation for element, x</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, limitation, primary, element</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-923b5da7e4736db4713960ce8b327019">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Limitation: primary (x=element)</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/limitation-primary-x-element/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/limitation-primary-x-element/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, limitation, primary, element</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of primary limitation for element, x</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width="16.837" points="268.1 19.022 345.33 175.55 518.1 200.66 393.08 322.5 422.59 494.56 268.1 413.33 113.58 494.56 143.09 322.5 18.09 200.66 190.84 175.55" fill="#B9DA95"/>
+ <path d="m218.77 334.57l34.413-56.025-30.471-52.358h14.221l16.215 27.709c3.323 5.707 5.707 10.13 7.122 13.258 2.011-3.701 4.372-7.758 7.076-12.181l17.991-28.786h12.617l-31.124 51.121 33.484 57.263h-14.53l-22.472-38.607c-1.261-2.154-2.521-4.503-3.793-7.047-2.028 3.713-3.483 6.303-4.366 7.758l-22.541 37.896h-13.84z" fill="#D2232A"/>
+ <line y2="201.11" x1="309.08" x2="328.58" stroke="#D2232A" y1="243.27" stroke-width="8.4183" fill="none"/>
+</svg>

@@ -1,0 +1,90 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="144" viewBox="0 0 502 144" xml:space="preserve">
+            <title>Coastline 2D: receding shoreline</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: receding shoreline</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with receding shoreline</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, receding, shoreline, beachfront, erosion, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2005-07-28</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-dd7d67764103c8a4291cdee71c627b53">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: receding shoreline</dc:title>
+                <dc:date>2005-07-28</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-receding-shoreline/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-receding-shoreline/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, receding, shoreline, beachfront, erosion, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with receding shoreline</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_00c21706425a7c84a9eb7ecc2288ef08" y2="73.59" gradientUnits="userSpaceOnUse" x2="476.32" y1="73.59" x1=".5">
+  <stop stop-color="#61B6DB" offset="0"/>
+  <stop stop-color="#94CDE9" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" d="m476.04 32.717c0-.404-2.348 1.195-11.115 1.555-8.77.364-15.498.02-15.498.02s-5.961.507-15.592.379c-9.633-.171-15.041.267-15.041.267-14.041-1.192-5.646-.204-14.464-.665-7.207-.377-16.11.02-16.11.02s-4.162.693-12.439 1.088c-.651.029-1.329.061-2.034.088-2.212.082-4.066.08-5.619.007-10.393-.47-7.181-3.932-7.181-3.932s-4.265.075-7.004.825c-4.098 1.119-7.671 3.08-11.669 3.21-11.101.362-10.463-6.257-10.463-6.257s-2.123-.134-7.484 1.676c-5.362 1.811-6.975 5.607-18.517 5.06-3.662-.556-5.04-5.62-5.04-5.62s-5.22 1.126-7.633 1.879c-2.413.754-4.581 3.068-11.509 3.213-3.93.291-8.476-.104-11.499-1.736-3.024-1.633-3.896-3.334-3.896-3.334s-3.999 1.451-6.679 2.959c-2.678 1.508-5.203 1.899-9.265 2.111-4.081.203-8.045-1.357-10.987-2.968s-3.697-3.271-3.697-3.271-4.034 1.695-7.011 3.313c-2.494 1.357-3.551 2.661-7.589 2.866-4.447.199-9.639-1.975-12.553-4.199-2.909-2.227-2.372-4.502-2.372-4.502s-5.326 2.014-7.998 4.107c-2.673 2.094-3.861 4.27-7.27 4.594-4.755.448-9.505-2.832-11.852-6.094-2.178-3.031-.955-4.879-.955-4.879s-5.045.992-7.418 3.497c-3.251 3.434-5.727 7.521-10.273 7.599-6.64.119-13.173-4.784-15.66-9.461-2.242-4.213 1.577-5.908 1.577-5.908s-6.859 1.046-8.78 4.846c-2.464 4.88-2.626 10.104-9.275 10.461-3.854.211-5.368-.353-8.407-2.553-3.041-2.203-4.619-5.148-5.29-8.203-.671-3.053 1.366-5.984 1.366-5.984s-7.532 1.59-10.077 5.877c-3.172 5.343-4.81 8.445-8.351 9.634-3.541 1.187-7.267 1.217-9.724.16-5.876-2.528-8.435-7.863-10.773-11.8-3.12-5.248.897-7.752.897-7.752s-7.232 1.849-12.062 6.417c-4.83 4.57-8.316 14.005-15.369 15.051-4.989.738-10.521-.11-16.414-4.471-4.029-2.981-6.607-4.051-10.149-10.884-3.543-6.834 1.215-9.92 1.215-9.92s-7.603-.186-13.967 5.125c-3.78 3.133-5.78 6.877-10.593 9.473v109.88l475.82.504-.28-103.36z" fill="url(#ian_symbols_00c21706425a7c84a9eb7ecc2288ef08)"/>
+ <path stroke-linejoin="round" d="m500.5.5s-43.604 4.599-86.297 12.926c-29.521 5.758-58.604 10.449-72.534 11.662-34.073 2.971-76.94 27.537-96.841 30.871-19.899 3.336-60.433 10.139-83.251 15.975-22.817 5.836-52.636 17.563-89.628 26.318-36.995 8.748-71.452 8.338-71.452 8.338" stroke="#636466" stroke-linecap="round" stroke-dasharray="4.4339" fill="none"/>
+ <linearGradient id="ian_symbols_b6614449666bc1a475e00ed25488cd95" y2="13.45" gradientUnits="userSpaceOnUse" x2="250.5" y1="142.99" x1="250.5">
+  <stop stop-color="#967D5F" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" d="m.5 110.89v32.101h500v-129.54s-38.765 3.5-81.457 11.827c-29.521 5.759-56.412 14.733-70.342 15.945-34.075 2.968-93.074 22.776-112.98 26.11-19.898 3.336-43.202 6.395-66.021 12.232-22.818 5.836-55.925 15.33-92.916 24.085-36.986 8.75-76.284 7.24-76.284 7.24z" fill="url(#ian_symbols_b6614449666bc1a475e00ed25488cd95)"/>
+ <line stroke-linejoin="round" y2="30.139" x2="377.02" stroke="#636466" stroke-linecap="round" y1="23.46" x1="366.16" fill="none"/>
+ <path d="m379.84 31.871c-1.629-.324-3.789-.496-5.354-.234l2.167-1.725.563-2.713c.47 1.516 1.6 3.364 2.62 4.672z" fill="#636466"/>
+ <line stroke-linejoin="round" y2="44.447" x2="305.16" stroke="#636466" stroke-linecap="round" y1="37.769" x1="294.29" fill="none"/>
+ <path d="m307.97 46.18c-1.629-.325-3.788-.496-5.354-.234l2.168-1.725.561-2.713c.47 1.515 1.6 3.363 2.62 4.672z" fill="#636466"/>
+ <line stroke-linejoin="round" y2="13.766" x2="465.15" stroke="#636466" stroke-linecap="round" y1="7.086" x1="454.28" fill="none"/>
+ <path d="m467.96 15.497c-1.628-.325-3.789-.496-5.354-.233l2.166-1.727.563-2.713c.47 1.516 1.6 3.365 2.62 4.673z" fill="#636466"/>
+</svg>

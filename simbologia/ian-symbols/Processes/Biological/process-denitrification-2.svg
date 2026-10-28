@@ -1,0 +1,92 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="141" height="501" viewBox="0 0 141 501" xml:space="preserve">
+            <title>Process; denitrification 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Process; denitrification 2</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of denitrification (vertical, without nitrate precursor)</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, denitrification, N2, nitrogen</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-69da801de028eac4d1856af48172c155">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Process; denitrification 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/process-denitrification-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/process-denitrification-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, denitrification, N2, nitrogen</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of denitrification (vertical, without nitrate precursor)</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path d="M29.226,86.228V0h16.825l35.507,57.975V0h16.057v86.228H80.257L45.283,29.499v56.729H29.226z"/>
+<path d="M139.458,97.131v8.127h-30.526c0.328-3.06,1.319-5.965,2.973-8.703c1.654-2.744,4.918-6.38,9.8-10.915
+	c3.927-3.662,6.343-6.146,7.223-7.446c1.201-1.802,1.809-3.58,1.809-5.34c0-1.945-0.532-3.438-1.586-4.485
+	c-1.053-1.041-2.502-1.567-4.354-1.567c-1.834,0-3.296,0.552-4.38,1.654s-1.709,2.924-1.87,5.482l-8.722-0.874
+	c0.514-4.807,2.143-8.263,4.881-10.357c2.738-2.093,6.163-3.141,10.276-3.141c4.504,0,8.041,1.208,10.611,3.63
+	c2.577,2.422,3.865,5.426,3.865,9.025c0,2.044-0.371,3.996-1.102,5.848c-0.738,1.853-1.896,3.792-3.488,5.817
+	c-1.059,1.344-2.967,3.277-5.729,5.798c-2.77,2.521-4.517,4.2-5.254,5.024c-0.73,0.83-1.325,1.635-1.783,2.422H139.458z"/>
+<path fill="#D09910" d="M130.99,205.548H96.629l0,0c-16.193,48.336,7.285,73.368,9.106,128.654
+	c1.449,44.137-35.136,89.53-9.106,165.798l-60.571-0.904C16.831,403.575,50.133,373.749,50.356,323.74
+	c0.229-48.07-25.435-66.833-14.297-118.192H0l65.471-90.831L130.99,205.548z"/>
+<path fill="#9E0B0F" d="M91.141,218.569l-1.325,2.094c-15.072,29.499-32.472,45.945-49.111,46.472l-1.227-0.173
+	c2.472,8.381,5.204,16.725,7.322,25.887c13.473-1.766,30.099-9.124,46.818-29.678c-2.899-14.954-4.063-29.69,0.111-47.37
+	C92.553,216.939,91.593,217.993,91.141,218.569z"/>
+<path fill="#9E0B0F" d="M47.55,348.939c-1.778,8.734-4.182,17.302-6.672,26.277c31.239-0.167,46.521-7.725,64.721-33.401
+	c0.148-2.546,0.223-5.079,0.136-7.613c-0.44-13.28-2.131-24.784-4.225-35.314C76.534,342.255,68.283,348.184,47.55,348.939z"/>
+<path fill="#9E0B0F" d="M30.607,429.958c-0.539,8.146-0.601,16.967-0.074,26.587c3.116,0.385,6.226,0.632,9.354,0.632
+	c13.027,0,30.768-8.629,47.611-20.244c0.718-13.671,3.091-26.178,5.872-37.947c-18.627,16.787-43.584,32.007-53.483,32.007
+	C36.802,430.992,33.699,430.528,30.607,429.958z"/>
+</svg>

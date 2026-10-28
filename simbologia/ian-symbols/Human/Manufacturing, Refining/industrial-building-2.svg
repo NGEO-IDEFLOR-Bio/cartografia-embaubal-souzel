@@ -1,0 +1,115 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="208" viewBox="0 0 501 208" xml:space="preserve">
+            <title>Industrial building 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Industrial building 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an industrial building</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, industry, manufacturing, refining, industrial park, industrial estate, building, warehouse, storage</ian_image_library:contains>
+                    <ian_image_library:when>2011-01-18</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-38f5c9a2487614948501a7d0add2a40f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Industrial building 2</dc:title>
+                <dc:date>2011-01-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Department of Water Western Australia</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Department of Water Western Australia</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/industrial-building-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/industrial-building-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, industry, manufacturing, refining, industrial park, industrial estate, building, warehouse, storage</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an industrial building</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_5408eae928e40464b97e0464649a5d89" gradientUnits="userSpaceOnUse" x1="126.8296" y1="23.7476" x2="158.6733" y2="78.9026">
+	<stop  offset="0" style="stop-color:#E4E4DD"/>
+	<stop  offset="1" style="stop-color:#C9CAC6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_5408eae928e40464b97e0464649a5d89)" points="195.327,0 45.015,70.982 87.949,103.463 240.486,31.667 "/>
+<polygon fill="#A6A7A4" points="308.872,118.963 263.857,135.444 220.919,102.969 175.904,119.458 132.967,86.976 87.949,103.463 
+	45.015,70.982 0,87.482 0,143.448 351.809,207.416 351.809,151.444 "/>
+<polygon fill="#888988" points="0,87.482 152.534,15.68 195.327,0 45.015,70.982 "/>
+<polygon fill="#888988" points="31.731,148.667 46.135,151.669 45.879,126.184 32.075,123.781 "/>
+<polygon fill="#888988" points="57.574,108.182 75.122,111.467 75.122,122.135 57.642,119.35 "/>
+<polygon fill="#888988" points="7.966,98.946 25.517,102.237 25.517,112.906 8.035,110.122 "/>
+<linearGradient id="ian_symbols_de785bc4ac1f8fe4ad58a4ba090b73fa" gradientUnits="userSpaceOnUse" x1="214.7808" y1="39.7407" x2="246.625" y2="94.8966">
+	<stop  offset="0" style="stop-color:#E4E4DD"/>
+	<stop  offset="1" style="stop-color:#C9CAC6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_de785bc4ac1f8fe4ad58a4ba090b73fa)" points="283.28,15.993 132.967,86.976 175.904,119.458 328.438,47.661 "/>
+<polygon fill="#888988" points="87.949,103.463 240.486,31.667 283.28,15.993 132.967,86.976 "/>
+<polygon fill="#888988" points="119.683,164.66 134.081,167.663 133.825,142.177 120.021,139.774 "/>
+<polygon fill="#888988" points="145.525,124.168 163.078,127.459 163.078,138.129 145.595,135.344 "/>
+<polygon fill="#888988" points="95.918,114.94 113.47,118.225 113.47,128.899 95.987,126.115 "/>
+<linearGradient id="ian_symbols_9099fb12d2d4c4649d58d83a6e054d67" gradientUnits="userSpaceOnUse" x1="302.7349" y1="55.7334" x2="334.5767" y2="110.885">
+	<stop  offset="0" style="stop-color:#E4E4DD"/>
+	<stop  offset="1" style="stop-color:#C9CAC6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_9099fb12d2d4c4649d58d83a6e054d67)" points="371.232,31.986 220.919,102.969 263.857,135.444 416.391,63.648 "/>
+<polygon fill="#888988" points="175.904,119.458 328.438,47.661 371.232,31.986 220.919,102.969 "/>
+<polygon fill="#888988" points="207.635,180.653 222.033,183.651 221.777,158.17 207.973,155.768 "/>
+<polygon fill="#888988" points="233.478,140.163 251.03,143.454 251.03,154.116 233.547,151.338 "/>
+<polygon fill="#888988" points="183.87,130.926 201.419,134.217 201.419,144.893 183.939,142.102 "/>
+<polygon fill="#D5D5D0" points="351.809,151.444 500,79.661 500,131.514 351.809,207.416 "/>
+<linearGradient id="ian_symbols_d6236b0698938be46952f8ecd1c26095" gradientUnits="userSpaceOnUse" x1="389.0542" y1="72.6699" x2="419.8179" y2="125.9542">
+	<stop  offset="0" style="stop-color:#E4E4DD"/>
+	<stop  offset="1" style="stop-color:#C9CAC6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_d6236b0698938be46952f8ecd1c26095)" points="459.184,47.974 308.872,118.963 351.809,151.444 500,79.661 "/>
+<polygon fill="#888988" points="263.857,135.444 416.391,63.648 459.184,47.974 308.872,118.963 "/>
+<polygon fill="#888988" points="295.587,196.64 309.986,199.644 309.729,174.165 295.922,171.762 "/>
+<polygon fill="#888988" points="321.43,156.157 338.982,159.441 338.982,170.11 321.499,167.332 "/>
+<polygon fill="#888988" points="271.823,146.92 289.375,150.211 289.375,160.887 271.888,158.096 "/>
+</svg>

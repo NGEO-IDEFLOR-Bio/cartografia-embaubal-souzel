@@ -1,0 +1,137 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="250" viewBox="0 0 501 250" xml:space="preserve">
+            <title>ScanFish</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>ScanFish</ian_image_library:title>
+                <ian_image_library:descr>Illustration of ScanFish</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, field, gear, ScanFish, water, column, profile, data, collection, monitoring</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-11</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a879b014b50eaea49dde18ca153c35a9">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>ScanFish</dc:title>
+                <dc:date>2004-09-11</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/scanfish/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/scanfish/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, field, gear, ScanFish, water, column, profile, data, collection, monitoring</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of ScanFish</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".15" d="m.105 110.65c0-3.361 3.361-10.093 7.212-16.824 3.841-6.732 19.706-22.116 29.328-27.888 9.613-5.763 88.935-61.047 91.345-62.488 2.392-1.44 3.833-3.37 6.723-3.37 2.891 0 2.41.489 3.851 3.851 1.432 3.361 2.401 34.609 2.401 34.609s-126.81 80.28-129.22 80.76c-2.392.48-6.342-1.431-9.224-2.881-2.891-1.44-2.411-2.4-2.411-5.77z" fill="#3B3A33"/>
+ <linearGradient id="ian_symbols_adf1541fc78842640d5aa0913045825d" y2="43.328" gradientUnits="userSpaceOnUse" x2="260.15" y1="184.9" x1="216.87">
+  <stop stop-color="#EFC253" offset="0"/>
+  <stop stop-color="#ECC054" offset=".1098"/>
+  <stop stop-color="#E4BA56" offset=".1812"/>
+  <stop stop-color="#D5B05A" offset=".2415"/>
+  <stop stop-color="#CDAB5C" offset=".264"/>
+  <stop stop-color="#C29C56" offset=".3395"/>
+  <stop stop-color="#B99151" offset=".4441"/>
+  <stop stop-color="#B48A4E" offset=".5913"/>
+  <stop stop-color="#B3884D" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m133.27 33.733c-9.133 0-22.116 6.243-28.367 8.652-6.252 2.401-47.593 20.676-56.726 25.478-9.133 4.812-24.997 15.385-30.769 22.116-5.762 6.723-9.613 11.054-10.573 13.463-.969 2.401-2.881 4.803-2.401 7.203.48 2.41 1.432 4.331 3.841 6.732 2.401 2.4 402.86 126.92 402.86 126.92s66.339-128.36 63.929-134.61c-2.38-6.24-332.66-75.947-341.79-75.947z" fill="url(#ian_symbols_adf1541fc78842640d5aa0913045825d)"/>
+ <path stroke="#231F20" stroke-width=".15" d="m11.792 121.27c4.186 1.396 405.59 128.26 406.07 126.34.489-1.93-6.723-4.766-6.723-4.766l-402.86-125.46c-.003 0-.674 2.51 3.512 3.89z" fill="#656559"/>
+ <path stroke="#231F20" stroke-width=".15" d="m494.79 72.675c2.881-.48 5.282.479 5.282 3.851 0 3.352-9.613 72.979-10.573 76.386-.463 1.613-15.529 21.428-26.801 40.581-12.521 21.255-25.885 40.526-27.144 42.049-2.41 2.881-5.763 9.712-9.613 12.122-3.851 2.401-7.112 1.44-10.012.48-2.872-.961-3.832-3.851-3.832-7.701 0-3.842 1.449-16.336 5.282-25.958 3.851-9.612 33.169-66.348 38.46-74.991 5.28-8.65 36.05-66.336 38.94-66.815z" fill="#3B3A33"/>
+ <linearGradient id="ian_symbols_8557fc39154ca704b148d1b12150aa7f" y2="87.331" gradientUnits="userSpaceOnUse" x2="293.16" y1="87.331" x1="203.16">
+  <stop stop-color="#4B3912" offset="0"/>
+  <stop stop-color="#545456" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m248.34 77.341l-44.866-9.857s-.697 16.906 0 19.715c.707 2.79 7.013 2.79 10.52 3.497 3.497.697.779-5.699 4.285-4.992 3.506.697 58.765 11.814 59.471 13.916.698 2.103-2.718 4.295.779 6.406 3.507 2.093 2.709.697 8.317.697s6.315-11.914 6.315-11.914l-2.103-16.815-42.72-.660z" fill="url(#ian_symbols_8557fc39154ca704b148d1b12150aa7f)"/>
+ <linearGradient id="ian_symbols_dc71aa0c8e8a2254f5ebbd57c3b5dc48" y2="66.618" gradientUnits="userSpaceOnUse" x2="302.35" y1="106.87" x1="291.57">
+  <stop stop-color="#D2A651" offset=".0056"/>
+  <stop stop-color="#C0944F" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m304.88 94.102c-1.223 4.204-13.826 11.217-15.937 11.924-2.103.697-2.8-7.013-.698-8.417 2.103-1.404 2.809-2.103 3.507-6.297.697-4.213-1.404-16.816-1.404-16.816l14.895-7.103c0-.004.86 22.51-.36 26.705z" fill="url(#ian_symbols_dc71aa0c8e8a2254f5ebbd57c3b5dc48)"/>
+ <linearGradient id="ian_symbols_b3cc388f957acc5441bc8b297a9ed257" y2=".6136" gradientUnits="userSpaceOnUse" x2="267.12" y1="82.47" x1="245.18">
+  <stop stop-color="#D5AD4A" offset="0"/>
+  <stop stop-color="#D3AB4A" offset=".541"/>
+  <stop stop-color="#CDA44C" offset=".7853"/>
+  <stop stop-color="#C2974E" offset=".9698"/>
+  <stop stop-color="#C0944F" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m173.57 42.966c-.091 1.767 17.758 2.057 17.758 3.797 0 3.442-17.722 8.19-17.377 10.845.453 3.552 1.214 6.016 2.292 6.369 4.195 1.404 71.458 16.815 81.968 18.22s18.827-1.576 26.528-2.283c7.71-.697 18.22-3.406 18.918-6.912.706-3.507-2.8-3.416-1.396-6.216 1.396-2.809 46.071-38.352 42.573-43.96-3.506-5.599-93.728-21.201-93.728-21.201s-10.165-1.404-17.866-.698c-7.711.698-5.428 1.404-19.443 6.306-14.007 4.911-31.34 11.915-36.241 16.816-2.24 2.246-3.6 10.482-3.98 18.917z" fill="url(#ian_symbols_b3cc388f957acc5441bc8b297a9ed257)"/>
+ <path stroke="#231F20" stroke-width=".15" d="m349.19 42.169c1.313-2.192 1.676-6.306 1.495-12.603-.182-6.306-2.192-5.518-5.699-7.62-3.497-2.102-8.019-1.993-11.298-1.404-3.28.598-44.023 22.777-45.102 24.001-1.087 1.231 15.674 1.839 17.785 6.731 2.102 4.91-1.133 14.632-1.133 14.632s42.66-21.536 43.96-23.737z" fill="#3B3A33"/>
+ <linearGradient id="ian_symbols_0289375bf8817f44f9c5db3149b3fdc6" y2="41.555" gradientUnits="userSpaceOnUse" x2="280.81" y1="85.171" x1="269.12">
+  <stop stop-color="#D5AD4A" offset="0"/>
+  <stop stop-color="#D3AB4A" offset=".541"/>
+  <stop stop-color="#CDA44C" offset=".7853"/>
+  <stop stop-color="#C2974E" offset=".9698"/>
+  <stop stop-color="#C0944F" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m290.03 44.026s-6.206 2.229-13.301 4.24c-5.925 1.685-12.457.235-16.534.235-4.213 0-2.356 9.559-2.147 16.625.227 7.938-.87 16.499.163 17.069 1.957 1.069 12.104-.117 19.878-.879 7.792-.752 13.21-2.383 13.21-2.383l-1.27-34.907z" fill="url(#ian_symbols_0289375bf8817f44f9c5db3149b3fdc6)"/>
+ <linearGradient id="ian_symbols_6f4a816067f63c44b56c514db612ea9a" y2="57.632" gradientUnits="userSpaceOnUse" x2="308.57" y1="57.632" x1="285.48">
+  <stop stop-color="#4B3912" offset="0"/>
+  <stop stop-color="#545456" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m286.94 46.463c-2.817 3.507-.706 11.824-.706 15.33 0 3.497.09 10.238 2.89 11.634 2.809 1.404 15.874-2.8 17.613-7.521 1.739-4.729 1.83-18.745 1.83-18.745l-14.007-5.6c.01.001-4.81 1.405-7.61 4.902z" fill="url(#ian_symbols_6f4a816067f63c44b56c514db612ea9a)"/>
+ <linearGradient id="ian_symbols_7fa98f4e9bef7fa425f2a21965c504af" y2="126.66" gradientUnits="userSpaceOnUse" x2="215.71" y1="169.4" x1="172.97">
+  <stop stop-color="#A59181" offset="0"/>
+  <stop stop-color="#000" offset=".7528"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m204.18 121.44s-19.615 16.716-23.122 20.223c-3.497 3.497-4.91 6.297-7.003 11.252-2.103 4.947-.707 16.861-.707 16.861l14.714 4.195s-1.396-12.558-.697-16.816c.697-4.24 10.51-14.314 13.31-17.658 2.799-3.352 14.016-13.862 14.016-13.862l-10.51-4.18z" fill="url(#ian_symbols_7fa98f4e9bef7fa425f2a21965c504af)"/>
+ <linearGradient id="ian_symbols_9ba97fd653de7aa435ead721f2726f38" y2="58.201" gradientUnits="userSpaceOnUse" x2="255.26" y1="58.201" x1="178.89">
+  <stop stop-color="#4B3912" offset="0"/>
+  <stop stop-color="#545456" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m249.01 73.091c4.213.698 3.506.698 5.608-3.506s-1.396-9.803-4.204-10.51c-2.8-.697-4.195 1.404-6.297 1.404-2.103 0-50.9-12.014-52.785-13.717-1.866-1.694-1.866-3.797-3.968-3.797-2.103 0-5.6 1.404-7.004 4.901-1.404 3.507-2.102 5.608-.697 8.408 1.39 2.801 65.14 16.12 69.34 16.817z" fill="url(#ian_symbols_9ba97fd653de7aa435ead721f2726f38)"/>
+ <linearGradient id="ian_symbols_5a7cd0978e38ba5471d096674fbc1293" y2="54.164" gradientUnits="userSpaceOnUse" x2="332.01" y1="28.816" x1="318.53">
+  <stop stop-color="#5C613E" offset="0"/>
+  <stop stop-color="#AFB1B4" offset=".4326"/>
+  <stop stop-color="#3C3A25" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" d="m350.69 43.664c1.313-2.193 1.676-6.307 1.485-12.612-.172-6.297-3.678-7.003-7.185-9.105-3.497-2.102-9.803-1.404-9.803-1.404l-40.626 21.02s9.703 6.306 11.814 11.208c2.102 4.91-1.133 14.623-1.133 14.623s44.13-21.538 45.44-23.73z" fill="url(#ian_symbols_5a7cd0978e38ba5471d096674fbc1293)"/>
+ <path stroke="#231F20" stroke-width=".15" d="m259.08 48.883s-77.837-17.731-79.739-18.818c-1.902-1.078-3.38-.136-3.107-3.923" fill="none"/>
+</svg>

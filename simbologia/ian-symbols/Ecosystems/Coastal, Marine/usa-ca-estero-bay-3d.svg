@@ -1,0 +1,160 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="265" viewBox="0 0 502 265" xml:space="preserve">
+            <title>USA CA: Estero Bay 3D</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>USA CA: Estero Bay 3D</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Estero Bay in California, USA</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, map, geographic, geography, USA, United States of America, CA, California, Estero Bay, Pacific Ocean</ian_image_library:contains>
+                    <ian_image_library:when>2008-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1964716de63d776459cb2059c5f9b7b2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>USA CA: Estero Bay 3D</dc:title>
+                <dc:date>2008-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/usa-ca-estero-bay-3d/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/usa-ca-estero-bay-3d/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, map, geographic, geography, USA, United States of America, CA, California, Estero Bay, Pacific Ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Estero Bay in California, USA</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+		<pattern  x="-234.525" y="-145.539" width="49.852" height="49.852" patternUnits="userSpaceOnUse" id="ian_symbols_ea3e5bbc4712b52435c1364cbc860d63" viewBox="0 -49.852 49.852 49.852" overflow="visible">
+		<g>
+			<polygon fill="none" points="0,0 0,-49.853 49.853,-49.853 49.853,0 			"/>
+			<polygon fill="#E7D9CD" points="49.853,0 0,0 0,-49.853 49.853,-49.853 			"/>
+			<path d="M17.779-37.738c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C17.507-38.346,17.779-38.074,17.779-37.738z"/>
+			<path d="M29.616-20.762c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C29.344-21.371,29.616-21.098,29.616-20.762z"/>
+			<path d="M31.796-32.131c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C31.523-32.739,31.796-32.467,31.796-32.131z"/>
+			<path d="M7.954-17.18c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C7.682-17.789,7.954-17.516,7.954-17.18z"/>
+			<path d="M16.237-25.746c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C15.965-26.354,16.237-26.082,16.237-25.746z"/>
+			<path d="M21.05-7.992c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C20.777-8.6,21.05-8.328,21.05-7.992z"/>
+			<path d="M38.337-16.246c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C38.064-16.854,38.337-16.582,38.337-16.246z"/>
+			<path d="M46.28-44.435c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C46.008-45.043,46.28-44.771,46.28-44.435z"/>
+			<path d="M28.215-45.666c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C27.942-46.274,28.215-46.001,28.215-45.666z"/>
+			<path d="M44.878-27.615c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C44.605-28.223,44.878-27.951,44.878-27.615z"/>
+			<path d="M3.296-3.164c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C3.023-3.772,3.296-3.5,3.296-3.164z"/>
+			<path d="M8.411-43.344c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C8.139-43.953,8.411-43.68,8.411-43.344z"/>
+			<path d="M42.698-6.59c0,0.335-0.272,0.608-0.609,0.608c-0.335,0-0.607-0.273-0.607-0.608c0-0.336,0.272-0.608,0.607-0.608
+				C42.426-7.198,42.698-6.926,42.698-6.59z"/>
+		</g>
+	</pattern>
+</defs>
+<linearGradient id="ian_symbols_2c4fc3de1900c2f4c916a9218e3b42bb" gradientUnits="userSpaceOnUse" x1="101.3081" y1="449.5791" x2="399.5268" y2="747.8008" gradientTransform="matrix(1 0 0 -1 0 669.9219)">
+	<stop  offset="0.0843" style="stop-color:#4DBAE6"/>
+	<stop  offset="1" style="stop-color:#ADE1FA"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_2c4fc3de1900c2f4c916a9218e3b42bb)" stroke="#0576BD" stroke-width="0.5" points="500.273,119.46 0.294,119.33 0.294,23.273 
+	500.273,22.868 "/>
+<path fill="#B38A64" d="M291.822,57.505c18.55-0.104,94.773-7.656,105.611-3.633c20.588,7.646,102.84,9.734,102.84,9.734V52.577
+	L373.898,36.813c0,0-86.131,22.483-82.081,20.691H291.822z"/>
+<path fill="#D6A477" stroke="#684A2D" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M0.294,27.347
+	c0,0,340.651,2.39,354.532,8.658c1.154,7.167-93.723,10.75-94.882,16.124c-1.158,5.377,24.599,4.479,24.599,4.479l-7.241,8.959
+	c0,0,8.679-2.688,12.728-4.479c10.99-7.168,94.875-14.334,111.07-8.96c16.197,5.377,99.174,8.734,99.174,8.734V0.25H0.294V27.347
+	L0.294,27.347z"/>
+<linearGradient id="ian_symbols_c603e6edbdc8cee4ddd912d7b19f6ad0" gradientUnits="userSpaceOnUse" x1="213.8887" y1="348.666" x2="284.1459" y2="610.9009" gradientTransform="matrix(1 0 0 -1 0 669.9219)">
+	<stop  offset="0.0056" style="stop-color:#0576BD"/>
+	<stop  offset="0.5281" style="stop-color:#49B1DA"/>
+	<stop  offset="1" style="stop-color:#ADE1FA"/>
+</linearGradient>
+<path fill="url(#ian_symbols_c603e6edbdc8cee4ddd912d7b19f6ad0)" stroke="#0576BD" stroke-width="0.5" d="M493.482,118.14c-9.381,0.688-16.729-5.923-16.729-5.923
+	s-6.379,6.49-16.687,6.25c-10.302-0.327-16.034-5.688-16.034-5.688s-8.178,5.361-15.945,5.929c-7.719,0.523-16.822-6.49-16.822-6.49
+	s-5.174,5.923-15.48,6.367c-10.307,0.364-16.822-6.047-16.822-6.047s-8.408,5.041-15.529,6.17
+	c-7.068,1.089-17.238-6.289-17.238-6.289s-4.988,4.192-13.911,6.049c-8.829,1.729-18.853-5.809-18.853-5.809
+	s-7.166,4.919-15.531,6.049c-8.408,1.089-17.146-6.289-17.146-6.289s-7.116,5.485-15.804,6.289
+	c-8.736,0.764-16.965-6.289-16.965-6.289s-6.145,5.321-15.618,6.166c-9.519,0.768-16.821-6.047-16.821-6.047
+	s-8.179,4.919-15.486,6.047c-7.254,1.088-17.002-5.926-17.002-5.926s-7.211,5.809-15.625,6.168
+	c-8.413,0.402-17.281-6.168-17.281-6.168s-5.962,5.809-15.857,6.049c-9.887,0.241-16.445-6.289-16.445-6.289
+	s-7.122,4.877-15.208,6.166c-8.041,1.212-17.791-6.047-17.791-6.047s-6.701,5.482-15.809,6.047
+	c-9.056,0.526-16.313-5.926-16.313-5.926s-4.53,3.509-5.035,3.509c-0.415,0-1.109,1.973-10.446,2.54
+	c-9.378,0.523-17.102-5.606-17.102-5.606s-6.701,3.762-10.52,4.728s-9.332,1.184-9.332,1.184s-0.099,145.019,0,145.019
+	l499.979-12.225v-134.88c-1.59,0.58-4.34,1.04-6.799,1.221L493.482,118.14z"/>
+<path fill="#EDCE9C" stroke="#663534" stroke-width="0.5" d="M500.273,264.03H0.294l212.89-10.355c0,0,92.338-7.199,102.899-11.36
+	c10.563-4.166,54.287-0.539,63.263,3.3c8.977,3.833,27.771-2.688,27.771-2.688s30.191-6.587,37.359-3.6
+	c7.166,2.986,55.797-5.376,55.797-5.376V264.03L500.273,264.03z"/>
+<path fill="url(#ian_symbols_ea3e5bbc4712b52435c1364cbc860d63)" stroke="#684A2D" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+	M336.893,64.671l45.123-2.688c0,0,99.508,10.751,104.719,11.646c5.205,0.896-33.551,3.583-33.551,3.583l47.09,20.602v27.921
+	c0,0-34.37-18.065-57.508-27.921c-23.15-9.85-105.88-33.139-105.88-33.139L336.893,64.671z"/>
+<linearGradient id="ian_symbols_0a947b2095bbb44459bdbcfc457913aa" gradientUnits="userSpaceOnUse" x1="298.4902" y1="804.7344" x2="342.749" y2="804.7344" gradientTransform="matrix(0.8772 0.4801 0.4801 -0.8772 -182.8072 641.8145)">
+	<stop  offset="0.0056" style="stop-color:#E4C3A8"/>
+	<stop  offset="1" style="stop-color:#C3BD92"/>
+</linearGradient>
+<path fill="url(#ian_symbols_0a947b2095bbb44459bdbcfc457913aa)" d="M461.033,87.151c0,0,14.693,11.211,19.781,13.104c3.246,1.208,13.217,4.884,19.459,7.385
+	c-0.014-1.432,0-10.225,0-10.225s0.152-2.31,0-2.842c-0.715-2.471-5.26-11.376-7.92-13.35c-2.658-1.975-15.07,3.303-15.07,3.303
+	l-16.238,2.614L461.033,87.151z"/>
+<path fill="#F2E8BC" d="M460.703,87.224c0,0,10.703-1.668,14.193-3.507c6.83-3.32,16.91-2.547,16.91-2.547
+	s-7.359,3.092-11.504,5.485c-4.151,2.393-19.602,0.568-19.602,0.568H460.703z"/>
+<linearGradient id="ian_symbols_ee0cf7730660469499de0e252a79041f" gradientUnits="userSpaceOnUse" x1="279.4053" y1="794.5742" x2="309.0508" y2="794.5742" gradientTransform="matrix(0.8772 0.4801 0.4801 -0.8772 -182.8072 641.8145)">
+	<stop  offset="0.0056" style="stop-color:#E4C3A8"/>
+	<stop  offset="1" style="stop-color:#C3BD92"/>
+</linearGradient>
+<path fill="url(#ian_symbols_ee0cf7730660469499de0e252a79041f)" d="M441.192,83.652c0,0,8.688,6.628,11.694,7.75c3.01,1.119,14.674,5.82,14.674,5.82
+	s-3.945-7.718-4.366-9.181c-0.425-1.462-1.911-6.726-3.485-7.894c-1.564-1.167-8.908,1.953-8.908,1.953l-9.59,1.551H441.192z"/>
+<path fill="#F2E8BC" d="M440.992,83.697c0,0,6.325-0.987,8.393-2.075c4.037-1.962,10-1.507,10-1.507s-4.352,1.831-6.803,3.244
+	C450.133,84.774,440.992,83.697,440.992,83.697L440.992,83.697z"/>
+<path fill="url(#ian_symbols_ea3e5bbc4712b52435c1364cbc860d63)" stroke="#684A2D" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+	M69.859,27.944c0,0,28.664-12.541,42.995-13.439c14.332-0.893,87.042,15.199,87.042,15.199l-130.03-1.76H69.859z"/>
+</svg>

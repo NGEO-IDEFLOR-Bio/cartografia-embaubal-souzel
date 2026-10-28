@@ -1,0 +1,96 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="243" viewBox="0 0 501 243" xml:space="preserve">
+            <title>Chicken house</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Chicken house</ian_image_library:title>
+                <ian_image_library:descr>Illustration of chicken house</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, animal, chicken, house, production, farming, coop, eggs, poultry, broilers</ian_image_library:contains>
+                    <ian_image_library:when>2002-06-10</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-70a048d077496d04c94e876008389317">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Chicken house</dc:title>
+                <dc:date>2002-06-10</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/chicken-house/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/chicken-house/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, animal, chicken, house, production, farming, coop, eggs, poultry, broilers</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of chicken house</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#CCAB7A" stroke="#F1C59E" stroke-width="0.1047" points="10.269,138.69 10.269,210.221 95.792,242.417 
+	95.792,157.17 10.269,138.69 "/>
+<polygon fill="#B5986D" stroke="#F1C59E" stroke-width="0.1047" points="95.792,242.417 489.734,90.675 489.734,37.59 
+	95.792,157.17 95.792,242.417 "/>
+<polygon fill="#AE621F" points="65.324,112.127 108.255,175.644 500.003,36.75 437.035,0 65.324,112.127 "/>
+<polygon fill="#CA934E" points="65.324,112.127 0,136.977 108.255,175.644 65.324,112.127 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="148.208,186.15 116.987,198.45 116.987,183.822 
+	148.208,172.232 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="194.76,168.78 166.383,179.976 166.383,166.674 
+	194.76,156.155 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="241.435,152.215 214.892,162.674 214.892,150.246 
+	241.435,140.41 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="288.083,135.468 261.553,145.933 261.553,133.499 
+	288.083,123.669 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="333.057,118.355 308.214,128.144 308.214,116.5 
+	333.057,107.294 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="376.848,102.325 353.197,111.646 353.197,100.572 
+	376.848,91.799 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="421.126,86.079 399.167,94.73 399.167,84.448 
+	421.126,76.297 "/>
+<polygon fill="#736043" stroke="#F1C59E" stroke-width="0.1047" points="462.617,69.548 443.324,77.15 443.324,68.113 
+	462.617,60.958 "/>
+</svg>

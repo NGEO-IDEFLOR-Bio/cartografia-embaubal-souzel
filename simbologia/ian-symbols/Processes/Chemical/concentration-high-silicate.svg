@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="523" height="523" viewBox="0 0 523 523" xml:space="preserve">
+            <title>Concentration: high silicate</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: high silicate</ian_image_library:title>
+                <ian_image_library:descr>Illustration of high silicate concentration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, high, silicate, SiO2</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-03f239aca3579d94dd9f5216ae17d5b1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: high silicate</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-high-silicate/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-high-silicate/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, high, silicate, SiO2</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of high silicate concentration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width="22.29" d="m511.14 260.98c0 137.98-111.91 249.85-250 249.85-138.07 0-250-111.86-250-249.85 0-137.96 111.93-249.84 250-249.84 138.09.005 250 111.88 250 249.84z" fill="#B9DA95"/>
+ <path d="m87.73 281.92l24.616-2.881c2.78 19.396 11.836 29.066 27.246 29.066 7.604 0 13.579-1.965 17.967-5.918 4.344-3.975 6.543-8.889 6.543-14.762 0-3.439-.759-6.365-2.278-8.788-1.53-2.412-3.853-4.389-6.968-5.941-3.116-1.541-10.664-4.143-22.668-7.783-10.753-3.238-18.637-6.789-23.639-10.575-5.003-3.819-8.967-8.811-11.926-15.008-2.926-6.175-4.4-12.853-4.4-19.977 0-8.297 1.876-15.778 5.662-22.4 3.785-6.655 9-11.669 15.678-15.063 6.655-3.383 14.874-5.092 24.672-5.092 14.711 0 26.196 4.02 34.476 12.015 8.252 8.006 12.618 19.429 13.121 34.314l-25.247 1.273c-1.117-8.163-3.495-13.902-7.169-17.152s-8.922-4.88-15.711-4.88c-6.789 0-12.026 1.385-15.7 4.176-3.663 2.814-5.517 6.265-5.517 10.418 0 4.064 1.675 7.493 5.003 10.307 3.338 2.792 10.993 5.907 22.98 9.369 12.674 3.785 21.819 7.66 27.48 11.725 5.617 4.054 9.938 9.302 12.908 15.723 2.981 6.398 4.467 14.192 4.467 23.337 0 13.244-4.064 24.376-12.216 33.366-8.151 9.022-20.881 13.522-38.211 13.522-30.61-.02-47.704-17.47-51.16-52.41z" fill="#D2232A"/>
+ <path d="m210.06 206.2v-27.146h23.963v27.15h-23.96zm0 125.56v-110.55h23.963v110.55h-23.96z" fill="#D2232A"/>
+ <path d="m254.22 256.49c0-18.146 2.68-33.086 8.062-44.833 5.371-11.725 12.406-20.479 21.083-26.241 8.676-5.739 19.195-8.62 31.556-8.62 17.911 0 32.495 6.833 43.762 20.479 11.289 13.646 16.95 33.086 16.95 58.278 0 25.504-5.974 45.402-17.91 59.74-10.485 12.685-24.734 19.017-42.701 19.017-18.117 0-32.41-6.265-42.89-18.793-11.96-14.34-17.91-34.01-17.91-59.04zm26.18-1.03c0 17.542 3.328 30.73 9.983 39.496 6.622 8.788 14.874 13.154 24.689 13.154 9.882 0 18.089-4.333 24.588-13.053 6.51-8.71 9.76-22.076 9.76-40.121 0-17.688-3.172-30.775-9.491-39.239-6.349-8.453-14.629-12.696-24.856-12.696-10.24 0-18.581 4.277-25.014 12.797-6.43 8.53-9.66 21.77-9.66 39.66z" fill="#D2232A"/>
+ <path d="m447.69 370.69v18.213h-56.547c.614-6.879 2.462-13.456 5.572-19.664 3.115-6.242 9.134-14.405 18.111-24.499 7.08-8.051 11.446-13.512 13.093-16.371 2.418-4.12 3.635-8.308 3.635-12.484 0-4.478-.994-7.85-3.026-10.15-2.021-2.267-4.712-3.417-7.983-3.417-7.225 0-11.089 5.327-11.669 15.968l-15.823-2.066c.982-10.385 3.892-18.011 8.71-22.88 4.835-4.869 11.267-7.314 19.284-7.314 8.811 0 15.477 2.847 19.933 8.587 4.478 5.75 6.711 12.305 6.711 19.731 0 4.188-.569 8.263-1.709 12.194-1.149 3.931-2.903 7.906-5.304 11.87-2.367 4.008-6.343 9.1-11.881 15.276-5.204 5.84-8.486 9.681-9.86 11.546-1.385 1.854-2.501 3.685-3.327 5.46h32.1z" fill="#D2232A"/>
+</svg>

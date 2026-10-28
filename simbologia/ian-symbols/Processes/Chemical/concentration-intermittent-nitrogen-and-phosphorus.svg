@@ -1,0 +1,77 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="524" height="523" viewBox="0 0 524 523" xml:space="preserve">
+            <title>Concentration: intermittent nitrogen and phosphorus</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: intermittent nitrogen and phosphorus</ian_image_library:title>
+                <ian_image_library:descr>Illustration of intermittent nitrogen and phosphorus concentration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, intermittent, nutrient, nitrogen, N, phosphorus, P</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4f4eab463e3ce724dd540d4cb2fe832e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: intermittent nitrogen and phosphorus</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-intermittent-nitrogen-and-phosphorus/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-intermittent-nitrogen-and-phosphorus/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, intermittent, nutrient, nitrogen, N, phosphorus, P</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of intermittent nitrogen and phosphorus concentration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width="22.378" stroke-dasharray="111.8861,111.8861,111.8861,111.8861,111.8861,111.8861" d="m511.18 261.19c0 138.06-111.91 250-250 250s-250-111.94-250-250c0-138.05 111.91-250 250-250 138.09-.001 250 111.95 250 250z" fill="#B9DA95"/>
+ <path d="m91.81 355.2v-168.99h25.551l52.92 112.86v-112.86h24.476v168.99h-26.405l-52.066-110.2v110.2h-24.48z" fill="#D2232A"/>
+ <path d="m250.51 330.72v-43.896h-34.186v-30.307h34.186v-43.896h22.536v43.896h34.187v30.307h-34.19v43.896h-22.54z" fill="#D2232A"/>
+ <path d="m327.99 355.2v-168.99h42.11c15.69 0 25.955.809 30.777 2.417 7.704 2.616 14.045 8.192 19.055 16.727 4.988 8.536 7.516 19.521 7.516 32.978 0 12.238-2.173 22.469-6.507 30.739-4.312 8.258-9.722 14.056-16.217 17.403-6.485 3.359-17.659 5.021-33.516 5.021h-17.193v63.706h-26.03zm26.03-140.25v47.788h14.588c9.8 0 16.479-.709 19.98-2.172 3.536-1.452 6.419-4.08 8.658-7.871 2.261-3.78 3.402-8.447 3.402-13.956 0-5.587-1.175-10.298-3.502-14.133-2.317-3.835-5.188-6.396-8.603-7.693s-10.647-1.962-21.677-1.962h-12.85z" fill="#D2232A"/>
+</svg>

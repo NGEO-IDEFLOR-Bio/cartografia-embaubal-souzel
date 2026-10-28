@@ -1,0 +1,93 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="328" viewBox="0 0 502 328" xml:space="preserve">
+            <title>Lake 3D: shallow with small river</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lake 3D: shallow with small river</ian_image_library:title>
+                <ian_image_library:descr>Illustration of shallow lake base with small river</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, lake river, stream, tributary, shallow, channel, water, depth, column</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e8ce3a7aec9d03648500b957df80ce4e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lake 3D: shallow with small river</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lake-3d-shallow-with-small-river/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lake-3d-shallow-with-small-river/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, lake river, stream, tributary, shallow, channel, water, depth, column</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of shallow lake base with small river</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_e93a33caca858fd4d5d5c7cdc5c7b8b9" y2="270.92" gradientUnits="userSpaceOnUse" x2="500.25" y1="270.92" x1=".25">
+  <stop stop-color="#82BCE4" offset=".0337"/>
+  <stop stop-color="#80B3DF" offset="1"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="112.17" width="500" stroke="#231F20" stroke-linecap="round" y="214.84" x=".25" stroke-width=".5" fill="url(#ian_symbols_e93a33caca858fd4d5d5c7cdc5c7b8b9)"/>
+ <linearGradient id="ian_symbols_cf7c4281159bbb34455fe077b3be947c" y2="107.54" gradientUnits="userSpaceOnUse" x2="500.25" y1="107.54" x1=".25">
+  <stop stop-color="#A6B28C" offset="0"/>
+  <stop stop-color="#999B7C" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_cf7c4281159bbb34455fe077b3be947c)" stroke="#231F20" stroke-linecap="round" stroke-width=".5" points="416.47 .25 50.584 .25 .25 214.84 500.25 214.84"/>
+ <linearGradient id="ian_symbols_4253fcbb0d9648249599a570030df052" y2="107.54" gradientUnits="userSpaceOnUse" x2="419.64" y1="107.54" x1="73.184">
+  <stop stop-color="#82BCE4" offset=".0337"/>
+  <stop stop-color="#80B3DF" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m348.08 171.25c-16.724 3.352-30.101-16.766-36.792-30.176-6.688-13.413-20.066-36.88-43.477-40.234-10.317-1.477-26.367-4.785-43.938-3.354-1.492.122-24.798-10.151-26.338-22.441-1.541-12.285 9.87-13.135 2.973-25.371-6.895-12.231-31.963-9.751-40.82-19.206-3.645-3.89 22.996-11.063 21.197-14.666-2.012-4.023 25.944-15.547 25.944-15.547h-86.699s-13.704 8.159-14.036 13.276c-.329 5.114 40.052 3.955 43.445 16.746 3.394 12.79 35.649 16.062 34.248 26.542-1.396 10.481-7.725 12.42-5.5 18.709 5.075 14.351 18.285 20.117 15.01 28.589-3.274 8.472-23.88 16.761-35.076 35.132-11.03 18.096-60.979 21.943-77.7 32.002-16.725 10.059-1.627 32.368 13.242 43.589h325.88c-4.73-32.78-54.82-46.95-71.54-43.59z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_4253fcbb0d9648249599a570030df052)"/>
+ <linearGradient id="ian_symbols_6ea6a615cc51eb54e187a639908cf769" y2="269.36" gradientUnits="userSpaceOnUse" x2="500.25" y1="269.36" x1=".25">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#AA8D6B" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m500.25 327.01h-500v-112.17s35.643-2.988 54.792-3 38.719 3 38.719 3 39.524 65.806 106.76 67.056c21.406.396 51.389-2.905 82.326-12.158 19.731-5.898 36.506-3.105 55.027-10.386 14.092-5.542 23.215-22.202 33.643-28.604 21.865-13.428 48.127-15.908 48.127-15.908s22.38-2.121 35.507-3 45.099 3 45.099 3v112.17z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_6ea6a615cc51eb54e187a639908cf769)"/>
+</svg>

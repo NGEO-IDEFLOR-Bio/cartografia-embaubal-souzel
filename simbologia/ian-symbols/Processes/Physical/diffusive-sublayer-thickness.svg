@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="376" height="506" viewBox="0 0 376 506" xml:space="preserve">
+            <title>Diffusive sublayer thickness</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Diffusive sublayer thickness</ian_image_library:title>
+                <ian_image_library:descr>Illustration of diffusive sublayer thickness</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, diffusive, sublayer, thickness, diffusion</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ac51125f259db6d4ad40123e6f4bc76e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Diffusive sublayer thickness</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/diffusive-sublayer-thickness/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/diffusive-sublayer-thickness/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, diffusive, sublayer, thickness, diffusion</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of diffusive sublayer thickness</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="208.76" width="369.97" stroke="#231F20" y="2.472" x="2.481" stroke-width="4.9434" fill="#00B3F0"/>
+ <linearGradient id="ian_symbols_67617acbde4dde747dcc44e9164f0fdf" y2="214.26" gradientUnits="userSpaceOnUse" x2="187.47" y1="406.81" x1="187.47">
+  <stop stop-color="#77C152" offset="0"/>
+  <stop stop-color="#00B3F0" offset="1"/>
+ </linearGradient>
+ <rect height="192.55" width="369.97" stroke="#231F20" y="214.26" x="2.481" stroke-width="4.7481" fill="url(#ian_symbols_67617acbde4dde747dcc44e9164f0fdf)"/>
+ <line y2="214.79" x1="2.481" x2="372.46" stroke="#231F20" stroke-miterlimit="3.8637" y1="214.79" stroke-width="14.889" fill="#D2232A"/>
+ <line y2="404.95" x1="2.481" x2="372.46" stroke="#231F20" stroke-miterlimit="3.8637" y1="404.95" stroke-width="29.498" fill="#D2232A"/>
+ <path stroke="#231F20" stroke-width="9.9262" stroke-miterlimit="3.8637" d="m71.745 71.038c-.841 26.323 6.085 53.161 21.47 76.913 40.229 62.095 123.23 79.826 185.28 39.565 39.228-25.434 60.729-67.892 61.12-111.36" fill="none"/>
+ <path d="m71.354 34.505c6.905 20.591 19.021 46.304 32.167 62.385l-33.715-13.413-34.487 11.27c14.153-15.245 27.845-40.111 36.036-60.242z" fill="#231F20"/>
+ <rect height="95.265" width="369.97" stroke="#231F20" y="407.21" x="2.481" stroke-width="4.9631" fill="#77C152"/>
+ <polygon fill-rule="evenodd" stroke="#231F20" points="202.74 277.42 218.97 277.42 218.97 277.42 186.5 235.87 156.06 277.42 171.53 277.42 171.52 351.43 155.96 351.43 186.4 393.01 218.87 351.43 218.87 351.43 202.74 351.43" clip-rule="evenodd" stroke-width="4.9631" fill="#72D0F4"/>
+</svg>

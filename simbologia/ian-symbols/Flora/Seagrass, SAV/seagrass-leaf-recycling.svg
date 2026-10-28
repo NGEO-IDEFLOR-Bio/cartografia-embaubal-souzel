@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="355" height="501" viewBox="0 0 355 501" xml:space="preserve">
+            <title>Seagrass leaf recycling</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass leaf recycling</ian_image_library:title>
+                <ian_image_library:descr>Illustration of seagrass leaf recycling</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, leaf, recycling</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0ea61508ee4b3074b996a8640588608d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass leaf recycling</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-leaf-recycling/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-leaf-recycling/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, leaf, recycling</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of seagrass leaf recycling</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#41AD49" stroke-width="39.237" d="m102.33 385.53c-90.194-66.212-109.62-192.99-43.429-283.18 66.223-90.184 193-109.66 283.18-43.439" fill="none"/>
+ <linearGradient id="ian_symbols_d50b215aa9cec5943903e9e1ad347354" y2="299.77" gradientUnits="userSpaceOnUse" x2="73.729" gradientTransform="matrix(1.533 0 0 1.533 121.89 -73.639)" y1="299.77" x1="-69.805">
+  <stop stop-color="#41AD49" offset="0"/>
+  <stop stop-color="#67A83A" offset=".097"/>
+  <stop stop-color="#87A32D" offset=".1999"/>
+  <stop stop-color="#A29F22" offset=".3115"/>
+  <stop stop-color="#B69D1A" offset=".4333"/>
+  <stop stop-color="#C59B14" offset=".5701"/>
+  <stop stop-color="#CD9911" offset=".7344"/>
+  <stop stop-color="#D09910" offset="1"/>
+ </linearGradient>
+ <polygon points="17.784 500 178.04 271.81 237.82 464.67" fill="url(#ian_symbols_d50b215aa9cec5943903e9e1ad347354)"/>
+</svg>

@@ -1,0 +1,97 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="125" viewBox="0 0 501 125" xml:space="preserve">
+            <title>Megaptera novaeangliae (Humpback Whale) : tail</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Megaptera novaeangliae (Humpback Whale) : tail</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Megaptera novaeangliae (Humpback Whale) tail</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mammal, humpback, whale, tail, Chordata, Mammalia, Cetacea, Mysticeti, Balaenopteridae, Megaptera, novaeangliae</ian_image_library:contains>
+                    <ian_image_library:when>2005-01-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-57cb573dd00e8e44b9c3a0d3f8e2b2f0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Megaptera novaeangliae (Humpback Whale) : tail</dc:title>
+                <dc:date>2005-01-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/megaptera-novaeangliae-humpback-whale-tail/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/megaptera-novaeangliae-humpback-whale-tail/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mammal, humpback, whale, tail, Chordata, Mammalia, Cetacea, Mysticeti, Balaenopteridae, Megaptera, novaeangliae</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Megaptera novaeangliae (Humpback Whale) tail</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_b18bb067c2c57404c98eb6bccf2d612b" y2="49.698" gradientUnits="userSpaceOnUse" x2="352.01" y1="93.109" x1="190">
+  <stop stop-color="#2F231D" offset=".4213"/>
+  <stop stop-color="#83736A" offset="1"/>
+ </linearGradient>
+ <path stroke="#353D3E" stroke-width="1.1089" d="m311.84 119.57c1.666-4.145-2.495-14.109-4.154-23.237-1.652-9.139-4.141-11.634-4.978-19.106-.836-7.469 18.27-26.562 23.247-33.198 4.984-6.653 20.752-14.119 20.752-14.119l-88.011-8.309-83.85 14.955s51.485 8.295 61.453 13.276c9.955 4.991 16.61 11.62 19.922 21.584 3.312 9.968 5.8 16.611 6.637 24.917.836 8.292.836 21.581 3.324 24.07 2.489 2.488 14.945 3.324 24.913 2.488 9.96-.83 19.09.84 20.75-3.32z" fill="url(#ian_symbols_b18bb067c2c57404c98eb6bccf2d612b)"/>
+ <linearGradient id="ian_symbols_dc8da3f72e3e8d2485c484ba6ff32556" y2="20.507" gradientUnits="userSpaceOnUse" x2="499.45" y1="20.507" x1=".5542">
+  <stop stop-color="#2F231D" offset=".0225"/>
+  <stop stop-color="#3F332D" offset=".2079"/>
+  <stop stop-color="#75675F" offset=".427"/>
+  <stop stop-color="#555D5F" offset=".5449"/>
+  <stop stop-color="#6B7476" offset=".6236"/>
+  <stop stop-color="#51595B" offset="1"/>
+ </linearGradient>
+ <path stroke="#353D3E" stroke-width="1.1089" d="m359.72 17.454c16.051-1.659 71.394-13.272 92.981-13.272s27.117 1.652 35.426 7.186c8.296 5.534 9.962 8.306 11.068 13.29 1.099 4.98-1.666 7.189-3.318 8.845-1.666 1.666-6.09-1.103-8.855-1.656s-12.18-7.752-18.263-9.961c-6.104-2.212-13.846-.553-18.27 0-4.445.563-18.823-.553-27.685 2.772-8.856 3.311-75.272 12.719-87.438 12.169-12.187-.553-31.003-1.659-44.275-3.325-10.439-1.302-38.186-6.919-38.186-6.919h-2.502c-6.919-.273-37.915 7.486-59.766 11.63-21.878 4.147-51.215 1.939-69.751-1.656-18.52-3.595-43.98-10.797-54.774-14.122-10.798-3.325-24.637-4.431-31.546-2.489-6.93 1.939-17.44 6.916-21.587 9.125-4.151 2.222-6.646 4.161-9.975 5.817-3.312 1.669-4.138-7.473 3.329-15.778 7.472-8.292 29.057-16.597 54.795-18.256 25.729-1.656 68.905 3.868 86.339 9.132 17.44 5.257 58.391 11.347 75.555 11.617 17.164.283 30.436-4.148 43.175-3.312 12.733.819 23.787 5.932 32.372 6.636 8.6.701 49.85-6.289 61.17-7.473z" fill="url(#ian_symbols_dc8da3f72e3e8d2485c484ba6ff32556)"/>
+ <linearGradient id="ian_symbols_1830f1644e6b687445d7ee90dba61254" y2="29.13" gradientUnits="userSpaceOnUse" x2="385.73" y1="29.13" x1="259.53">
+  <stop stop-color="#91837F" offset="0"/>
+  <stop stop-color="#6E5E5A" offset="1"/>
+ </linearGradient>
+ <path d="m259.53 24.657c0 1.652 39.871 8.045 56.462 8.845 33.768 1.666 68.925-2.815 69.734-6.086.553-2.206-26.565 6.653-69.182 3.878-21.55-1.397-57.01-8.306-57.01-6.637z" fill="url(#ian_symbols_1830f1644e6b687445d7ee90dba61254)"/>
+ <linearGradient id="ian_symbols_8d76f2c36da514b4e97fecd7a6881426" y2="31.694" gradientUnits="userSpaceOnUse" x2="241.82" y1="31.694" x1="160.35">
+  <stop stop-color="#91837F" offset="0"/>
+  <stop stop-color="#6E5E5A" offset="1"/>
+ </linearGradient>
+ <path d="m160.47 37.943c2.212 2.209 32.924-1.18 43.722-3.875 11.061-2.775 37.632-6.653 37.632-8.858 0-2.222-24.899 3.861-39.844 7.189-14.75 3.281-43.73 3.322-41.51 5.544z" fill="url(#ian_symbols_8d76f2c36da514b4e97fecd7a6881426)"/>
+</svg>

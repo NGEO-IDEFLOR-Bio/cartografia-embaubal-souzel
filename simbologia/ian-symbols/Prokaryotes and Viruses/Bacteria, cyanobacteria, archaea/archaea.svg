@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="300" viewBox="0 0 502 300" xml:space="preserve">
+            <title>Archaea</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Archaea</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an Archaea</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Archaea, </ian_image_library:contains>
+                    <ian_image_library:when>2003-11-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-40eae4047c022074fd215f2eca382d69">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Archaea</dc:title>
+                <dc:date>2003-11-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/archaea/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/archaea/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Archaea, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an Archaea</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m496.63 38.155c4.997 17.287 5.02 29.115-1.189 30.638-76.718 44.356-170.88 89.558-250.5 116.17-81.087 25.636-151.44 95.45-221.72 114.36-5.748-1-14.452-20.955-19.344-37.897-5.008-17.287-5.042-29.104 1.167-30.639 76.729-44.356 170.89-89.558 250.5-116.17 81.098-25.636 151.46-95.45 221.73-114.36 5.77 1.007 14.45 20.962 19.36 37.905z" fill="#FFF799"/>
+ <path stroke="#541813" stroke-width=".5024" d="m496.63 38.155c4.997 17.287 5.02 29.115-1.189 30.638-76.718 44.356-170.88 89.558-250.5 116.17-81.087 25.636-151.44 95.45-221.72 114.36-5.748-1-14.452-20.955-19.344-37.897-5.008-17.287-5.042-29.104 1.167-30.639 76.729-44.356 170.89-89.558 250.5-116.17 81.098-25.636 151.46-95.45 221.73-114.36 5.77 1.007 14.45 20.962 19.36 37.905z" fill="none"/>
+ <path stroke="#EA2B91" stroke-width=".6699" d="m237.33 142.21c20.933-15.586 65.512-34.318 79.347-26.559 13.836 7.76-1.351 28.093-21.806 39.699-20.449 11.617-56.936 33.362-80.442 18.343-23.5-14.99 1.97-15.89 22.9-31.48z" fill="none"/>
+</svg>

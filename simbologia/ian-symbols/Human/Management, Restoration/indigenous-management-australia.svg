@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="501" viewBox="0 0 500 501" xml:space="preserve">
+            <title>Indigenous management (Australia)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Indigenous management (Australia)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of indigenous management in Australia</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>management, indigenous, peoples, native, aboriginals, Australia</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-14bb4d45b863acf431c3db8043a434a4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Indigenous management (Australia)</dc:title>
+                <dc:date>2003-01-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/indigenous-management-australia/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/indigenous-management-australia/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>management, indigenous, peoples, native, aboriginals, Australia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of indigenous management in Australia</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#ED1C24" stroke="#000000" stroke-width="7.3892" d="M249.981,496.306
+	c136.064,0,246.325-110.241,246.325-246.315H3.695C3.695,386.064,113.959,496.306,249.981,496.306z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" stroke="#000000" stroke-width="7.3892" d="M249.981,3.695
+	C113.959,3.695,3.695,113.983,3.695,249.99h492.611C496.306,113.983,386.045,3.695,249.981,3.695z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFF200" stroke="#000000" stroke-width="6.8975" d="M369.862,249.99
+	c0,66.248-53.706,119.93-119.881,119.93c-66.219,0-119.853-53.682-119.853-119.93c0-66.132,53.634-119.877,119.853-119.877
+	C316.156,130.113,369.862,183.858,369.862,249.99z"/>
+</svg>

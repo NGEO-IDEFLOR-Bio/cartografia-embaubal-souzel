@@ -1,0 +1,131 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="279" viewBox="0 0 502 279" xml:space="preserve">
+            <title>Jetty</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Jetty</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a sideways view of a jetty</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, jetty, dock, pier</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8c5b2affbd76b364d5591befc6203a8b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Jetty</dc:title>
+                <dc:date>2004-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/jetty/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/jetty/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, jetty, dock, pier</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a sideways view of a jetty</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<rect x="371.368" y="21.924" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="48.965" height="8.209"/>
+<rect x="360.593" y="51.276" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="62.578" height="7.66"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M371.804,2.761c-1.68-1.963-7.683-2.464-9.935-2.425
+	c-2.168,0-7.064,0.667-8.275,2.663c2.768,15.319,1.426,46.331,2.233,72.308c5.742,0.277,9.87,0,18.913,0
+	C374.741,75.306,373.081,16.41,371.804,2.761z"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M432.358,3.298c-1.426-1.963-6.25-2.448-8.158-2.416
+	c-1.836,0-5.963,0.671-7.005,2.653c2.337,15.368,1.198,45.774,1.895,71.771c4.837,0.277,8.347,0,16.003,0
+	C435.092,75.306,433.425,16.947,432.358,3.298z"/>
+<rect x="204.115" y="52.298" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="145.521" height="10.625"/>
+<rect x="205.027" y="88.555" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="146.419" height="10.645"/>
+<rect x="46.31" y="54.415" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="144.612" height="10.635"/>
+<rect x="44.392" y="90.362" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="146.426" height="10.657"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M205.131,32.787c-1.712-2.109-7.698-2.637-9.944-2.614
+	c-2.191,0-7.061,0.723-8.294,2.855c2.76,16.494,1.445,63.06,2.243,90.979c5.746,0.329,9.883,0,18.9,0
+	C208.035,124.007,206.407,47.438,205.131,32.787z"/>
+<rect x="347.8" y="124.001" fill="#95979A" stroke="#000000" stroke-width="0.6667" width="15.462" height="65.693"/>
+<polygon fill="#CAAC7E" stroke="#000000" stroke-width="0.6667" points="0.593,124.001 364.61,124.001 362.104,75.29 435.913,75.29 
+	499.656,212.584 399.004,212.584 388.946,170.827 29.119,170.827 "/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M363.165,34.118c-1.68-2.113-7.676-2.643-9.935-2.633
+	c-2.168,0-7.038,0.739-8.269,2.887c2.761,16.426,1.42,61.813,2.233,89.635c5.742,0.329,9.87,0,18.906,0
+	C366.101,124.007,364.441,48.734,363.165,34.118z"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M48.689,30.495c-1.683-2.158-7.679-2.711-9.945-2.689
+	c-2.158,0-7.031,0.742-8.265,2.966c0.361,18.857,1.416,64.417,2.233,93.229c5.732,0.329,9.87,0,18.9,0
+	C51.612,124.001,49.965,45.642,48.689,30.495z"/>
+<rect x="229.073" y="94.851" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="141.898" height="10.635"/>
+<rect x="230.932" y="140.082" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="140.997" height="10.642"/>
+<path fill="#D3D5D6" stroke="#000000" stroke-width="0.6667" d="M431.062,22.588c1.309-0.277,44.336,88.135,57.63,113.643
+	c0,0-0.352-9.183,0,12.447c-7.721-14.983-57.142-118.421-57.142-118.421c-0.215-1.729-0.56-4.336-0.56-4.336
+	S430.02,22.806,431.062,22.588z"/>
+<path fill="#D3D5D6" stroke="#000000" stroke-width="0.6667" d="M432.41,51.81c8.425,16.472,39.245,80.827,53.027,106.062
+	c0,0,0.163-5.202,0.547,16.236c-8.04-14.837-53.308-113.372-53.308-113.372C431.55,51.954,432.41,51.81,432.41,51.81z"/>
+<rect x="413.979" y="180.592" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="72.591" height="10.645"/>
+<rect x="411.831" y="142.728" fill="#C9CACC" stroke="#000000" stroke-width="0.6667" width="72.559" height="10.625"/>
+<polygon fill="#C9CACC" stroke="#000000" stroke-width="0.6667" points="385.691,150.631 401.622,191.471 401.622,180.846 
+	385.691,140.006 "/>
+<polygon fill="#C9CACC" stroke="#000000" stroke-width="0.6667" points="384.871,107.585 400.801,148.424 400.801,137.8 
+	384.871,96.96 "/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M234.103,79.3c-1.703-2.181-7.705-2.731-9.948-2.711
+	c-2.178,0-7.047,0.755-8.281,2.956c2.767,17.019,1.436,62.461,2.233,91.282c5.732,0.319,9.879,0,18.909,0
+	C237.016,170.827,235.355,94.424,234.103,79.3z"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M78.539,79.131c-1.696-2.181-7.692-2.734-9.925-2.712
+	c-2.191,0-7.064,0.742-8.298,2.966c2.761,17.018,1.433,62.62,2.233,91.441c5.723,0.332,9.87,0,18.909,0
+	C81.459,170.827,79.802,94.255,78.539,79.131z"/>
+<rect x="218.708" y="170.827" fill="#95979A" stroke="#000000" stroke-width="0.6667" width="15.469" height="61.146"/>
+<rect x="63.155" y="170.827" fill="#95979A" stroke="#000000" stroke-width="0.6667" width="15.465" height="64.297"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M385.593,75.29c-1.68-2.158-7.676-2.699-9.909-2.679
+	c-2.193,0-7.063,0.446-8.294,2.679c2.761,16.996,1.426,66.738,2.233,95.537c5.742,0.332,9.869,0,18.906,0
+	C388.53,170.827,386.87,90.446,385.593,75.29z"/>
+<rect x="370.229" y="170.827" fill="#95979A" stroke="#000000" stroke-width="0.6667" width="15.462" height="63.698"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M414.617,121.032c-1.719-2.158-7.676-2.699-9.929-2.669
+	c-2.174,0-7.063,0.755-8.274,2.946c2.761,17.008,1.426,62.474,2.233,91.275c5.742,0.326,9.869,0,18.906,0
+	C417.553,212.584,415.893,136.179,414.617,121.032z"/>
+<rect x="483.516" y="212.584" fill="#95979A" stroke="#000000" stroke-width="0.6667" width="15.443" height="65.15"/>
+<rect x="400.665" y="212.584" fill="#95979A" stroke="#000000" stroke-width="0.6667" width="15.463" height="65.15"/>
+<path fill="#C9CACC" stroke="#000000" stroke-width="0.6667" d="M497.683,117.982c-1.726-2.181-7.702-2.725-9.935-2.711
+	c-2.194,0-7.064,0.755-8.275,2.965c2.741,17.019,1.426,65.534,2.233,94.349c5.723,0.326,9.87,0,18.887,0
+	C500.593,212.584,498.959,133.093,497.683,117.982z"/>
+</svg>

@@ -1,0 +1,113 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="501" viewBox="0 0 501 501" xml:space="preserve">
+            <title>Watershed management</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Watershed management</ian_image_library:title>
+                <ian_image_library:descr>Illustration of watershed management</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>management, watershed, catchment, drainage, forest, mountains rivers, waterways, streams</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b2f0ecc0af2d9c0449a88d167c4c2b48">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Watershed management</dc:title>
+                <dc:date>2005-02-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/watershed-management/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/watershed-management/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>management, watershed, catchment, drainage, forest, mountains rivers, waterways, streams</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of watershed management</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_66e02c06e509f2a409b5876eff585a88" gradientUnits="userSpaceOnUse" x1="250" y1="291.7471" x2="250" y2="3.6953">
+	<stop  offset="0.0449" style="stop-color:#98D9E8"/>
+	<stop  offset="0.2472" style="stop-color:#9BC8DD"/>
+	<stop  offset="0.4142" style="stop-color:#9CC7DC"/>
+	<stop  offset="0.5062" style="stop-color:#9CC2D9"/>
+	<stop  offset="0.5225" style="stop-color:#9DC0D8"/>
+	<stop  offset="0.6922" style="stop-color:#96BAD3"/>
+	<stop  offset="0.8654" style="stop-color:#87AEC9"/>
+	<stop  offset="0.9944" style="stop-color:#76A1BE"/>
+</linearGradient>
+<path fill="url(#ian_symbols_66e02c06e509f2a409b5876eff585a88)" d="M249.971,3.695C113.998,3.695,3.695,114.003,3.695,250.063c0,14.211,1.27,28.133,3.584,41.685
+	h485.438c2.319-13.552,3.589-27.474,3.589-41.685C496.305,114.003,385.987,3.695,249.971,3.695z"/>
+<linearGradient id="ian_symbols_a5736e20a3969734ad2e5bcc8bdba94b" gradientUnits="userSpaceOnUse" x1="250" y1="401.4775" x2="250" y2="72.2881">
+	<stop  offset="0.0337" style="stop-color:#879741"/>
+	<stop  offset="0.3315" style="stop-color:#00A24C"/>
+	<stop  offset="0.9944" style="stop-color:#549748"/>
+</linearGradient>
+<path fill="url(#ian_symbols_a5736e20a3969734ad2e5bcc8bdba94b)" d="M496.114,242.409c-12.634-6.36-24.978-13.018-36.071-19.739
+	c-52.657-31.875-73.458-127.242-142.751-127.242c-21.522-1.284-55.246,50.127-73.94,48.698
+	c-18.694-1.414-53.283-71.284-86.909-71.837c-22.375-0.37-84.37,46.418-129.998,74.359c-14.562,31.447-22.75,66.463-22.75,103.414
+	c0,57.098,19.517,109.63,52.176,151.415H444.12c32.665-41.785,52.186-94.317,52.186-151.415
+	C496.305,247.493,496.19,244.954,496.114,242.409z"/>
+<linearGradient id="ian_symbols_170a6d07c679bce4b54b35c700a4200d" gradientUnits="userSpaceOnUse" x1="252.7861" y1="496.3057" x2="252.7861" y2="143.9248">
+	<stop  offset="0" style="stop-color:#00AADD"/>
+	<stop  offset="0" style="stop-color:#0096CD"/>
+	<stop  offset="0.4113" style="stop-color:#1CA6D6"/>
+	<stop  offset="0.9101" style="stop-color:#56BAE0"/>
+</linearGradient>
+<path fill="url(#ian_symbols_170a6d07c679bce4b54b35c700a4200d)" d="M249.971,496.306c88.66,0,166.382-46.895,209.773-117.192c-15.375,2.361-28.922,5.772-38.514,10.665
+	c-17.116,8.746-56.372,8.255-73.306-3.482c-16.942-11.748,11.17-28.522,7.053-60.354c-4.936-38.077-72.93-18.084-86.784-31.409
+	c-13.845-13.34,16.539-7.976,27.7-35.993c9.399-23.635-37.139-21.258-49.425-25.963c-12.271-4.709,15.125-16.986,15.125-29.326
+	c0-12.349-3.213-11.444-24.611-20.787c-16.106-7.028,8.496-28.099,6.369-37.09c-2.126-9.001-25.915,26.468-24.472,36.483
+	c1.472,10.021,19.089,10.021,26.656,19.358c9.583,11.849-29.407,15.558-22.254,31.77c7.148,16.226,43.344,6.533,48.818,25.554
+	c5.475,19.026-88.506,12.421-75.157,34.862c13.33,22.461,91.599,17.261,105.358,37.182c11.439,16.616-24.765,50.922-36.975,55.207
+	c-12.2,4.277-85.071-3.564-100.461-9.616c-27.579-10.872-74.642,6.759-119.039,11.622C90.099,453.25,165.02,496.306,249.971,496.306
+	z"/>
+<path fill="none" stroke="#000000" stroke-width="7.3892" d="M496.305,250.063c0,135.935-110.318,246.243-246.334,246.243
+	c-135.973,0-246.276-110.309-246.276-246.243c0-136.06,110.303-246.368,246.276-246.368
+	C385.987,3.695,496.305,114.003,496.305,250.063z"/>
+</svg>

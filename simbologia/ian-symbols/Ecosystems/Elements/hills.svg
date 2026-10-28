@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="188" viewBox="0 0 501 188" xml:space="preserve">
+            <title>Hills</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Hills</ian_image_library:title>
+                <ian_image_library:descr>Illustration of hills</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, terrestrial, hills, foothills, mountains, mounds, landscape, features</ian_image_library:contains>
+                    <ian_image_library:when>2004-05-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1470153eb6aa88149540b1ede79467fe">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Hills</dc:title>
+                <dc:date>2004-05-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/hills/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/hills/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, terrestrial, hills, foothills, mountains, mounds, landscape, features</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of hills</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_38510343f81799941577b7d1c9d32f68" y2=".0732" gradientUnits="userSpaceOnUse" x2="173.91" y1="139.59" x1="173.91">
+  <stop stop-color="#8B8E57" offset="0"/>
+  <stop stop-color="#B7B796" offset="1"/>
+ </linearGradient>
+ <path d="m0 126s130.77 14.864 167.16 13.508c36.405-1.343 180.65-16.207 180.65-16.207s-75.501-59.431-86.278-72.93c-10.781-13.513-51.238-44.571-72.797-49.973-21.57-5.407-84.92 59.417-84.92 59.417l-103.81 66.186z" fill="url(#ian_symbols_38510343f81799941577b7d1c9d32f68)"/>
+ <path d="m0 126s64.705-40.521 82.232-62.13c22.646-26.181 58.8-49.704 81.552-59.764 12.462-5.512 22.349-3.873 22.349-3.873s-40.538 40.675-60.764 67.692c-20.22 27.002-125.37 58.075-125.37 58.075z" fill="#8B8E57"/>
+ <linearGradient id="ian_symbols_c0ea8f7352da69d4f58f9d626e88b6ae" y2="50.553" gradientUnits="userSpaceOnUse" x2="347.39" y1="187.09" x1="347.39">
+  <stop stop-color="#8B8E57" offset="0"/>
+  <stop stop-color="#90935E" offset=".2272"/>
+  <stop stop-color="#9EA072" offset=".5647"/>
+  <stop stop-color="#B5B593" offset=".9691"/>
+  <stop stop-color="#B7B796" offset="1"/>
+ </linearGradient>
+ <path d="m194.78 174.08s111.24 16.924 143.92 12.17c32.688-4.74 161.3-19.975 161.3-19.975s-73.798-50.302-84.835-61.44c-11.02-11.125-50.48-51.425-70.455-54.197-19.961-2.786-70.824 61.81-70.824 61.81l-79.1 61.63z" fill="url(#ian_symbols_c0ea8f7352da69d4f58f9d626e88b6ae)"/>
+ <path d="m194.78 174.08s52.466-40.306 65.751-60.362c19.299-27.24 49.041-48.265 66.934-57.522 11.554-5.978 15.919-5.649 15.919-5.649s-30.263 38.123-45.411 63.057c-15.14 24.93-103.19 60.47-103.19 60.47z" fill="#8B8E57"/>
+</svg>

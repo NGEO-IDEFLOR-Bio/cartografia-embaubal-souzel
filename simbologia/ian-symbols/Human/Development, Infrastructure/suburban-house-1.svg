@@ -1,0 +1,84 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="397" viewBox="0 0 501 397" xml:space="preserve">
+            <title>Suburban: house 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Suburban: house 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a house</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, house, 1, home</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7357a26e8bf190b4ad78437f2f55637f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Suburban: house 1</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/suburban-house-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/suburban-house-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, house, 1, home</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a house</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#EFE0B8" points="23.712,112.855 23.712,249.228 199.598,395.494 199.598,227.457 23.712,112.855 "/>
+<polygon fill="#E2C97C" points="199.598,395.494 476.303,278.867 476.303,156.314 199.598,227.457 199.598,395.494 "/>
+<polygon fill="#A8965D" points="341.713,257.136 339.923,336.274 367.726,324.562 367.726,252.08 "/>
+<polygon fill="#A8965D" points="61.425,182.639 61.425,225.549 88.957,249.228 94.873,213.624 61.425,182.639 "/>
+<polygon fill="#A8965D" points="133.258,241.686 133.258,284.604 164.05,306.514 169.979,268.978 133.258,241.686 "/>
+<polygon fill="#A8965D" points="259.676,260.177 258.899,296.638 293.228,291.764 290.506,255.154 259.676,260.177 "/>
+<polygon fill="#AC3731" points="270.682,0 199.598,241.341 500.003,154.332 270.682,0 "/>
+<polygon fill="#C17050" points="270.682,0 0,108.908 199.598,241.341 270.682,0 "/>
+</svg>

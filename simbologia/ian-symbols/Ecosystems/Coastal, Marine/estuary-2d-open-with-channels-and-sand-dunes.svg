@@ -1,0 +1,90 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="193" viewBox="0 0 501 193" xml:space="preserve">
+            <title>Estuary 2D: open with channels and sand dunes</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: open with channels and sand dunes</ian_image_library:title>
+                <ian_image_library:descr>Illustration of open estuary base with channels and sand dunes</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, open, channels, sdunes</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6a8ae3608d645b742d6357bbab43d440">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: open with channels and sand dunes</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-open-with-channels-and-sand-dunes/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-open-with-channels-and-sand-dunes/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, open, channels, sdunes</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of open estuary base with channels and sand dunes</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_7cd1adf7c5b626a4e982761ce10592ac" y2="133.59" gradientUnits="userSpaceOnUse" x2="336.38" y1="133.59" x1=".25">
+  <stop stop-color="#0083B7" offset="0"/>
+  <stop stop-color="#4BA1C6" offset=".4561"/>
+  <stop stop-color="#80B7D1" offset=".8224"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m336.38 188.76h-336.13v-108.78s3.604 1.498 5.105 1.569c1.506.071 5.314-1.569 5.314-1.569s3.244 1.371 5.313 1.569c2.069.197 5.843-1.569 5.843-1.569s4.619 1.622 6.908 1.569c2.29-.055 5.311-1.569 5.311-1.569s1.905 1.498 4.781 1.569c2.878.071 6.377-1.569 6.377-1.569s2.555 1.622 5.313 1.569c2.762-.055 5.846-1.569 5.846-1.569s3.241 1.498 6.373 1.569c3.133.071 6.377-1.569 6.377-1.569s2.47 1.498 5.842 1.569c3.375.071 5.314-1.569 5.314-1.569s3.373 1.498 6.376 1.569 6.374-1.569 6.374-1.569 4.435 1.371 7.97 1.569c3.537.197 6.376-1.569 6.376-1.569s3.601 1.371 7.438 1.569c3.838.197 5.843-1.569 5.843-1.569s1.186 1.873 5.313 1.569c4.126-.306 4.782-1.569 4.782-1.569s4.294 1.622 6.905 1.569c2.611-.055 4.781-1.569 4.781-1.569s2.804 1.498 7.44 1.569c4.633.071 7.435-1.569 7.435-1.569s4.2 1.498 7.439 1.569c3.237.071 5.312-1.569 5.312-1.569s3.599 1.248 7.437 1.569c3.843.321 7.44-1.569 7.44-1.569s2.362 1.498 6.375 1.569c4.016.071 6.908-1.569 6.908-1.569s2.373 1.498 5.844 1.569c3.472.071 6.374-1.569 6.374-1.569s1.576 1.498 5.313 1.569c3.736.071 6.376-1.569 6.376-1.569s3.353 1.622 6.905 1.569c3.555-.055 5.845-1.569 5.845-1.569s2.789 1.248 5.845 1.569c3.054.321 5.313-1.569 5.313-1.569s2.2 1.622 5.312 1.569c3.11-.055 5.847-1.569 5.847-1.569s3.701 1.498 6.906 1.569c3.202.071 5.844-1.569 5.844-1.569s.121 1.498 4.781 1.569c4.658.071 6.375-1.569 6.375-1.569s2.042 1.622 5.313 1.569c3.271-.055 5.313-1.569 5.313-1.569s2.967 1.498 6.376 1.569c3.407.071 5.842-1.569 5.842-1.569s2.379 1.873 5.314 1.569c2.933-.306 4.782-1.569 4.782-1.569s1.406 1.371 5.31 1.569c3.903.197 5.313-1.569 5.313-1.569s1.056 1.749 4.782 1.569c3.729-.177 6.947-3.137 6.947-3.137v110.35z" fill="url(#ian_symbols_7cd1adf7c5b626a4e982761ce10592ac)"/>
+ <linearGradient id="ian_symbols_f0e3697898080b34b1a5f333f1913347" y2=".2505" gradientUnits="userSpaceOnUse" x2="250.25" y1="191.93" x1="250.25">
+  <stop stop-color="#9F8567" offset="0"/>
+  <stop stop-color="#A18769" offset=".0116"/>
+  <stop stop-color="#B6A287" offset=".1705"/>
+  <stop stop-color="#C6B79D" offset=".3398"/>
+  <stop stop-color="#D2C6AD" offset=".5221"/>
+  <stop stop-color="#D9CEB7" offset=".7268"/>
+  <stop stop-color="#DBD1BA" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m500.25 57.595s-3.129.983-11.308-2.563c-8.179-3.544-25.863-43.234-31.26-45.98-5.395-2.747-13.82-2.462-18.6-1.69-4.78.774-11.22-7.058-17.893-7.111-6.673-.055-11.802 5.306-17.031 9.648-5.228 4.343-10.13 6.504-15.474 12.751-5.342 6.245-8.943 21.442-11.639 25.751s-3.885 1.638-6.587 6.638c-2.704 5-5.702 20.241-10.198 22.085-4.496 1.842-9.866 3.826-15.274 3.751-5.409-.076-7.882-3.464-12.641-3.602-4.759-.14-7.17-1.126-11.061 2.42-3.891 3.549-17.729 18.558-21.302 20.518-3.572 1.959-8.391 3.381-13.776 4.195-5.384.815-5.935-5.514-14.353-7.843-8.416-2.331-11.95-8.762-17.377-9.821-5.428-1.059-14.787-.738-18.502.628-3.713 1.369-19.22 28.729-21.059 33.061-1.84 4.332-8.23 9.989-10.129 13.878-1.902 3.888-9.502 7.847-15.295 7.087-5.792-.757-9.1-5.915-13.741-12.494-4.642-6.583-19.97-20.369-23.396-24.162-3.427-3.791-18.136-8.226-20.373-10.893-2.238-2.667-11.131-1.582-18.674-1.208-7.545.372-16.103 9.846-22.914 10.299-6.812.454-8.347-7.4-12.975-8.358-4.629-.957-14.224-5.921-19.918-4.965-5.694.954-19.054 4.994-23.615 6.026-4.561 1.033-9.881 8.089-12.468 8.835-2.585.746-5.586 10.972-8.282 13.491-2.696 2.521-4.367.786-6.529 3.792-2.161 3.004-6.358 9.113-6.358 9.113v61.058h500v-134.34z" fill="url(#ian_symbols_f0e3697898080b34b1a5f333f1913347)"/>
+</svg>

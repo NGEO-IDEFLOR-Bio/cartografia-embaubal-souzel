@@ -1,0 +1,76 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="525" height="416" viewBox="0 0 525 416" xml:space="preserve">
+            <title>State highway sign 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>State highway sign 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of state highway sign</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, state, highway, sign, roadtrip, route, travel, two, digits, double, numbers</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5ff28795f12722b4097fecb3376e0ddb">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>State highway sign 2</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/state-highway-sign-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/state-highway-sign-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, state, highway, sign, roadtrip, route, travel, two, digits, double, numbers</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of state highway sign</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m511.9 207.74c0 108.17-111.95 195.83-250 195.83-138.08 0-250-87.662-250-195.83s111.92-195.83 250-195.83c138.06-.005 250 87.657 250 195.83z" fill-rule="evenodd" stroke="#000" clip-rule="evenodd" stroke-width="23.81" fill="#fff"/>
+ <path d="m114.96 207.36c0-67.074 24.609-96.68 65.755-96.68 41.406 0 65.853 29.916 65.853 96.957 0 68.391-23.86 97.135-65.853 97.135-40.43 0-65.755-27.278-65.755-97.135v-.28zm65.5-82.01c-24.056 0-44.173 25.797-44.173 82.438 0 61.914 19.304 82.34 44.434 82.34 25.521 0 44.531-20.866 44.531-82.34 0-56.348-20.117-82.438-44.531-82.438h-.26z"/>
+ <path d="m277.24 207.36c0-67.074 24.577-96.68 65.755-96.68 41.374 0 65.854 29.916 65.854 96.957 0 68.391-23.861 97.135-65.854 97.135-40.462 0-65.755-27.278-65.755-97.135v-.28zm65.49-82.01c-24.056 0-44.205 25.797-44.205 82.438 0 61.914 19.335 82.34 44.466 82.34 25.521 0 44.531-20.866 44.531-82.34 0-56.348-20.117-82.438-44.531-82.438h-.26z"/>
+</svg>

@@ -1,0 +1,117 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="359" viewBox="0 0 501 359" xml:space="preserve">
+            <title>Deep water seagrass</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Deep water seagrass</ian_image_library:title>
+                <ian_image_library:descr>Illustration of deep water seagrass</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, deep, water, Plantae, vascular</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-99e2156398b4eae491e3a5a25cb05689">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Deep water seagrass</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/deep-water-seagrass/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/deep-water-seagrass/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, deep, water, Plantae, vascular</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of deep water seagrass</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="1.7286" d="m361.27 213.64c3.802 3.815 30.459 49.521 30.459 87.603" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m414.58 225.08s-15.22 38.083-22.85 68.549" fill="none"/>
+ <linearGradient id="ian_symbols_c15754411a0f0ff41daac7183c31b045" y2="344.2" gradientUnits="userSpaceOnUse" x2="344.58" gradientTransform="matrix(5.9301 0 0 5.9301 -1721.8 -1958.6)" y1="372.95" x1="344.58">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7286" d="m365.07 126.06c19.048 34.281 15.232 76.178-7.597 87.589-22.876 15.247-57.13-3.801-76.191-41.884-22.85-34.281-19.035-76.165 3.821-87.589 22.85-15.243 57.13 3.805 79.97 41.879z" fill="url(#ian_symbols_c15754411a0f0ff41daac7183c31b045)"/>
+ <linearGradient id="ian_symbols_57316d516acef3f4098890987ba1922b" y2="344.4" gradientUnits="userSpaceOnUse" x2="365.26" gradientTransform="matrix(5.9301 0 0 5.9301 -1721.8 -1958.6)" y1="372.68" x1="365.26">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7286" d="m486.94 179.38c-19.048 34.268-57.117 57.124-79.974 41.891-22.849-11.424-22.849-53.322-3.814-87.589 19.048-38.083 53.315-57.117 76.165-45.692 22.86 15.222 26.67 53.312 7.62 91.392z" fill="url(#ian_symbols_57316d516acef3f4098890987ba1922b)"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m467.89 114.64s-45.692 38.082-49.508 83.774" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m300.34 103.21s49.493 49.514 53.301 83.781" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m94.679 133.68c7.61 7.617 30.459 53.315 30.459 87.589" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m151.81 145.1s-15.247 38.083-22.856 68.542" fill="none"/>
+ <linearGradient id="ian_symbols_fcd5b7ea17666ce471cb0f2bfc7371e0" y2="335.82" gradientUnits="userSpaceOnUse" x2="300.02" gradientTransform="matrix(5.9301 0 0 5.9301 -1721.8 -1958.6)" y1="363.73" x1="300.02">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7286" d="m98.494 46.089c22.853 38.083 19.035 76.165-3.815 91.391-22.853 11.431-57.13-7.617-79.983-41.884-19.035-38.082-19.035-76.165 3.818-91.411 26.644-11.425 60.945 7.623 79.98 41.904z" fill="url(#ian_symbols_fcd5b7ea17666ce471cb0f2bfc7371e0)"/>
+ <linearGradient id="ian_symbols_0359e683fc38ca1439a3148ddf4e4baf" y2="335.67" gradientUnits="userSpaceOnUse" x2="320.77" gradientTransform="matrix(5.9301 0 0 5.9301 -1721.8 -1958.6)" y1="363.66" x1="320.77">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7286" d="m224.16 99.397c-22.856 38.083-57.13 57.13-79.959 45.706-22.853-15.24-26.671-53.322-7.637-91.405 22.856-34.267 57.13-53.315 79.987-41.89 22.85 11.427 26.66 53.325 7.61 87.592z" fill="url(#ian_symbols_0359e683fc38ca1439a3148ddf4e4baf)"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m205.12 34.657s-45.699 41.904-49.507 87.596" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m33.743 23.232s53.302 53.329 53.302 87.603" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m189.89 270.79c7.616 3.815 30.459 53.314 34.267 87.59" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m247.01 282.2s-15.233 38.075-22.85 68.549" fill="none"/>
+ <linearGradient id="ian_symbols_17bf5102f3a97fe43938eab2a2986e34" y2="353.4" gradientUnits="userSpaceOnUse" x2="316.22" gradientTransform="matrix(5.9301 0 0 5.9301 -1721.8 -1958.6)" y1="381.31" x1="316.22">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7286" d="m193.69 183.19c22.856 38.082 19.048 76.165-3.801 91.418-22.863 11.404-57.124-7.63-79.973-41.898-19.055-38.096-15.24-79.98 7.61-91.411 22.85-11.44 57.13 7.61 76.16 41.89z" fill="url(#ian_symbols_17bf5102f3a97fe43938eab2a2986e34)"/>
+ <linearGradient id="ian_symbols_2e86b5e8c7268674155982a5f50770c4" y2="352.98" gradientUnits="userSpaceOnUse" x2="336.88" gradientTransform="matrix(5.9301 0 0 5.9301 -1721.8 -1958.6)" y1="381.27" x1="336.88">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7286" d="m319.38 236.5c-19.034 38.104-57.13 57.131-79.98 45.699-22.849-15.226-26.658-53.309-3.808-91.391 19.048-34.281 53.315-57.13 76.165-41.897 22.84 11.43 26.65 53.32 7.62 87.59z" fill="url(#ian_symbols_2e86b5e8c7268674155982a5f50770c4)"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m300.34 171.76s-45.706 41.884-49.521 87.589" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.7286" d="m128.95 160.34s53.315 53.309 57.13 87.589" fill="none"/>
+</svg>

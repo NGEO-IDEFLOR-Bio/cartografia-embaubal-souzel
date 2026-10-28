@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="309" height="503" viewBox="0 0 309 503" xml:space="preserve">
+            <title>Snail</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Snail</ian_image_library:title>
+                <ian_image_library:descr>Illustration of snail</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>snail, Mollusca, Gastropoda</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c03fc758139b498471e6d8c5bdf53e1e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Snail</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/snail/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/snail/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>snail, Mollusca, Gastropoda</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of snail</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<linearGradient id="ian_symbols_57640b03d0698ed41901d53308677861" gradientUnits="userSpaceOnUse" x1="95.0015" y1="877.7383" x2="458.2539" y2="877.7383" gradientTransform="matrix(0.9201 0.3916 -0.3916 0.9201 271.0743 -675.2908)">
+	<stop  offset="0.0056" style="stop-color:#C1832C"/>
+	<stop  offset="1" style="stop-color:#FBE2B1"/>
+</linearGradient>
+<path fill="url(#ian_symbols_57640b03d0698ed41901d53308677861)" stroke="#AE7725" stroke-width="2.7881" d="M263.053,260.559c2.114,31.79,34.645,42.322,41.483,69.67
+	c5.893,23.732,0.851,57.2-1.317,79.222c-5.338,54.356-63.092,91.614-104.913,89.034c-46.864-2.832-80.321-40.069-106.35-85.408
+	c-24.214-42.274-77.863-96.053-88.58-158.912c-8.125-47.333,9.213-99.729,41.919-120.982c17.328-11.271,40.777,0.773,52.801-17.502
+	c13.766-20.873,16.499-45.057,44.555-32.385c4.15-32.896,34.199-40.554,48.683-57.576c5.533-6.556,16.947-32.184,26.793-26.215
+	c11.042,6.404,11.489,36.828,8.212,49.608c10.434,7.499,13.876,24.07,6.992,38.583c20.529,13.434,26.084,72.082,18.602,95.868
+	c12.359,8.105,23.45,66.187,11.132,76.998L263.053,260.559z"/>
+<path fill="none" stroke="#AE7725" stroke-width="2.7881" d="M263.053,260.559c-25.997,4.399-66.392-30.484-91.604-49.141
+	c-28.012-20.596-55.479-57.647-81.76-87.859"/>
+<path fill="none" stroke="#AE7725" stroke-width="2.7881" d="M253.188,184.918c-30.092-21.096-90.973-52.092-110.543-101.624"/>
+<path fill="none" stroke="#AE7725" stroke-width="2.7881" d="M234.836,89.307c-22.044-3.147-43.587-31.948-62.372-49.064"/>
+<path fill="none" stroke="#AE7725" stroke-width="2.7881" d="M226.339,49.112c-9.606-2.401-25.955-17.758-31.955-28.604"/>
+</svg>

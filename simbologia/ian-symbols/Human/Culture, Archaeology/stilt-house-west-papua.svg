@@ -1,0 +1,172 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="251" viewBox="0 0 501 251" xml:space="preserve">
+            <title>Stilt house (West Papua)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Stilt house (West Papua)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a West Papua stilt house</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, West, Papua, stilts, house, home, Indonesia</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e60d504c6049fa849df7c9f061225dec">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Stilt house (West Papua)</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/stilt-house-west-papua/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/stilt-house-west-papua/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, West, Papua, stilts, house, home, Indonesia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a West Papua stilt house</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_d6d082453c9b95746d3b72e60cf89ece" y2="170.73" gradientUnits="userSpaceOnUse" x2="311.59" y1="78.751" x1="311.59">
+  <stop stop-color="#382820" offset="0"/>
+  <stop stop-color="#514139" offset=".3539"/>
+  <stop stop-color="#9F978F" offset="1"/>
+ </linearGradient>
+ <polygon points="455.27 78.751 168.65 78.751 167.92 170.73 455.27 169.3" fill="url(#ian_symbols_d6d082453c9b95746d3b72e60cf89ece)"/>
+ <linearGradient id="ian_symbols_4f8b67a9a8dbf11425c2c17f65fb61a5" y2="171.44" gradientUnits="userSpaceOnUse" x2="105.54" y1="22.423" x1="105.54">
+  <stop stop-color="#382820" offset="0"/>
+  <stop stop-color="#514139" offset=".3539"/>
+  <stop stop-color="#726D67" offset="1"/>
+ </linearGradient>
+ <polygon points="170.06 80.883 94.495 22.423 41.013 79.465 41.013 171.44 170.06 170.73" fill="url(#ian_symbols_4f8b67a9a8dbf11425c2c17f65fb61a5)"/>
+ <linearGradient id="ian_symbols_afefbd28c3140534b5c96430e7c37514" y2="162.97" gradientUnits="userSpaceOnUse" x2="311.71" y1="84.781" x1="266.56">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <rect y="78.751" x="277.01" height="90.251" width="24.252" fill="url(#ian_symbols_afefbd28c3140534b5c96430e7c37514)"/>
+ <rect y="78.751" x="272.73" height="90.251" width="4.264" fill="#594939"/>
+ <rect y="78.751" x="300.06" height="90.251" width="6.659" fill="#231F20"/>
+ <rect y="78.037" x="244.93" height="37.087" width="28.516" fill="#231F20"/>
+ <polygon points="88.781 2.467 400.2 2.126 495.9 81.597 177.5 80.41" fill="#685959"/>
+ <polygon points="84.506 9.588 8.211 83.026 41.727 78.74 97.341 24.565" fill="#231F20"/>
+ <path d="m213.86 77.85c.494-.637.176-1.704-.692-2.385l-94.3-72.647c-.879-.681-2-.714-2.494-.065-.495.637-.187 1.703.703 2.396l94.284 72.636c.88.680 2 .724 2.5.065z" fill="#656666"/>
+ <path d="m255.92 77.85c.505-.637.187-1.704-.703-2.385l-94.3-72.647c-.868-.681-2-.714-2.483-.065-.495.637-.187 1.703.703 2.396l94.284 72.636c.90.680 2.01.724 2.5.065z" fill="#656666"/>
+ <path d="m294.42 78.575c.495-.648.176-1.714-.703-2.384l-94.28-72.658c-.89-.692-2.011-.714-2.495-.077-.505.648-.187 1.725.692 2.396l94.295 72.658c.89.680 2.01.703 2.5.065z" fill="#656666"/>
+ <path d="m341.49 77.85c.494-.637.176-1.704-.703-2.385l-94.3-72.647c-.879-.681-2-.714-2.495-.065-.495.637-.176 1.703.714 2.396l94.283 72.636c.89.680 1.99.724 2.5.065z" fill="#656666"/>
+ <path d="m374.28 78.575c.506-.648.188-1.714-.703-2.384l-94.29-72.658c-.88-.692-2.012-.714-2.506-.077-.494.648-.176 1.725.714 2.396l94.273 72.658c.89.680 2.03.703 2.52.065z" fill="#656666"/>
+ <path d="m402.09 78.575c.495-.648.188-1.714-.703-2.384l-94.29-72.658c-.879-.692-2-.714-2.483-.077-.505.648-.187 1.725.692 2.396l94.295 72.658c.88.680 2 .703 2.49.065z" fill="#656666"/>
+ <path d="m427.76 78.575c.483-.648.176-1.714-.714-2.384l-94.29-72.658c-.879-.692-2-.714-2.505-.077-.495.648-.165 1.725.714 2.396l94.295 72.658c.88.680 2.01.703 2.5.065z" fill="#656666"/>
+ <path d="m458.42 78.575c.494-.648.176-1.714-.703-2.384l-94.3-72.658c-.879-.692-2-.714-2.494-.077-.495.648-.177 1.725.714 2.396l94.283 72.658c.89.680 2.01.703 2.5.065z" fill="#656666"/>
+ <path d="m499.11 80.63c.934-1.121.967-2.638.824-.462l-94.05-77.855s-2.836-2.978-4.022-2.176c-3.197 1.352-.088 3.374-.088 3.374l94.042 77.867c.89.725 2.36.395 3.3-.748z" fill="#707171"/>
+ <path d="m82.968 4.708c-38.736 30.989-82.581 77.45-82.581 77.45s-2.923 9.593 7.296 1.472l75.284-72.284c.001 0 2.199-2.22.001-6.638z" fill="#464748"/>
+ <rect y="81.597" x="79.518" height="89.844" width="24.23" fill="#878070"/>
+ <linearGradient id="ian_symbols_811353153b3c18a445f74d0367a39724" y2="203.33" gradientUnits="userSpaceOnUse" x2="448.31" y1="203.33" x1="440.82">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m448.31 228c0 2.813-1.681 5.087-3.758 5.087-2.055 0-3.736-2.274-3.736-5.087v-49.318c0-2.824 1.682-5.11 3.736-5.11 2.077 0 3.758 2.286 3.758 5.11v49.32z" fill="url(#ian_symbols_811353153b3c18a445f74d0367a39724)"/>
+ <linearGradient id="ian_symbols_f5ae4df63e97e854110b3376dc6bb3e0" y2="204.5" gradientUnits="userSpaceOnUse" x2="427.63" y1="204.5" x1="420.15">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m427.63 230.12c0 2.934-1.67 5.296-3.747 5.296-2.055 0-3.736-2.362-3.736-5.296v-51.241c0-2.934 1.682-5.308 3.736-5.308 2.077 0 3.747 2.374 3.747 5.308v51.24z" fill="url(#ian_symbols_f5ae4df63e97e854110b3376dc6bb3e0)"/>
+ <linearGradient id="ian_symbols_c7b4eafecc4315a47d45dbf24160bffb" y2="205.3" gradientUnits="userSpaceOnUse" x2="396.27" y1="205.3" x1="388.77">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m396.27 231.6c0 3.011-1.682 5.429-3.759 5.429-2.065 0-3.736-2.417-3.736-5.429v-52.592c0-3 1.671-5.439 3.736-5.439 2.077 0 3.759 2.439 3.759 5.439v52.59z" fill="url(#ian_symbols_c7b4eafecc4315a47d45dbf24160bffb)"/>
+ <linearGradient id="ian_symbols_9ff7a9888774093415c8dadfc55f24a7" y2="206.94" gradientUnits="userSpaceOnUse" x2="368.85" y1="206.94" x1="361.37">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m368.85 234.25c0 3.132-1.682 5.659-3.748 5.659-2.065 0-3.735-2.527-3.735-5.659v-54.647c0-3.121 1.67-5.637 3.735-5.637 2.066 0 3.748 2.517 3.748 5.637v54.65z" fill="url(#ian_symbols_9ff7a9888774093415c8dadfc55f24a7)"/>
+ <linearGradient id="ian_symbols_089f55f341dcfdd49507eb36df934081" y2="206.17" gradientUnits="userSpaceOnUse" x2="327.95" y1="206.17" x1="320.47">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m327.95 234.74c0 3.275-1.682 5.923-3.747 5.923-2.066 0-3.736-2.648-3.736-5.923v-57.153c0-3.264 1.67-5.912 3.736-5.912 2.065 0 3.747 2.648 3.747 5.912v57.15z" fill="url(#ian_symbols_089f55f341dcfdd49507eb36df934081)"/>
+ <linearGradient id="ian_symbols_7b2870f4cbd41be43d13a06bc61518d5" y2="209.23" gradientUnits="userSpaceOnUse" x2="269.35" y1="209.23" x1="261.87">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m269.35 238.62c0 3.374-1.67 6.088-3.747 6.088-2.066 0-3.736-2.714-3.736-6.088v-58.768c0-3.362 1.67-6.087 3.736-6.087 2.077 0 3.747 2.725 3.747 6.087v58.77z" fill="url(#ian_symbols_7b2870f4cbd41be43d13a06bc61518d5)"/>
+ <linearGradient id="ian_symbols_bdb70e782b3ca2e499f46577b7ce8985" y2="211.03" gradientUnits="userSpaceOnUse" x2="223.01" y1="211.03" x1="215.51">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m223.01 240.7c0 3.396-1.692 6.143-3.758 6.143s-3.736-2.748-3.736-6.143v-59.361c0-3.384 1.67-6.132 3.736-6.132s3.758 2.748 3.758 6.132v59.36z" fill="url(#ian_symbols_bdb70e782b3ca2e499f46577b7ce8985)"/>
+ <linearGradient id="ian_symbols_f693b383371637240176e546831ec9fe" y2="212.44" gradientUnits="userSpaceOnUse" x2="178.8" y1="212.44" x1="171.31">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <path d="m178.8 243.31c0 3.527-1.682 6.384-3.758 6.384-2.055 0-3.736-2.857-3.736-6.384v-61.735c0-3.527 1.682-6.385 3.736-6.385 2.077 0 3.758 2.857 3.758 6.385v61.73z" fill="url(#ian_symbols_f693b383371637240176e546831ec9fe)"/>
+ <linearGradient id="ian_symbols_176869885d4c8554b5d34691a362165a" y2="207.81" gradientUnits="userSpaceOnUse" x2="116.06" y1="207.81" x1="108.57">
+  <stop stop-color="#514139" offset=".0056"/>
+  <stop stop-color="#615859" offset="1"/>
+ </linearGradient>
+ <path d="m116.06 237.2c0 3.352-1.67 6.088-3.747 6.088-2.066 0-3.736-2.736-3.736-6.088v-58.779c0-3.363 1.67-6.077 3.736-6.077 2.077 0 3.747 2.714 3.747 6.077v58.78z" fill="url(#ian_symbols_176869885d4c8554b5d34691a362165a)"/>
+ <linearGradient id="ian_symbols_85a83ab546163884655524241477083a" y2="209.59" gradientUnits="userSpaceOnUse" x2="84.682" y1="209.59" x1="77.199">
+  <stop stop-color="#514139" offset=".0056"/>
+  <stop stop-color="#615859" offset="1"/>
+ </linearGradient>
+ <path d="m84.682 239.87c0 3.473-1.681 6.274-3.747 6.274s-3.736-2.802-3.736-6.274v-60.56c0-3.461 1.67-6.264 3.736-6.264s3.747 2.802 3.747 6.264v60.56z" fill="url(#ian_symbols_85a83ab546163884655524241477083a)"/>
+ <linearGradient id="ian_symbols_d9f9e94af1a7835441c014d86f92a690" y2="211.7" gradientUnits="userSpaceOnUse" x2="48.639" y1="211.7" x1="41.144">
+  <stop stop-color="#514139" offset=".0056"/>
+  <stop stop-color="#615859" offset="1"/>
+ </linearGradient>
+ <path d="m48.639 241.94c0 3.451-1.682 6.253-3.758 6.253-2.066 0-3.736-2.802-3.736-6.253v-60.482c0-3.461 1.67-6.253 3.736-6.253 2.077 0 3.758 2.792 3.758 6.253v60.48z" fill="url(#ian_symbols_d9f9e94af1a7835441c014d86f92a690)"/>
+ <linearGradient id="ian_symbols_0bbfd32d35f4cf3421fde6d78ed3b0bf" y2="172.88" gradientUnits="userSpaceOnUse" x2="455.99" y1="172.88" x1="170.04">
+  <stop stop-color="#615859" offset="0"/>
+  <stop stop-color="#514139" offset="1"/>
+ </linearGradient>
+ <polygon points="170.04 169.55 455.96 168.18 455.99 176.19 170.09 177.57" fill="url(#ian_symbols_0bbfd32d35f4cf3421fde6d78ed3b0bf)"/>
+ <linearGradient id="ian_symbols_e3556862f50ab8e48566beab669b6a4d" y2="173.58" gradientUnits="userSpaceOnUse" x2="170.06" y1="173.58" x1="40.738">
+  <stop stop-color="#514139" offset=".0056"/>
+  <stop stop-color="#615859" offset="1"/>
+ </linearGradient>
+ <rect y="169.31" x="40.738" height="8.549" width="129.33" fill="url(#ian_symbols_e3556862f50ab8e48566beab669b6a4d)"/>
+ <path d="m80.946 10.742l92.185 77.998c9.703 1.385 6.923-10.362 6.923-10.362l-91.489-75.922c-7.615-2.077-7.615 8.286-7.615 8.286z" fill="#707171"/>
+</svg>

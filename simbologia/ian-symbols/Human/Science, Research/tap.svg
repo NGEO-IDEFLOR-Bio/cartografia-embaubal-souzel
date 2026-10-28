@@ -1,0 +1,158 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="459" viewBox="0 0 502 459" xml:space="preserve">
+            <title>Tap</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Tap</ian_image_library:title>
+                <ian_image_library:descr>Illustration of tap</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, tap, gas, liquid, water, flow</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-83a9b8aa8e459cd439f8e47cc7685e8d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Tap</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/tap/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/tap/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, tap, gas, liquid, water, flow</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of tap</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_3e6fcd44d826d754355b2b826e6f8b71" y2="369.62" gradientUnits="userSpaceOnUse" x2="427.42" gradientTransform="matrix(1 0 0 1 5.5415 -26.664)" y1="369.62" x1="385.34">
+  <stop stop-color="#A7A9AC" offset=".191"/>
+  <stop stop-color="#BEBFC1" offset=".2963"/>
+  <stop stop-color="#D8D8DA" offset=".4455"/>
+  <stop stop-color="#E7E8E9" offset=".5798"/>
+  <stop stop-color="#EDEDEE" offset=".6854"/>
+  <stop stop-color="#CBCCCE" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6781" d="m390.94 431.55v-203.15h41.922v203.15l.099 2.868c0 12.744-9.438 23.102-21.064 23.102-11.628 0-21.021-10.357-21.021-23.102l.06-2.87z" fill="url(#ian_symbols_3e6fcd44d826d754355b2b826e6f8b71)"/>
+ <linearGradient id="ian_symbols_32b45714c1e40514c56cdd4589b09242" y2="513.25" gradientUnits="userSpaceOnUse" x2="522.41" gradientTransform="matrix(0 1 -1 0 639.08 -278.09)" y1="513.25" x1="443.62">
+  <stop stop-color="#A7A9AC" offset=".191"/>
+  <stop stop-color="#BEBFC1" offset=".2963"/>
+  <stop stop-color="#D8D8DA" offset=".4455"/>
+  <stop stop-color="#E7E8E9" offset=".5798"/>
+  <stop stop-color="#EDEDEE" offset=".6854"/>
+  <stop stop-color="#CBCCCE" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6781" d="m23.144 165.66h228.19v78.511h-228.19l-2.54.142c-11.178 0-20.265-17.682-20.265-39.403 0-21.766 9.087-39.392 20.265-39.392l2.544.14z" fill="url(#ian_symbols_32b45714c1e40514c56cdd4589b09242)"/>
+ <linearGradient id="ian_symbols_ea549c5ccbda0a846deed51ccdc05185" y2="263.28" gradientUnits="userSpaceOnUse" x2="517.79" gradientTransform="matrix(0 1 -1 0 639.08 -278.09)" y1="263.28" x1="439">
+  <stop stop-color="#A7A9AC" offset=".191"/>
+  <stop stop-color="#BEBFC1" offset=".2963"/>
+  <stop stop-color="#D8D8DA" offset=".4455"/>
+  <stop stop-color="#E7E8E9" offset=".5798"/>
+  <stop stop-color="#EDEDEE" offset=".6854"/>
+  <stop stop-color="#CBCCCE" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6781" d="m310.59 161.06h153.2v78.5h-153.2l-2.54.142c-11.178 0-20.254-17.67-20.254-39.414 0-21.754 9.076-39.381 20.254-39.381l2.54.15z" fill="url(#ian_symbols_ea549c5ccbda0a846deed51ccdc05185)"/>
+ <linearGradient id="ian_symbols_0005ffdf272631040dc93055046804f5" y2="169.25" gradientUnits="userSpaceOnUse" x2="419.2" gradientTransform="matrix(0 1 -1 0 625.04 -276.72)" y1="169.25" x1="534.81">
+  <stop stop-color="#D1D3D4" offset="0"/>
+  <stop stop-color="#D4D6D6" offset=".101"/>
+  <stop stop-color="#DCDEDF" offset=".1667"/>
+  <stop stop-color="#EBECED" offset=".2222"/>
+  <stop stop-color="#fff" offset=".2697"/>
+  <stop stop-color="#F3F4F4" offset=".3353"/>
+  <stop stop-color="#E0E2E2" offset=".4774"/>
+  <stop stop-color="#D5D7D8" offset=".6228"/>
+  <stop stop-color="#D1D3D4" offset=".7753"/>
+  <stop stop-color="#CDCFD0" offset=".8284"/>
+  <stop stop-color="#C2C4C6" offset=".8771"/>
+  <stop stop-color="#B0B2B3" offset=".9241"/>
+  <stop stop-color="#96989A" offset=".9698"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6781" d="m476.89 142.48c-14.649 0-26.562 25.926-26.562 57.807 0 31.925 11.912 57.808 26.562 57.808h-15.624c-14.648 0-26.561-25.882-26.561-57.808 0-31.881 11.912-57.807 26.561-57.807h15.62z" fill="url(#ian_symbols_0005ffdf272631040dc93055046804f5)"/>
+ <linearGradient id="ian_symbols_400eee0a619ff98475bf04bc85c40de8" y2="151.27" gradientUnits="userSpaceOnUse" x2="419.2" gradientTransform="matrix(0 1 -1 0 625.04 -276.72)" y1="151.27" x1="534.81">
+  <stop stop-color="#D1D3D4" offset="0"/>
+  <stop stop-color="#D4D6D6" offset=".101"/>
+  <stop stop-color="#DCDEDF" offset=".1667"/>
+  <stop stop-color="#EBECED" offset=".2222"/>
+  <stop stop-color="#fff" offset=".2697"/>
+  <stop stop-color="#F3F4F4" offset=".3353"/>
+  <stop stop-color="#E0E2E2" offset=".4774"/>
+  <stop stop-color="#D5D7D8" offset=".6228"/>
+  <stop stop-color="#D1D3D4" offset=".7753"/>
+  <stop stop-color="#CDCFD0" offset=".8284"/>
+  <stop stop-color="#C2C4C6" offset=".8771"/>
+  <stop stop-color="#B0B2B3" offset=".9241"/>
+  <stop stop-color="#96989A" offset=".9698"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6781" d="m473.78 258.09c-14.671 0-26.583-25.882-26.583-57.808 0-31.881 11.912-57.807 26.583-57.807s26.561 25.926 26.561 57.807c0 31.93-11.89 57.81-26.56 57.81z" fill="url(#ian_symbols_400eee0a619ff98475bf04bc85c40de8)"/>
+ <path stroke="#231F20" stroke-width=".6781" d="m473.34 239.44c-8.868 0-15.984-17.528-15.984-39.151 0-21.601 7.116-39.162 15.984-39.162 8.836 0 16.018 17.561 16.018 39.162 0 21.62-7.18 39.15-16.02 39.15z" fill="#D1D3D4"/>
+ <linearGradient id="ian_symbols_8a22314fcbc09344e5d0ee280c3c323e" y2="224.82" gradientUnits="userSpaceOnUse" x2="294.71" gradientTransform="matrix(1 0 0 1 5.5415 -26.664)" y1="224.82" x1="217.37">
+  <stop stop-color="#A7A9AC" offset=".191"/>
+  <stop stop-color="#BEBFC1" offset=".2963"/>
+  <stop stop-color="#D8D8DA" offset=".4455"/>
+  <stop stop-color="#E7E8E9" offset=".5798"/>
+  <stop stop-color="#EDEDEE" offset=".6854"/>
+  <stop stop-color="#CBCCCE" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6781" d="m223.06 286.69v-203.09h77.044v203.09l.143 2.912c0 12.766-17.354 23.112-38.692 23.112-21.359 0-38.647-10.347-38.647-23.112l.16-2.91z" fill="url(#ian_symbols_8a22314fcbc09344e5d0ee280c3c323e)"/>
+ <path stroke="#231F20" stroke-width=".5574" d="m227.35 108.35c7.062 6.426 19.827 11.233 34.761 12.328 17.408 1.27 32.735-2.901 39.666-9.985 0 0-.143 1.193 12.941 7.741 13.083 6.514 67.059 2.222 67.059 2.222s7.368 7.511 16.335 5.562c8.9-2.004 11.659-15.864 11.659-15.864l-.733-61.639s-9.591 12.131-14.298 10.959c-4.719-1.139-12.525-3.317-12.525-3.317s-64.103 4.128-71.7-.438c-7.632-4.544-13.784-8.157-13.784-8.157l-77.941-8.562s-6.131 1.631-13.478 4.27c-7.401 2.628-67.639-1.412-67.639-1.412s-15.437-3.865-22.532-5.179c-7.062-1.292-18.579 13.62-18.579 13.62s3.055 53.92 7.062 59.46c4.051 5.573 4.565 10.007 13.248 11.518 8.715 1.522 19.477-5.726 19.477-5.726s68.285 3.394 77.295.099c9.04-3.35 13.69-7.5 13.69-7.5z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".5574" d="m96.345 41.511c-.974 13.28 7.905 12.262 16.5 14.55 8.649 2.343 9.842-1.752 19.652-3.558 9.82-1.785 75.598.537 80.208-2.475 4.653-3 16.674-11.485 16.674-11.485s-13.718-4.16-19.598-7.916c-5.901-3.788-69.445-.931-77.284-2.321-7.817-1.391-10.204-4.927-17.277-4.587-7.02.318-17.891 4.511-18.865 17.792z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".5574" d="m409.83 49.612c.317-4.335-3.811-12.251-10.062-15.076-6.23-2.814-16.28 4.39-16.28 4.39s-55.553-.142-62.022-2.146c-6.449-2.003-29.659 6.142-29.659 6.142l5.167 7.335s8.595 5.835 19.817 8.387c11.255 2.595 66.96-1.215 66.96-1.215s9.383 4.171 13.894 2.759c4.49-1.444 11.85-6.207 12.18-10.576z" fill="#fff"/>
+ <linearGradient id="ian_symbols_5814e42eda49a3646983f6baaa1a677b" y2="71.936" gradientUnits="userSpaceOnUse" x2="294.71" gradientTransform="matrix(1 0 0 1 5.5415 -26.664)" y1="71.936" x1="217.37">
+  <stop stop-color="#A7A9AC" offset=".191"/>
+  <stop stop-color="#BEBFC1" offset=".2963"/>
+  <stop stop-color="#D8D8DA" offset=".4455"/>
+  <stop stop-color="#E7E8E9" offset=".5798"/>
+  <stop stop-color="#EDEDEE" offset=".6854"/>
+  <stop stop-color="#CBCCCE" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6781" d="m223.06 50.368v-26.386h77.044v26.385l.143 1.818c0 7.926-17.354 14.375-38.692 14.375-21.359 0-38.647-6.449-38.647-14.375l.16-1.817z" fill="url(#ian_symbols_5814e42eda49a3646983f6baaa1a677b)"/>
+ <path stroke="#231F20" stroke-width=".515" d="m261.75 45.759c-21.459 0-38.845-10.171-38.845-22.751 0-12.568 17.386-22.75 38.845-22.75 21.48 0 38.855 10.182 38.855 22.75.01 12.579-17.37 22.751-38.85 22.751z" fill="#D1D3D4"/>
+ <path stroke="#231F20" stroke-width=".515" d="m261.75 32.949c-10.74 0-19.433-4.445-19.433-9.963 0-5.463 8.692-9.93 19.433-9.93 10.719 0 19.423 4.467 19.423 9.93.01 5.518-8.7 9.963-19.42 9.963z" fill="#808285"/>
+</svg>

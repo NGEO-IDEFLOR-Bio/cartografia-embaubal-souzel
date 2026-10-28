@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="202" viewBox="0 0 500 202" xml:space="preserve">
+            <title>Perched water table</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Perched water table</ian_image_library:title>
+                <ian_image_library:descr>Illustration of perched water table</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, aquatic, freshwater, perched, water, table, hydrology, hydrologic, cycle, aquifer, groundwater, vadose, zone, impermeable, layer, sediment, aquiclude, aquitard</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c04ba86db7a127040577b40897aad494">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Perched water table</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/perched-water-table/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/perched-water-table/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, aquatic, freshwater, perched, water, table, hydrology, hydrologic, cycle, aquifer, groundwater, vadose, zone, impermeable, layer, sediment, aquiclude, aquitard</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of perched water table</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_85ecb155d43158e4451ae02268ee620b" y2="83.914" gradientUnits="userSpaceOnUse" x2="215.81" y1=".5718" x1="215.81">
+  <stop stop-color="#2998C4" offset=".0056"/>
+  <stop stop-color="#77B7D4" offset="1"/>
+ </linearGradient>
+ <path stroke="#725F47" stroke-width="1.1432" d="m13.261 46.846s0-10.062 32.984-22.132c32.993-12.066 29.983-12.066 74.962-10.052 44.993 2.005 29.992-14.089 71.97-14.089 41.987 0 65.978 16.094 95.965 14.089 29.987-2.014 23.994 26.143 56.979 32.185 40.013 7.329 70.246 29.372 71.961 32.194 12.65 20.903-404.82-32.195-404.82-32.195z" fill="url(#ian_symbols_85ecb155d43158e4451ae02268ee620b)"/>
+ <linearGradient id="ian_symbols_354612032f5eeb74a98fa58289d66b59" y2="43.57" gradientUnits="userSpaceOnUse" x2="250" y1="199.76" x1="250">
+  <stop stop-color="#766149" offset="0"/>
+  <stop stop-color="#968166" offset="1"/>
+ </linearGradient>
+ <path stroke="#725F47" stroke-width="1.1432" d="m7.263 45.846c-17.992 9.052 5.998 18.1 5.998 18.1s14.996-3.015 47.98 3.019c32.993 6.038-17.988 15.09 8.994 33.203 26.986 18.104 92.959 9.052 101.96 18.104 8.994 9.052-26.987 24.147-11.991 33.199 14.991 9.057 53.969-3.019 74.962 6.033 20.989 9.057 74.962 42.26 104.96 42.26s47.976-12.071 59.976-21.128c11.994-9.052-26.987-3.023-17.988-12.075 8.989-9.057 77.954 0 89.949-6.033 11.995-6.038-26.991-6.038-15.005-12.075 12.004-6.033 35.993 6.037 41.991-6.033 6.002-12.066-59.971-15.095-65.973-30.18-5.993-15.094-5.993-27.161-20.98-36.213-15-9.061-86.961-12.08-131.94-9.061-44.988 3.023-116.96-15.085-140.95-12.066-23.99 3.002-113.95-18.126-131.95-9.064z" fill="url(#ian_symbols_354612032f5eeb74a98fa58289d66b59)"/>
+ <path stroke="#725F47" stroke-width="1.1432" stroke-linecap="round" d="m71.548 70.072c17.934 7.217 40.875-2.898 58.082 0 17.224 2.889 60.243 5.051 60.243 5.051" fill="none"/>
+ <path stroke="#725F47" stroke-width="1.1432" stroke-linecap="round" d="m95.939 88.114s10.754-5.055 32.27-3.617c21.502 1.451 36.038 4.801 48.23 6.958 12.196 2.17 41.397 3.148 41.397 3.148" fill="none"/>
+ <path stroke="#725F47" stroke-width="1.1432" stroke-linecap="round" d="m381.33 170.38s-22.753-7.279-44.261-5.837c-21.52 1.438-34.417 11.607-50.913 10.169" fill="none"/>
+ <path stroke="#725F47" stroke-width="1.1432" stroke-linecap="round" d="m387.79 187.7s-20.083-7.222-30.837-6.493c-10.758.724-22.23 4.327-22.23 4.327" fill="none"/>
+ <path stroke="#725F47" stroke-width="1.1432" stroke-linecap="round" d="m217.84 126.36s35.146-6.493 63.097-6.493c27.978 0 66.183 12.995 84.095 12.995 17.935 0 42.112-6.502 42.112-6.502" fill="none"/>
+ <path stroke="#725F47" stroke-width="1.1432" stroke-linecap="round" d="m323.97 110.48s22.949 8.659 43.019 8.659c20.078 0 34.877-9.383 44.921-8.659 10.039.719 28.942 9.382 28.942 9.382" fill="none"/>
+</svg>

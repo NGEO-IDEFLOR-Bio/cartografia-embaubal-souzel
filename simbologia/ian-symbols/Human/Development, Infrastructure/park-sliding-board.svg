@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="459" height="501" viewBox="0 0 459 501" xml:space="preserve">
+            <title>Park: sliding board</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Park: sliding board</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a sliding board, used in playgrounds by children</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, sliding, board, slide, children, playground, park, slippery, dip, park</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d4f04d10d121cb1405fe227d5f36a304">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Park: sliding board</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/park-sliding-board/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/park-sliding-board/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, sliding, board, slide, children, playground, park, slippery, dip, park</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a sliding board, used in playgrounds by children</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#231F20" stroke-width=".1" points="298.52 334.42 312.25 487.58 300.04 487.05 288.34 346.12" fill="#808285"/>
+ <polygon stroke="#231F20" stroke-width=".1" points="422.22 428.03 304.24 423.98 305.87 431.18 423.31 435.68" fill="#808285"/>
+ <polygon stroke="#231F20" stroke-width=".1" points="417.87 363.99 296.98 360.12 298.66 367.01 418.99 371.32" fill="#808285"/>
+ <polygon stroke="#231F20" stroke-width=".1" points="411.57 298.09 310.22 294.22 311.62 301.11 412.5 305.42" fill="#808285"/>
+ <polygon stroke="#231F20" stroke-width=".1" points="408.79 233.46 325.92 230.59 327.15 237.47 409.64 240.78" fill="#808285"/>
+ <polygon stroke="#231F20" stroke-width=".1" points="398.84 166.46 348.7 166.48 349.93 173.29 399.87 173.72" fill="#808285"/>
+ <path stroke="#231F20" stroke-width=".1" d="m361.1 107.98s-28.488-3.689-36.123 29.376c-12.213 40.967-30.541 110.55-50.882 158.9-20.36 48.336-117.04 131.92-130.78 144.63-13.736 12.726-9.154 38.551-9.154 38.551l-120.1-4.577 150.11-159.78 75.31-198.45 62.581 17.056s2.031-.256 5.09-2.811c-6.097-25.431-53.426-37.13-79.883-28.489-26.457 8.661-49.875 123.15-75.818 185.73-25.95 62.58-137.38 131.78-147.56 155.7-10.18 23.922 3.053 52.41 3.053 52.41l141.96 2.032c12.212-26.96 142.47-164.35 142.47-164.35l69.72-225.93z" fill="#808285"/>
+ <path stroke="#231F20" stroke-width=".1" d="m438.7 492.42l-15.004-.267c-8.651-188.26-23.408-306.32-25.44-318.53-2.032-12.212-2.417-24.168-11.068-35.364 20.863 4.064 24.81 38.166 24.81 38.166l26.7 315.99z" fill="#808285"/>
+ <path stroke="#231F20" stroke-width=".1" d="m444.04 404.64s15.27-10.683 13.751-54.955c-1.539-44.271-25.964-254.94-35.118-303.79-11.442-69.456-63.35-41.214-64.119 12.212v53.426l10.693 3.058s-.77-26.713 0-58.003c.77-31.3 38.926-55.725 44.262-3.058 7.685 75.73 32.069 264.09 35.108 294.62 3.058 30.531-6.097 38.166-6.097 38.166l1.53 18.32z" fill="#808285"/>
+ <path stroke="#231F20" stroke-width=".1" d="m315.82 135.96s1.519-48.08-4.587-106.85c-6.106-58.772-61.052-17.559-67.168 28.242-6.096 45.801-2.288 42.743-2.288 42.743h12.212s1.519-31.29 4.577-42.743c6.116-32.819 38.176-66.398 40.454-19.088 2.299 47.33 3.049 95.419 3.049 95.419l13.76 2.27z" fill="#808285"/>
+ <path stroke="#231F20" stroke-width=".1" d="m438.7 492.42l13.741-4.587-6.097-80.148s-17.549-257.22-26.723-275.54c-9.914-19.088-51.907-32.06-67.927-19.088-25.185 24.425-25.954 112.21-66.408 191.59-40.444 79.38-96.938 106.09-133.56 145.02-10.688 12.973-1.524 50.378-1.524 50.378 31.29-53.426 110.66-111.44 143.49-154.94 24.475-32.454 32.05-122.12 61.052-180.14 28.992-57.964 55.725-6.875 57.254 11.453 1.52 18.32 26.71 316.01 26.71 316.01z" fill="#9D9FA2"/>
+ <path stroke="#231F20" stroke-width=".1" d="m300.55 132.41c-45.042 11.187-33.579-7.635-58.516 15.261-33.085 30.018-30.402 130.64-74.803 182.68-32.31 51.39-153.66 150.11-153.66 150.11s-6.116-22.392 6.614-40.71c12.715-18.318 82.433-67.158 127.72-127.21 45.288-57.49 54.955-189.79 89.047-205.58 18.82-6.1 65.12 7.13 63.6 25.45z" fill="#9D9FA2"/>
+ <path stroke="#231F20" stroke-width=".1" d="m325.74 134.07c-10.298 31.665-30.273 129.63-49.095 164.22-48.85 85.999-125.18 130.77-134.85 148.08-9.662 17.303-7.117 34.605-7.117 34.605l-121.11-.514s135.35-111.95 158.25-157.24c25.436-46.817 43.754-157.73 73.772-179.11 19.848-17.302 54.965-11.699 54.965-11.699s23.67 2.16 25.2 1.65z" fill="#D1D3D4"/>
+</svg>

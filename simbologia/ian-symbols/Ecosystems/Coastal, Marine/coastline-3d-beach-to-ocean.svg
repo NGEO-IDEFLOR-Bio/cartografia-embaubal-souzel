@@ -1,0 +1,103 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="160" viewBox="0 0 502 160" xml:space="preserve">
+            <title>Coastline 3D: beach to ocean</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 3D: beach to ocean</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base from beach to ocean</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, beach, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7f5602117fc7bff41d941e112c4bc84c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 3D: beach to ocean</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-3d-beach-to-ocean/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-3d-beach-to-ocean/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, beach, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base from beach to ocean</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_d6c68ceeb49701445138cb789fb4ade0" y2=".2505" gradientUnits="userSpaceOnUse" x2="215.26" y1="76.524" x1="215.26">
+  <stop stop-color="#D7BD9C" offset="0"/>
+  <stop stop-color="#CDB392" offset=".2434"/>
+  <stop stop-color="#B19878" offset=".6604"/>
+  <stop stop-color="#967D5F" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m4.371 58.896l-4.014-6.561 107.02-52.085s23.018.232 33.856.698c10.838.467 17.912 2.8 28.289 6.297 10.374 3.5 24.87 15.628 36.173 17.495 11.3 1.867 224.46 0 224.46 0l-1.141 1.912-131.03 37.976-286.6 11.896-7.019-17.628z" fill="url(#ian_symbols_d6c68ceeb49701445138cb789fb4ade0)"/>
+ <path stroke="#0083B7" stroke-width=".5" d="m66.694 65.224s3.657-3.373 6.493-4.9c2.834-1.527 7.781-2.361 13.309-4.744 5.526-2.382 21.668-13.766 32.378-18.57 10.711-4.805 23.772-8.436 34.402-12.219 10.628-3.782 24.31-13.577 24.31-13.577h322.77v1.91l-132.16 62.467h-284.05l-8.811-5.598-8.635-4.769z" fill="#95BFD5"/>
+ <linearGradient id="ian_symbols_0f60f694b7ab5e84bd4f7c570ff9b502" y2="141.51" gradientUnits="userSpaceOnUse" x2="221.73" y1="71.033" x1="221.73">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m368.19 141.51h-292.92v-69.078s3.143 1.337 4.458 1.4c1.314.064 4.639-1.4 4.639-1.4s2.832 1.225 4.639 1.4c1.805.176 5.1-1.4 5.1-1.4s4.032 1.447 6.03 1.4c1.998-.048 4.635-1.4 4.635-1.4s1.663 1.337 4.175 1.4c2.512.064 5.565-1.4 5.565-1.4s2.227 1.447 4.637 1.4c2.409-.048 5.104-1.4 5.104-1.4s2.83 1.337 5.563 1.4c2.733.064 5.566-1.4 5.566-1.4s2.154 1.337 5.099 1.4c2.944.064 4.64-1.4 4.64-1.4s2.942 1.337 5.565 1.4c2.621.064 5.565-1.4 5.565-1.4s3.868 1.225 6.957 1.4c3.086.176 5.565-1.4 5.565-1.4s3.141 1.225 6.492 1.4c3.352.176 5.103-1.4 5.103-1.4s1.033 1.67 4.637 1.4c3.602-.27 4.173-1.4 4.173-1.4s3.748 1.447 6.028 1.4c2.281-.048 4.175-1.4 4.175-1.4s2.447 1.337 6.493 1.4c4.043.064 6.49-1.4 6.49-1.4s3.667 1.337 6.493 1.4c2.827.064 4.639-1.4 4.639-1.4s3.14 1.113 6.49 1.4c3.353.288 6.494-1.4 6.494-1.4s2.061 1.337 5.565 1.4c3.504.064 6.028-1.4 6.028-1.4s2.072 1.337 5.102 1.4c3.029.064 5.564-1.4 5.564-1.4s1.376 1.337 4.638 1.4c3.263.064 5.563-1.4 5.563-1.4s2.929 1.447 6.031 1.4c3.1-.048 5.1-1.4 5.1-1.4s2.438 1.113 5.103 1.4c2.665.288 4.636-1.4 4.636-1.4s1.923 1.447 4.64 1.4c2.716-.048 5.101-1.4 5.101-1.4s3.232 1.337 6.03 1.4c2.795.064 5.099-1.4 5.099-1.4s.108 1.337 4.175 1.4c4.067.064 5.564-1.4 5.564-1.4s1.784 1.447 4.638 1.4c2.855-.048 4.64-1.4 4.64-1.4s2.588 1.337 5.564 1.4c2.975.064 5.1-1.4 5.1-1.4s2.078 1.67 4.639 1.4c2.562-.27 4.176-1.4 4.176-1.4s1.229 1.225 4.635 1.4c3.408.176 4.637-1.4 4.637-1.4s.922 1.56 4.176 1.4c3.252-.159 5.563-2.799 5.563-2.799v70.477z" fill="url(#ian_symbols_0f60f694b7ab5e84bd4f7c570ff9b502)"/>
+ <linearGradient id="ian_symbols_87525f3a8233fde4b9fa7430c2f9c47a" y2="52.336" gradientUnits="userSpaceOnUse" x2="184.27" y1="157.69" x1="184.27">
+  <stop stop-color="#967D5F" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m368.19 157.7h-367.83v-105.36s37.552 1.996 44.024 4.002c6.475 2.006 29.167 11.31 36.58 16.094 7.412 4.784 57.254 43.599 66.854 47.585 9.601 3.984 25.689 5.424 32.797 5.598 7.107.174 27.452-1.297 35.318-1.4 7.866-.102 17.808 1.227 26.489 1.4 8.684.174 31.371-.174 37.842 0 6.474.174 10.998-.458 21.444-.701 10.447-.242 22.3.64 27.751.701s5.286-1.068 15.137 0c9.852 1.066 23.593 6.297 23.593 6.297v25.78z" fill="url(#ian_symbols_87525f3a8233fde4b9fa7430c2f9c47a)"/>
+ <linearGradient id="ian_symbols_064dd60eed418494195a58396e2a4eaa" y2="107.2" gradientUnits="userSpaceOnUse" x2="448.08" y1="46.8" x1="419.92">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m500.36 11.445s-2.248 2.733-4.37 3.615c-2.122.884-4.804-.873-4.804-.873s-1.778 2.904-3.953 3.93c-2.176 1.025-6.208.832-6.208.832s-.126 1.334-3.031 3.447c-2.908 2.112-7.318 1.401-7.318 1.401s-2.003 2.715-4.71 4.28c-2.704 1.563-5.524.78-5.524.78s-1.195 3.136-4.291 4.408c-3.092 1.272-6.505.214-6.505.214s-2.236 2.99-4.744 4.241c-2.511 1.25-6.402.864-6.402.864s-1.168 2.48-3.832 4.196c-2.664 1.716-5.891 1.084-5.891 1.084s-1.266 2.951-3.354 4.053c-2.086 1.101-5.24.55-4.927.415s-.916 2.585-3.887 3.842c-2.97 1.257-6.59.251-6.59.251s-.924 2.571-3.405 3.887c-2.482 1.317-6.425 1.177-6.425 1.177s-1.854 3.301-4.869 4.752c-3.013 1.451-6.329.833-6.329.833s-.008 1.579-3.563 3.315c-3.556 1.735-6.918.481-6.918.481s.705 1.927-3.531 3.921c-4.237 1.998-6.789.131-6.789.131v72.778l132.17-60.878v-71.377z" fill="url(#ian_symbols_064dd60eed418494195a58396e2a4eaa)"/>
+ <linearGradient id="ian_symbols_9ed547e8e21c6ae4d9015ee96679ecce" y2="114.31" gradientUnits="userSpaceOnUse" x2="500.36" y1="114.31" x1="368.19">
+  <stop stop-color="#B19370" offset=".0056"/>
+  <stop stop-color="#967D5F" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m500.36 70.924s-10.571 2.188-19.72 7.626c-9.147 5.438-12.637 7.717-20.631 13.05-7.995 5.332-23.253 10.915-37.189 15.122-13.936 4.205-26.277 9.432-32.105 13.466-5.829 4.036-22.525 11.617-22.525 11.617v25.89l132.17-60.878v-25.898z" fill="url(#ian_symbols_9ed547e8e21c6ae4d9015ee96679ecce)"/>
+</svg>

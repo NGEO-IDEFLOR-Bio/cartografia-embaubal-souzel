@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="438" height="502" viewBox="0 0 438 502" xml:space="preserve">
+            <title>Channel buoy: starboard</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Channel buoy: starboard</ian_image_library:title>
+                <ian_image_library:descr>Illustration of starboard channel buoy</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, nautical, coastal, channel, buoy, starboard, red</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c430f1293f925c541de282beae764f3b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Channel buoy: starboard</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/channel-buoy-starboard/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/channel-buoy-starboard/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, nautical, coastal, channel, buoy, starboard, red</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of starboard channel buoy</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".5" d="m419.17 442.47c0 15.411-15.625 29.056-37.649 35.438v-175.89l-60.23-301.77h-190.79l-60.246 301.77v178.79c-17.321-2.308-32.436-8.763-42.118-18.383-4.259-4.289-9.324-11.183-9.324-19.956h-18.562c0 11.959 5.142 23.408 14.819 33.1 15.488 15.442 41.245 24.685 68.911 24.685 27.289 0 52.024-8.844 67.507-23.663 15.483 14.819 40.208 23.663 67.507 23.663 27.37 0 52.095-8.844 67.506-23.663 15.483 14.819 40.208 23.663 67.507 23.663 27.667 0 53.424-9.242 68.901-24.685 9.687-9.691 14.819-21.141 14.819-33.1h-18.57z" fill="#D71920"/>
+ <path d="m228.47 390.48v-36.6h-76.801v-30.598l81.386-116.14h30.057v116.02h23.203v30.72h-23.203v36.603h-34.65zm0-67.32v-62.033l-43.068 62.033h43.07z" fill="#fff"/>
+</svg>

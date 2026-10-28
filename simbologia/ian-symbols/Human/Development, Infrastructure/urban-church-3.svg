@@ -1,0 +1,109 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="241" viewBox="0 0 501 241" xml:space="preserve">
+            <title>Urban: church 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: church 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a church.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, church, suburbs, urban, semi-urban, culture, religion</ian_image_library:contains>
+                    <ian_image_library:when>2012-05-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2f74588c3b11c8e4ad8f3b5712705f30">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: church 3</dc:title>
+                <dc:date>2012-05-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-church-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-church-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, church, suburbs, urban, semi-urban, culture, religion</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a church.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#D9D0CD" points="35.691,127.552 35.691,192.625 227.811,218.964 227.811,127.552 "/>
+<polygon fill="#4075A8" points="227.811,218.964 35.691,192.625 35.691,203.677 261.62,236.554 261.62,224.808 "/>
+<polygon fill="#4D8CCA" points="261.62,224.808 482.644,215.589 482.644,225.091 261.62,236.554 "/>
+<linearGradient id="ian_symbols_a109ea435fd49884c9566e472b832045" gradientUnits="userSpaceOnUse" x1="318.9453" y1="25.1465" x2="367.1551" y2="233.9662">
+	<stop  offset="0.2121" style="stop-color:#FDF7F1"/>
+	<stop  offset="1" style="stop-color:#D9D0CD"/>
+</linearGradient>
+<path fill="url(#ian_symbols_a109ea435fd49884c9566e472b832045)" d="M227.393,130.245c0,0,105.963-104.603,105.511-108.24c-0.453-3.637,101.519,99.863,101.519,99.863
+	l44.404,7.232v79.084l-251.016,10.779L227.393,130.245z"/>
+<polygon fill="#385F83" points="313.444,159.457 313.444,215.289 347.725,213.816 347.725,159.974 "/>
+<polygon fill="#974038" points="205.696,154.119 245.134,159.351 337.562,133.095 297.428,127.364 "/>
+<polygon fill="#AB412B" points="337.562,133.095 297.428,127.364 330.638,88.86 371.114,92.043 "/>
+<path fill="#AB412B" d="M227.393,130.245c0,0,105.963-104.603,105.511-108.24C332.45,18.368,155.994-2.097,152.809,0.176
+	c-3.185,2.273-113.7,104.602-113.7,104.602L227.393,130.245z"/>
+<polygon fill="#974038" points="227.393,130.245 39.109,104.777 6.822,116.147 0,120.24 2.729,125.242 191.466,148.435 "/>
+<polygon fill="#385F83" points="58.932,178.753 58.932,138.913 73.393,140.433 73.393,180.748 "/>
+<polygon fill="#385F83" points="93.938,183.542 93.938,143.703 108.397,145.222 108.397,185.537 "/>
+<polygon fill="#385F83" points="127.652,188.152 127.652,148.312 142.112,149.828 142.112,190.146 "/>
+<polygon fill="#385F83" points="160.08,192.386 160.08,152.546 174.541,154.066 174.541,194.38 "/>
+<polygon fill="#385F83" points="197.481,196.81 197.481,156.968 211.942,158.488 211.942,198.802 "/>
+<polygon fill="#5D9CD4" points="227.811,218.964 478.826,208.185 482.644,215.589 261.62,224.808 "/>
+<circle fill="#385F83" cx="330.768" cy="66.734" r="9.049"/>
+<polygon fill="#DED9B9" points="245.134,159.351 205.696,154.119 200.44,163.187 238.143,167.835 "/>
+<path fill="#FDF7F1" d="M491.718,143.562l-77.447-11.877l-43.156-39.642l-33.553,41.052l-92.428,26.256l-6.991,8.484
+	c0,0,5.485-2.527,10.862-1.037c7.865,2.189,7.745,8.785,7.745,8.785v62.508c0,0,2.032,2.443,6.716,2.064
+	c3.881-0.314,5.164-2.584,5.164-2.584v-59.408c0,0-0.354-5.303,6.564-9.629c5.429-3.395,9.42-4.828,21.838-5.348
+	c12.417-0.52,17.72,1.713,22.729,3.99c7.466,3.393,6.709,7.887,6.709,7.887v58.08c0,0,2.69,2.824,6.327,2.307
+	c3.638-0.516,5.037-2.65,5.037-2.65v-57.736c0,0,1.527-6.709,6.713-9.293c5.186-2.588,7.207-6.197,24.273-7.232
+	c17.065-1.037,23.216,3.676,27.395,6.713c5.419,3.941,5.153,9.813,5.153,9.813v53.721c0,0,1.56,2.584,6.207,2.584
+	c4.648,0,5.741-1.619,5.741-1.619v-54.234c0,0,0.289-8.98,6.528-13.293c4.603-3.186,11.474-6.783,25.43-6.268
+	c13.955,0.516,17.444,1.844,22.891,3.758c8.604,3.025,7.564,15.352,7.564,15.352v50.625c0,0,0.495,1.545,5.681,1.547
+	c5.186,0,5.186-1.031,5.186-1.031l-0.021-58.373c0,0,0.853-6.328,3.101-8.781c5.411-5.896,10.325-2.064,10.325-2.064
+	L491.718,143.562z"/>
+<polygon fill="#525B8D" points="366.367,102.328 371.797,102.328 371.797,114.394 381.051,114.394 381.051,121.028 371.797,121.028 
+	371.797,143.353 366.367,143.353 366.367,121.028 356.109,121.028 356.109,114.394 366.367,114.394 "/>
+</svg>

@@ -1,0 +1,90 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="143" viewBox="0 0 500 143" xml:space="preserve">
+            <title>Pond 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pond 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of pond</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, aquatic, freshwater, lake, pond, waterbody, puddle, pool, basin</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1955ac4b221cdc54f55eee8be429ef74">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pond 2</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pond-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pond-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, aquatic, freshwater, lake, pond, waterbody, puddle, pool, basin</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of pond</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+		<linearGradient id="ian_symbols_ec1831a729f978a451af658c6a5feb2a" gradientUnits="userSpaceOnUse" x1="307.371" y1="666.9662" x2="2817.4111" y2="666.9662" gradientTransform="matrix(0.1992 0 0 0.1992 -61.2353 -61.5106)">
+		<stop  offset="0" style="stop-color:#7F6950"/>
+		<stop  offset="1" style="stop-color:#9A8568"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_ec1831a729f978a451af658c6a5feb2a)" d="M496.5,72.5c-20.5-14.9-49.4-37.4-69.1-52c-55.5-36.2-106.4,2.6-131.8-8.7
+		C262.9-2.8,230.3-6.8,197.7,17c-19.4,14.1-36.3-2.7-55.5,3.4c-18.3,5.8-82.1,15.5-97,16.7c-14.8,1.2-15.5,11.4-22.9,16.8
+		c-7.4,5.3-23,10-22.3,19.5c0.7,9.4,26.2,29.5,59,43.1c34.2,14.1,72.2,16.3,78.6,16.3c40.4,0,84.3,4,118.8,6.7
+		c34.4,2.7,71.2,4.5,96.5,2c12-1.2,67.5,0.5,85-6.9c19.3-8.2,4.2-17.7,7.6-22.9C452.1,101.7,515.4,86.3,496.5,72.5L496.5,72.5z"/>
+		<linearGradient id="ian_symbols_760183d4ebbad414a5439c0e01960c05" gradientUnits="userSpaceOnUse" x1="-1309.76" y1="1023.1007" x2="-1438.0594" y2="295.4786" gradientTransform="matrix(-0.1992 0 0 0.1992 -34.3978 -61.5106)">
+		<stop  offset="0" style="stop-color:#00A2CF"/>
+		<stop  offset="0.9551" style="stop-color:#82C3E3"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_760183d4ebbad414a5439c0e01960c05)" d="M31,54.9c2.7-6.5,21.7-13.2,40.5-13.2s85.8-10.3,98.4-10.3c40.4,0,30.2,5.1,45.4-5.1
+		c15.2-10.1,20.2-10.1,45.5-12.6c25.3-2.5,36.1,15.6,53,15.2s22.5-16.2,52.9-11.1c30.3,5.1,33.9,4.4,49,14.5
+		c15.2,10.1,23.6,12.6,48,32.8c24.4,20.2-48.1,38.3-45.6,53.5s-25.4,3.9-81,11.1c-55.7,7.2-170.7-8.6-224.5-9.5
+		c-53.8-0.9-86.9-27.8-100.4-41.4C-1.3,65.2,28.3,61.4,31,54.9L31,54.9z"/>
+</g>
+</svg>

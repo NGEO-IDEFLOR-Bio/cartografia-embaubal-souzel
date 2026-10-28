@@ -1,0 +1,91 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="370" viewBox="0 0 500 370" xml:space="preserve">
+            <title>Retail: corner store</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Retail: corner store</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a small corner store</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, building, store, convenience, retail, department, shop, shopping, services</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5ec3931a1a5b8014f16f4da48f255fd6">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Retail: corner store</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/retail-corner-store/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/retail-corner-store/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, building, store, convenience, retail, department, shop, shopping, services</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a small corner store</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_5373ef700984bae439f7a594e22b7f06">
+	<polygon fill="#7D7D7D" points="0,284.9 229.7,369.7 500,251.5 245.3,187.1 	"/>
+	<polygon fill="#A45B58" points="190.5,314.2 58.4,279.2 58.4,183.5 97.6,178.2 97.6,115.2 185.7,45.2 	"/>
+	<polyline fill="#C7A2A3" points="190.5,314.2 384.5,248.8 390.5,129.9 188.1,179.7 	"/>
+	<polygon fill="#59595B" points="73.8,211.6 73.8,244.2 92.9,242.7 92.9,212.3 	"/>
+	<polygon fill="#59595B" points="134.5,205.7 134.5,248.1 154.8,246.5 154.8,207.3 	"/>
+	<polygon fill="#59595B" points="128.6,121.4 128.6,158.3 148.8,156.7 148.8,114.4 	"/>
+	<polygon fill="#E5B32C" points="187.1,123.2 231,182.8 188.1,179.7 	"/>
+	<polygon fill="#E2D5B0" points="231,182.8 440.5,127 395.2,75.1 187.1,123.2 	"/>
+	<polygon fill="#AD3731" points="207.3,308.5 208.3,207.4 254.7,196.1 254.7,292.5 	"/>
+		<linearGradient id="ian_symbols_d9b2836dfb492ac4d1c90c611ca053a0" gradientUnits="userSpaceOnUse" x1="3089.6799" y1="-2211.8848" x2="3939.3479" y2="-2211.8848" gradientTransform="matrix(0.1204 -9.600000e-03 0 0.1099 -96.1571 487.2337)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_d9b2836dfb492ac4d1c90c611ca053a0)" points="270.3,186.2 270.3,263.3 372.6,228 372.6,158.4 	"/>
+	<polygon fill="#C7A2A3" points="187.1,123.2 185.7,45.2 397.6,0 395.2,75.1 	"/>
+</g>
+</svg>

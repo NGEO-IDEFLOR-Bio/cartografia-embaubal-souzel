@@ -1,0 +1,183 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="387" viewBox="0 0 501 387" xml:space="preserve">
+            <title>Segmented worm</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Segmented worm</ian_image_library:title>
+                <ian_image_library:descr>Illustration of segmented worm</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>segmented, worm, Annelida</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b56dc0b356b48604b5f20766cf540b69">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Segmented worm</dc:title>
+                <dc:date>2005-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/segmented-worm/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/segmented-worm/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>segmented, worm, Annelida</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of segmented worm</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_76669e064327def4f1804679ea79fec7" y2="190.19" gradientUnits="userSpaceOnUse" x2="270.6" y1="190.19" x1="499.48">
+  <stop stop-color="#D8B7A3" offset=".0225"/>
+  <stop stop-color="#B69781" offset="1"/>
+ </linearGradient>
+ <path stroke="#655A58" stroke-width="1.0381" d="m492.09 236.57c12.26 3.338 5.569-12.246 5.569-24.485s-3.339-103.53-10.017-132.46c-6.67-28.943-28.932-55.662-55.653-65.685-26.709-10.015-38.59-3.331-54.539 1.125-54.546 21.136-70.124 74.574-73.456 100.18-3.353 25.587 2.224 83.468 12.239 96.836 10.016 13.354 16.686 54.532 17.802 67.887 1.121 13.354-63.44 87.938-63.44 87.938s26.716 6.684 46.754 2.23c20.031-4.461 42.293-25.594 51.201-44.537 8.9-18.909 15.577-42.293 14.469-61.202-1.122-18.924-15.585-46.761-15.585-46.761s-15.584-122.43-5.568-132.44c10.009-10.019 32.277-18.933 48.984-17.814 16.692 1.105 36.724 41.175 36.724 41.175s13.361 70.13 20.031 90.162c6.71 20.03 12.28 34.5 24.51 37.85z" fill="url(#ian_symbols_76669e064327def4f1804679ea79fec7)"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m381.9 254.38c-5.19-4.447-19.018 3.109-19.018 3.109" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m382.32 280.14c-5.616-6.846-28.249-4.615-28.249-4.615" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m377.66 300.58c-3.162-8.347-26.918-16.146-26.918-16.146" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m369.53 322.15c.135-8.414-31.169-17.809-31.169-17.809" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m356.48 343.17c-.547-12.354-27.823-24.62-27.823-24.62" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m343.68 355.96c.379-12.908-26.844-25.357-26.844-25.357" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m327.18 366.54c4.265-7.9-18.2-25.85-18.2-25.85" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m303.62 371.62c3.346-11.502-5.724-23.039-5.724-23.039" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m306.77 99.375c13.544-4.164 17.24 3.619 17.24 3.619" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m304 115.25c8.894-6.694 24.479 0 24.479 0" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m303.44 134.72c12.435-10.212 24.201-3.065 24.201-3.065" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m304 157.26c9.272-10.86 26.154-6.964 26.154-6.964" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m306.5 180.9c8.239-9.637 22.513-6.664 22.513-6.664" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m310.66 197.34c2.229-6.785 20.045-8.637 20.045-8.637" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m316.24 212.08c1.115-6.306 11.131-7.799 11.131-7.799" fill="none"/>
+ <linearGradient id="ian_symbols_6931c4be7ac943741d8f378825e0bd85" y2="192.67" gradientUnits="userSpaceOnUse" x2="378.77" y1="192.67" x1=".519">
+  <stop stop-color="#D8B7A3" offset=".0225"/>
+  <stop stop-color="#C5A48D" offset="1"/>
+ </linearGradient>
+ <path stroke="#655A58" stroke-width="1.0381" d="m91.389 19.513c-3.335-5.573-20.036-3.349-34.505 5.569-14.472 8.897-47.865 73.455-53.437 117.99-5.559 44.53-3.332 107.96 7.796 139.15 11.131 31.155 23.373 72.347 99.069 94.608 20.038 4.447 126.89 20.031 169.19-10.016 23.37-18.93 89.048-53.438 93.494-158.08 13.361-63.44 2.224-146.92-20.038-166.96-22.24-20.034-50.07-53.423-109.06-36.72-69.022 16.686-92.392 152.49-87.945 192.56 4.46 40.07 21.153 95.717 32.277 106.86 11.138 11.117 22.214 26.039 28.946 26.709 4.156.411 17.761-3.13 30.013-6.482 12.239-3.338 26.594-13.536 26.594-13.536s-25.438-11.145-42.131-35.636c-16.7-24.493-26.715-125.78-18.923-146.94 7.779-21.137 22.56-70.61 45.632-73.448 25.013-4.667 34.758 2.592 47.869 16.689 13.077 14.098 20.031 58.996 20.031 93.5 0 34.514-5.568 80.146-16.699 97.941-11.124 17.821-21.147 69.028-122.44 70.131-41.185 4.46-71.242-1.103-105.74-33.387-17.811-14.482-38.958-90.155-36.734-123.56 2.233-33.389 14.476-95.724 25.604-110.2 11.13-14.45 24.484-41.158 21.149-46.727z" fill="url(#ian_symbols_6931c4be7ac943741d8f378825e0bd85)"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m71.354 18.405s14.939 14.665 15.264 20.315" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m46.902 35.101s26.07 20.622 26.739 26.448" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m21.694 82.469c14.402 2.345 32.873 12.61 35.7 16.013" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m14.804 99.462c15.734.568 39.394 13.538 39.394 13.538" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m4.711 135.9c13.958-2.102 43.817 8.13 43.817 8.13" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m2.5 154.11c15.794-2.504 43.567 6.414 43.567 6.414" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m1.227 174.24c9.651-4.825 43.409 2.22 43.409 2.22" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m1.021 190.55c16.163-4.447 43.321-.243 43.321-.243" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m1.021 211.69c13.571-5.914 46.031-.98 46.031-.98" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m2.984 235.82c12.719-11.496 47.524-9.097 47.524-9.097" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m5.444 257.98c10.259-12.51 49.737-12.57 49.737-12.57" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m10.371 278.66c10.522-14.626 49.734-17.484 49.734-17.484" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m16.812 296.68c4.819-8.164 49.447-20.233 49.447-20.233" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m26.377 318.3c5.646-17.173 45.548-30.777 45.548-30.777" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m43.608 340.69c5.108-18.045 37.761-40.679 37.761-40.679" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m59.111 353.26c0-11.692 34.234-42.841 34.234-42.841" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m73.091 362.21c.486-12.111 28.371-45.632 28.371-45.632" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m94.079 371.73c-1.21-15.686 16.233-49.443 16.233-49.443" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m115 376.89c-2.829-10.454 10.029-48.051 10.029-48.051" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m135.19 381.07c-4.106-9.455 5.413-48.011 5.413-48.011" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m153.16 383.04c-5.008-10.679 2.467-48.247 2.467-48.247" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m169.91 384.03c-6.536-9.07-.25-48.991-.25-48.991" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m187.11 384.62c-6.67-9.286 0-51.214 0-51.214" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m208.04 384.27c-10.171-11.164-7.569-50.868-7.569-50.868" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m227.49 382.8c-12.179-10.063-10.32-51.626-10.32-51.626" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m245 380.16c-9.651-10.4-11.131-52.316-11.131-52.316" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m263.43 374.43c-13.989-15.058-15.76-49.978-15.76-49.978" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m330.39 322.48s-25.688-29.317-37.184-29.791" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m344.18 305.5s-21.255-21.484-42.604-26.093" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m351.85 291.11s-24.857-24.857-42.3-27.837" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m316.1 249.6c18.314 1.061 46.78 18.227 46.78 18.227" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m367.31 251.33s-33.548-19.457-47.511-16.747" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m322.91 217.64c12.617-3.332 47.868 14.483 47.868 14.483" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m372.73 212.18s-36.671-12.03-48.261-8.847" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m325.14 186.47c16.687-1.487 49.552 12.178 49.552 12.178" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m377.4 180.19s-33.575-14.591-50.714-11.57" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m326.25 154.2c14.834-4.082 52.146 7.295 52.146 7.295" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m378.63 141.05s-42.361-9.475-53.485-2.436" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m323.24 122.59c8.934-6.606 53.91-2.697 53.91-2.697" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m374.7 98.233s-41.813-2.179-53.661 12.046" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m317.83 95.04c5.454-12.827 50.957-21.917 50.957-21.917" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m360.92 52.202s-38.347 12.618-48.747 28.541" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m306.22 71.829c1.479-12.608 34.751-41.304 34.751-41.304" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m294.44 61.053c.649-19.278 22.397-48.988 22.397-48.988" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m282.97 55.007c-1.609-22.129 14.679-50.575 14.679-50.575" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m271.71 53.28c-4.812-7.424 2.23-52.694 2.23-52.694" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m260.97 54.405c-11.523-13.364-11.577-50.46-11.577-50.46" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m249.44 58.474c-15.578-15.21-27.817-43.409-27.817-43.409" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m241.51 66.236c-18.417-5.917-37.414-33.984-37.414-33.984" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m231.66 80.259c-17.835-4.352-38.644-32.99-38.644-32.99" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m226 92.08c-21.072-5.042-41.124-30.271-41.124-30.271" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m221.32 104.14c-16.031 2.193-45.301-21.667-45.301-21.667" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m215.9 118.17c-12.834 4.116-46.592-16.291-46.592-16.291" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m211.23 134.67c-17.43 2.463-46.038-15.263-46.038-15.263" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m209.75 150.91c-19.288 3.285-48.484-12.303-48.484-12.303" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m210 164.7c-17.693 5.089-52.681-4.673-52.681-4.673" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m210.73 180.19c-20.275 7.772-55.147.75-55.147.75" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m156.82 203.84s36.096 3.447 55.641-7.88" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m214.19 211.22c-10.374 9.759-54.161 13.037-54.161 13.037" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m164.85 244.36s44.152-8.907 52.316-17.814" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m218.86 240.26c-3.913 10.401-49.964 20.68-49.964 20.68" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m177.1 283.31s39.583-13.773 46.693-25.81" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m188.22 304.47s40.766-25.175 40.982-33.184" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m200.47 316.71s34.014-24.79 35.379-34.846" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m212.46 328.88s31.791-24.417 31.426-38.887" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m233.87 327.84s19.741-13.232 21.917-27.02" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m473.18 214.31s9.454 6.67 23.654-1.129" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m467.61 198.72s16.335 5.008 29.507-1.379" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m462.33 178.96s17.896 6.778 34.225 3.068" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m458.71 160.87s23.924 9.847 37.008.841" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m455.65 145.57s15.854 9.36 38.955-.281" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m450.92 124.7s29.661 7.6 42.293-.196" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m448.96 115.25s31.621-3.713 40.914-21.16" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m446.2 104.67s35.689-14.659 39.502-32.28" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m438.4 92.708s33.67-23.85 36.454-43.141" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m431.43 82.128s26.162-34.42 27.831-50.934" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m421.98 73.221c12.61-16.233 10.016-59.281 10.016-59.281" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m410.29 66.54s9.097-41.087 2.777-56.482" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m396.65 67.929s3.063-43.222-3.98-57.32" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m387.2 71.267s2.136-39.147-18.112-51.754" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m379.96 72.94s-14.753-42.848-30.331-41.465" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m36.708 50.472s27.293 14.437 30.047 21.421" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m29.328 66.969s23.09 6.252 33.477 15.018" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m56.884 25.082s22.262 17.801 23.377 24.485" fill="none"/>
+ <path stroke="#655A58" stroke-width="1.0381" d="m8.891 117.43c14.594-.706 42.6 9.607 42.6 9.607" fill="none"/>
+</svg>

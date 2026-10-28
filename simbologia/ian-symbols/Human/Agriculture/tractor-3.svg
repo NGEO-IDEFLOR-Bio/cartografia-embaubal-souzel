@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="210" viewBox="0 0 501 210" xml:space="preserve">
+            <title>Tractor 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Tractor 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of tractor</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, machinery, tractor, crop, plow, harvest</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-db0697d1fdce17a44d22264759263110">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Tractor 3</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/tractor-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/tractor-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, machinery, tractor, crop, plow, harvest</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of tractor</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_93d91508019e4cb47991fe85f04154ce" y2="-3320" gradientUnits="userSpaceOnUse" x2="-2321.1" gradientTransform="matrix(.3834 -.0094 .0155 .3685 1433.2 1272.3)" y1="-3320" x1="-3044.1">
+  <stop stop-color="#C1423C" offset="0"/>
+  <stop stop-color="#973B3A" offset="1"/>
+ </linearGradient>
+ <path d="m254.57 3.267l132.1-3.267 9.151 79.273 96.08 1.5 2.581 60.938-127.52 5.322c-65.318-87.361-114.05-14.43-128.67-11.492l-19.175.467c-4.171-45.457 54.204-59.311 64.462-59.62l-1.862-44.159-25.037-1.107-2.11-27.857z" fill="url(#ian_symbols_93d91508019e4cb47991fe85f04154ce)"/>
+ <polygon points="308.63 24.261 356.84 23.09 358.62 65.589 310.42 66.803" fill="#FFF9AE"/>
+ <path stroke="#231F20" stroke-width=".1473" d="m303.82 111.18c28.07-.693 51.778 21.09 52.917 48.127 1.148 27.018-20.686 49.469-48.777 50.139-28.145.682-51.82-20.621-52.938-47.658-1.14-27.08 20.68-49.9 48.8-50.61z" fill="#414042"/>
+ <path stroke="#231F20" stroke-width=".1473" d="m473.03 151.7c14.259-.318 26.389 10.918 26.942 25.123.617 14.609-10.491 26.475-24.75 26.805-14.322.33-26.847-10.918-27.442-25.539-.59-14.14 10.98-25.99 25.25-26.38z" fill="#414042"/>
+ <path stroke="#231F20" stroke-width=".1473" d="m473.54 164.58c6.726-.17 12.737 5.258 12.972 11.727.298 6.854-5.235 12.131-11.939 12.291-7.161.158-12.716-4.82-13.014-11.727-.26-6.38 4.84-12.1 11.98-12.29z" fill="#fff"/>
+ <path d="m440.57 81.189c5.469-7.001 5.985-16.897 4.086-30.177-3.229-2.096-7.715-2.831-9.561-4.065-1.852-1.234-.224-5.139-1.267-8.98 9.385.17 13.844-.34 22.761-.575.266 6.863 1.979 36.477.936 43.351-4.01.542-12.92.744-16.96.446z" fill="#953737"/>
+ <path d="m244.45 155.12l-244.45 6.46 1.639 39.924 9.79-.67-.904-21.92c7.619-.182 23.197-.969 32.986-1.234.282 5.598.256 15.908.606 23.611l9.79-.213c-.17-4.32.755-14.631-.958-23.176 14.791.49 180.2-5.299 192.27-5.574l-.77-17.21z" fill="#9A423D"/>
+ <path stroke="#231F20" stroke-width=".1473" d="m303.5 135.66c13.849-.342 25.41 9.268 25.895 21.27.511 12.482-10.184 22.611-24.027 22.941-13.822.352-25.378-9.268-25.91-21.674-.54-12.09 10.24-22.17 24.04-22.54z" fill="#E6E7E8"/>
+ <path stroke="#231F20" stroke-width=".1473" d="m90.467 167.46c10.268-.246 19.068 7.756 19.515 18.057.404 10.301-7.693 18.643-17.962 18.92-10.247.234-19.089-7.684-19.547-17.994-.412-10.31 7.749-18.67 17.996-18.99z" fill="#414042"/>
+ <path stroke="#231F20" stroke-width=".1473" d="m90.85 176.54c4.916-.148 9.087 3.639 9.268 8.375.192 4.713-3.655 8.66-8.512 8.799-4.969.117-9.141-3.67-9.354-8.354-.193-4.77 3.68-8.74 8.596-8.83z" fill="#fff"/>
+</svg>

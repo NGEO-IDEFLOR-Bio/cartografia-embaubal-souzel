@@ -1,0 +1,99 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="369" viewBox="0 0 502 369" xml:space="preserve">
+            <title>Urban: parking garage</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: parking garage</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a multi-story parking garage with a car entering</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, parking, garage, lot, carpark</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c78b917e3d8c7e64e9a56c897d9c51fa">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: parking garage</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-parking-garage/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-parking-garage/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, parking, garage, lot, carpark</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a multi-story parking garage with a car entering</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="269.23" width="366.78" stroke="#231F20" y="88.4" x=".74" stroke-width=".4481" fill="#BCBEC0"/>
+ <polygon stroke="#231F20" stroke-width=".4481" points=".74 88.4 133.01 .224 499.8 .224 367.52 88.4" fill="#BCBEC0"/>
+ <polygon stroke="#231F20" stroke-width=".4481" points="367.52 356.7 367.52 87.469 500.74 2.098 499.8 268.51" fill="#BCBEC0"/>
+ <rect height="94.739" width="139.77" stroke="#231F20" y="263.83" x="48.581" stroke-width=".4481" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".4481" points="405.06 331.37 402.23 247.87 462.27 214.11 464.15 290.09" fill="#fff"/>
+ <rect height="33.773" width="39.405" stroke="#231F20" y="278.83" x="295.29" stroke-width=".4481" fill="#fff"/>
+ <rect height="33.773" width="39.399" stroke="#231F20" y="278.83" x="240.89" stroke-width=".4481" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".0589" points="143.32 13.983 57.021 70.259 360.96 66.513 436.01 10.226" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".0589" points="379.72 96.529 379.72 134.05 488.54 59.008 484.78 28.992" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".0589" points="379.72 149.06 379.72 186.59 488.54 111.55 484.78 81.521" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".0589" points="383.47 194.09 383.47 231.62 492.29 156.57 488.54 126.55" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".0589" points="19.49 104.03 15.743 141.56 345.95 137.81 345.95 104.03" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".0589" points="19.49 156.57 15.743 194.09 345.95 190.34 345.95 156.57" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".0589" points="27 212.85 23.248 250.38 353.46 246.62 353.46 212.85" fill="#fff"/>
+ <path d="m170.13 219.05c0 9.717-7.865 17.572-17.571 17.572h-76.274c-9.712 0-17.572-7.854-17.572-17.572v-76.29c0-9.663 7.86-17.539 17.572-17.539h76.274c9.706 0 17.571 7.876 17.571 17.539v76.29z" fill="#0054A6"/>
+ <path d="m121.21 178.91c12.752 0 12.752-9.115 12.752-12.763 0-7.964-4.454-11.272-15.047-11.272h-13.541v24.035h15.84zm-15.84 43.6h-17.066v-81.746h37.334c15.835 0 25.394 10.133 25.394 26.183 0 7.395-4.097 26.062-26.067 26.062h-19.593v29.51z" fill="#fff"/>
+ <polygon points="120.76 342.82 69.083 352.11 68.256 349.05 66.996 346.36 65.818 344.57 64.109 342.65 62.335 341.06 60.582 339.97 58.035 339.07 55.828 338.72 52.798 338.8 50.306 339.25 48.132 339.98 46.56 340.77 44.61 342.29 42.654 344.44 41.213 346.41 40.244 348.4 39.422 350.8 39.121 353.27 39.225 355.79 39.499 357.3 31.184 358.8 29.908 358.92 29.01 358.65 28.435 358.28 28.068 357.53 27.871 356.65 23.302 331.26 23.248 330.3 23.423 329.52 23.954 328.8 24.611 328.32 25.351 328.08 35.369 326.28 36.224 325.86 37.051 325.24 37.5 324.68 52.086 303.38 52.996 302.57 53.812 302.12 54.595 301.86 95.714 294.48 119.73 309.71 151.5 309.73 152.5 309.94 152.89 310.11 153.39 310.72 153.61 311.47 157.71 334.33 157.76 334.83 157.65 335.31 157.25 335.91 156.68 336.39 155.67 336.66 150.27 337.63 149.63 334.77 148.63 332.25 147.45 330.17 145.18 327.57 142.98 326.02 140.76 324.7 138.43 324.11 136.38 323.77 133.92 323.75 131.11 324.17 128.98 324.94 126.6 326.23 124.47 328.05 122.81 330.11 121.66 332.39 120.78 334.89 120.43 337.06 120.27 339.24 120.45 341.31 120.76 342.82" fill="#3B3795"/>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width=".4473" points="120.76 342.82 69.083 352.11 68.256 349.05 66.996 346.36 65.818 344.57 64.109 342.65 62.335 341.06 60.582 339.97 58.035 339.07 55.828 338.72 52.798 338.8 50.306 339.25 48.132 339.98 46.56 340.77 44.61 342.29 42.654 344.44 41.213 346.41 40.244 348.4 39.422 350.8 39.121 353.27 39.225 355.79 39.499 357.3 31.184 358.8 29.908 358.92 29.01 358.65 28.435 358.28 28.068 357.53 27.871 356.65 23.302 331.26 23.248 330.3 23.423 329.52 23.954 328.8 24.611 328.32 25.351 328.08 35.369 326.28 36.224 325.86 37.051 325.24 37.5 324.68 52.086 303.38 52.996 302.57 53.812 302.12 54.595 301.86 95.714 294.48 119.73 309.71 151.5 309.73 152.5 309.94 152.89 310.11 153.39 310.72 153.61 311.47 157.71 334.33 157.76 334.83 157.65 335.31 157.25 335.91 156.68 336.39 155.67 336.66 150.27 337.63 149.63 334.77 148.63 332.25 147.45 330.17 145.18 327.57 142.98 326.02 140.76 324.7 138.43 324.11 136.38 323.77 133.92 323.75 131.11 324.17 128.98 324.94 126.6 326.23 124.47 328.05 122.81 330.11 121.66 332.39 120.78 334.89 120.43 337.06 120.27 339.24 120.45 341.31 120.76 342.82" fill="none"/>
+ <path d="m66.689 352.69c1.292 7.219-3.193 14.153-10.035 15.381-6.803 1.227-13.464-3.703-14.768-10.923-1.304-7.263 3.232-14.164 10.035-15.392 6.848-1.23 13.459 3.68 14.768 10.93z" fill="#3B3795"/>
+ <path d="m60.691 354.04c.657 3.67-1.605 7.121-5.088 7.757-3.479.613-6.803-1.841-7.46-5.5-.663-3.67 1.6-7.153 5.078-7.777 3.472-.63 6.808 1.85 7.47 5.52z" fill="#fff"/>
+ <path d="m147.78 337.69c1.304 7.241-3.226 14.154-10.035 15.381-6.841 1.238-13.463-3.67-14.767-10.933-1.298-7.252 3.199-14.154 10.035-15.381 6.82-1.23 13.47 3.67 14.78 10.93z" fill="#3B3795"/>
+ <path d="m141.74 339.04c.657 3.67-1.599 7.143-5.083 7.778-3.435.613-6.77-1.862-7.427-5.521-.652-3.637 1.604-7.121 5.039-7.734 3.48-.64 6.81 1.84 7.47 5.47z" fill="#fff"/>
+ <polygon points="78.411 317.6 75.316 300.4 58.155 303.49 56.994 303.97 55.997 304.93 55.472 305.92 51.117 322.69 51.249 322.56 78.313 317.7 78.411 317.6" fill="#fff"/>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width=".4473" points="78.411 317.6 75.316 300.4 58.155 303.49 56.994 303.97 55.997 304.93 55.472 305.92 51.117 322.69 51.249 322.56 78.313 317.7 78.411 317.6" fill="none"/>
+ <polygon points="77.918 299.9 81.007 317.05 115.9 310.79 95.046 296.82 77.918 299.9" fill="#fff"/>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width=".4473" points="77.918 299.9 81.007 317.05 115.9 310.79 95.046 296.82 77.918 299.9" fill="none"/>
+</svg>

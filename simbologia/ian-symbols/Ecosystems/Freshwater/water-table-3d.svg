@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="281" viewBox="0 0 502 281" xml:space="preserve">
+            <title>Water table 3D</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water table 3D</ian_image_library:title>
+                <ian_image_library:descr>Illustration of water table base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, water, table, level, underground</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-903db565efa30204f144a88ec1c6be31">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water table 3D</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-table-3d/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-table-3d/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, water, table, level, underground</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of water table base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_d7fceb17bcfce7e48da5737e2a774f9d" y2="183.95" gradientUnits="userSpaceOnUse" x2="500.25" y1="183.95" x1=".25">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#AA8D6B" offset="1"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="111.82" width="500" stroke="#231F20" stroke-linecap="round" y="128.04" x=".25" stroke-width=".5" fill="url(#ian_symbols_d7fceb17bcfce7e48da5737e2a774f9d)"/>
+ <linearGradient id="ian_symbols_52b3031ca6f826c49521ea6b7276eaf7" y2="245.86" gradientUnits="userSpaceOnUse" x2="500.25" y1="245.86" x1=".25">
+  <stop stop-color="#82BCE4" offset=".0337"/>
+  <stop stop-color="#80B3DF" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m500.25 279.8h-500v-63.898l13.576-3.992s5.967 2.785 17.894 3.992c11.929 1.208 18.89-3.992 18.89-3.992s6.957 2.785 15.9 3.992c8.945 1.208 15.906-3.992 15.906-3.992s2.982 2.785 14.912 3.992c11.928 1.208 15.902-3.992 15.902-3.992s3.975 2.785 13.919 3.992c9.937 1.208 18.887-3.992 18.887-3.992s6.956 3.784 17.891 3.992c10.933.207 15.901-3.992 15.901-3.992s6.963 3.784 16.904 3.992c9.936.207 11.931-3.992 11.931-3.992s3.975 2.785 14.907 3.992c10.936 1.208 14.907-3.992 14.907-3.992s4.974 3.784 15.911 3.992c10.93.207 13.913-3.992 13.913-3.992s5.964 2.785 14.912 3.992c8.943 1.208 14.909-3.992 14.909-3.992s6.962 2.785 17.889 3.992c10.937 1.208 17.899-3.992 17.899-3.992s9.941 4.78 16.898 3.992c6.955-.789 17.889-3.992 17.889-3.992s3.976 2.785 11.929 3.992c7.954 1.208 16.894-3.992 16.894-3.992s6.963 3.784 15.914 3.992c8.944.207 12.919-3.992 12.919-3.992s6.958 3.784 15.903 3.992c8.945.207 13.92-3.992 13.92-3.992s8.945 3.784 16.896 3.992c7.954.207 14.912-3.992 14.912-3.992l12.266 3.992v63.9z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_52b3031ca6f826c49521ea6b7276eaf7)"/>
+ <linearGradient id="ian_symbols_6040680c3f133364a5a1cf888e69ea62" y2="64.146" gradientUnits="userSpaceOnUse" x2="500.25" y1="64.146" x1=".25">
+  <stop stop-color="#A6B28C" offset="0"/>
+  <stop stop-color="#999B7C" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_6040680c3f133364a5a1cf888e69ea62)" stroke="#231F20" stroke-linecap="round" stroke-width=".5" points="430.66 .25 53.93 .25 .25 128.04 500.25 128.04"/>
+</svg>

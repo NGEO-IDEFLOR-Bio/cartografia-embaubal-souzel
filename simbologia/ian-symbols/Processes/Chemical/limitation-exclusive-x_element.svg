@@ -1,0 +1,76 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="537" height="511" viewBox="0 0 537 511" xml:space="preserve">
+            <title>Limitation: exclusive (x=element)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Limitation: exclusive (x=element)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of exclusive limitation for element, x</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, limitation, exclusive, element</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-00f043bb15f9e5843d03c2592154933a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Limitation: exclusive (x=element)</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/limitation-exclusive-x-element/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/limitation-exclusive-x-element/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, limitation, exclusive, element</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of exclusive limitation for element, x</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width="16.837" points="268.1 19.023 345.34 175.55 518.09 200.66 393.09 322.52 422.61 494.57 268.1 413.34 113.58 494.57 143.08 322.52 18.089 200.66 190.84 175.55" fill="#B9DA95"/>
+ <path d="m227.18 334.58l34.408-56.038-30.466-52.352h14.233l16.198 27.699c3.337 5.709 5.721 10.128 7.151 13.268 1.989-3.709 4.332-7.768 7.059-12.198l17.989-28.769h12.617l-31.118 51.119 33.479 57.271h-14.524l-22.478-38.63c-1.256-2.151-2.523-4.489-3.791-7.035-2.035 3.721-3.488 6.303-4.372 7.768l-22.536 37.897h-13.85z" fill="#D2232A"/>
+ <path stroke="#D2232A" stroke-width="10.023" d="m372.11 286.16c0 58.107-47.106 105.24-105.24 105.24-58.119 0-105.24-47.13-105.24-105.24 0-58.119 47.119-105.24 105.24-105.24 58.13.01 105.24 47.12 105.24 105.24z" fill="none"/>
+</svg>

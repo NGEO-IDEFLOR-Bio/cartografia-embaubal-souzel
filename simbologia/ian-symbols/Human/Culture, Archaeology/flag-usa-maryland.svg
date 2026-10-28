@@ -1,0 +1,125 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="292" viewBox="0 0 502 292" xml:space="preserve">
+            <title>Flag: USA Maryland</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Flag: USA Maryland</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Maryland flag</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, state, flag, representation, Maryland</ian_image_library:contains>
+                    <ian_image_library:when>2008-08-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f3affcfdebac1eb4e548e31b2b8fef9a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Flag: USA Maryland</dc:title>
+                <dc:date>2008-08-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/flag-usa-maryland/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/flag-usa-maryland/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, state, flag, representation, Maryland</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Maryland flag</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect fill-rule="evenodd" height="291.74" width="500" stroke="#231F20" clip-rule="evenodd" y=".125" x=".125" stroke-width=".25" fill="none"/>
+ <path d="m125.12 145.99v72.935-68.72c8.992 0 18.898 8.078 13.277 20.655 10.82 0 15.943 6.962 15.943 13.563 0 6.611-4.274 18.477-20.125 14.482v10.924h41.284c-2.677-14.646 7.87-20.13 14.471-20.13 6.606 0 13.354 5.615 13.354 16.441 12.577-5.626 20.863 3.787 20.863 12.785h25.932v-72.935h-124.99z" fill="#D52027"/>
+ <path d="m224.19 218.93c0-8.998-8.286-18.412-20.863-12.785 0-10.826-6.749-16.441-13.354-16.441-6.601 0-17.147 5.484-14.471 20.13h-41.284v-10.924c15.85 3.995 20.125-7.871 20.125-14.482 0-6.601-5.123-13.563-15.943-13.563 5.621-12.577-4.285-20.655-13.277-20.655v68.72h99.05z" fill="#fff"/>
+ <path d="m46.92 206.14c0-10.826 6.743-16.441 13.349-16.441s17.147 5.484 14.477 20.13h41.283v-10.924c-15.844 3.995-20.13-7.871-20.13-14.482 0-6.601 5.123-13.563 15.949-13.563-5.626-12.577 4.28-20.655 13.278-20.655v68.72-72.935h-125v72.935h25.926c-.005-9.01 8.287-18.42 20.864-12.8z" fill="#fff"/>
+ <path d="m125.12 218.93v-68.72c-8.998 0-18.904 8.078-13.278 20.655-10.826 0-15.949 6.962-15.949 13.563 0 6.611 4.286 18.477 20.13 14.482v10.924h-41.275c2.671-14.646-7.871-20.13-14.477-20.13s-13.349 5.615-13.349 16.441c-12.577-5.626-20.869 3.787-20.869 12.785h99.07v.01z" fill="#D52027"/>
+ <path d="m125.12 218.93v68.72c-8.998 0-18.904-8.078-13.278-20.655-10.826 0-15.949-6.962-15.949-13.563 0-6.611 4.286-18.477 20.13-14.481v-10.924h-41.275c2.671 14.657-7.871 20.13-14.477 20.13s-13.348-5.63-13.348-16.46c-12.577 5.626-20.869-3.788-20.869-12.785h-25.926v72.935h125v-72.93z" fill="#D52027"/>
+ <path d="m26.051 218.93c0 8.998 8.292 18.411 20.869 12.785 0 10.826 6.743 16.441 13.349 16.441s17.147-5.474 14.477-20.13h41.283v10.924c-15.844-3.996-20.13 7.87-20.13 14.481 0 6.601 5.123 13.563 15.949 13.563-5.626 12.577 4.28 20.655 13.278 20.655v-68.72h-99.079z" fill="#fff"/>
+ <path d="m203.33 231.71c0 10.826-6.749 16.441-13.354 16.441-6.601 0-17.147-5.474-14.471-20.13h-41.284v10.924c15.85-3.996 20.125 7.87 20.125 14.481 0 6.601-5.123 13.563-15.943 13.563 5.621 12.577-4.285 20.655-13.277 20.655v-68.72 72.935h125v-72.935h-25.932c-.02 9.01-8.3 18.42-20.88 12.79z" fill="#fff"/>
+ <path d="m125.12 218.93v68.72c8.992 0 18.898-8.078 13.277-20.655 10.82 0 15.943-6.962 15.943-13.563 0-6.611-4.274-18.477-20.125-14.481v-10.924h41.284c-2.677 14.657 7.87 20.13 14.471 20.13 6.606 0 13.354-5.616 13.354-16.441 12.577 5.626 20.863-3.788 20.863-12.785h-99.06v-.01z" fill="#D52027"/>
+ <path d="m375.12.125v72.935l.012-68.72c8.986 0 18.893 8.078 13.277 20.667 10.814 0 15.938 6.951 15.938 13.551 0 6.611-4.28 18.477-20.119 14.482v10.924h41.278c-2.671-14.657 7.87-20.13 14.471-20.13 6.611 0 13.354 5.616 13.354 16.441 12.566-5.626 20.863 3.787 20.863 12.785h25.932v-72.935h-125z" fill="#D52027"/>
+ <path d="m474.19 73.06c0-8.998-8.297-18.412-20.863-12.785 0-10.826-6.743-16.441-13.354-16.441-6.601 0-17.142 5.473-14.471 20.13h-41.278v-10.925c15.839 3.995 20.119-7.871 20.119-14.482 0-6.601-5.123-13.551-15.938-13.551 5.615-12.588-4.291-20.667-13.277-20.667l-.012 68.72h99.07z" fill="#fff"/>
+ <path d="m296.92 60.274c0-10.826 6.743-16.441 13.354-16.441 6.601 0 17.142 5.473 14.471 20.13h41.278v-10.924c-15.84 3.995-20.13-7.871-20.13-14.482 0-6.601 5.122-13.551 15.948-13.551-5.626-12.588 4.28-20.667 13.277-20.667v68.72-72.934h-125v72.935h25.932c.01-8.998 8.29-18.412 20.87-12.786z" fill="#fff"/>
+ <path d="m375.12 73.06v-68.721c-8.997 0-18.903 8.078-13.277 20.667-10.826 0-15.948 6.951-15.948 13.551 0 6.611 4.29 18.477 20.13 14.482v10.924h-41.278c2.671-14.657-7.87-20.13-14.471-20.13-6.611 0-13.354 5.616-13.354 16.441-12.577-5.626-20.863 3.787-20.863 12.785h99.06v.001z" fill="#D52027"/>
+ <path d="m375.12 73.06v68.72c-8.997 0-18.903-8.078-13.277-20.656-10.826 0-15.948-6.961-15.948-13.562 0-6.612 4.29-18.477 20.13-14.482v-10.922h-41.278c2.671 14.646-7.87 20.13-14.471 20.13-6.611 0-13.354-5.616-13.354-16.441-12.577 5.626-20.863-3.788-20.863-12.785h-25.932v72.935h124.99v-72.94z" fill="#D52027"/>
+ <path d="m276.06 73.06c0 8.998 8.286 18.412 20.863 12.785 0 10.826 6.743 16.441 13.354 16.441 6.601 0 17.142-5.484 14.471-20.13h41.278v10.92c-15.84-3.995-20.13 7.87-20.13 14.482 0 6.601 5.122 13.562 15.948 13.562-5.626 12.578 4.28 20.656 13.277 20.656v-68.72h-99.06z" fill="#fff"/>
+ <path d="m453.33 85.845c0 10.826-6.743 16.441-13.354 16.441-6.601 0-17.142-5.484-14.471-20.13h-41.278v10.92c15.839-3.995 20.119 7.87 20.119 14.482 0 6.601-5.123 13.562-15.938 13.562 5.615 12.578-4.291 20.656-13.277 20.656l-.012-68.72v72.935h125.01v-72.94h-25.932c-.01 8.997-8.3 18.411-20.87 12.785z" fill="#fff"/>
+ <path d="m375.12 73.06l.012 68.72c8.986 0 18.893-8.078 13.277-20.656 10.814 0 15.938-6.961 15.938-13.562 0-6.612-4.28-18.477-20.119-14.482v-10.922h41.278c-2.671 14.646 7.87 20.13 14.471 20.13 6.611 0 13.354-5.616 13.354-16.441 12.566 5.626 20.863-3.788 20.863-12.785h-99.07v-.004z" fill="#D52027"/>
+ <polygon points="375.34 198.91 375.34 145.99 333.6 145.99 333.6 174.8" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="333.6 174.8 333.6 145.99 291.86 145.99 291.86 150.7" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="500.12 270.98 500.12 145.99 458.81 145.99 458.81 247.12" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="333.6 174.8 333.6 218.6 375.34 242.7 375.34 198.91" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="291.86 145.99 283.72 145.99 291.86 150.7" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="375.34 198.91 375.34 242.7 417.08 266.81 417.08 223.01" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="417.08 266.81 458.81 290.91 458.81 247.12 417.08 223.01" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="458.81 247.12 458.81 145.99 417.08 145.99 417.08 223.01" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="291.86 150.7 291.86 194.5 333.6 218.6 333.6 174.8" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="417.08 223.01 417.08 145.99 375.34 145.99 375.34 198.91" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="291.86 194.5 291.86 291.86 333.6 291.86 333.6 218.6" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="333.6 218.6 333.6 291.86 375.34 291.86 375.34 242.7" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="250.12 170.39 250.12 291.86 291.86 291.86 291.86 194.5" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="291.86 150.7 283.72 145.99 250.12 145.99 250.12 170.39 291.86 194.5" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="375.34 242.7 375.34 291.86 417.08 291.86 417.08 266.81" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="500.12 270.98 458.81 247.12 458.81 290.91 460.46 291.86 500.12 291.86" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="458.81 291.86 460.46 291.86 458.81 290.91" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="417.08 266.81 417.08 291.86 458.81 291.86 458.81 290.91" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="125.2 98.247 125.2 145.99 166.93 145.99 166.93 122.35" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="83.453 74.132 83.453 145.99 125.2 145.99 125.2 98.247" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="208.67 102.66 166.93 78.543 166.93 122.35 207.88 145.99 208.67 145.99" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="208.67 145.99 250.12 145.99 250.12 126.6 208.67 102.66" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="166.93 145.99 207.88 145.99 166.93 122.35" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="125.2 54.44 125.2 .125 83.453 .125 83.453 30.336" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="41.72 .125 31.141 .125 41.72 6.233" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="41.72 50.029 41.72 145.99 83.453 145.99 83.453 74.132" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="83.453 30.336 83.453 .125 41.72 .125 41.72 6.233" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="41.72 6.233 31.141 .125 .125 .125 .125 26.013 41.72 50.029" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="250.12 126.6 250.12 .125 208.67 .125 208.67 102.66" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points=".125 26.013 .125 145.99 41.72 145.99 41.72 50.029" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="41.72 6.233 41.72 50.029 83.453 74.132 83.453 30.336" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="208.67 102.66 208.67 .125 166.93 .125 166.93 78.543" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="166.93 78.543 166.93 .125 125.2 .125 125.2 54.44" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="83.453 30.336 83.453 74.132 125.2 98.247 125.2 54.44" fill="#231F20" clip-rule="evenodd" fill-rule="evenodd"/>
+ <polygon points="125.2 98.247 166.93 122.35 166.93 78.543 125.2 54.44" fill="#E79D24" clip-rule="evenodd" fill-rule="evenodd"/>
+</svg>

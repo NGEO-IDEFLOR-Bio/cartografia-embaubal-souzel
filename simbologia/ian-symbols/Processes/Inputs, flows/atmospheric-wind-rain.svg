@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="124" viewBox="0 0 502 124" xml:space="preserve">
+            <title>Atmospheric wind/rain</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Atmospheric wind/rain</ian_image_library:title>
+                <ian_image_library:descr>Illustration of atmospheric wind and rain</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>input, flows, atmospheric, wind, rain, weather, cloud, storm, precipitation</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f3ca1fe7be27f51491981f438eb4c251">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Atmospheric wind/rain</dc:title>
+                <dc:date>2004-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/atmospheric-wind-rain/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/atmospheric-wind-rain/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>input, flows, atmospheric, wind, rain, weather, cloud, storm, precipitation</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of atmospheric wind and rain</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_7abcd75ad5df6634550daa344355b23b" y2="110.51" gradientUnits="userSpaceOnUse" x2="344.57" gradientTransform="matrix(.5376 0 0 .672 -47.684 -81.468)" y1="318.63" x1="344.57">
+  <stop stop-color="#231F20" offset="0"/>
+  <stop stop-color="#00B1EF" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".032" d="m117 .028c.899 0-42.812 7.209-66.737 14.546-23.679 7.675-66.183 26.646-44.057 43.404 22.125 17.108 27.271 9.433 35.761 17.108 8.49 7.336-1.567 27.238 44.251 21.66 25.206-3.07 38.481-6.966 77.259 7.961 15.424 5.589 50.381 13.815 66.832 11.708 49.576-6.31 54.942-46.337 31.039-55.769-23.698-9.422 5.214-22.009-8.406-33.538-13.63-11.173-38.08-23.686-55.23-17.387-52.77 19.394-54.34-10.396-80.71-9.698z" fill="url(#ian_symbols_7abcd75ad5df6634550daa344355b23b)"/>
+ <line y2="3.554" x1="286.42" x2="450.55" stroke="#00B1EF" stroke-linecap="round" y1="19.603" stroke-width=".8877" fill="none"/>
+ <line y2="27.977" x1="271.86" x2="468.25" stroke="#00B1EF" stroke-linecap="round" y1="38.489" stroke-width=".8877" fill="none"/>
+ <line y2="62.996" x1="281.29" x2="500.02" stroke="#00B1EF" stroke-linecap="round" y1="57.544" stroke-width=".8877" fill="none"/>
+ <line y2="93.04" x1="291.24" x2="467.73" stroke="#00B1EF" stroke-linecap="round" y1="75.7" stroke-width=".8877" fill="none"/>
+ <line y2="122.7" x1="282.71" x2="425.88" stroke="#00B1EF" stroke-linecap="round" y1="92.797" stroke-width=".8877" fill="none"/>
+</svg>

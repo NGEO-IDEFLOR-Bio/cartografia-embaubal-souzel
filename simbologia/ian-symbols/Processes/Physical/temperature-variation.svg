@@ -1,0 +1,94 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="506" height="327" viewBox="0 0 506 327" xml:space="preserve">
+            <title>Temperature variation</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Temperature variation</ian_image_library:title>
+                <ian_image_library:descr>Illustration of temperature variation</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, temperature, variation, thermometer</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0248837b4ed974a419dfda10c73234a5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Temperature variation</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/temperature-variation/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/temperature-variation/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, temperature, variation, thermometer</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of temperature variation</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="5" d="m146.61 251.65c0 39.795-32.267 72.063-72.051 72.063-39.801 0-72.062-32.268-72.062-72.063 0-39.785 32.261-72.04 72.062-72.04 39.791 0 72.051 32.26 72.051 72.04z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="5" d="m54.238 185.57v-159.7c0-11.801 9.594-21.438 21.428-21.438 11.823 0 21.405 9.637 21.405 21.438v159.7" fill="#fff"/>
+ <line y2="42.044" x1="78.13" x2="94.624" stroke="#231F20" y1="42.044" stroke-width="5" fill="#CABDA7"/>
+ <line y2="60.75" x1="78.682" x2="95.181" stroke="#231F20" y1="60.75" stroke-width="5" fill="#CABDA7"/>
+ <line y2="78.375" x1="77.589" x2="94.088" stroke="#231F20" y1="78.375" stroke-width="5" fill="#CABDA7"/>
+ <line y2="95.968" x1="77.589" x2="94.088" stroke="#231F20" y1="95.968" stroke-width="5" fill="#CABDA7"/>
+ <line y2="17.382" x1="73.753" x2="73.753" stroke="#A29490" y1="72.376" stroke-width="19.278" fill="#fff"/>
+ <line y2="72.376" x1="73.753" x2="73.753" stroke="#D2232A" y1="294.49" stroke-width="19.278" fill="#fff"/>
+ <line y2="111.32" x1="78.682" x2="95.181" stroke="#231F20" y1="111.32" stroke-width="5" fill="#CABDA7"/>
+ <path stroke="#231F20" stroke-width="5" d="m502.5 249.74c0 39.752-32.293 72.041-72.063 72.041-39.805 0-72.072-32.289-72.072-72.041 0-39.828 32.268-72.062 72.072-72.062 39.77 0 72.06 32.23 72.06 72.06z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="5" d="m410.1 183.61v-159.65c0-11.845 9.605-21.46 21.434-21.46 11.828 0 21.428 9.615 21.428 21.46v159.65" fill="#fff"/>
+ <line y2="40.132" x1="434.02" x2="450.52" stroke="#231F20" y1="40.132" stroke-width="5" fill="#CABDA7"/>
+ <line y2="58.806" x1="434.58" x2="451.06" stroke="#231F20" y1="58.806" stroke-width="5" fill="#CABDA7"/>
+ <line y2="76.409" x1="433.46" x2="449.95" stroke="#231F20" y1="76.409" stroke-width="5" fill="#CABDA7"/>
+ <line y2="94.001" x1="433.46" x2="449.95" stroke="#231F20" y1="94.001" stroke-width="5" fill="#CABDA7"/>
+ <line y2="15.416" x1="429.61" x2="429.61" stroke="#A29490" y1="70.399" stroke-width="19.278" fill="#fff"/>
+ <line y2="70.399" x1="429.61" x2="429.61" stroke="#00B1EB" y1="292.54" stroke-width="19.278" fill="#fff"/>
+ <line y2="109.38" x1="434.56" x2="451.06" stroke="#231F20" y1="109.38" stroke-width="5" fill="#CABDA7"/>
+ <line y2="94.82" x1="156.23" x2="342.44" stroke="#231F20" y1="94.82" stroke-width="9.6382" fill="none"/>
+ <path d="m379.9 94.82c-17.625 6.545-39.49 17.712-53.061 29.513l10.697-29.513-10.7-29.521c13.57 11.845 35.44 22.99 53.06 29.524z" fill="#231F20"/>
+ <path d="m118.78 94.82c17.609-6.534 39.479-17.68 53.028-29.524l-10.69 29.524 10.692 29.513c-13.55-11.8-35.42-22.96-53.03-29.51z" fill="#231F20"/>
+</svg>

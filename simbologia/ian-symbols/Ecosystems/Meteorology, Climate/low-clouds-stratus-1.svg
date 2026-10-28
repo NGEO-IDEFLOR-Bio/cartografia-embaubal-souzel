@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="62" viewBox="0 0 501 62" xml:space="preserve">
+            <title>Low clouds: Stratus 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Low clouds: Stratus 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of stratus clouds, meaning layer or blanket in Latin. Characterized by horizontal layering with a uniform base. Flat, featureless clouds of low altitude varying in color from dark gray to nearly white obscuring the disk of the sun. Essentially above-ground fog formed either through the lifting of morning fog or when cold air moves at low altitudes over a region.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, climate, weather, atmosphere, sky, fog</ian_image_library:contains>
+                    <ian_image_library:when>2005-06-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fa9e650f41cb7ae4d52de1fc81f1c4a0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Low clouds: Stratus 1</dc:title>
+                <dc:date>2005-06-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/low-clouds-stratus-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/low-clouds-stratus-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, climate, weather, atmosphere, sky, fog</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of stratus clouds, meaning layer or blanket in Latin. Characterized by horizontal layering with a uniform base. Flat, featureless clouds of low altitude varying in color from dark gray to nearly white obscuring the disk of the sun. Essentially above-ground fog formed either through the lifting of morning fog or when cold air moves at low altitudes over a region.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_85c7eeea1174cbc43d3348811b4ae65c" y2="-85.061" gradientUnits="userSpaceOnUse" x2="377.6" y1="168.48" x1="124.06">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#EBF7FD" offset=".3427"/>
+  <stop stop-color="#D3E0E6" offset=".8876"/>
+ </linearGradient>
+ <path opacity=".8" stroke="#ADC4D0" stroke-width=".15" d="m.24 43.029c2.147-5.369 39.722-22.551 49.397-17.192 9.653 5.369 21.466-1.074 30.057-4.285 8.591-3.221 12.876-3.221 24.699-2.158 11.801 1.084 24.688 1.084 31.131-1.063 6.442-2.148 51.534-7.517 63.347-10.739 11.801-3.222 27.92-3.222 37.574-3.222 9.664 0 28.994-4.295 37.574-4.295 8.602 0 25.772 1.074 33.3 2.148 7.506 1.063 18.245-3.222 27.921 4.285 9.653 7.517 36.489 10.749 46.164 10.749 9.654 0 28.983 17.171 39.723 17.171 10.738 0 39.722 3.232 51.523 1.074 11.823-2.137 16.118-3.211 20.414-2.137 4.295 1.063 8.58 3.211 6.443 8.58-2.148 5.369-11.813 6.443-22.552 7.528-10.738 1.063-52.608 9.654-66.568 5.369-13.96-4.306-51.534-2.158-59.051-2.158-7.518 0-19.329 3.222-30.068 3.222-10.738 0-50.46 8.591-60.125 3.221-9.665-5.369-36.5-8.591-44.018-5.369-7.517 3.222-31.142 0-48.323 2.148-17.171 2.147-41.869-4.285-47.238-3.222-5.37 1.074-12.887 3.222-18.256 3.222-5.358 0-34.353-2.148-45.092-4.285-10.738-2.147-25.762-4.306-33.278-4.306s-26.818 1.073-24.67-4.286z" fill="url(#ian_symbols_85c7eeea1174cbc43d3348811b4ae65c)"/>
+</svg>

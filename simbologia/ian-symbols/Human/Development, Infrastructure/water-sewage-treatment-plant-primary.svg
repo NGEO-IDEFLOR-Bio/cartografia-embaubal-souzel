@@ -1,0 +1,135 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="308" viewBox="0 0 501 308" xml:space="preserve">
+            <title>Water: sewage treatment plant: primary</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water: sewage treatment plant: primary</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a primary sewage treatment plant</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, waste, water, treatment, plant, 1, disposal, sewage</ian_image_library:contains>
+                    <ian_image_library:when>2011-03-25</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f6b327bc61329804012775826a795210">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water: sewage treatment plant: primary</dc:title>
+                <dc:date>2011-03-25</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-sewage-treatment-plant-primary/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-sewage-treatment-plant-primary/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, waste, water, treatment, plant, 1, disposal, sewage</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a primary sewage treatment plant</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#5E5F59" points="500,191.127 301.428,307.283 0,141.995 156.377,58.253 257.351,64.279 "/>
+<path fill="#326586" d="M312.874,58.798c0,32.475-55.118,58.798-123.123,58.798c-68,0-123.127-26.324-123.127-58.798
+	S121.752,0,189.751,0C257.756,0,312.874,26.324,312.874,58.798z"/>
+<linearGradient id="ian_symbols_716affda25d75e14519976c61e1e2c0b" gradientUnits="userSpaceOnUse" x1="66.6245" y1="125.6729" x2="312.874" y2="125.6729">
+	<stop  offset="0.8085" style="stop-color:#BBB5AA"/>
+	<stop  offset="0.9433" style="stop-color:#98958C"/>
+	<stop  offset="1" style="stop-color:#97948A"/>
+</linearGradient>
+<path fill="url(#ian_symbols_716affda25d75e14519976c61e1e2c0b)" d="M66.625,58.798c0,32.475,55.127,58.798,123.127,58.798c68.005,0,123.123-26.324,123.123-58.798
+	v74.951c0,32.475-55.118,58.798-123.123,58.798c-68,0-123.127-26.323-123.127-58.798V58.798z"/>
+<path fill="#2A5572" d="M101.854,99.954v74.951c5.431,2.65,11.406,5.051,17.797,7.16V107.12
+	C113.261,104.995,107.285,102.604,101.854,99.954z"/>
+<path fill="#86837B" d="M298.332,57.083c0,26.209-48.612,47.457-108.575,47.457c-59.969,0-108.59-21.248-108.59-47.457
+	c0-26.208,48.622-47.461,108.59-47.461C249.72,9.622,298.332,30.875,298.332,57.083z"/>
+<path fill="#5F320C" d="M189.757,104.54c56.458,0,102.844-18.842,108.075-42.926c-5.231-24.079-51.618-42.916-108.075-42.916
+	c-56.463,0-102.859,18.837-108.085,42.916C86.897,85.697,133.294,104.54,189.757,104.54z"/>
+<path fill="#4E4E4E" d="M206.279,54.033c0,4.031-7.406,7.316-16.522,7.316c-9.131,0-16.527-3.285-16.527-7.316
+	c0-4.051,7.396-7.331,16.527-7.331C198.873,46.702,206.279,49.982,206.279,54.033z"/>
+<path fill="#414241" d="M189.917,50.977h90.243v14.187h-3.305v-9.831h-16.538v9.831h-3.3v-9.831h-16.527v9.831h-3.3v-9.831h-16.527
+	v9.831h-3.315v-9.831h-27.429c0,0-2.46,0.125-2.675-2.03C187.026,51.152,189.917,50.977,189.917,50.977z"/>
+<polygon fill="#42ADDB" points="300.143,284.06 216.271,240.884 216.271,179.075 300.143,218.831 "/>
+<polygon fill="#358DB4" points="300.143,218.831 300.143,284.06 403.677,223.962 403.677,159.652 "/>
+<polygon fill="#2A5572" points="403.677,159.652 300.143,218.831 216.271,179.075 216.271,170.974 312.648,115.511 323.86,115.106 
+	403.677,150.746 "/>
+<polygon fill="#2A5572" points="300.143,230.882 403.677,171.704 403.677,174.725 300.143,233.903 "/>
+<polygon fill="#BBB5AA" points="303.037,199.808 388.734,151.552 319.055,120.512 233.358,169.573 "/>
+<polygon fill="#358DB4" points="319.455,126.723 382.269,155.196 388.734,151.552 319.055,120.512 233.358,169.573 239.599,172.284 
+	"/>
+<polygon fill="#C0DDDC" points="260.787,232.442 260.787,216.82 287.82,231.042 287.82,246.665 "/>
+<polygon fill="#2A5572" points="260.787,232.442 260.787,216.82 264.212,218.631 264.192,231.042 287.82,243.063 287.82,246.665 "/>
+<polygon fill="#C0DDDC" points="394.545,204.599 394.545,188.987 374.518,200.808 374.518,216.431 "/>
+<polygon fill="#2A5572" points="394.545,204.599 394.545,188.987 391.115,190.786 391.14,203.198 374.518,212.83 374.518,216.431 
+	"/>
+<polygon fill="#C0DDDC" points="336.473,238.044 336.473,222.421 316.449,234.253 316.449,249.865 "/>
+<polygon fill="#2A5572" points="336.473,238.044 336.473,222.421 333.052,224.222 333.071,236.644 316.449,246.265 316.449,249.865 
+	"/>
+<polygon fill="#C0DDDC" points="366.711,242.724 366.711,204.799 342.883,218.831 342.883,256.746 "/>
+<polygon fill="#2A5572" points="366.711,245.464 366.711,204.799 363.286,206.608 363.306,244.335 342.883,256.156 342.883,259.327 
+	"/>
+<polygon fill="#2A5572" points="353.694,212.47 352.289,213.29 352.289,251.205 354.694,249.795 354.694,211.88 "/>
+<polygon fill="#C0DDDC" points="229.552,215.831 229.552,200.208 256.581,214.42 256.581,230.042 "/>
+<polygon fill="#2A5572" points="229.552,215.831 229.552,200.208 232.978,202.009 232.958,214.42 256.581,226.442 256.581,230.042 
+	"/>
+<linearGradient id="ian_symbols_1b7372ea65028d14cda3896408417fa9" gradientUnits="userSpaceOnUse" x1="56.252" y1="112.5923" x2="72.4453" y2="112.5923">
+	<stop  offset="0" style="stop-color:#898A8B"/>
+	<stop  offset="0.2199" style="stop-color:#CBCBCA"/>
+	<stop  offset="0.2884" style="stop-color:#CBCBCA"/>
+	<stop  offset="1" style="stop-color:#818383"/>
+</linearGradient>
+<path fill="url(#ian_symbols_1b7372ea65028d14cda3896408417fa9)" d="M58.943,62.649c-2.815,3.391-2.69,6.356-2.69,6.356v89.657c0,0,1.325,3.69,6.871,3.961
+	c5.541,0.26,8.451-3.7,8.451-3.7V80.776c0,0-0.455-6.191,0.87-9.291C69.785,65.944,64.389,61.849,58.943,62.649z"/>
+<linearGradient id="ian_symbols_069cdbe8a36b0204f18ba8a8175965d7" gradientUnits="userSpaceOnUse" x1="80.8979" y1="48.9033" x2="86.8062" y2="61.3019">
+	<stop  offset="0" style="stop-color:#898A8B"/>
+	<stop  offset="0.2199" style="stop-color:#CBCBCA"/>
+	<stop  offset="0.2884" style="stop-color:#CBCBCA"/>
+	<stop  offset="0.669" style="stop-color:#A1A2A2"/>
+</linearGradient>
+<path fill="url(#ian_symbols_069cdbe8a36b0204f18ba8a8175965d7)" d="M113.041,58.063c-0.795-3.426-3.051-8.997-5.816-11.347c-2.755-2.355-4.75-2.65-10.296-2.906
+	c-5.546-0.27-29.584,12.667-33.545,15.047c-1.99,1.235-3.41,2.541-4.44,3.791c5.446-0.8,10.841,3.295,13.502,8.836
+	c0.06-0.16,0.11-0.335,0.185-0.47c1.585-2.911,16.962-10.111,19.808-11.097c5.986-2.08,7.001,3.551,7.001,3.551
+	s0.53,2.905,5.546,3.175c5.021,0.255,7.926-3.966,7.926-3.966S113.831,61.499,113.041,58.063z"/>
+</svg>

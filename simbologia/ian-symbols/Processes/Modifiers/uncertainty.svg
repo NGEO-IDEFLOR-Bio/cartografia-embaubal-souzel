@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="284" viewBox="0 0 501 284" xml:space="preserve">
+            <title>Uncertainty</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Uncertainty</ian_image_library:title>
+                <ian_image_library:descr>Illustration of uncertainty question mark in cloud</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>modifier, uncertainty, question, mark, unknown, cloud</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7045778f701e9e84d9c5dea30cec5ec1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Uncertainty</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/uncertainty/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/uncertainty/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>modifier, uncertainty, question, mark, unknown, cloud</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of uncertainty question mark in cloud</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_95fba6c53051b04421ba212e4e6b6aa2" y2="-13.3" gradientUnits="userSpaceOnUse" x2="250.01" y1="316.23" x1="250.01">
+  <stop stop-color="#231F20" offset="0"/>
+  <stop stop-color="#00B1EF" offset="1"/>
+ </linearGradient>
+ <path d="m30.774 42.509c44.468-38.784 93.076-8.046 93.076-8.046s42.52-30.738 100.24-30.738c57.708 0 72.896 37.571 72.896 37.571s41.444-42.85 87.009-22.362c45.553 20.489 38.103 41.296 38.103 41.296s59.081-1.863 71.235 45.937c12.155 47.799-17.135 88.775-17.135 88.775s3.033 44.393-27.343 60.252c-38.954 20.328-78.974-15.859-78.974-15.859s-36.459 31.058-78.973 34.474c-42.521 3.416-60.752-34.474-60.752-34.474s-64.371 39.433-97.78 39.433-72.322-46.266-72.322-46.266-49.172 5.301-55.249-28.854c-6.083-34.154 15.774-66.754 15.774-66.754s-36.426-53.745 10.181-94.381z" fill="url(#ian_symbols_95fba6c53051b04421ba212e4e6b6aa2)"/>
+ <path d="m132.38 282.49c-31.692 0-66.755-37.982-73.91-46.13-1.297.08-3.174.162-5.462.162-13.871 0-46.691-3.141-51.866-32.224-5.464-30.683 10.287-59.577 15.055-67.436-6.247-10.677-31.062-59.501 12.134-97.164 15.611-13.616 33.396-20.521 52.858-20.521 20.572 0 36.811 7.766 42.495 10.88 9.24-6.138 48.53-30.055 100.41-30.055 47.762 0 67.605 24.632 73.925 35.214 8.74-7.747 31.923-25.554 60.334-25.554 9.359 0 18.502 1.977 27.173 5.876 35.641 16.03 40.67 32.973 40.737 41.088 15.203.789 60.016 6.67 70.683 48.624 11.479 45.136-12.258 83.718-16.964 90.767.274 7.873.097 47.081-29.399 62.481-8.417 4.392-17.524 6.619-27.07 6.62-25.218.002-46.591-15.271-53.67-20.953-9.021 7.079-41.257 30.354-78.632 33.358-37.086 2.98-56.516-23.225-62.436-33.014-13.83 8.16-66.36 37.97-96.39 37.97zm-70.755-53.9l1.278 1.514c.378.45 38.194 44.939 69.472 44.939 31.973 0 95.199-38.495 95.834-38.884l3.503-2.146 1.796 3.701c.675 1.392 17.721 35.544 57.1 32.382 40.842-3.283 76.501-33.294 76.856-33.597l2.484-2.117 2.427 2.188c.234.211 23.726 21.1 51.131 21.097 8.333-.001 16.281-1.943 23.623-5.775 27.823-14.526 25.378-56.279 25.35-56.699l-.088-1.326.772-1.088c.282-.397 28.125-40.206 16.558-85.694-10.662-41.929-61.031-43.14-66.739-43.14h-5.29l.896-4.97c.033-.112 5.119-18.094-36.124-36.644-7.703-3.464-15.817-5.221-24.117-5.221-32.412 0-58.428 26.507-58.687 26.775l-3.953 4.087-2.172-5.269c-.594-1.439-15.159-35.254-69.448-35.254-55.867 0-97.641 29.731-98.056 30.032l-2.037 1.473-2.132-1.34c-.174-.11-17.732-10.982-40.679-10.982-17.61 0-33.747 6.286-47.962 18.685-43.62 38.032-10.971 87.405-9.56 89.489l1.405 2.075-1.394 2.086c-.21.314-20.94 31.808-15.202 64.03 4.038 22.691 29.634 26.08 44.532 26.08 3.975 0 6.559-.267 6.654-.276l1.971-.19z" fill="#231F20"/>
+ <path d="m88.226 179.19c-3.118 0-5.864-1.203-8.232-3.608-2.357-2.405-3.539-5.13-3.539-8.185 0-5.258 4.875-11.75 14.613-19.445l27.529-20.605c9.925-8.451 14.884-16.178 14.884-23.181 0-8.845-4.182-16.987-12.527-24.448-8.056-7.237-16.603-10.856-25.65-10.856-4.836 0-10.973 2.448-18.402 7.333-7.439 4.885-12.037 7.333-13.793 7.333-3.14 0-5.854-1.256-8.109-3.789-2.267-2.512-3.395-5.354-3.395-8.472 0-6.045 5.854-12.048 17.561-18.008 10.473-5.343 19.147-8.025 26.034-8.025 15.368 0 29.333 5.992 41.88 17.987 12.538 11.984 18.807 25.618 18.807 40.881 0 11.144-3.565 21.031-10.686 29.652-4.289 5.194-12.261 11.91-23.916 20.147-11.718 8.472-19.881 15.337-24.485 20.584-2.662 3.12-5.524 4.69-8.569 4.69zm-6.332 43.65c-3.363 0-6.397-1.128-9.111-3.385-2.714-2.277-4.065-5.013-4.065-8.238 0-4.747 1.255-9.046 3.777-12.889 2.832-4.29 6.45-6.439 10.889-6.439 7.333 0 10.995 4.523 10.995 13.581 0 4.214-.99 8.014-2.98 11.388-2.449 3.98-5.621 5.98-9.505 5.98z" fill="#0086C0"/>
+</svg>

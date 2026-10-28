@@ -1,0 +1,624 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="463" viewBox="0 0 501 463" xml:space="preserve">
+            <title>Urban: city 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: city 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an urban city centre</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, city, apartment, skyscrapers, buildings, office, towers, urban</ian_image_library:contains>
+                    <ian_image_library:when>2011-05-19</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0b26c22b96fc5aa4396d89821b17fd26">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: city 1</dc:title>
+                <dc:date>2011-05-19</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-city-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-city-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, city, apartment, skyscrapers, buildings, office, towers, urban</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an urban city centre</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#6D6E71" points="34.108,376.783 248.776,455.492 466.619,376.783 240.824,296.482 "/>
+<polygon fill="#5A5A5A" points="472.101,368.038 228.833,451.181 253.878,460.121 500,375.859 "/>
+<polygon fill="#5A5A5A" points="393.287,344.686 159.289,425.145 184.333,434.091 418.033,353.73 "/>
+<polygon fill="#5A5A5A" points="323.026,317.551 92.597,396.616 117.641,405.557 348.073,326.497 "/>
+<polygon fill="#5A5A5A" points="252.664,290.323 0,377.603 35.75,382.499 277.709,299.264 "/>
+<polygon fill="#5A5A5A" points="102.396,344.98 341.001,426.926 315.96,435.872 77.352,353.927 "/>
+<polygon fill="#5A5A5A" points="154.87,327.29 387.28,406.628 412.322,397.682 179.915,318.349 "/>
+<polygon fill="#5A5A5A" points="25.304,369.181 273.594,453.317 248.552,462.264 0,377.603 "/>
+<polygon fill="#5A5A5A" points="230.801,301.057 458.448,378.783 500,375.859 255.843,292.11 "/>
+<polygon fill="#F9F8F6" points="205.079,340.02 205.079,90.575 163.972,104.279 163.972,353.721 "/>
+<polygon fill="#D2DAE1" points="124.333,340.02 124.333,90.575 163.972,104.279 163.972,353.721 "/>
+<linearGradient id="ian_symbols_aab595d2b58a78d4518168a31c571fbe" gradientUnits="userSpaceOnUse" x1="84.4756" y1="282.7295" x2="203.2718" y2="146.07">
+	<stop  offset="0.0364" style="stop-color:#C3E7F6"/>
+	<stop  offset="0.497" style="stop-color:#A7D9ED"/>
+	<stop  offset="1" style="stop-color:#83D0F0"/>
+</linearGradient>
+<path fill="url(#ian_symbols_aab595d2b58a78d4518168a31c571fbe)" d="M161.163,331.287l-34.578-11.952v-11.931l34.578,11.958V331.287z M161.163,300.277l-34.578-11.953
+	v11.925l34.578,11.952V300.277z M161.163,281.198l-34.578-11.953v11.925l34.578,11.952V281.198z M161.163,262.114l-34.578-11.953
+	v11.925l34.578,11.958V262.114z M161.163,243.035l-34.578-11.952v11.925l34.578,11.953V243.035z M161.163,223.953L126.585,212
+	v11.925l34.578,11.955V223.953z M161.163,204.871l-34.578-11.952v11.925l34.578,11.953V204.871z M161.163,185.79l-34.578-11.953
+	v11.925l34.578,11.955V185.79z M161.163,109.465L126.585,97.51v11.928l34.578,11.952V109.465z M161.163,128.547l-34.578-11.955
+	v11.928l34.578,11.953V128.547z M161.163,147.629l-34.578-11.955v11.925l34.578,11.955V147.629z M161.163,166.708l-34.578-11.952
+	v11.925l34.578,11.956V166.708z"/>
+<linearGradient id="ian_symbols_a324ab6f52d9e1c4ddf4c243b56b3bb4" gradientUnits="userSpaceOnUse" x1="424.7871" y1="282.7295" x2="543.5833" y2="146.0701" gradientTransform="matrix(-1 0 0 1 668.6055 0)">
+	<stop  offset="0.0364" style="stop-color:#C3E7F6"/>
+	<stop  offset="0.497" style="stop-color:#A7D9ED"/>
+	<stop  offset="1" style="stop-color:#83D0F0"/>
+</linearGradient>
+<path fill="url(#ian_symbols_a324ab6f52d9e1c4ddf4c243b56b3bb4)" d="M167.131,319.362l34.578-11.958v11.931l-34.578,11.952V319.362z M167.131,312.202l34.578-11.952
+	v-11.925l-34.578,11.953V312.202z M167.131,293.123l34.578-11.952v-11.925l-34.578,11.953V293.123z M167.131,274.044l34.578-11.958
+	v-11.925l-34.578,11.953V274.044z M167.131,254.96l34.578-11.953v-11.925l-34.578,11.952V254.96z M167.131,235.881l34.578-11.955
+	V212l-34.578,11.953V235.881z M167.131,216.796l34.578-11.953v-11.925l-34.578,11.952V216.796z M167.131,197.717l34.578-11.955
+	v-11.925l-34.578,11.953V197.717z M167.131,121.39l34.578-11.952V97.51l-34.578,11.955V121.39z M167.131,140.472l34.578-11.953
+	v-11.928l-34.578,11.955V140.472z M167.131,159.554l34.578-11.955v-11.925l-34.578,11.955V159.554z M167.131,178.636l34.578-11.956
+	v-11.925l-34.578,11.952V178.636z"/>
+<polygon fill="#F5F8F5" points="205.079,90.575 163.972,104.279 164.451,48.225 178.717,43.47 "/>
+<polygon fill="#E2E3E7" points="164.451,48.225 163.972,104.279 124.333,90.575 150.695,43.47 "/>
+<polygon fill="#D2DAE1" points="178.717,43.47 164.451,48.225 150.695,43.47 164.284,39.352 "/>
+<path fill="#C5C5C7" d="M166.098,43.129c0,0.771-0.623,1.394-1.391,1.394l0,0c-0.768,0-1.394-0.623-1.394-1.394V1.391
+	c0-0.768,0.625-1.391,1.394-1.391l0,0c0.768,0,1.391,0.623,1.391,1.391V43.129z"/>
+<polygon fill="#A4A9AD" points="335.05,362.841 335.05,175.412 293.945,189.113 293.945,376.542 "/>
+<polygon fill="#747C7E" points="254.304,362.841 254.304,175.412 293.945,189.113 293.945,376.542 "/>
+<path fill="#3D3D3F" d="M335.05,198.934v-3.79l-8.384,2.935v-19.874l-3.913,1.306v19.94l-6.82,2.385v-20.052l-3.913,1.306v20.115
+	l-6.821,2.388v-20.232l-3.913,1.303v20.298l-7.34,2.569v3.792l7.34-2.571v16.997l-7.34,2.568v3.79l7.34-2.568v16.991l-7.34,2.568
+	v3.793l7.34-2.568v16.997l-7.34,2.569v3.787l7.34-2.568v16.997l-7.34,2.569v3.787l7.34-2.569v16.997l-7.34,2.568v3.793l7.34-2.568
+	v16.991l-7.34,2.568v3.793l7.34-2.568v16.991l-7.34,2.568v3.793l7.34-2.568v17.849l3.913-1.306v-17.915l6.821-2.388v18.03
+	l3.913-1.306v-18.09l6.82-2.388v18.204l3.913-1.306v-18.27l8.384-2.935v-3.788l-8.384,2.935v-16.997l8.384-2.935v-3.788
+	l-8.384,2.935v-16.997l8.384-2.935v-3.793l-8.384,2.935v-16.991l8.384-2.935v-3.793l-8.384,2.935v-16.992l8.384-2.935v-3.793
+	l-8.384,2.935V243.44l8.384-2.935v-3.79l-8.384,2.935v-16.994l8.384-2.935v-3.79l-8.384,2.935v-16.997L335.05,198.934z
+	 M305.198,209.383l6.821-2.385v16.994l-6.821,2.385V209.383z M305.198,230.17l6.821-2.388v16.994l-6.821,2.388V230.17z
+	 M305.198,250.957l6.821-2.388v16.991l-6.821,2.389V250.957z M305.198,271.741l6.821-2.388v16.991l-6.821,2.389V271.741z
+	 M305.198,292.525l6.821-2.388v16.991l-6.821,2.388V292.525z M305.198,313.31l6.821-2.388v16.997l-6.821,2.383V313.31z
+	 M305.198,351.085v-16.991l6.821-2.388v16.997L305.198,351.085z M322.753,344.948l-6.82,2.383v-16.991l6.82-2.388V344.948z
+	 M322.753,324.158l-6.82,2.388V309.55l6.82-2.383V324.158z M322.753,303.374l-6.82,2.388v-16.997l6.82-2.383V303.374z
+	 M322.753,282.59l-6.82,2.388v-16.997l6.82-2.383V282.59z M322.753,261.806l-6.82,2.388v-16.997l6.82-2.386V261.806z
+	 M322.753,241.021l-6.82,2.383v-16.991l6.82-2.388V241.021z M322.753,220.235l-6.82,2.385v-16.994l6.82-2.385V220.235z"/>
+<path fill="#343436" d="M293.945,213.428v-3.793l-7.64-2.672v-20.489l-3.913-1.355v20.475l-6.821-2.388v-20.442l-3.913-1.353v20.426
+	l-6.82-2.385v-20.399l-3.913-1.353v20.379l-6.621-2.317v3.792l6.621,2.314v16.997l-6.621-2.32v3.793l6.621,2.317v16.994
+	l-6.621-2.317v3.79l6.621,2.317v16.994l-6.621-2.317v3.793l6.621,2.317v16.992l-6.621-2.317v3.793l6.621,2.317v16.991l-6.621-2.317
+	v3.793l6.621,2.317v16.997l-6.621-2.323v3.792l6.621,2.317v16.997l-6.621-2.317v3.793l6.621,2.312v17.768l3.913,1.35v-17.745
+	l6.82,2.388v17.718l3.913,1.35v-17.696l6.821,2.383v17.674l3.913,1.35V356.25l7.64,2.672v-3.793l-7.64-2.672v-16.991l7.64,2.672
+	v-3.793l-7.64-2.672v-16.991l7.64,2.672v-3.793l-7.64-2.672v-16.991l7.64,2.672v-3.793l-7.64-2.672v-16.991l7.64,2.672v-3.793
+	l-7.64-2.672v-16.997l7.64,2.672v-3.788l-7.64-2.678V231.54l7.64,2.672v-3.79l-7.64-2.672v-16.994L293.945,213.428z
+	 M264.838,203.241l6.82,2.385v16.994l-6.82-2.385V203.241z M264.838,224.025l6.82,2.388v16.994l-6.82-2.386V224.025z
+	 M264.838,244.812l6.82,2.386v16.991l-6.82-2.383V244.812z M264.838,265.599l6.82,2.383v16.991l-6.82-2.383V265.599z
+	 M264.838,286.383l6.82,2.383v16.997l-6.82-2.388V286.383z M264.838,307.167l6.82,2.383v16.997l-6.82-2.388V307.167z
+	 M264.838,344.948v-16.997l6.82,2.388v16.991L264.838,344.948z M282.393,351.085l-6.821-2.383v-16.997l6.821,2.388V351.085z
+	 M282.393,330.301l-6.821-2.383v-16.997l6.821,2.388V330.301z M282.393,309.517l-6.821-2.388v-16.991l6.821,2.388V309.517z
+	 M282.393,288.733l-6.821-2.389v-16.991l6.821,2.388V288.733z M282.393,267.949l-6.821-2.389v-16.991l6.821,2.388V267.949z
+	 M282.393,247.165l-6.821-2.388v-16.994l6.821,2.388V247.165z M282.393,226.377l-6.821-2.385v-16.994l6.821,2.385V226.377z"/>
+<polygon fill="#747C7E" points="335.05,175.412 293.945,189.113 254.304,175.412 293.454,163.542 "/>
+<polygon fill="#94999D" points="327.519,175.581 294.082,186.728 261.838,175.581 293.684,165.927 "/>
+<polygon fill="#94999D" points="306.073,162.656 299.537,164.836 293.225,162.656 299.455,160.768 "/>
+<polygon fill="#A4A9AD" points="306.073,171.431 299.537,173.611 293.225,171.431 293.225,162.656 299.537,164.836 306.073,162.656 
+	"/>
+<polygon fill="#747C7E" points="299.537,173.611 293.225,171.431 293.225,162.656 299.537,164.836 "/>
+<polygon fill="#94999D" points="316.266,166.517 309.724,168.698 303.417,166.517 309.647,164.629 "/>
+<polygon fill="#A4A9AD" points="316.266,175.292 309.724,177.472 303.417,175.292 303.417,166.517 309.724,168.698 316.266,166.517 
+	"/>
+<polygon fill="#747C7E" points="309.724,177.472 303.417,175.292 303.417,166.517 309.724,168.698 "/>
+<polygon fill="#DBDAD9" points="228.046,67.756 261.838,76.899 267.002,79.681 261.733,115.01 195.247,115.01 189.487,79.681 
+	197.436,76.899 "/>
+<rect x="209.659" y="103.88" fill="#65ABC4" width="37.469" height="7.157"/>
+<rect x="204.491" y="93.445" fill="#65ABC4" width="47.805" height="7.157"/>
+<rect x="198.676" y="83.31" fill="#65ABC4" width="58.986" height="7.154"/>
+<polygon fill="#2E768F" points="189.487,79.681 199.425,83.31 199.425,90.463 205.385,93.445 205.385,100.602 210.555,103.88 
+	210.555,111.037 217.908,115.01 217.908,394.522 188.691,384.188 "/>
+<polygon fill="#2C98BF" points="267.199,79.681 257.258,83.31 257.258,90.463 251.301,93.445 251.301,100.602 246.131,103.88 
+	246.131,111.037 238.777,115.01 238.777,394.522 267.991,384.188 "/>
+<rect x="217.908" y="115.01" fill="#6AABC5" width="20.869" height="279.512"/>
+<g>
+	<g>
+		<g>
+			<polygon fill="#226B85" points="238.644,122.615 267.319,113.371 267.313,110.83 238.644,120.229 218.111,120.229 
+				189.377,110.234 189.369,112.756 218.111,122.547 			"/>
+		</g>
+		<g>
+			<polygon fill="#226B85" points="238.644,129.769 267.341,120.52 267.336,117.975 238.644,127.384 218.111,127.384 
+				189.35,117.382 189.345,119.902 218.111,129.704 			"/>
+		</g>
+		<g>
+			<polygon fill="#226B85" points="238.644,380.215 267.942,370.732 267.937,368.191 238.644,377.826 218.111,377.826 
+				188.749,367.617 188.741,370.137 218.111,380.144 			"/>
+		</g>
+		<g>
+			<polygon fill="#226B85" points="238.644,373.055 267.921,363.589 267.909,361.043 238.644,370.672 218.111,370.672 
+				188.776,360.469 188.765,362.988 218.111,372.99 			"/>
+		</g>
+	</g>
+</g>
+<polygon fill="#737A7E" points="359.834,375.842 359.834,140.708 399.479,154.409 399.479,389.544 "/>
+<g>
+	<g>
+		<linearGradient id="ian_symbols_2ef51f4d962645c4e1b3fa1fa72a4d8b" gradientUnits="userSpaceOnUse" x1="412.457" y1="313.1284" x2="348.6548" y2="240.3819">
+			<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+			<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+			<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+			<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+			<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+			<stop  offset="1" style="stop-color:#C3E7F6"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_2ef51f4d962645c4e1b3fa1fa72a4d8b)" d="M386.274,384.494l9.504,3.169v-23.85l-9.504-3.17V384.494z M375.535,380.914l8.909,2.973v-23.855
+			l-8.909-2.968V380.914z M364.572,377.258l9.144,3.05v-23.85l-9.144-3.05V377.258z M386.274,235.671l9.504,3.17v-13.368
+			l-9.504-3.167V235.671z M386.274,248.192l9.504,3.17v-10.635l-9.504-3.17V248.192z M386.274,260.467l9.504,3.17v-10.39
+			l-9.504-3.17V260.467z M375.535,232.091l8.909,2.97v-13.368l-8.909-2.97V232.091z M375.535,244.615l8.909,2.971v-10.638
+			l-8.909-2.968V244.615z M375.535,256.887l8.909,2.967v-10.384l-8.909-2.968V256.887z M364.572,228.435l9.144,3.05v-13.368
+			l-9.144-3.047V228.435z M364.572,240.958l9.144,3.05V233.37l-9.144-3.047V240.958z M364.572,253.231l9.144,3.049v-10.387
+			l-9.144-3.049V253.231z M375.535,179.617l8.909,2.97v-10.982l-8.909-2.971V179.617z M375.535,192.141l8.909,2.971v-10.638
+			l-8.909-2.968V192.141z M375.535,206.798l8.909,2.97v-12.772l-8.909-2.97V206.798z M386.274,172.217V183.2l9.504,3.167v-10.982
+			L386.274,172.217z M386.274,195.721l9.504,3.167v-10.635l-9.504-3.167V195.721z M386.274,210.378l9.504,3.17v-12.775l-9.504-3.167
+			V210.378z M364.572,203.142l9.144,3.05v-12.772l-9.144-3.046V203.142z M364.572,188.484l9.144,3.05v-10.638l-9.144-3.047V188.484z
+			 M364.572,175.964l9.144,3.047v-10.982l-9.144-3.047V175.964z M386.274,285.76l9.504,3.17v-13.368l-9.504-3.17V285.76z
+			 M386.274,298.28l9.504,3.17v-10.635l-9.504-3.17V298.28z M386.274,310.807l9.504,3.165v-10.635l-9.504-3.17V310.807z
+			 M386.274,323.328l9.504,3.169v-10.641l-9.504-3.165V323.328z M386.274,335.848l9.504,3.17v-10.635l-9.504-3.17V335.848z
+			 M386.274,348.719l9.504,3.17v-10.985l-9.504-3.169V348.719z M375.535,282.18l8.909,2.973v-13.368l-8.909-2.973V282.18z
+			 M375.535,294.701l8.909,2.973v-10.635l-8.909-2.973V294.701z M375.535,307.227l8.909,2.967v-10.635l-8.909-2.967V307.227z
+			 M375.535,319.748l8.909,2.968V312.08l-8.909-2.968V319.748z M375.535,332.269l8.909,2.973v-10.641l-8.909-2.967V332.269z
+			 M375.535,345.139l8.909,2.967v-10.979l-8.909-2.973V345.139z M364.572,278.524l9.144,3.049v-13.368l-9.144-3.05V278.524z
+			 M364.572,303.571l9.144,3.049v-10.641l-9.144-3.044V303.571z M364.572,291.044l9.144,3.05v-10.635l-9.144-3.05V291.044z
+			 M364.572,316.091l9.144,3.05v-10.635l-9.144-3.05V316.091z M364.572,328.612l9.144,3.049v-10.635l-9.144-3.049V328.612z
+			 M364.572,341.483l9.144,3.049v-10.985l-9.144-3.05V341.483z"/>
+	</g>
+</g>
+<polygon fill="#A3A3A9" points="440.582,375.842 440.582,140.708 399.479,154.409 399.479,389.544 "/>
+<polygon fill="#C7C7C9" points="440.582,140.708 399.479,154.409 359.834,140.708 398.986,128.84 "/>
+<polygon fill="#A3A3A9" points="433.052,140.88 399.615,152.023 399.615,125.788 433.052,114.642 "/>
+<polygon fill="#C7C7C9" points="433.052,114.642 399.615,125.788 367.365,114.642 399.217,104.987 "/>
+<polygon fill="#737A7E" points="399.615,125.788 399.615,152.023 367.365,140.88 367.365,114.642 "/>
+<polygon fill="#A3A3A9" points="419.153,114.177 399.867,120.607 399.867,105.471 419.153,99.041 "/>
+<polygon fill="#C7C7C9" points="419.153,99.041 399.867,105.471 381.264,99.041 399.637,93.472 "/>
+<polygon fill="#737A7E" points="399.867,105.471 399.867,120.607 381.264,114.177 381.264,99.041 "/>
+<polygon fill="#A3A3A9" points="405.075,99.331 400.124,100.981 400.124,39.853 405.075,38.203 "/>
+<polygon fill="#C7C7C9" points="405.075,38.203 400.124,39.853 395.342,38.203 400.063,36.771 "/>
+<polygon fill="#737A7E" points="400.124,39.853 400.124,100.981 395.342,99.331 395.342,38.203 "/>
+<g>
+	<g>
+		<linearGradient id="ian_symbols_fde58c60d87ae3a4b5c6ac116006ee99" gradientUnits="userSpaceOnUse" x1="379.6367" y1="349.0122" x2="457.154" y2="211.8664">
+			<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+			<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+			<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+			<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+			<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+			<stop  offset="1" style="stop-color:#C3E7F6"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_fde58c60d87ae3a4b5c6ac116006ee99)" d="M405.119,387.664l9.504-3.169v-23.851l-9.504,3.17V387.664z M416.453,383.887l8.909-2.973v-23.85
+			l-8.909,2.968V383.887z M427.182,380.308l9.144-3.05v-23.85l-9.144,3.05V380.308z M405.119,238.841l9.504-3.17v-13.365
+			l-9.504,3.167V238.841z M405.119,251.362l9.504-3.17v-10.635l-9.504,3.17V251.362z M405.119,263.637l9.504-3.17v-10.39
+			l-9.504,3.17V263.637z M416.453,235.062l8.909-2.97v-13.368l-8.909,2.97V235.062z M416.453,247.585l8.909-2.971v-10.635
+			l-8.909,2.968V247.585z M416.453,259.854l8.909-2.967v-10.384l-8.909,2.968V259.854z M427.182,231.485l9.144-3.05V215.07
+			l-9.144,3.047V231.485z M427.182,244.008l9.144-3.05v-10.635l-9.144,3.047V244.008z M427.182,256.28l9.144-3.049v-10.387
+			l-9.144,3.049V256.28z M416.453,182.587l8.909-2.97v-10.982l-8.909,2.971V182.587z M416.453,195.111l8.909-2.971v-10.635
+			l-8.909,2.968V195.111z M416.453,209.769l8.909-2.97v-12.772l-8.909,2.97V209.769z M405.119,186.367l9.504-3.167v-10.982
+			l-9.504,3.167V186.367z M405.119,198.888l9.504-3.167v-10.635l-9.504,3.167V198.888z M405.119,213.548l9.504-3.17v-12.772
+			l-9.504,3.167V213.548z M427.182,206.192l9.144-3.05v-12.769l-9.144,3.046V206.192z M427.182,191.534l9.144-3.05v-10.635
+			l-9.144,3.047V191.534z M427.182,168.028v10.982l9.144-3.047v-10.982L427.182,168.028z M405.119,288.93l9.504-3.17v-13.368
+			l-9.504,3.17V288.93z M405.119,301.45l9.504-3.17v-10.635l-9.504,3.17V301.45z M405.119,313.971l9.504-3.165v-10.641l-9.504,3.17
+			V313.971z M405.119,326.497l9.504-3.169v-10.636l-9.504,3.165V326.497z M405.119,339.018l9.504-3.17v-10.635l-9.504,3.17V339.018z
+			 M405.119,351.889l9.504-3.17v-10.985l-9.504,3.169V351.889z M416.453,285.153l8.909-2.973v-13.368l-8.909,2.973V285.153z
+			 M416.453,297.674l8.909-2.973v-10.635l-8.909,2.973V297.674z M416.453,310.194l8.909-2.967v-10.635l-8.909,2.967V310.194z
+			 M416.453,322.715l8.909-2.968v-10.635l-8.909,2.968V322.715z M416.453,335.242l8.909-2.973v-10.635l-8.909,2.967V335.242z
+			 M416.453,348.106l8.909-2.967v-10.985l-8.909,2.973V348.106z M427.182,281.573l9.144-3.049v-13.368l-9.144,3.05V281.573z
+			 M427.182,306.62l9.144-3.049v-10.635l-9.144,3.044V306.62z M427.182,294.094l9.144-3.05v-10.635l-9.144,3.05V294.094z
+			 M427.182,319.141l9.144-3.05v-10.635l-9.144,3.05V319.141z M427.182,331.662l9.144-3.049v-10.635l-9.144,3.049V331.662z
+			 M427.182,344.532l9.144-3.049v-10.985l-9.144,3.05V344.532z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#C6C7CB" points="405.119,154.934 405.119,173.335 414.623,170.165 414.623,151.789 		"/>
+		<polygon fill="#C6C7CB" points="416.453,151.185 416.453,169.556 425.362,166.585 425.362,148.236 		"/>
+		<polygon fill="#C6C7CB" points="427.182,147.635 427.182,165.979 436.325,162.929 436.325,144.61 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#C5C6C8" points="395.778,154.934 395.778,173.335 386.274,170.165 386.274,151.789 		"/>
+		<polygon fill="#C5C6C8" points="384.444,151.185 384.444,169.556 375.535,166.585 375.535,148.236 		"/>
+		<polygon fill="#C5C6C8" points="373.716,147.635 373.716,165.979 364.572,162.929 364.572,144.61 		"/>
+	</g>
+</g>
+<polygon fill="#737A7E" points="59.002,377.302 59.002,239.961 98.642,253.663 98.642,391.003 "/>
+<linearGradient id="ian_symbols_7063d46ece714284c9352eb77a9279a3" gradientUnits="userSpaceOnUse" x1="98.9434" y1="385.6294" x2="81.4412" y2="365.5991">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_7063d46ece714284c9352eb77a9279a3)" points="94.944,365.273 94.944,389.123 85.443,385.958 85.443,362.103 "/>
+<linearGradient id="ian_symbols_e43fc36bc5ef302455aa20d5ea75cbb2" gradientUnits="userSpaceOnUse" x1="87.73" y1="381.748" x2="70.5825" y2="362.1237">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_e43fc36bc5ef302455aa20d5ea75cbb2)" points="74.704,358.523 83.612,361.497 83.612,385.347 74.704,382.379 "/>
+<linearGradient id="ian_symbols_38be79127143603439e3a2da9835c76c" gradientUnits="userSpaceOnUse" x1="76.9565" y1="378.2139" x2="59.6658" y2="358.4255">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_38be79127143603439e3a2da9835c76c)" points="63.738,354.867 72.884,357.917 72.884,381.772 63.738,378.723 "/>
+<linearGradient id="ian_symbols_1a9ca58641d5e494b1a752f5f9000d3b" gradientUnits="userSpaceOnUse" x1="121.6313" y1="357.9341" x2="50.0721" y2="276.0382">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_1a9ca58641d5e494b1a752f5f9000d3b)" points="85.443,313.687 94.944,316.856 94.944,330.225 85.443,327.055 "/>
+<linearGradient id="ian_symbols_42d39e7c639ce584cdbf5e5ebd41ca5e" gradientUnits="userSpaceOnUse" x1="114.7471" y1="363.9458" x2="43.1912" y2="282.0537">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_42d39e7c639ce584cdbf5e5ebd41ca5e)" points="85.443,328.94 94.944,332.11 94.944,342.745 85.443,339.581 "/>
+<linearGradient id="ian_symbols_328a9a5d256ce724116cca95290da4e3" gradientUnits="userSpaceOnUse" x1="108.605" y1="369.311" x2="37.0583" y2="287.4295">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_328a9a5d256ce724116cca95290da4e3)" points="94.944,344.631 94.944,355.02 85.443,351.85 85.443,341.466 "/>
+<linearGradient id="ian_symbols_46ec7d6e98ca77d49d8f663c94a53d38" gradientUnits="userSpaceOnUse" x1="117.2036" y1="361.8188" x2="45.6315" y2="279.9081">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_46ec7d6e98ca77d49d8f663c94a53d38)" points="74.704,310.107 83.612,313.08 83.612,326.448 74.704,323.475 "/>
+<linearGradient id="ian_symbols_0ec8b57fecd4ea34a91fd6220f7a16d9" gradientUnits="userSpaceOnUse" x1="110.3208" y1="367.8315" x2="38.7443" y2="285.9159">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_0ec8b57fecd4ea34a91fd6220f7a16d9)" points="74.704,325.36 83.612,328.333 83.612,338.969 74.704,336.001 "/>
+<linearGradient id="ian_symbols_9ba3227a59ab7374916c551dde76eccf" gradientUnits="userSpaceOnUse" x1="104.1738" y1="373.1919" x2="32.6111" y2="291.2919">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_9ba3227a59ab7374916c551dde76eccf)" points="83.612,340.854 83.612,351.244 74.704,348.271 74.704,337.887 "/>
+<linearGradient id="ian_symbols_415ede6ba5c8cd94f10cf4daec6128fe" gradientUnits="userSpaceOnUse" x1="112.8369" y1="365.6172" x2="41.2795" y2="283.7233">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_415ede6ba5c8cd94f10cf4daec6128fe)" points="63.738,306.451 72.884,309.5 72.884,322.868 63.738,319.819 "/>
+<linearGradient id="ian_symbols_078787f8eef18264e5e3e97364e5fbbc" gradientUnits="userSpaceOnUse" x1="105.9492" y1="371.625" x2="34.4022" y2="289.743">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_078787f8eef18264e5e3e97364e5fbbc)" points="63.738,321.709 72.884,324.754 72.884,335.389 63.738,332.345 "/>
+<linearGradient id="ian_symbols_23e4813267642484499776ced3ffe416" gradientUnits="userSpaceOnUse" x1="99.8125" y1="376.9966" x2="28.2577" y2="295.1057">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_23e4813267642484499776ced3ffe416)" points="72.884,337.274 72.884,347.664 63.738,344.614 63.738,334.23 "/>
+<linearGradient id="ian_symbols_58d8bc6fef5e0f74319744c5cf39ad70" gradientUnits="userSpaceOnUse" x1="142.6069" y1="337.9395" x2="71.0458" y2="256.0413">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_58d8bc6fef5e0f74319744c5cf39ad70)" points="74.704,258.346 83.612,261.319 83.612,272.299 74.704,269.331 "/>
+<linearGradient id="ian_symbols_c49dd3cfee8d3524913d3cfa38fdaf55" gradientUnits="userSpaceOnUse" x1="136.3081" y1="343.4238" x2="64.7593" y2="261.5398">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_c49dd3cfee8d3524913d3cfa38fdaf55)" points="74.704,271.217 83.612,274.185 83.612,284.82 74.704,281.852 "/>
+<linearGradient id="ian_symbols_73cc2817da2d1d14e5611a2915cb51f6" gradientUnits="userSpaceOnUse" x1="129.5903" y1="349.3247" x2="58.0203" y2="267.4164">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_73cc2817da2d1d14e5611a2915cb51f6)" points="83.612,286.705 83.612,299.483 74.704,296.51 74.704,283.737 "/>
+<linearGradient id="ian_symbols_e2ae56c50cd95e948d29a2684dbf5a89" gradientUnits="userSpaceOnUse" x1="147.0405" y1="334.0615" x2="75.4827" y2="252.1672">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_e2ae56c50cd95e948d29a2684dbf5a89)" points="85.443,261.926 94.944,265.096 94.944,276.081 85.443,272.911 "/>
+<linearGradient id="ian_symbols_cef8d47d958d864459d8b64ce268b35c" gradientUnits="userSpaceOnUse" x1="140.748" y1="339.5562" x2="69.1921" y2="257.664">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_cef8d47d958d864459d8b64ce268b35c)" points="85.443,274.796 94.944,277.966 94.944,288.602 85.443,285.432 "/>
+<linearGradient id="ian_symbols_ca9024e03e4a25c4d51170f27cbcebca" gradientUnits="userSpaceOnUse" x1="134.0142" y1="345.4385" x2="62.4589" y2="263.5471">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_ca9024e03e4a25c4d51170f27cbcebca)" points="94.944,290.487 94.944,303.259 85.443,300.089 85.443,287.317 "/>
+<linearGradient id="ian_symbols_4e6f830b51d2faa45512d08c474e2fe7" gradientUnits="userSpaceOnUse" x1="125.2231" y1="353.1255" x2="53.6643" y2="271.23">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_4e6f830b51d2faa45512d08c474e2fe7)" points="72.884,283.131 72.884,295.903 63.738,292.854 63.738,280.081 "/>
+<linearGradient id="ian_symbols_d95b3f2ce9e0a274f57f773f41b6236a" gradientUnits="userSpaceOnUse" x1="131.9614" y1="347.248" x2="60.3973" y2="265.3465">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_d95b3f2ce9e0a274f57f773f41b6236a)" points="63.738,267.561 72.884,270.61 72.884,281.246 63.738,278.196 "/>
+<linearGradient id="ian_symbols_89c7a2b1dff9e8b49d8b5955e35e65eb" gradientUnits="userSpaceOnUse" x1="138.2544" y1="341.7544" x2="66.6884" y2="259.8507">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_89c7a2b1dff9e8b49d8b5955e35e65eb)" points="63.738,254.69 72.884,257.74 72.884,268.725 63.738,265.675 "/>
+<polygon fill="#A3A3A9" points="139.748,377.302 139.748,239.961 98.642,253.663 98.642,391.003 "/>
+<polygon fill="#C7C7C9" points="139.748,239.961 98.642,253.663 59.002,239.961 98.152,228.091 "/>
+<polygon fill="#A3A3A9" points="132.217,240.131 98.778,251.28 98.778,244.123 132.217,232.977 "/>
+<polygon fill="#C7C7C9" points="132.217,232.977 98.778,244.123 66.533,232.977 98.382,223.322 "/>
+<polygon fill="#737A7E" points="98.778,244.123 98.778,251.28 66.533,240.131 66.533,232.977 "/>
+<polygon fill="#A3A3A9" points="118.319,232.512 99.032,238.939 99.032,223.806 118.319,217.376 "/>
+<polygon fill="#C7C7C9" points="118.319,217.376 99.032,223.806 80.429,217.376 98.8,211.807 "/>
+<polygon fill="#737A7E" points="99.032,223.806 99.032,238.939 80.429,232.512 80.429,217.376 "/>
+<g>
+	<g>
+		<linearGradient id="ian_symbols_c0d4f349f924da8445be41c3b4c6cecf" gradientUnits="userSpaceOnUse" x1="93.8936" y1="367.9048" x2="142.9453" y2="281.1209">
+			<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+			<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+			<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+			<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+			<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+			<stop  offset="1" style="stop-color:#C3E7F6"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_c0d4f349f924da8445be41c3b4c6cecf)" d="M104.287,389.123l9.501-3.165v-23.855l-9.501,3.17V389.123z M115.619,385.347l8.908-2.968v-23.855
+			l-8.908,2.973V385.347z M126.347,381.772l9.146-3.05v-23.855l-9.146,3.049V381.772z M104.287,330.432l9.501-3.165V313.9
+			l-9.501,3.165V330.432z M104.287,342.958l9.501-3.17v-10.635l-9.501,3.165V342.958z M104.287,355.228l9.501-3.164v-10.39
+			l-9.501,3.17V355.228z M115.619,326.656l8.908-2.968V310.32l-8.908,2.968V326.656z M115.619,339.176l8.908-2.967v-10.635
+			l-8.908,2.967V339.176z M115.619,351.451l8.908-2.967v-10.39l-8.908,2.968V351.451z M126.347,323.082l9.146-3.05v-13.368
+			l-9.146,3.049V323.082z M126.347,335.602l9.146-3.049v-10.635l-9.146,3.049V335.602z M126.347,347.872l9.146-3.044v-10.39
+			l-9.146,3.05V347.872z M115.619,272.299l8.908-2.968v-10.985l-8.908,2.973V272.299z M115.619,284.82l8.908-2.968v-10.635
+			l-8.908,2.968V284.82z M115.619,299.483l8.908-2.973v-12.772l-8.908,2.968V299.483z M104.287,276.081l9.501-3.169v-10.985
+			l-9.501,3.17V276.081z M104.287,288.602l9.501-3.17v-10.635l-9.501,3.17V288.602z M104.287,303.259l9.501-3.17v-12.772
+			l-9.501,3.169V303.259z M126.347,295.903l9.146-3.049v-12.772l-9.146,3.05V295.903z M126.347,281.246l9.146-3.05v-10.635
+			l-9.146,3.05V281.246z M126.347,257.74v10.985l9.146-3.05V254.69L126.347,257.74z"/>
+	</g>
+</g>
+<polygon fill="#68686A" points="104.287,254.187 104.287,263.046 113.788,259.876 113.788,251.045 "/>
+<polygon fill="#68686A" points="115.619,250.438 115.619,259.27 124.527,256.297 124.527,247.492 "/>
+<polygon fill="#68686A" points="126.347,246.886 126.347,255.69 135.493,252.641 135.493,243.861 "/>
+<g>
+	<g>
+		<polygon fill="#68686A" points="104.287,305.615 104.287,314.474 113.788,311.304 113.788,302.472 		"/>
+		<polygon fill="#68686A" points="115.619,301.866 115.619,310.697 124.527,307.724 124.527,298.92 		"/>
+		<polygon fill="#68686A" points="126.347,298.313 126.347,307.118 135.493,304.068 135.493,295.291 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill="#68686A" points="104.287,357.436 104.287,366.295 113.788,363.13 113.788,354.293 		"/>
+		<polygon fill="#68686A" points="115.619,353.687 115.619,362.519 124.527,359.551 124.527,350.741 		"/>
+		<polygon fill="#68686A" points="126.347,350.14 126.347,358.944 135.493,355.895 135.493,347.112 		"/>
+	</g>
+</g>
+<polygon fill="#5B5B5D" points="94.944,254.187 94.944,263.046 85.443,259.876 85.443,251.045 "/>
+<polygon fill="#5B5B5D" points="83.612,250.438 83.612,259.27 74.704,256.297 74.704,247.492 "/>
+<polygon fill="#5B5B5D" points="72.884,246.886 72.884,255.69 63.738,252.641 63.738,243.861 "/>
+<polygon fill="#5B5B5D" points="94.944,305.407 94.944,314.266 85.443,311.096 85.443,302.265 "/>
+<polygon fill="#5B5B5D" points="83.612,301.658 83.612,310.49 74.704,307.517 74.704,298.712 "/>
+<polygon fill="#5B5B5D" points="72.884,298.111 72.884,306.91 63.738,303.86 63.738,295.083 "/>
+<polygon fill="#5B5B5D" points="94.944,357.228 94.944,366.087 85.443,362.923 85.443,354.085 "/>
+<polygon fill="#5B5B5D" points="83.612,353.479 83.612,362.311 74.704,359.337 74.704,350.533 "/>
+<polygon fill="#5B5B5D" points="72.884,349.932 72.884,358.731 63.738,355.687 63.738,346.904 "/>
+<polygon fill="#8E5E36" points="361.305,402.256 361.305,250.602 320.195,264.303 320.195,415.957 "/>
+<polygon fill="#7A4E23" points="280.556,402.256 280.556,250.602 320.195,264.303 320.195,415.957 "/>
+<polygon fill="#683D17" points="314.91,262.478 310.139,260.828 310.139,412.481 314.91,414.132 "/>
+<polygon fill="#683D17" points="283.906,251.761 283.906,403.415 288.678,405.065 288.678,253.411 "/>
+<polygon fill="#B2B3B5" points="361.305,250.602 320.195,264.303 280.556,250.602 319.709,238.734 "/>
+<polygon fill="#EAC78D" points="280.556,250.602 320.195,264.303 320.195,278.617 280.556,264.916 "/>
+<polygon fill="#94999D" points="353.773,250.771 320.337,261.92 288.087,250.771 319.938,241.12 "/>
+<polygon fill="#C7C7C9" points="333.858,247.875 322.244,251.744 311.046,247.875 322.107,244.522 "/>
+<polygon fill="#B2B2B4" points="333.858,252.291 322.244,256.16 311.046,252.291 311.046,247.875 322.244,251.744 333.858,247.875 
+	"/>
+<polygon fill="#A0A1A3" points="322.244,256.16 311.046,252.291 311.046,247.875 322.244,251.744 "/>
+<polygon fill="#D0E7F3" points="331.579,348.724 339.968,345.926 339.968,336.537 331.579,339.335 "/>
+<polygon fill="#D0E7F3" points="331.579,359.556 339.968,356.764 339.968,347.593 331.579,350.386 "/>
+<polygon fill="#D0E7F3" points="341.586,345.391 349.45,342.767 349.45,333.378 341.586,335.996 "/>
+<polygon fill="#D0E7F3" points="341.586,356.223 349.45,353.599 349.45,344.434 341.586,347.052 "/>
+<polygon fill="#D0E7F3" points="341.586,288.006 349.45,285.388 349.45,275.693 341.586,278.311 "/>
+<polygon fill="#D0E7F3" points="341.586,299.062 349.45,296.438 349.45,287.049 341.586,289.673 "/>
+<polygon fill="#D0E7F3" points="331.579,291.345 339.968,288.547 339.968,278.852 331.579,281.65 "/>
+<polygon fill="#D0E7F3" points="331.579,302.396 339.968,299.603 339.968,290.208 331.579,293.006 "/>
+<polygon fill="#D0E7F3" points="331.579,377.192 339.968,374.4 339.968,365.005 331.579,367.803 "/>
+<polygon fill="#D0E7F3" points="331.579,388.03 339.968,385.231 339.968,376.061 331.579,378.859 "/>
+<polygon fill="#D0E7F3" points="341.586,373.858 349.45,371.235 349.45,361.846 341.586,364.469 "/>
+<polygon fill="#D0E7F3" points="341.586,384.69 349.45,382.073 349.45,372.902 341.586,375.52 "/>
+<polygon fill="#D0E7F3" points="341.586,316.479 349.45,313.856 349.45,304.161 341.586,306.784 "/>
+<polygon fill="#D0E7F3" points="341.586,327.53 349.45,324.912 349.45,315.523 341.586,318.141 "/>
+<polygon fill="#D0E7F3" points="331.579,319.813 339.968,317.015 339.968,307.32 331.579,310.118 "/>
+<polygon fill="#D0E7F3" points="331.579,330.869 339.968,328.071 339.968,318.682 331.579,321.48 "/>
+<polygon fill="#AE7E4D" points="326.289,262.276 325.048,262.686 325.048,414.339 326.289,413.93 327.519,413.514 327.519,261.86 
+	"/>
+<polygon fill="#683D17" points="331.011,260.702 327.519,261.86 327.519,413.514 331.011,412.355 "/>
+<polygon fill="#683D17" points="356.653,252.154 352.478,253.542 352.478,405.196 356.653,403.808 "/>
+<polygon fill="#AE7E4D" points="350.095,254.34 350.095,405.994 352.478,405.196 352.478,253.542 "/>
+<polygon fill="#F9D593" points="361.305,264.916 320.195,278.617 320.195,264.303 361.305,250.602 "/>
+<polygon fill="#DBDAD9" points="174.854,167.22 208.642,176.363 213.81,179.145 208.541,214.474 142.054,214.474 136.291,179.145 
+	144.243,176.363 "/>
+<rect x="156.466" y="203.344" fill="#65ABC4" width="37.47" height="7.157"/>
+<rect x="151.299" y="192.909" fill="#65ABC4" width="47.804" height="7.157"/>
+<rect x="145.483" y="182.773" fill="#65ABC4" width="58.986" height="7.154"/>
+<polygon fill="#2E768F" points="136.291,179.145 146.232,182.773 146.232,189.927 152.192,192.909 152.192,200.065 157.359,203.344 
+	157.359,210.501 164.713,214.474 164.713,412.891 135.499,402.556 "/>
+<polygon fill="#2C98BF" points="214.006,179.145 204.068,182.773 204.068,189.927 198.105,192.909 198.105,200.065 192.938,203.344 
+	192.938,210.501 185.584,214.474 185.584,412.891 214.801,402.556 "/>
+<rect x="164.713" y="214.474" fill="#6AABC5" width="20.872" height="198.417"/>
+<g>
+	<g>
+		<g>
+			<polygon fill="#226B85" points="185.448,222.076 214.124,212.835 214.118,210.291 185.448,219.693 164.918,219.693 
+				136.182,209.698 136.176,212.22 164.918,222.011 			"/>
+		</g>
+		<g>
+			<polygon fill="#226B85" points="185.448,229.233 214.151,219.98 214.14,217.437 185.448,226.848 164.918,226.848 
+				136.157,216.846 136.149,219.366 164.918,229.167 			"/>
+		</g>
+		<g>
+			<polygon fill="#226B85" points="185.448,398.578 214.752,389.101 214.744,386.56 185.448,396.195 164.918,396.195 
+				135.556,385.98 135.548,388.505 164.918,398.512 			"/>
+		</g>
+		<g>
+			<polygon fill="#226B85" points="185.448,391.424 214.728,381.958 214.72,379.411 185.448,389.041 164.918,389.041 
+				135.581,378.837 135.572,381.357 164.918,391.358 			"/>
+		</g>
+	</g>
+</g>
+<linearGradient id="ian_symbols_679d4462060cded401ccea423e1896d3" gradientUnits="userSpaceOnUse" x1="270.0117" y1="239.251" x2="266.4895" y2="441.0371">
+	<stop  offset="0" style="stop-color:#68686A"/>
+	<stop  offset="1" style="stop-color:#474749"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_679d4462060cded401ccea423e1896d3)" points="288.803,427.008 288.803,239.579 247.699,253.28 247.699,440.709 "/>
+<polygon fill="#3F3F41" points="208.06,427.008 208.06,239.579 247.699,253.28 247.699,440.709 "/>
+<path fill="#3D3D3F" d="M288.803,263.101v-3.788l-8.384,2.935v-19.877l-3.913,1.306v19.937l-6.82,2.388v-20.052l-3.913,1.306v20.117
+	l-6.82,2.383v-20.232l-3.913,1.306v20.298l-7.34,2.568v3.793l7.34-2.568v16.991l-7.34,2.568v3.793l7.34-2.569v16.992l-7.34,2.568
+	v3.793l7.34-2.569v16.997l-7.34,2.568v3.788l7.34-2.569v16.997l-7.34,2.568v3.788l7.34-2.569v16.997l-7.34,2.568v3.793l7.34-2.574
+	v16.997l-7.34,2.568v3.793l7.34-2.569v16.992l-7.34,2.568v3.793l7.34-2.569v17.849l3.913-1.306v-17.915l6.82-2.388v18.03
+	l3.913-1.307v-18.09l6.82-2.388v18.205l3.913-1.306V411.53l8.384-2.935v-3.787l-8.384,2.935v-16.997l8.384-2.935v-3.793
+	l-8.384,2.935v-16.991l8.384-2.935v-3.793l-8.384,2.935v-16.991l8.384-2.935v-3.793l-8.384,2.935v-16.991l8.384-2.935v-3.793
+	l-8.384,2.935v-16.991l8.384-2.935v-3.793l-8.384,2.935v-16.991l8.384-2.935v-3.793l-8.384,2.935v-16.997L288.803,263.101z
+	 M258.952,273.55l6.82-2.388v16.997l-6.82,2.389V273.55z M258.952,294.334l6.82-2.383v16.991l-6.82,2.388V294.334z M258.952,315.119
+	l6.82-2.383v16.991l-6.82,2.388V315.119z M258.952,335.908l6.82-2.388v16.991l-6.82,2.388V335.908z M258.952,356.692l6.82-2.388
+	v16.991l-6.82,2.388V356.692z M258.952,377.477l6.82-2.388v16.997l-6.82,2.383V377.477z M258.952,415.252v-16.991l6.82-2.388v16.997
+	L258.952,415.252z M276.506,409.115l-6.82,2.383v-16.991l6.82-2.389V409.115z M276.506,388.325l-6.82,2.388v-16.997l6.82-2.383
+	V388.325z M276.506,367.541l-6.82,2.388v-16.997l6.82-2.383V367.541z M276.506,346.757l-6.82,2.388v-16.997l6.82-2.383V346.757z
+	 M276.506,325.973l-6.82,2.388v-16.997l6.82-2.389V325.973z M276.506,305.188l-6.82,2.383V290.58l6.82-2.389V305.188z
+	 M276.506,284.404l-6.82,2.383v-16.991l6.82-2.388V284.404z"/>
+<path fill="#343436" d="M247.699,277.595v-3.793l-7.638-2.672V250.64l-3.916-1.355v20.473l-6.818-2.383v-20.445l-3.916-1.355v20.429
+	l-6.818-2.388v-20.396l-3.916-1.353v20.383l-6.619-2.317v3.787l6.619,2.317v16.997l-6.619-2.317v3.793l6.619,2.317v16.991
+	l-6.619-2.317v3.793l6.619,2.317v16.991l-6.619-2.317v3.792l6.619,2.317v16.991l-6.619-2.317v3.792l6.619,2.317v16.991l-6.619-2.317
+	v3.792l6.619,2.317v16.991l-6.619-2.317v3.793l6.619,2.317v16.997l-6.619-2.317v3.787l6.619,2.317v17.768l3.916,1.35v-17.746
+	l6.818,2.388v17.719l3.916,1.35v-17.696l6.818,2.383v17.675l3.916,1.35v-17.653l7.638,2.672v-3.792l-7.638-2.672v-16.992
+	l7.638,2.673v-3.793l-7.638-2.672v-16.992l7.638,2.673v-3.793l-7.638-2.672v-16.997l7.638,2.678v-3.793l-7.638-2.672v-16.997
+	l7.638,2.678v-3.793l-7.638-2.672V316.49l7.638,2.673v-3.788l-7.638-2.678v-16.992l7.638,2.673v-3.793l-7.638-2.672v-16.991
+	L247.699,277.595z M218.594,267.408l6.818,2.388v16.991l-6.818-2.388V267.408z M218.594,288.191l6.818,2.389v16.991l-6.818-2.383
+	V288.191z M218.594,308.976l6.818,2.389v16.991l-6.818-2.383V308.976z M218.594,329.766l6.818,2.383v16.991l-6.818-2.383V329.766z
+	 M218.594,350.55l6.818,2.383v16.997l-6.818-2.388V350.55z M218.594,371.333l6.818,2.383v16.997l-6.818-2.388V371.333z
+	 M218.594,409.115v-16.997l6.818,2.389v16.991L218.594,409.115z M236.146,415.252l-6.818-2.383v-16.997l6.818,2.388V415.252z
+	 M236.146,394.468l-6.818-2.383v-16.997l6.818,2.388V394.468z M236.146,373.684l-6.818-2.388v-16.991l6.818,2.388V373.684z
+	 M236.146,352.899l-6.818-2.388V333.52l6.818,2.388V352.899z M236.146,332.115l-6.818-2.388v-16.991l6.818,2.383V332.115z
+	 M236.146,311.331l-6.818-2.388v-16.991l6.818,2.383V311.331z M236.146,290.542l-6.818-2.383v-16.997l6.818,2.388V290.542z"/>
+<polygon fill="#B2B3B5" points="288.803,239.579 247.699,253.28 208.06,239.579 247.21,227.708 "/>
+<polygon fill="#C7C7C9" points="281.271,239.748 247.836,250.892 215.588,239.748 247.437,230.094 "/>
+<polygon fill="#C7C7C9" points="273.883,232.302 255.897,238.297 238.55,232.302 255.684,227.11 "/>
+<polygon fill="#B2B2B4" points="273.883,239.139 255.897,245.134 238.55,239.139 238.55,232.302 255.897,238.297 273.883,232.302 
+	"/>
+<polygon fill="#A0A1A3" points="255.897,245.134 238.55,239.139 238.55,232.302 255.897,238.297 "/>
+</svg>

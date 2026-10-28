@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="451" height="502" viewBox="0 0 451 502" xml:space="preserve">
+            <title>Energy: hydroelectric turbine</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Energy: hydroelectric turbine</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a hydroelectric turbine</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, hydroelectric, turbine</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f488ae68f2b1158499f59fe756ba5d9f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Energy: hydroelectric turbine</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/energy-hydroelectric-turbine/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/energy-hydroelectric-turbine/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, hydroelectric, turbine</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a hydroelectric turbine</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_2bc81578f5856d64d9aec2aa5be3367b" y2="-2859.6" gradientUnits="userSpaceOnUse" x2="-3422.3" gradientTransform="matrix(.5933 0 0 .6285 2485.4 2047.7)" y1="-2859.6" x1="-4192.8">
+  <stop stop-color="#E6E7E8" offset="0"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <rect height="500" width="449.15" stroke="#231F20" y=".5" x=".5" fill="url(#ian_symbols_2bc81578f5856d64d9aec2aa5be3367b)"/>
+ <path stroke="#231F20" d="m446.76 93.665h-192.95c-7.725-1.521-15.567-2.531-23.683-2.531-8.071 0-15.926 1.01-23.65 2.531h-2.553v.489c-68.614 15.101-120.68 88.168-120.68 176.16 0 33.416 7.626 64.54 20.641 91.286h-102.31v86.027h208.22c6.681 1.098 13.459 1.88 20.336 1.88 81.16 0 146.92-80.205 146.92-179.19 0-31.819-6.877-61.737-18.848-87.668h88.559v-88.985z" fill="#148ECE"/>
+ <line y2="401.47" x2="231.76" stroke="#231F20" y1="139.22" x1="231.99" fill="#fff"/>
+ <line y2="385.06" x2="284.99" stroke="#231F20" y1="155.63" x1="182.13" fill="#fff"/>
+ <line y2="334.77" x2="325.31" stroke="#231F20" y1="210.11" x1="138.4" fill="#fff"/>
+ <line y2="339.2" x2="142.55" stroke="#231F20" y1="197.26" x1="321.16" fill="#fff"/>
+ <line y2="383.95" x2="178.5" stroke="#231F20" y1="152.51" x1="278.41" fill="#fff"/>
+ <line y2="271.79" x2="131.36" stroke="#231F20" y1="269.46" x1="343.64" fill="none"/>
+ <path stroke="#231F20" d="m260.33 269.59c0 20.999-12.417 37.967-27.767 37.967-15.34 0-27.8-16.968-27.8-37.967 0-20.978 12.46-37.99 27.8-37.99 15.36 0 27.77 17.01 27.77 37.99z" fill="#231F20"/>
+</svg>

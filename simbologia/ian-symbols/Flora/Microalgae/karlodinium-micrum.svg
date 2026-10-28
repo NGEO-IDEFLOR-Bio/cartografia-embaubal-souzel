@@ -1,0 +1,113 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="351" viewBox="0 0 501 351" xml:space="preserve">
+            <title>Karlodinium micrum</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Karlodinium micrum</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Karlodinium micrum</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, Karlodinium, K. micrum, Dinoflagellate, Plantae</ian_image_library:contains>
+                    <ian_image_library:when>2004-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8ebf978a3e7e368449d430f464c07973">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Karlodinium micrum</dc:title>
+                <dc:date>2004-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/karlodinium-micrum/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/karlodinium-micrum/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, Karlodinium, K. micrum, Dinoflagellate, Plantae</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Karlodinium micrum</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_13ea2ebcbfb13a2451090903c4ace7b4" gradientUnits="userSpaceOnUse" cy="286.55" cx="419.47" r="71.19">
+  <stop stop-color="#CECAA6" offset="0"/>
+  <stop stop-color="#C5C5B5" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m346.58 226.46l39.217 15.703c23.589 15.717 31.399 50.939 47.103 62.744 15.627 11.709 74.452 31.406 66.635 39.215-7.886 7.887-62.729-3.994-86.243-19.607-23.514-15.703-11.798-43.122-31.324-51.021-19.684-7.817-43.286-15.614-43.286-15.614l7.89-31.42z" fill="url(#ian_symbols_13ea2ebcbfb13a2451090903c4ace7b4)"/>
+ <radialGradient id="ian_symbols_e0e7f1f4528910941dae27c910c29e43" gradientUnits="userSpaceOnUse" cy="177.79" cx="220.95" r="147.26">
+  <stop stop-color="#B2AF91" offset="0"/>
+  <stop stop-color="#8F928E" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m191.74 24.532s51.405 14.68 67.575 35.304c16.252 20.542 91.246 127.88 99.99 141.16 8.826 13.212-7.268 55.86-7.268 55.86s-151.55 82.421-176.48 73.513c-25.002-8.834-58.824-29.369-58.824-29.369l-36.791-188.2 111.79-88.268z" fill="url(#ian_symbols_e0e7f1f4528910941dae27c910c29e43)"/>
+ <radialGradient id="ian_symbols_8af60df8af3d18b43933dccf49600745" gradientUnits="userSpaceOnUse" cy="156.57" cx="119.49" r="139.02">
+  <stop stop-color="#C5C5B5" offset="0"/>
+  <stop stop-color="#DEE0B3" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m112.29 1.012c29.457-4.447 83.827 11.723 92.563 19.066 8.916 7.419 2.986 23.589-2.882 35.312-5.854 11.791-23.514 49.992-49.992 55.935-26.478 5.854-45.537-2.979-49.991 4.372-4.379 7.344 2.965 14.687 22.093 26.485 19.148 11.716 32.277 39.683 50.005 48.502 17.659 8.833 57.267 16.17 61.721 20.548 4.455 4.455 4.455 7.419-4.454 14.77-8.75 7.343-29.381 8.744-41.097 14.687-11.798 5.93-36.787 17.652-41.165 30.932-4.379 13.205-7.344 38.202-16.246 41.172-8.764 2.891-89.695-63.271-104.38-88.274-14.669-25-26.467-50-27.95-91.17-1.482-41.167 2.972-64.694 30.94-91.173 27.967-26.478 51.48-36.711 80.85-41.165z" fill="url(#ian_symbols_8af60df8af3d18b43933dccf49600745)"/>
+ <radialGradient id="ian_symbols_b7235016c877b214dd1bee9e5eac44c8" gradientUnits="userSpaceOnUse" cy="132.45" cx="261.68" r="101.78">
+  <stop stop-color="#EAE4BA" offset="0"/>
+  <stop stop-color="#C5C5B5" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m147.6 137.8c0-14.763 42.655-35.387 60.239-48.592 17.651-13.198 27.967-38.201 47.102-41.166 19.142-2.903 11.723-5.868 27.968 0 16.177 5.854 69.134 49.992 77.891 80.849 8.826 30.933 13.28 72.105 14.756 77.959 1.414 5.868-4.454 11.798-16.245 13.211-11.723 1.489-79.366-7.344-104.37-17.577-25.002-10.315-75.069-32.422-75.069-32.422s-32.28-17.58-32.28-32.26z" fill="url(#ian_symbols_b7235016c877b214dd1bee9e5eac44c8)"/>
+ <radialGradient id="ian_symbols_8dafea37363c5de4656620c988a56931" gradientUnits="userSpaceOnUse" cy="285.61" cx="258.22" r="86.635">
+  <stop stop-color="#EAE4BA" offset="0"/>
+  <stop stop-color="#C5C5B5" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m263.77 221.55c17.652 0 45.62 22.1 61.79 20.61 16.087-1.476 27.968-16.163 35.235-8.819 7.337 7.344-8.757 44.144-17.666 57.335-8.819 13.212-48.502 57.349-72.016 58.824-23.514 1.49-88.281-7.336-94.136-11.715-5.785-4.453-20.624-7.418-20.624-19.141 0-11.791-5.792-25.003 0-30.933 5.93-5.861 22.1-19.059 33.897-25.003 11.716-5.854 26.492-8.737 42.572-11.715 16.26-2.97 13.29-29.45 30.95-29.45z" fill="url(#ian_symbols_8dafea37363c5de4656620c988a56931)"/>
+ <radialGradient id="ian_symbols_cd4e4f26f6c011d4b5537fce49f66ee6" gradientUnits="userSpaceOnUse" cy="146.68" cx="105.34" r="108.34">
+  <stop stop-color="#EAE4BA" offset="0"/>
+  <stop stop-color="#CCCDAE" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m171.51 28.897c-10.563-9.135-33.836-16.163-60.541-9.842-26.8 6.328-74.692 46.485-82.344 62.654-7.811 16.177-4.296 107.72 4.914 121.79 9.073 14.07 66.806 74.617 80.862 73.203 14.138-1.4 34.522-15.463 27.425-23.911-6.959-8.435-33.671-25.38-41.481-28.194-7.742-2.814-18.99-5.628-21.173-16.177-2.039-10.542-4.152-21.09 4.372-20.384 8.359.625 26.636 28.125 39.992 38.05 13.363 9.835 25.387 24.604 35.236 21.791 9.849-2.896 19.759-10.625 17.659-17.659-2.189-7.021-28.208-21.798-35.229-22.498-7.035-.7-24.687-4.221-21.873-7.735 2.807-3.514 28.894 3.514 34.522 4.228 5.621.7 23.204 21.084 31.722 16.17 8.435-4.921-53.595-44.302-58.522-52.119-4.914-7.721-10.459-16.156-21.798-16.156-11.249 0-11.249 26.08-27.418 19.684-16.163-6.334-28.194-33.76-23.273-49.298 4.921-15.47 19.684-28.833 31.008-30.939 11.249-2.1 26.101 14.77 37.35 14.77s18.908-2.738 33.739-17.583c14.853-14.763 28.126-29.608 28.126-40.067-.01-10.614-2.83-10.614-13.28-19.763z" fill="url(#ian_symbols_cd4e4f26f6c011d4b5537fce49f66ee6)"/>
+ <radialGradient id="ian_symbols_ececb2cac54623345d6718709eeaa935" gradientUnits="userSpaceOnUse" cy="129.97" cx="271.58" r="79.026">
+  <stop stop-color="#EAE4BA" offset="0"/>
+  <stop stop-color="#CCCDAE" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m281.27 71.868c6.328 4.921 44.371 13.356 56.32 45.078 11.962 31.632 31.021 66.793 21.783 74.603-9.046 7.735-36.546 2.814-60.451 2.814-23.973 0-118.27-38.75-117.57-49.999.61-11.249 49.291-36.643 51.405-40.157 2.038-3.507 27.419-32.339 35.86-37.967 8.43-5.614 6.33.707 12.65 5.635z" fill="url(#ian_symbols_ececb2cac54623345d6718709eeaa935)"/>
+ <radialGradient id="ian_symbols_4899364e38d62514f5341d32a1d117ae" gradientUnits="userSpaceOnUse" cy="289.64" cx="260.61" r="68.684">
+  <stop stop-color="#EAE4BA" offset="0"/>
+  <stop stop-color="#CCCDAE" offset="1"/>
+ </radialGradient>
+ <path stroke="#A3A9AF" stroke-width=".5" d="m177.06 294.28c12.024-15.47 71.165-20.397 82.414-24.612 11.249-4.22-2.107-21.09 8.441-23.279 10.549-2.039 40.157 15.545 48.503 15.545 8.523 0 28.976-15.545 31.021-7.735 2.113 7.735-47.885 68.274-74.604 76.017-26.794 7.734-83.752-2.814-83.752-2.814s-23.98-17.59-12.02-33.13z" fill="url(#ian_symbols_4899364e38d62514f5341d32a1d117ae)"/>
+</svg>

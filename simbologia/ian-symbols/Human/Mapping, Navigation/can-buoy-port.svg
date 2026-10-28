@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="154" height="504" viewBox="0 0 154 504" xml:space="preserve">
+            <title>Can buoy: port</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Can buoy: port</ian_image_library:title>
+                <ian_image_library:descr>Illustration of port can buoy</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, nautical, coastal, can, buoy, port, green</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-97d4328114f6c964fd0efe544d476305">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Can buoy: port</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/can-buoy-port/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/can-buoy-port/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, nautical, coastal, can, buoy, port, green</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of port can buoy</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect y="1.5" x="1.5" height="500" width="150.33" fill="#03953F"/>
+ <line y2="248.27" x1="75.088" x2="75.088" stroke="#fff" y1="2.607" stroke-width="8.3344" fill="none"/>
+ <line y2="126.44" x1="150.73" x2="1.5" stroke="#fff" y1="126.44" stroke-width="8.3344" fill="none"/>
+ <line y2="251.2" x1="150.73" x2=".382" stroke="#fff" y1="251.2" stroke-width="8.3344" fill="none"/>
+ <rect height="89.769" width="47.505" stroke="#000" y="15.803" x="11.582" stroke-width="2.7781" fill="#61AF67"/>
+ <path d="m94.383 75.729l7.868-.738c.597 4.2 1.964 7.357 4.124 9.463 2.138 2.116 4.786 3.18 7.922 3.18 3.809 0 6.956-1.498 9.485-4.482 2.496-2.984 3.754-6.935 3.754-11.883 0-4.677-1.205-8.378-3.603-11.091-2.42-2.713-5.643-4.069-9.74-4.069-2.534 0-4.78.597-6.745 1.791-1.954 1.194-3.505 2.735-4.645 4.623l-7.157-1.107 6.061-34.444h30.961v7.878h-24.862l-3.386 18.167c3.728-2.822 7.672-4.232 11.796-4.232 5.437 0 10.027 2.019 13.782 6.088 3.744 4.048 5.632 9.279 5.632 15.649 0 6.066-1.671 11.319-4.948 15.768-3.988 5.404-9.431 8.128-16.322 8.128-5.654 0-10.298-1.704-13.858-5.133-3.556-3.41-5.586-7.924-6.107-13.556z" fill="#fff"/>
+ <rect height="500" width="150.33" stroke="#000" y="1.5" x="1.5" stroke-width="3" fill="none"/>
+</svg>

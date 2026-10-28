@@ -1,0 +1,97 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="450" height="501" viewBox="0 0 450 501" xml:space="preserve">
+            <title>Radiometer</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Radiometer</ian_image_library:title>
+                <ian_image_library:descr>Illustration of radiometer</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, radiometer, radiant, flux, power, electromagnetic, radiation</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d994bad4864ffc6451a84f2609367bbe">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Radiometer</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/radiometer/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/radiometer/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, radiometer, radiant, flux, power, electromagnetic, radiation</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of radiometer</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m343.43 103.36l-115.75 54.671v330.93l211.71-105.27-95.96-280.33zm-115.75 52.91v-132.61l115.75 77.364-115.75 55.25z" fill="#E6E7E8"/>
+ <path d="m227.68 158.03l-63.975 30.235v158.79l51.768 152.38-51.768-61.065v-88.406l54.092 143.65 9.883-4.649v-330.92h.01zm0-134.37v132.61l-63.975 30.256v-171.58l30.251-13.957 33.73 22.671z" fill="#E6E7E8"/>
+ <path d="m163.71 188.26l-52.346 25.011 52.346 136.68v88.406l-71.539-83.757-90.729-262.88 115.74 119.24 46.527 136.1v-158.8zm0-173.31l-162.27 72.118 109.92 123.89 52.346-24.426v-171.58z" fill="#E6E7E8"/>
+ <path stroke="#231F20" stroke-width="1.7452" d="m343.43 103.36l-232.07 109.91 106.44 280.34 221.59-109.92-95.96-280.33zm-149.47-102.37l-192.52 86.075 109.92 123.89 232.07-109.93-149.47-100.04v.004zm-76.78 209.97l-115.74-119.24 90.725 262.89 123.3 144.82-98.28-288.47z" fill="none"/>
+ <linearGradient id="ian_symbols_999895d6da62a884d1b1e8e791ff1a52" y2="12.722" gradientUnits="userSpaceOnUse" x2="44.748" gradientTransform="matrix(1 0 0 1 186.48 260.33)" y1="105.49" x1="243.69">
+  <stop stop-color="#231F20" offset="0"/>
+  <stop stop-color="#A2A0A1" offset=".5674"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7452" d="m402.75 260.39l-125.63-12.224s-20.937 1.17-25.586 31.415c-4.659 30.246-1.744 43.033 5.229 48.278 6.983 5.223 104.11 98.277 104.11 98.277l41.88-165.75z" fill="url(#ian_symbols_999895d6da62a884d1b1e8e791ff1a52)"/>
+ <linearGradient id="ian_symbols_577c5fd71ef6383471aebfc20b6961b3" y2="5.3966" gradientUnits="userSpaceOnUse" x2="123.98" gradientTransform="matrix(1 0 0 1 186.48 260.33)" y1="170.39" x1="288.97">
+  <stop stop-color="#231F20" offset="0"/>
+  <stop stop-color="#4F4C4D" offset=".0963"/>
+  <stop stop-color="#7D7B7C" offset=".2133"/>
+  <stop stop-color="#A5A4A4" offset=".3342"/>
+  <stop stop-color="#C6C5C5" offset=".4571"/>
+  <stop stop-color="#DFDEDE" offset=".5828"/>
+  <stop stop-color="#F1F1F1" offset=".7123"/>
+  <stop stop-color="#FCFBFB" offset=".848"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7452" d="m417.87 266.2c27.927 16.862 37.81 65.725 22.692 109.34-15.702 44.214-50.597 65.725-77.938 49.438-27.336-16.863-37.225-65.714-22.097-109.92 15.12-43.62 50.02-65.72 77.35-48.86z" fill="url(#ian_symbols_577c5fd71ef6383471aebfc20b6961b3)"/>
+</svg>

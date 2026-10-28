@@ -1,0 +1,122 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="146" viewBox="0 0 500 146" xml:space="preserve">
+            <title>Snowman: melted</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Snowman: melted</ian_image_library:title>
+                <ian_image_library:descr>View of melted snowman</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>melted, snow, snowman, winter, season, climate change, global warming, climate crisis, spring, temperature, water, fun, recreation, play</ian_image_library:contains>
+                    <ian_image_library:when>2013-02-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-44ae46d8755685c4692ac6cb013ed4ea">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Snowman: melted</dc:title>
+                <dc:date>2013-02-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/snowman-melted/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/snowman-melted/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>melted, snow, snowman, winter, season, climate change, global warming, climate crisis, spring, temperature, water, fun, recreation, play</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>View of melted snowman</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_5f6b5e4f2ccc9f94097bd0f8354b8cea">
+		<linearGradient id="ian_symbols_a49f3f0ccbbe245485914c23f6dfe75e" gradientUnits="userSpaceOnUse" x1="634.0536" y1="1569.4902" x2="2187.6357" y2="355.6989" gradientTransform="matrix(0.1986 0 0 -0.1986 -30.8288 284.0096)">
+		<stop  offset="0" style="stop-color:#2DA9E1"/>
+		<stop  offset="9.680000e-02" style="stop-color:#64BAE8"/>
+		<stop  offset="0.2234" style="stop-color:#92CCED"/>
+		<stop  offset="0.3239" style="stop-color:#ADDBF1"/>
+		<stop  offset="0.3849" style="stop-color:#B7E1F4"/>
+		<stop  offset="1" style="stop-color:#2DA9E1"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_a49f3f0ccbbe245485914c23f6dfe75e)" d="M500,89.3c0.4-6.7-47.8-16.9-86.5-29.1c-35.6-11.2-158.8,6.5-188.7,3.6
+		c-36.7-3.6-108.4-13.8-139.4,6C61.3,85.2-2.2,81.6,0.1,96.3c2.9,19.1,99.6,7.2,119,7.2c22.8,0,21.7,13.4,48.1,14
+		c14.8,0.3,82.5-14.5,102.9-16.1c49.2-4,70.8,33.5,107.4,16.1C417.1,98.7,499.3,100.4,500,89.3z"/>
+	<path fill="#2DA9E1" d="M57.4,69.8C59,68,52.5,56.5,41.7,56.4c-7.4,0-12.6,4.1-11.2,9.4c1.3,4.9,8.4,7,13.8,3.2
+		C51.9,63.8,55.8,71.7,57.4,69.8z"/>
+	<path fill="#2DA9E1" d="M440.7,117.9c-0.4-2.5,11.7-8.4,20.7-2.3c6.2,4.2,8.2,10.6,4,14.2c-3.9,3.4-11,1.1-13.4-5.1
+		C448.8,116,441.1,120.4,440.7,117.9L440.7,117.9L440.7,117.9z"/>
+	<polygon fill="#754E25" points="292.3,100.1 407.7,70.4 425.8,4.5 427.7,18.9 415.6,66.2 488.6,54.9 487.5,61.3 409.6,79.6 
+		290.4,110.4 	"/>
+		<linearGradient id="ian_symbols_b7e5e339888a413469efe0156d6fa728" gradientUnits="userSpaceOnUse" x1="475.5702" y1="1098.394" x2="1159.0201" y2="1062.5763" gradientTransform="matrix(0.1934 4.540000e-02 4.540000e-02 -0.1934 -39.18 281.5615)">
+		<stop  offset="0" style="stop-color:#139C55"/>
+		<stop  offset="0.2301" style="stop-color:#7FC8A2"/>
+		<stop  offset="0.4572" style="stop-color:#62B37F"/>
+		<stop  offset="0.8177" style="stop-color:#319A52"/>
+		<stop  offset="0.9874" style="stop-color:#0A9247"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_b7e5e339888a413469efe0156d6fa728)" d="M224,83.8c3.6-15.4-107.8-18.2-112.1-13c-7.4,9-9.6,15.4-3,19.3c27,16.2,46.1,23.5,63.5,23.6
+		c15,0.2-45.4,2.9-60.4,14c-4.7,3.5,18.1,18,18.1,18l65.9-18.8c0,0,37.4-10.5,41.1-19.7C252.2,93.1,224,83.8,224,83.8z"/>
+		<linearGradient id="ian_symbols_e52fd6298402967429e606e12e9a6c96" gradientUnits="userSpaceOnUse" x1="1208.1637" y1="1494.8976" x2="1976.8097" y2="1494.8976" gradientTransform="matrix(0.1919 5.130000e-02 5.130000e-02 -0.1919 -45.0508 273.8214)">
+		<stop  offset="0" style="stop-color:#191919"/>
+		<stop  offset="0.6778" style="stop-color:#000000"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_e52fd6298402967429e606e12e9a6c96)" d="M411,88.3c-1.4,5.1-35.5,0.4-76.2-10.5s-72.6-23.9-71.3-28.9c1.4-5.1,35.5-0.4,76.2,10.5
+		S412.4,83.2,411,88.3z"/>
+		<linearGradient id="ian_symbols_d3939f67b2be8c242d2be2c12060e468" gradientUnits="userSpaceOnUse" x1="1378.6628" y1="1644.8751" x2="1810.2542" y2="1644.8751" gradientTransform="matrix(0.1919 5.130000e-02 5.130000e-02 -0.1919 -45.0508 273.8214)">
+		<stop  offset="0" style="stop-color:#939393"/>
+		<stop  offset="3.800000e-03" style="stop-color:#909090"/>
+		<stop  offset="7.170000e-02" style="stop-color:#656666"/>
+		<stop  offset="0.1404" style="stop-color:#414141"/>
+		<stop  offset="0.209" style="stop-color:#242424"/>
+		<stop  offset="0.2775" style="stop-color:#111111"/>
+		<stop  offset="0.3459" style="stop-color:#040504"/>
+		<stop  offset="0.4142" style="stop-color:#000000"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_d3939f67b2be8c242d2be2c12060e468)" d="M381.4,70.5c-1.8,10.9-31.1,1.5-44.1-2c-10.9-2.9-40.4-9.7-37.7-19.9c2.8-10.6,12-48.5,12-48.5
+		l82.8,22.2C394.3,22.3,383,60.6,381.4,70.5z"/>
+	<path fill="#010101" d="M393.4,22c-0.4,1.5-18.8-2.1-41.2-8.1c-22.3-6-40.1-12.1-39.7-13.6c0.4-1.5,18.8,2.1,41.2,8.1
+		C376,14.4,393.8,20.5,393.4,22z"/>
+	<polygon fill="#754E25" points="239,104.6 67.2,61.3 69,72.7 88.2,77.5 14.8,86.6 17.5,92.3 99.3,79.2 119.9,81.1 81.4,110.1 
+		91.1,112.8 126.4,83 237.8,112 	"/>
+</g>
+</svg>

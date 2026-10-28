@@ -1,0 +1,157 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="469" viewBox="0 0 500 469" xml:space="preserve">
+            <title>Toolbox</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Toolbox</ian_image_library:title>
+                <ian_image_library:descr>This symbol shows a blue toolbox alongside a hammer and wrench</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>toolbox, human</ian_image_library:contains>
+                    <ian_image_library:when>2014-08-19</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-84bb5c14b8341e74c9a8bc3fe748c924">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Toolbox</dc:title>
+                <dc:date>2014-08-19</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/toolbox/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/toolbox/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>toolbox, human</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>This symbol shows a blue toolbox alongside a hammer and wrench</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<radialGradient id="ian_symbols_fb0935b689059e7475866ddd00c0a632" cx="243.112" cy="233.675" r="234.325" gradientTransform="matrix(1 0 0 -1 0 468)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFEDC7"/>
+	<stop  offset="0.2283" style="stop-color:#FFEBC4"/>
+	<stop  offset="0.4116" style="stop-color:#FFE5BB"/>
+	<stop  offset="0.5793" style="stop-color:#FCDCAB"/>
+	<stop  offset="0.7378" style="stop-color:#FACF96"/>
+	<stop  offset="0.8882" style="stop-color:#F7BF7C"/>
+	<stop  offset="1" style="stop-color:#F4B166"/>
+</radialGradient>
+<path fill="url(#ian_symbols_fb0935b689059e7475866ddd00c0a632)" d="M477.4,234.3c0,129.4-104.9,234.3-234.3,234.3S8.8,363.7,8.8,234.3S113.7,0,243.1,0
+	S477.4,104.9,477.4,234.3z"/>
+<g>
+	<polygon fill="#3088AA" points="0,153.3 13.1,250.7 109.8,287.1 104,186 77.1,139.5 30.5,127.8 	"/>
+	<polygon fill="#9FC3D6" points="283.5,56.6 282.1,161.3 109.8,287.1 104,186 	"/>
+	<path fill="#007CA0" d="M105.7,220.3C105.7,220.3,105.6,220.3,105.7,220.3L4.5,186.3l-0.1-0.5l101.3,34.1L283.1,88.2v0.6
+		L105.8,220.3C105.8,220.3,105.8,220.3,105.7,220.3z"/>
+	<polygon fill="#636466" points="176.7,154.7 200.7,137.3 210.8,174.4 185.4,192.5 	"/>
+	<polygon fill="#6BA3BE" points="30.5,127.8 215.2,16.6 257.4,23.9 283.5,56.6 104,186 77.1,139.5 	"/>
+	<polygon fill="#007CA0" points="77.2,139.7 77.1,139.5 76.7,139.4 257,23.8 257.4,23.9 257.5,24.1 	"/>
+	<path fill="#636466" d="M133.1,74.8l-14.5,6.5c0,0-16-45.8,17.5-58.2c33.4-12.4,48,26.9,48,26.9l-13.8,5.1c0,0-5.8-24-27.6-16
+		C120.7,47.1,133.1,74.8,133.1,74.8z"/>
+</g>
+<g>
+		<linearGradient id="ian_symbols_fdfc372649f026643166c428fd780c61" gradientUnits="userSpaceOnUse" x1="-77.6901" y1="-103.1917" x2="118.0438" y2="-45.7886" gradientTransform="matrix(-0.5542 -0.8324 -0.8324 0.5542 353.4248 220.1024)">
+		<stop  offset="0" style="stop-color:#44444C"/>
+		<stop  offset="6.740000e-002" style="stop-color:#69666F"/>
+		<stop  offset="0.1504" style="stop-color:#9A97A1"/>
+		<stop  offset="0.2139" style="stop-color:#BDBCC6"/>
+		<stop  offset="0.25" style="stop-color:#CECED9"/>
+		<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.5747" style="stop-color:#F2F1F4"/>
+		<stop  offset="0.6999" style="stop-color:#D7D7E0"/>
+		<stop  offset="0.7416" style="stop-color:#CECED9"/>
+		<stop  offset="1" style="stop-color:#44444C"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_fdfc372649f026643166c428fd780c61)" d="M354.1,146.3c-11.8,11.9-38.4,14.1-46.5-19.1l24.8,11.3l12.9-23.2l-22.6-14.8
+		c16.4-14.4,42.2,3.4,45.1,21.5l87.4,49.4c16.6-10.1,48.7,5,44.3,29.1L477.3,187l-12.9,23.2l20,15c-22.1,4.3-46.6-12.7-42-29.1
+		L354.1,146.3z"/>
+	<polygon fill="#636466" points="448.4,183.1 451.9,178.9 365.5,130.8 362,136.9 	"/>
+</g>
+<g>
+	<path fill="#636466" d="M362.2,272.5c-3.5-8.6-0.3-7-9.3-11.6c-9-4.5-47.5-11.5-48.9-14.4c-1.7-3.4,31.4-3.1,44.8,2
+		C362.2,253.6,362.2,272.5,362.2,272.5z"/>
+		<linearGradient id="ian_symbols_22faac32a7fe87347d73b810386cb67b" gradientUnits="userSpaceOnUse" x1="-24.8283" y1="110.6531" x2="1.7088" y2="137.1901" gradientTransform="matrix(-0.9626 -0.271 0.271 -0.9626 167.7785 491.4147)">
+		<stop  offset="0" style="stop-color:#D9A04E"/>
+		<stop  offset="0.3223" style="stop-color:#DAA24F"/>
+		<stop  offset="0.4384" style="stop-color:#DCA754"/>
+		<stop  offset="0.5212" style="stop-color:#E0B05C"/>
+		<stop  offset="0.5882" style="stop-color:#E7BE68"/>
+		<stop  offset="0.6455" style="stop-color:#EFD177"/>
+		<stop  offset="0.6953" style="stop-color:#FAE88A"/>
+		<stop  offset="0.7079" style="stop-color:#FEF091"/>
+		<stop  offset="0.7921" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.8596" style="stop-color:#D9A04E"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_22faac32a7fe87347d73b810386cb67b)" d="M338.7,283.1c-6.8,5.4-36.8,24.8-48.6,31.4c-11.8,6.6-63,30.6-74.2,37.4
+		c-11.2,6.8-145.8,80.2-146.4,84.7C68.9,441,82,465.3,87,466c5.1,0.8,133.2-77.8,143.5-83.5c10.2-5.7,38.7-26.9,51.6-35.2
+		c12.9-8.3,66.5-36.3,70-39.3C355.7,305.1,338.7,283.1,338.7,283.1z"/>
+		<linearGradient id="ian_symbols_efe40adaf50b7114d509e546432b6132" gradientUnits="userSpaceOnUse" x1="-136.7295" y1="291.3237" x2="-92.3384" y2="246.9327" gradientTransform="matrix(-0.9626 -0.271 0.271 -0.9626 167.7785 491.4147)">
+		<stop  offset="0" style="stop-color:#636466"/>
+		<stop  offset="0.1517" style="stop-color:#6A6B6D"/>
+		<stop  offset="0.3944" style="stop-color:#7C7D80"/>
+		<stop  offset="0.6971" style="stop-color:#989A9D"/>
+		<stop  offset="1" style="stop-color:#BCBEC0"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_efe40adaf50b7114d509e546432b6132)" d="M397.8,284.8c-0.4-8-23.3-36-37-39.2c-13.7-3.2-56.9-14.3-58.7-5.6c-1,4.7,41.8,5.1,51.5,18.2
+		c7.2,9.6-16.1,19.3-15,24.9c1.1,5.6,8.4,24.2,13.5,25c5.1,0.8,13.3-8.6,21.6-10.8c6.1-1.6,5.5,1.6,9.3,0
+		C386.8,295.7,397.8,284.8,397.8,284.8z"/>
+		<linearGradient id="ian_symbols_5cbe788b8cc28eb4614fc6e30be32a71" gradientUnits="userSpaceOnUse" x1="-180.0445" y1="246.568" x2="-144.8947" y2="211.4182" gradientTransform="matrix(-0.9626 -0.271 0.271 -0.9626 167.7785 491.4147)">
+		<stop  offset="0" style="stop-color:#636466"/>
+		<stop  offset="0.1486" style="stop-color:#646668"/>
+		<stop  offset="0.2021" style="stop-color:#6A6B6E"/>
+		<stop  offset="0.2403" style="stop-color:#737577"/>
+		<stop  offset="0.2712" style="stop-color:#808184"/>
+		<stop  offset="0.2976" style="stop-color:#909295"/>
+		<stop  offset="0.321" style="stop-color:#A5A7AA"/>
+		<stop  offset="0.3422" style="stop-color:#BFC1C3"/>
+		<stop  offset="0.361" style="stop-color:#DEDFE0"/>
+		<stop  offset="0.3764" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.4944" style="stop-color:#636466"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_5cbe788b8cc28eb4614fc6e30be32a71)" d="M397.8,284.8c1.9,4.9-3.2,8,1.8,17.1c5.1,9.1,9.6,8.3,12.1,12.4c3,4.8,6.3,6.1,5.6,10.5
+		c-0.6,4.5-18.7,14.6-23.4,13.6c-7-1.5-7.5-8.7-8.5-12.3c-1-3.6,2.1-8-1.8-13.8c-11.6-17.5-22.4-1.7-28.8-3.5
+		c-6.4-1.8,17.2-16.4,17.2-16.4L397.8,284.8z"/>
+</g>
+</svg>

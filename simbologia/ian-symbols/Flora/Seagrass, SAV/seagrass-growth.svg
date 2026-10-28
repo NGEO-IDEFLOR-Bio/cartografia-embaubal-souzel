@@ -1,0 +1,91 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="436" viewBox="0 0 501 436" xml:space="preserve">
+            <title>Seagrass: growth</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass: growth</ian_image_library:title>
+                <ian_image_library:descr>Illustration of seagrass growth</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, growth, population, community, increase, expansion, range</ian_image_library:contains>
+                    <ian_image_library:when>2002-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-64335d4bc10f533409ffd12cbfcee679">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass: growth</dc:title>
+                <dc:date>2002-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-growth/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-growth/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, growth, population, community, increase, expansion, range</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of seagrass growth</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <line y2="108.52" x1="401.28" fill-rule="evenodd" x2="471.6" stroke="#D2232A" clip-rule="evenodd" y1="173.8" stroke-width="4.6754" fill="#D2232A"/>
+ <polygon points="500 78.93 477.04 136.95 469.46 110.75 442.98 104.32" fill="#D2232A"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m219.64 204.07c-2.108-4.261-4.261-44.472-10.563-74.077-6.369-33.842-10.575-76.163-12.727-86.737-2.097-19.074-4.228-48.678-21.138-23.291-19.063 25.388 38.071 256.06 48.667 266.62 10.56 10.57-4.24-82.51-4.24-82.51z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m225.98 295.04c8.456 10.575 8.456-65.588 19.041-133.3 4.216-31.757 8.455-57.145 12.672-76.175 4.293-21.17 0-31.745 0-36.005 0-10.574-12.672-25.387-21.127-2.097-10.585 25.388-19.041 148.13-19.041 173.52s2.12 63.5 8.46 74.06z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m305.46 310.03c-2.119-4.25-4.261-44.45-10.563-74.055-6.347-33.865-10.607-76.185-12.727-86.792-2.098-19.019-4.206-48.633-21.171-23.246-19.052 25.388 38.104 256.07 48.711 266.65 10.58 10.54-4.25-82.56-4.25-82.56z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m311.78 401.03c8.51 10.576 8.51-65.588 19.096-133.31 4.194-31.745 8.455-57.144 12.649-76.163 4.261-21.193 0-31.767 0-36.006 0-10.575-12.649-25.388-21.105-2.108-10.64 25.388-19.073 148.13-19.073 173.52-.01 25.39 2.11 63.5 8.43 74.07z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m156.53 237.43c-2.119-4.261-4.271-44.461-10.574-74.055-6.358-33.854-10.585-76.185-12.737-86.803-2.076-19.019-4.195-48.624-21.127-23.247-19.039 25.392 38.08 256.07 48.68 266.64 10.57 10.59-4.24-82.54-4.24-82.54z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m162.89 328.41c8.455 10.575 8.455-65.6 19.03-133.31 4.239-31.734 8.456-57.133 12.661-76.174 4.271-21.171 0-31.746 0-35.951 0-10.608-12.661-25.432-21.116-2.142-10.575 25.388-19.052 148.12-19.052 173.51 0 25.4 2.12 63.49 8.48 74.06z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m377.04 252.34c-2.098-4.26-4.238-44.483-10.553-74.087-6.336-33.832-10.553-76.163-12.716-86.771-2.098-19.019-4.206-48.634-21.149-23.247-19.007 25.389 38.071 256.05 48.7 266.63 10.56 10.58-4.28-82.52-4.28-82.52z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m383.4 343.33c8.488 10.563 8.488-65.6 19.083-133.32 4.217-31.756 8.424-57.144 12.661-76.163 4.283-21.182 0-31.756 0-36.006 0-10.575-12.661-25.377-21.171-2.098-10.573 25.388-19.029 148.13-19.029 173.52 0 25.38 2.1 63.48 8.46 74.06z" fill="#fff"/>
+ <line y2="37.291" x1="116.9" fill-rule="evenodd" x2="82.192" stroke="#D2232A" clip-rule="evenodd" y1="126.76" stroke-width="4.6754" fill="#D2232A"/>
+ <polygon points="65.16 0 110.61 42.759 83.476 40.102 67.686 62.36" fill="#D2232A"/>
+ <line y2="244.88" x1="135.55" fill-rule="evenodd" x2="40.321" stroke="#D2232A" clip-rule="evenodd" y1="233.09" stroke-width="4.6754" fill="#D2232A"/>
+ <polygon points="0 252.3 52.565 218.68 43.353 244.37 61.097 265.09" fill="#D2232A"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m259.7 348.66c-1.691-3.359-3.404-35.556-8.456-59.208-5.106-27.079-8.444-60.943-10.179-69.399-1.702-15.274-3.371-38.959-16.921-18.623-15.241 20.292 30.472 204.82 38.949 213.29 8.44 8.47-3.39-66.06-3.39-66.06z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m264.77 421.49c6.764 8.455 6.764-52.488 15.219-106.65 3.371-25.388 6.786-45.702 10.146-60.921 3.448-16.933 0-25.41 0-28.803 0-8.466-10.146-20.336-16.91-1.691-8.456 20.315-15.22 118.5-15.22 138.81-.01 20.29 1.69 50.78 6.76 59.25z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m207.98 360.53c-1.669-3.394-3.404-35.557-8.456-59.253-5.095-27.078-8.51-60.932-10.168-69.442-1.691-15.23-3.382-38.872-16.955-18.58-15.23 20.326 30.483 204.87 38.982 213.29 8.46 8.45-3.4-66.02-3.4-66.02z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.0195" d="m213.04 433.34c6.797 8.434 6.797-52.466 15.23-106.67 3.404-25.388 6.797-45.702 10.168-60.933 3.382-16.921 0-25.387 0-28.802 0-8.456-10.168-20.326-16.921-1.691-8.477 20.314-15.208 118.54-15.208 138.81 0 20.33 1.67 50.82 6.73 59.28z" fill="#37A54F"/>
+</svg>

@@ -1,0 +1,92 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="134" height="501" viewBox="0 0 134 501" xml:space="preserve">
+            <title>Process; iron in</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Process; iron in</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of incoming iron</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, incoming, in, iron, </ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-322f77e3fe22f774cd3ffb4fe7e4de9a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Process; iron in</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/process-iron-in/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/process-iron-in/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, incoming, in, iron, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of incoming iron</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path d="M4.602,87.522V0h59.958v14.889H22.308v20.522h36.417v14.889H22.308v37.222H4.602z"/>
+<path d="M115.949,67.604l16.7,2.817c-2.163,6.099-5.571,10.739-10.224,13.934c-4.653,3.181-10.475,4.778-17.467,4.778
+	c-11.066,0-19.252-3.622-24.572-10.858c-4.194-5.803-6.288-13.123-6.288-21.962c0-10.557,2.748-18.825,8.249-24.811
+	c5.508-5.974,12.468-8.966,20.888-8.966c9.45,0,16.914,3.137,22.371,9.406c5.47,6.275,8.086,15.883,7.847,28.823H91.402
+	c0.113,5.018,1.471,8.922,4.075,11.708c2.597,2.792,5.847,4.187,9.727,4.187c2.641,0,4.86-0.717,6.659-2.144
+	C113.66,73.087,115.024,70.785,115.949,67.604z M116.753,50.501c-0.126-4.929-1.377-8.676-3.76-11.242
+	c-2.39-2.565-5.294-3.848-8.715-3.848c-3.659,0-6.677,1.358-9.066,4.062c-2.383,2.704-3.559,6.382-3.515,11.028H116.753z"/>
+<path fill="#FBAA19" d="M0,407.805h34.877l0,0c16.442-49.067-7.395-74.47-9.237-130.593c-1.471-44.792,35.657-90.868,9.237-168.281
+	l61.486,0.918c19.517,96.954-14.292,127.229-14.512,177.988c-0.239,48.792,25.817,67.837,14.512,119.967h36.594L66.509,500
+	L0,407.805z"/>
+<path d="M40.447,394.588l1.346-2.124c15.298-29.941,32.966-46.636,49.854-47.17l1.245,0.176c-2.515-8.507-5.282-16.977-7.438-26.275
+	c-13.676,1.792-30.545,9.261-47.515,30.117c2.936,15.178,4.125,30.143-0.113,48.081C39.02,396.243,39.988,395.174,40.447,394.588z"
+	/>
+<path d="M84.693,262.261c1.804-8.865,4.25-17.561,6.771-26.672c-31.708,0.17-47.22,7.841-65.692,33.902
+	c-0.145,2.584-0.22,5.156-0.132,7.721c0.44,13.487,2.163,25.163,4.288,35.852C55.28,269.039,63.648,263.028,84.693,262.261z"/>
+<path d="M101.89,180.025c0.553-8.274,0.61-17.222,0.075-26.986c-3.163-0.389-6.313-0.641-9.488-0.641
+	c-13.229,0-31.23,8.759-48.326,20.548c-0.736,13.877-3.144,26.571-5.96,38.518c18.9-17.039,44.239-32.488,54.287-32.488
+	C95.608,178.975,98.752,179.447,101.89,180.025z"/>
+</svg>

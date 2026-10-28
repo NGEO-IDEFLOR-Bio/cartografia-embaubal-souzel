@@ -1,0 +1,95 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="229" viewBox="0 0 501 229" xml:space="preserve">
+            <title>Marina 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Marina 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a marina with sailboats</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, Marina, 1, dock, boats, harbor, ships, sailboat</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d358897af217e4647952f67e5fea9cad">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Marina 1</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/marina-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/marina-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, Marina, 1, dock, boats, harbor, ships, sailboat</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a marina with sailboats</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m16.446.103s96.336 18.065 158.31 30.862c33.592 6.935 192.49 25.499 216.76 28.09 56.202 6.022 108.64 5.278 108.64 5.278v28.101l-92.322-2.018-12.049 114.41 63.982-1.264v24.086l-166.34-4.769 5.787-19.318 68.235 4.025 10.28-117.17-170.62-24.089-40.399 89.051 64.476 7.285-4.259 20.826-158.55-16.07 8.273-18.819 63.966 6.765 40.155-92.312-130.47-24.074-50.165-12.044 16.301-26.847z" fill="#9D5A44"/>
+ <path stroke="#80A4A4" stroke-width=".1846" d="m16.446.103s96.336 18.065 158.31 30.862c33.592 6.935 192.49 25.499 216.76 28.09 56.202 6.022 108.64 5.278 108.64 5.278v28.101l-92.322-2.018-12.049 114.41 63.982-1.264v24.086l-166.34-4.769 5.787-19.318 68.235 4.025 10.28-117.17-170.62-24.089-40.399 89.051 64.476 7.285-4.259 20.826-158.55-16.07 8.273-18.819 63.966 6.765 40.155-92.312-130.47-24.074-50.165-12.044 16.301-26.847z" fill="none"/>
+ <path d="m318.79 94.07c-.515 2.082-21.846 69.711-24.447 72.313-2.082 2.082 24.447-2.082 24.447-4.684v-67.63z" fill="#DDE89A"/>
+ <path stroke="#231F20" stroke-width=".0479" d="m318.79 94.07c-.515 2.082-21.846 69.711-24.447 72.313-2.082 2.082 24.447-2.082 24.447-4.684v-67.63z" fill="none"/>
+ <path d="m317.76 94.07c-1.561 0 26.009 14.04 25.479 39.539-.51 26.009-24.448 45.253-24.448 45.253s45.258-2.082 45.784-43.171c.01-13.01-16.63-36.947-46.81-41.62z" fill="#DDE89A"/>
+ <path stroke="#231F20" stroke-width=".0479" d="m317.76 94.07c-1.561 0 26.009 14.04 25.479 39.539-.51 26.009-24.448 45.253-24.448 45.253s45.258-2.082 45.784-43.171c.01-13.01-16.63-36.947-46.81-41.62z" fill="none"/>
+ <path d="m363.55 179.9h-87.41c-2.597 0 4.689 14.571 9.882 14.571h68.671s6.25-1.56 8.86-14.57z" fill="#AA8D6B"/>
+ <path stroke="#231F20" stroke-width=".0479" d="m363.55 179.9h-87.41c-2.597 0 4.689 14.571 9.882 14.571h68.671s6.25-1.56 8.86-14.57z" fill="none"/>
+ <path d="m452.46 20.716c.51 2.082 21.846 69.701 24.448 72.292 2.081 2.082-24.448-2.082-24.448-4.673v-67.619z" fill="#3D6AB3"/>
+ <path stroke="#231F20" stroke-width=".0479" d="m452.46 20.716c.51 2.082 21.846 69.701 24.448 72.292 2.081 2.082-24.448-2.082-24.448-4.673v-67.619z" fill="none"/>
+ <path d="m453.49 20.716c1.562 0-26.014 14.04-25.488 39.528.521 26.009 24.458 45.253 24.458 45.253s-45.263-2.082-45.783-43.171c0-13.013 16.64-36.94 46.81-41.613z" fill="#3D6AB3"/>
+ <path stroke="#231F20" stroke-width=".0479" d="m453.49 20.716c1.562 0-26.014 14.04-25.488 39.528.521 26.009 24.458 45.253 24.458 45.253s-45.263-2.082-45.783-43.171c0-13.013 16.64-36.94 46.81-41.613z" fill="none"/>
+ <path d="m407.71 106.55h87.404c2.591 0-4.684 14.561-9.888 14.561s-68.67 0-68.67 0-6.24-1.56-8.84-14.56z" fill="#AA8D6B"/>
+ <path stroke="#231F20" stroke-width=".0479" d="m407.71 106.55h87.404c2.591 0-4.684 14.561-9.888 14.561s-68.67 0-68.67 0-6.24-1.56-8.84-14.56z" fill="none"/>
+ <path d="m107.42.06c-.563 2.284-24.034 76.678-26.88 79.535-2.294 2.283 26.88-2.294 26.88-5.14v-74.395z" fill="#FDB913"/>
+ <path stroke="#231F20" stroke-width=".0526" d="m107.42.06c-.563 2.284-24.034 76.678-26.88 79.535-2.294 2.283 26.88-2.294 26.88-5.14v-74.395z" fill="none"/>
+ <path d="m106.28.06c-1.721 0 28.611 15.442 28.032 43.49-.568 28.6-26.896 49.788-26.896 49.788s49.798-2.294 50.361-47.494c.01-14.317-18.3-40.644-51.49-45.784z" fill="#FDB913"/>
+ <path stroke="#231F20" stroke-width=".0526" d="m106.28.06c-1.721 0 28.611 15.442 28.032 43.49-.568 28.6-26.896 49.788-26.896 49.788s49.798-2.294 50.361-47.494c.01-14.317-18.3-40.644-51.49-45.784z" fill="none"/>
+ <path d="m156.64 94.474h-96.145c-2.856 0 5.151 16.026 10.875 16.026h75.542s6.86-1.72 9.73-16.026z" fill="#AA8D6B"/>
+ <path stroke="#231F20" stroke-width=".0526" d="m156.64 94.474h-96.145c-2.856 0 5.151 16.026 10.875 16.026h75.542s6.86-1.72 9.73-16.026z" fill="none"/>
+</svg>

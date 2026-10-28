@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="200" viewBox="0 0 502 200" xml:space="preserve">
+            <title>Fish cages 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Fish cages 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of fish cage surface view</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>aquaculture, fishing, industry, fishery, fisheries, fish, cages, net, buoys, surface, view, topview, from, above</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7a112e0fafaf6094c9932ebd10942f52">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Fish cages 2</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/fish-cages-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/fish-cages-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>aquaculture, fishing, industry, fishery, fisheries, fish, cages, net, buoys, surface, view, topview, from, above</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of fish cage surface view</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m105.77 25.824c-110.66 23.474-139.08 76.936-63.359 119.17 75.709 42.248 227.34 57.542 337.98 34.068 110.65-23.485 139.07-76.932 63.355-119.18-75.71-42.236-227.32-57.53-337.97-34.056zm261.55 145.93c-100.11 21.25-237.29 7.428-305.8-30.798-68.527-38.215-42.801-86.585 57.307-107.83 100.13-21.218 237.32-7.407 305.81 30.808 68.52 38.222 42.8 86.602-57.32 107.82z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".2907" d="m433.55 118.22c0 5.119 3.938 14.146 3.938 14.146l59.35-2.205s3.165-6.519 3.165-11.941c0-16.517-14.887-29.92-33.231-29.92-18.34-.003-33.22 13.4-33.22 29.92z" fill="#E3D11F"/>
+ <path stroke="#231F20" stroke-width=".2907" d="m290.48 30.086c0 5.108 3.954 14.135 3.954 14.135l59.334-2.184s3.166-6.54 3.166-11.951c0-16.527-14.846-29.941-33.18-29.941-18.38.001-33.27 13.414-33.27 29.941z" fill="#E3D11F"/>
+ <path stroke="#231F20" stroke-width=".2907" d="m48.094 34.547c0 5.098 3.949 14.135 3.949 14.135l59.329-2.194s3.176-6.529 3.176-11.941c0-16.538-14.845-29.952-33.232-29.952-18.327.001-33.224 13.415-33.224 29.952z" fill="#E3D11F"/>
+ <path stroke="#231F20" stroke-width=".2907" d="m219.04 184.11c0 5.098 3.938 14.124 3.938 14.124l59.35-2.184s3.103-6.539 3.103-11.94c0-16.538-14.793-29.952-33.169-29.952-18.34 0-33.22 13.41-33.22 29.95z" fill="#E3D11F"/>
+ <path stroke="#231F20" stroke-width=".2907" d="m5.365 144.43c0 5.098 3.949 14.124 3.949 14.124l59.339-2.194s3.155-6.529 3.155-11.93c0-16.538-14.845-29.941-33.216-29.941-18.329 0-33.227 13.4-33.227 29.94z" fill="#E3D11F"/>
+</svg>

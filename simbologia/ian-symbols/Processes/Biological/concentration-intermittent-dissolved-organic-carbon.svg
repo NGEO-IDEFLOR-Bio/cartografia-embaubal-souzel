@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="520" height="520" viewBox="0 0 520 520" xml:space="preserve">
+            <title>Concentration; intermittent dissolved organic carbon</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration; intermittent dissolved organic carbon</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration indicating an intermittent concentration of dissolved organic carbon</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, intermittent, concentration, dissolved, organic, carbon</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b9430f73cb8eb1b41595599a730668d3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration; intermittent dissolved organic carbon</dc:title>
+                <dc:date>2003-11-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-intermittent-dissolved-organic-carbon/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-intermittent-dissolved-organic-carbon/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, intermittent, concentration, dissolved, organic, carbon</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration indicating an intermittent concentration of dissolved organic carbon</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_a44502670472b9343d5036952b7f693f" gradientUnits="userSpaceOnUse" cy="259.09" cx="259.24" r="249.92">
+  <stop stop-color="#41AD49" offset="0"/>
+  <stop stop-color="#3FAB49" offset=".4083"/>
+  <stop stop-color="#37A448" offset=".6169"/>
+  <stop stop-color="#2A9948" offset=".7801"/>
+  <stop stop-color="#178847" offset=".9192"/>
+  <stop stop-color="#087B46" offset="1"/>
+ </radialGradient>
+ <path stroke="#006A44" stroke-width="18.491" stroke-dasharray="110.9476,110.9476,110.9476,110.9476,110.9476,110.9476" d="m509.24 259.1c0 137.97-111.93 249.84-250 249.84s-250-111.87-250-249.84c0-137.97 111.93-249.85 250-249.85s250 111.87 250 249.85z" fill="url(#ian_symbols_a44502670472b9343d5036952b7f693f)"/>
+ <path d="m77.521 180.6h46.027c11.655 0 20.449 1.285 26.372 3.889 5.912 2.604 11.375 6.984 16.365 13.152 5 6.168 8.912 14.158 11.75 24.014 2.827 9.833 4.28 22.069 4.28 36.697 0 13.152-1.498 24.629-4.481 34.361-2.989 9.711-6.788 17.433-11.342 23.12-4.57 5.688-10.102 9.979-16.572 12.851-6.492 2.883-14.806 4.302-25.008 4.302h-47.389v-152.38zm25.229 25.87v100.65h18.862c8.068 0 13.912-.76 17.544-2.291 3.631-1.52 6.582-3.811 8.906-6.884 2.313-3.072 4.235-7.923 5.755-14.571 1.509-6.638 2.28-15.376 2.28-26.215 0-11.275-.771-20.159-2.335-26.651-1.553-6.481-3.956-11.599-7.241-15.331s-7.274-6.191-11.979-7.353c-3.52-.916-10.325-1.352-20.404-1.352h-11.39z" fill="#006A44"/>
+ <path d="m198.88 257.73c0-18.147 2.676-33.088 8.079-44.832 5.353-11.744 12.404-20.472 21.075-26.227 8.671-5.754 19.198-8.638 31.557-8.638 17.902 0 32.484 6.839 43.759 20.472 11.286 13.633 16.935 33.076 16.935 58.286 0 25.478-5.962 45.413-17.907 59.738-10.471 12.694-24.729 19.02-42.686 19.02-18.114 0-32.412-6.28-42.899-18.807-11.95-14.34-17.92-34-17.92-59.01zm26.19-1.04c0 17.544 3.33 30.719 9.968 39.502 6.638 8.771 14.884 13.163 24.707 13.163 9.89 0 18.085-4.357 24.573-13.063 6.515-8.716 9.777-22.092 9.777-40.116 0-17.689-3.185-30.774-9.498-39.245-6.347-8.459-14.627-12.683-24.852-12.683-10.247 0-18.583 4.257-25.031 12.794-6.42 8.53-9.65 21.76-9.65 39.66z" fill="#006A44"/>
+ <path d="m419.9 277.08l24.606 9.576c-3.833 16.963-10.169 29.345-19.03 37.166-8.884 7.812-19.807 11.723-32.78 11.723-16.292 0-29.518-6.28-39.636-18.807-11.666-14.482-17.511-34.004-17.511-58.599 0-25.98 5.878-46.295 17.595-61.001 10.196-12.739 23.919-19.108 41.104-19.108 14.008 0 25.74 4.76 35.161 14.292 6.716 6.772 11.654 16.795 14.783 30.126l-24.595 7.342c-1.609-8.247-4.794-14.561-9.543-18.963-4.777-4.392-10.397-6.582-16.879-6.582-9.253 0-16.795 4.023-22.65 12.068-5.833 8.045-8.777 21.332-8.777 39.859 0 19.22 2.849 32.886 8.498 40.999 5.643 8.123 13.007 12.18 22.047 12.18 6.604 0 12.337-2.581 17.158-7.732 4.86-5.16 8.34-13.34 10.46-24.55z" fill="#006A44"/>
+</svg>

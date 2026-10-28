@@ -1,0 +1,103 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="160" viewBox="0 0 501 160" xml:space="preserve">
+            <title>Acrostichum speciosum (Mangrove Fern) leaf</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Acrostichum speciosum (Mangrove Fern) leaf</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Acrostichum speciosum (Mangrove Fern) leaf</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Plantae, plant, Tracheobionta, vascular, Pteridophyta, Pteridopsida, Filicopsida, Pteridales, Ceratopteridaceae, Pteridaceae, Acrostichum, speciosum, leatherfern, fern, tropical, subtropical, Asia, Australia</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-41f32f6578efd104c15b4a054c54ff7e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Acrostichum speciosum (Mangrove Fern) leaf</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/acrostichum-speciosum-mangrove-fern-leaf/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/acrostichum-speciosum-mangrove-fern-leaf/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Plantae, plant, Tracheobionta, vascular, Pteridophyta, Pteridopsida, Filicopsida, Pteridales, Ceratopteridaceae, Pteridaceae, Acrostichum, speciosum, leatherfern, fern, tropical, subtropical, Asia, Australia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Acrostichum speciosum (Mangrove Fern) leaf</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_53153d90fc63de245146022883ba400e" y2="-11.92" gradientUnits="userSpaceOnUse" x2="506.71" gradientTransform="matrix(.8046 0 0 .8046 116.41 89.27)" y1="-11.92" x1="46.562">
+  <stop stop-color="#34AC4C" offset="0"/>
+  <stop stop-color="#6FB947" offset=".3389"/>
+  <stop stop-color="#A1CB3D" offset=".7793"/>
+  <stop stop-color="#B5D338" offset="1"/>
+ </linearGradient>
+ <path stroke="#006A44" stroke-width="2.4355" d="m428.86 126.7c21.587-23.531 3.355-62.562-.026-62.453-83.262 2.641-290.02 37.611-321.36 42.693-21.46 3.481-73.793 36.037-105.27 46.039 0 0-3.233 5.987 2.003 4.495 40.274-11.513 62.096 2.641 98.888-.498 36.807-3.146 302.26-22.129 324.73-30.575 19.579-7.379 15.926-102.62-61.015-105.91-76.932-3.283 104.77-54.83 131.77 27.989 4.9 14.972-79.65 89.061-69.71 78.221z" fill="url(#ian_symbols_53153d90fc63de245146022883ba400e)"/>
+ <path stroke="#FFFCDF" stroke-width="2.4355" d="m12.699 151.47s54.215-14.298 122.37-22.961c120.94-15.383 287.31-31.127 295.64-34.971" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="2.4355" d="m479.43 78.951s-24.671-75.593-114.86-65.582" fill="none"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m461.77 20.396l-5.01 5.001s1.004 4.015 6.023 4.015h5.01s3.998-.995-1.004-5.001c-5.02-4.015-5.02-4.015-5.02-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m443.74 49.443l-5.01 5.01s1.004 4.015 6.014 4.015h5s4.007-1.004-.994-5.001c-5.01-4.024-5.01-4.024-5.01-4.024z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m422.7 7.365l-5.01 5.01s1.004 4.006 6.014 4.006h5.001s4.006-.986-.986-5.001c-5.01-4.015-5.01-4.015-5.01-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m421.7 27.414l-5.019 5.001s1.004 4.006 6.014 4.006h5.019s3.997-.985-1.013-5.001c-5-4.006-5-4.006-5-4.006z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m464.51 42.326l5.02 4.992s-1.013 4.024-6.014 4.024h-5.01s-4.006-1.004.994-5.001c5.01-4.015 5.01-4.015 5.01-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m390.33 8.296l5.001 5.028s-.995 3.997-6.014 3.997h-5.001s-4.006-.995 1.004-5.001c5.01-4.024 5.01-4.024 5.01-4.024z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m452.76 68.488l5.01 5.01s-1.004 4.006-6.004 4.006h-5.01s-4.007-.995 1.004-5.001c5-4.015 5-4.015 5-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m485.1 27.323l-5.01 5.019s.985 4.006 6.004 4.006h5.01s4.006-1.003-1.004-5.01c-5-4.015-5-4.015-5-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m467.06 56.388l-5.01 5.01s1.004 3.997 6.014 3.997h5.019s3.998-.986-1.004-5.01c-5.02-3.997-5.02-3.997-5.02-3.997z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m446.02 14.292l-5.01 5.01s1.003 4.006 6.013 4.006h5.011s4.006-.995-1.004-5.001c-5.01-4.015-5.01-4.015-5.01-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m445 34.341l-4.992 5.001s.996 4.015 6.006 4.015 5.01 0 5.01 0 4.015-.995-1.004-5.001c-5.03-4.015-5.03-4.015-5.03-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m487.84 49.262l5 5.01s-.994 3.998-6.014 3.998h-5s-4.016-.995.994-5.001c5.02-4.007 5.02-4.007 5.02-4.007z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m413.64 15.241l5.02 5.001s-1.004 4.006-6.014 4.006h-5.011s-4.016-.986.995-5.001c5-4.006 5-4.006 5-4.006z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m453.98 86.801l5.002 5.01s-.986 4.006-5.996 4.006-5.01 0-5.01 0-4.006-.995.994-5.01c5.02-4.006 5.02-4.006 5.02-4.006z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m472.42 71.843l-5.01 4.992s1.014 4.016 6.023 4.016 5.01 0 5.01 0 3.997-.995-1.014-5.001c-5.01-4.007-5.01-4.007-5.01-4.007z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m406.39 1.631l-5.01 5.001s.985 4.016 5.995 4.016h5.019s4.016-.995-.994-5.01c-5.02-4.007-5.02-4.007-5.02-4.007z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m440.77 60.593l5.01 5.01s-1.004 3.997-6.014 3.997h-5.002s-4.015-.977.995-5.001c5.01-4.006 5.01-4.006 5.01-4.006z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m363.51 9.01l5.028 5.01s-1.014 4.015-6.023 4.015-5.01 0-5.01 0-4.015-1.004.995-5.01c5.01-4.015 5.01-4.015 5.01-4.015z" fill="#964B36"/>
+ <path stroke="#006A44" stroke-width="2.4355" d="m443.6 101.1l5.01 5.001s-.995 4.024-6.005 4.024-5.01 0-5.01 0-4.016-1.004.994-5.019c5.02-4 5.02-4 5.02-4z" fill="#964B36"/>
+</svg>

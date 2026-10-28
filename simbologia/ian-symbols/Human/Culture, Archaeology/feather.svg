@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="417" height="501" viewBox="0 0 417 501" xml:space="preserve">
+            <title>Feather</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Feather</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a feather</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, natural, resources, feather</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2081bcfd5c4c63e439b1c7dc2bf1dbd0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Feather</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/feather/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/feather/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, natural, resources, feather</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a feather</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_89ed44e22781de64bdf09e2f9f23a73b" y2="446.91" gradientUnits="userSpaceOnUse" x2="468.94" gradientTransform="matrix(0.0008 -1 1 0.0008 -500.65 522.33)" y1="857.9" x1="57.946">
+  <stop stop-color="#D4BDAC" offset="0"/>
+  <stop stop-color="#9B6142" offset=".7247"/>
+  <stop stop-color="#301912" offset="1"/>
+ </linearGradient>
+ <path d="m354.89 467.43c-73.919-4.981-131.04-49.37-131.04-49.37s38.442-3.924 38.453-12.786c-6.895-3.957-79.843 12.743-110.35-42.481 47.31-2.91 51.267-16.7 51.267-16.7s-29.574 5.886-68.997-1.036c-44.307-43.407-59.061-86.782-59.061-86.782s13.795 2.965 22.668 1.995c-3.935-5.908-33.498-13.833-33.498-13.833s-39.352-89.714-53.098-143.92c3.946-2.954 7.881-1.973 7.881-1.973s-22.634-30.567-18.639-100.54c29.481 104.48 83.653 144.45 83.653 144.45 17.681 81.32 26.582 32.06 11.822 16.275 0 0 55.147 53.262 79.756 79.903 17.692 64.064 14.782 8.874 14.782 8.874 11.811 19.73 65.012 33.563 73.864 61.165 2.933 28.582-25.682 65.023 8.846 27.601 47.277 36.485 82.694 115.38 82.694 115.38s3.94 9.86-.99 13.79z" fill="url(#ian_symbols_89ed44e22781de64bdf09e2f9f23a73b)"/>
+ <path d="m409.08 500c-167.48-94.75-326.96-299.87-326.96-299.87l121.12 123.29c93.534 113.42 207.83 153.92 207.83 153.92s13.78 13.81-1.99 22.66z" fill="#D6A477"/>
+</svg>

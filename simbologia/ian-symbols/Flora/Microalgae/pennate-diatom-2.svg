@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="153" viewBox="0 0 501 153" xml:space="preserve">
+            <title>Pennate Diatom 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pennate Diatom 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a second Pennate Diatom</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, Pennate, diatom, 2, heterokont, algae, stramenopiles, Chromalveolata, Heterokontophyta, Bacillariophyceae, Pennales</ian_image_library:contains>
+                    <ian_image_library:when>2004-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a4249fe71da8f7849dc38ae66e353142">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pennate Diatom 2</dc:title>
+                <dc:date>2004-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pennate-diatom-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pennate-diatom-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, Pennate, diatom, 2, heterokont, algae, stramenopiles, Chromalveolata, Heterokontophyta, Bacillariophyceae, Pennales</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a second Pennate Diatom</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".5" d="m.841 78.623c-8.023-16.052 67.274-82.204 127.4-78.199 29.365 1.968 65.894 14.016 124.52 33.133 61.419 20.01 89.979 41.041 131.03 41.041 80.201 0 112.27-16.025 116.3 4.025 3.997 20.057-67.998 68.816-119.42 72.178-51.384 3.349-62.106-2.009-132.06-22.086-57.08-16.323-111.87-44.694-133.49-50.092-48.108-12.029-106.24 16.057-114.28.005z" fill="#DDE89A"/>
+ <path stroke="#000" stroke-width="1.3811" stroke-linecap="round" d="m8.64 72.948s33.039-39.228 97.045-35.021c64 4.187 213.85 78.889 278.01 66.3 75.886-10.391 110.78-24.711 110.78-24.711" fill="none"/>
+</svg>

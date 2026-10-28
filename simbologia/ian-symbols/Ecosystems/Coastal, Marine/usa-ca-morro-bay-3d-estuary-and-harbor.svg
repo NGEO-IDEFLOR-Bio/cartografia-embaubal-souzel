@@ -1,0 +1,106 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="278" viewBox="0 0 502 278" xml:space="preserve">
+            <title>USA CA: Morro Bay 3D estuary and harbor</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>USA CA: Morro Bay 3D estuary and harbor</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Morro Bay estuary and harbor in California, USA</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, map, geographic, geography, USA, United States of America, CA, California, Morro Bay, estuary, harbor</ian_image_library:contains>
+                    <ian_image_library:when>2007-10-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d47eb8db9cb980b43d014caa7f998bbc">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>USA CA: Morro Bay 3D estuary and harbor</dc:title>
+                <dc:date>2007-10-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/usa-ca-morro-bay-3d-estuary-and-harbor/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/usa-ca-morro-bay-3d-estuary-and-harbor/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, map, geographic, geography, USA, United States of America, CA, California, Morro Bay, estuary, harbor</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Morro Bay estuary and harbor in California, USA</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_b0a633d7ceccaf8495c9dd7c12e9cf38" height="49.852" viewBox="0 -49.852 49.852 49.852" width="49.852" patternUnits="userSpaceOnUse" y="605.832" x="-86.824" overflow="visible">
+   <polygon points="0 0 0 -49.853 49.853 -49.853 49.853 0" fill="none"/>
+   <polygon points="49.853 0 0 0 0 -49.853 49.853 -49.853" fill="#E7D9CD"/>
+   <path d="m17.779-37.738c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m29.616-20.762c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m31.796-32.131c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.336 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m7.954-17.181c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m16.237-25.745c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m21.05-7.992c0 .336-.272.609-.609.609-.335 0-.607-.273-.607-.609 0-.335.272-.608.607-.608.336-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m38.337-16.245c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.336-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m46.28-44.435c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m28.215-45.665c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m44.878-27.614c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336-.001.609.271.609.608z" fill="#231F20"/>
+   <path d="m3.296-3.164c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.336 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m8.411-43.344c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.337 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m42.698-6.59c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+  </pattern>
+ </defs>
+ <linearGradient id="ian_symbols_075d9d3f0c52b834dd8a2c03331ec312" y2="280.89" gradientUnits="userSpaceOnUse" x2="427.13" y1="-72.868" x1="73.368">
+  <stop stop-color="#49B1DB" offset=".0843"/>
+  <stop stop-color="#ABE1FA" offset=".236"/>
+  <stop stop-color="#D5E3A3" offset="1"/>
+ </linearGradient>
+ <rect height="207.52" width="500" stroke="#0076BE" y=".25" x=".25" stroke-width=".5" fill="url(#ian_symbols_075d9d3f0c52b834dd8a2c03331ec312)"/>
+ <path d="m500.25 136.57c-5.17 1.497-38.037 10.418-52.323 7.122-15.568-3.593-85.676-.733-91.668 8.249-5.985 8.984 62.321 4.329 62.321 4.329s16.173-3.596 20.965-2.996c4.786.599 36.528 8.385 36.528 10.18 0 1.798-2.395 2.996-8.981 2.395-6.587-.597-22.761-4.19-26.352-4.79-3.595-.599-23.955 0-23.955 1.197 0 1.198 10.183 5.989 10.183 5.989s-9.583.6-13.179-.598c-3.591-1.197-9.577-5.988-11.974-6.588-2.399-.599-25.154 1.795-30.546 2.995-5.391 1.198-28.147 2.996-28.747 8.385s2.996 5.988 2.996 11.976c0 5.991-19.765 16.771-19.765 16.771l-9.765 2.409-1.201 2.695-314.53 71.02h500v-140.73z" fill="#B38A64"/>
+ <path d="m376.02 81.424c-16.093 14.37 113.77 15.348 124.23 15.403v-21.341c-7.29-.155-108.07-2.14-124.23 5.938z" fill="#B38A64"/>
+ <path d="m.25.25v15.947c7.782.683 75.437 6.627 74.87 8.319-.595 1.798-63.776 1.798-64.978 9.583-.49 3.187 54.498-1.199 54.498-1.199h49.111l38.924 1.796c7.188 1.798 20.364 6.588 26.951 7.187 6.587.6 49.707-.599 57.493.6 7.782 1.198 38.925 6.589 46.111 7.787 7.187 1.198 50.906 5.389 61.684 4.191 10.783-1.197 42.524-11.978 50.307-12.578 7.552-.58 99.5 7.816 105.02 8.324v-49.957h-499.98z" fill="#B38A64"/>
+ <polygon stroke-linejoin="round" fill="#D6A477" stroke="#663433" stroke-linecap="round" stroke-width=".5" points=".25 277.3 .25 277.3 .25 277.3"/>
+ <path stroke-linejoin="round" d="m500.25 134.56s-34.959 10.932-50.527 7.338c-15.569-3.593-81.449-1.798-87.437 7.186-5.99 8.983 58.094 5.39 58.094 5.39s16.169-3.594 20.96-2.996c4.792.6 36.529 8.387 36.529 10.183s-2.391 2.994-8.982 2.395c-6.587-.6-22.755-4.19-26.351-4.79-3.591-.601-23.956 0-23.956 1.197 0 1.198 10.183 5.99 10.183 5.99s-9.583.597-13.178-.601c-3.592-1.197-9.577-5.986-11.974-6.585-2.399-.601-25.155 1.795-30.546 2.992-5.392 1.198-26.348 4.794-26.947 10.183s2.991 5.988 2.991 11.976c0 5.991-21.561 14.974-21.561 14.974l-9.765 2.411-1.2 2.695 183.67 72.808v-142.75z" stroke="#663433" stroke-linecap="round" stroke-width=".5" fill="#D6A477"/>
+ <path stroke-linejoin="round" d="m500.25.25h-500v15.944c7.879.676 77.232 6.628 76.666 8.321-.596 1.798-70.969 3.594-72.164 11.38-.49 3.186 61.685-4.792 61.685-4.792h49.11l38.924 1.796c7.192 1.796 20.365 6.587 26.952 7.188 6.587.6 49.706-.598 57.493.6 7.787 1.196 38.924 6.587 46.111 7.785 7.186 1.198 50.905 3.593 61.688 2.395 10.778-1.197 42.521-11.978 50.303-12.575 7.786-.6 103.23 8.345 103.23 8.345v27.063s-98.435-4.27-115.21 4.115c-16.49 14.735 111.14 17.143 115.22 17.215v-94.78z" stroke="#663433" stroke-linecap="round" stroke-width=".5" fill="#D6A477"/>
+ <path stroke="#663433" stroke-width=".5" d="m500.25 211.37s-48.732-2.393-55.919-5.391c-7.186-2.993-29.328.989-29.328.989s-26.364 5.603-35.364 1.752c-9.002-3.849-61.854-6.318-61.854-6.318l-7.302 4.475-310.24 4.46v65.958h500v-65.93z" fill="#ECCD9B"/>
+ <path stroke="#0076BE" stroke-width=".5" d="m317.67 201.48c-3.778 4.21-6.536.976-6.536.976s-4.172 2.916-10.919 2.673c-6.743-.324-10.494-2.11-10.494-2.11s-5.354 1.786-10.439 2.354c-5.047.524-11.011-2.916-11.011-2.916s-3.38 2.349-10.132 2.795c-6.742.363-11.002-2.473-11.002-2.473s-5.506 1.46-10.168 2.594c-4.627 1.092-11.281-2.717-11.281-2.717s-3.267.613-9.106 2.474c-5.775 1.733-12.34-2.23-12.34-2.23s-4.686 1.34-10.164 2.474c-5.506 1.092-11.222-2.717-11.222-2.717s-4.654 1.911-10.342 2.717c-5.717.765-11.104-2.717-11.104-2.717s-4.021 1.746-10.224 2.596c-6.229.767-11.007-2.473-11.007-2.473s-5.354 1.339-10.136 2.473c-4.745 1.09-11.131-2.353-11.131-2.353s-4.718 2.23-10.22 2.592c-5.509.406-11.313-2.592-11.313-2.592s-3.902 2.23-10.374 2.474c-6.478.242-10.77-2.717-10.77-2.717s-4.658 1.3-9.953 2.596c-5.258 1.213-11.644-2.473-11.644-2.473s-4.389 1.901-10.342 2.473c-5.928.524-10.678-2.353-10.678-2.353s-4.025 1.906-10.136 2.474c-6.139.524-11.189-2.027-11.189-2.027s-6.847 1.353-12.042 2.15v56.239c4.608 1.105 26.313 5.725 54.667 4.442 52.752-2.387 130.04-2.258 170.22-3.909 64.65-2.62 93.6-61.96 92.52-60.76z" fill="#ABE1FA"/>
+ <path stroke-linejoin="round" d="m93.355 41.316c-3.574.131-27.516.648-27.516 1.166 0 .601 14.072 1.198 14.97 2.395.897 1.198-7.484 6.29-4.791 5.392 2.511-.84-66.511 23.842-75.769 27.175v66.637c7.628-1.198 45.922-7.219 49.422-9.371 3.889-2.395 1.196-14.672 2.391-16.171 1.2-1.495 29.645-4.491 30.543-7.785.897-3.295-19.76-9.881-17.965-11.379 1.796-1.498 24.258-1.198 25.75-4.192 1.499-2.993-8.684-8.385-7.785-11.379.897-2.994 21.861-2.994 23.36-4.789 1.492-1.798-11.681-11.68-10.783-13.178.897-1.495 5.094-1.495 7.787-2.395 2.693-.898 9.88-5.689 10.178-7.187.302-1.498-10.778-7.187-10.178-8.982.595-1.798 45.217.299 44.915-1.798-.28-1.952-50.892-3.897-54.525-4.165z" stroke="#663433" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_b0a633d7ceccaf8495c9dd7c12e9cf38)"/>
+</svg>

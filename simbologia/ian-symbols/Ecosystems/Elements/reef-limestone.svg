@@ -1,0 +1,138 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="341" height="503" viewBox="0 0 341 503" xml:space="preserve">
+            <title>Reef: limestone</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Reef: limestone</ian_image_library:title>
+                <ian_image_library:descr>Illustration of limestone reef</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, reef, coral, limestone</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-25cbdac107bdb0f4fd0b5ef221dcf5c6">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Reef: limestone</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/reef-limestone/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/reef-limestone/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, reef, coral, limestone</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of limestone reef</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+		<pattern  x="-226.22" y="-58.375" width="242.457" height="242.595" patternUnits="userSpaceOnUse" id="ian_symbols_790edd68d2708d04d9d6478e86e8427d" viewBox="0 -242.595 242.457 242.595" overflow="visible">
+		<g>
+			<polygon fill="none" points="0,0 242.457,0 242.457,-242.595 0,-242.595 			"/>
+			<polygon fill="#FFFFFF" points="0.066,-0.152 0.066,-242.479 242.384,-242.479 242.384,-0.152 			"/>
+			<g>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M242.45-189.784c0,0-35.655-0.409-52.25-0.189
+					c-16.595,0.219-67.615,6.974-86.062,6.808c-18.439-0.166-54.767-1.476-69.489-3.417c-14.724-1.942-34.583-3.391-34.583-3.391"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M242.225-155.934c0,0-52.749-3.082-61.021-3.404
+					c-8.271-0.322-79.521,6.801-84.438,8.46c-4.92,1.659-20.225,2.231-30.397,1.639c-8.705-0.507-50.491-5.126-62.531-6.426
+					c-2.031-0.219-3.771-0.269-3.771-0.269"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M242.225-121.894h-12.692c0,0-43.029,5.314-51.014,6.806
+					c-7.991,1.496-41.813,0.126-52.257-0.249c-10.441-0.379-41.842,1.423-53.803-0.263c-11.961-1.679-51.938-4.952-58.687-5.772
+					c-6.755-0.821-13.706-0.522-13.706-0.522"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M242.225-77.641c0,0-2.673-0.034-7.6-0.951
+					c-3.49-0.652-8.636-2.201-12.466-2.454c-9.222-0.612-32.577,5.658-41.188,7.44c-8.597,1.775-65.77,5.418-74.985,5.139
+					c-8.15-0.259-84.06-7.367-101.721-8.982c-2.321-0.212-4.199-0.192-4.199-0.192"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M242.225-33.389h-9.002c0,0-70.567,8.323-86.604,10.431
+					c-16.043,2.108-51.702,5.438-81.208-0.22C35.905-28.835,7.018-33.389,7.018-33.389H0.066"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M242.158-234.072c0,0-15.086-3.525-24.301-3.559
+					c-9.221-0.033-106.216,14.368-119.633,13.616c-13.423-0.751-37.72-4.269-51.246-6.808c-13.53-2.54-46.912-3.404-46.912-3.404"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="190.2" y1="-76.125" x2="191.424" y2="-28.835"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="87.368" y1="-242.427" x2="91.015" y2="-224.23"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="105.119" y1="-114.888" x2="112.353" y2="-68.932"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="67.217" y1="-116.59" x2="79.994" y2="-70.208"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="205.617" y1="-158.288" x2="199.223" y2="-118.29"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="233.721" y1="-157.011" x2="228.183" y2="-121.269"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M215.404-119.567c0,0-3.829,7.232-3.404,14.467
+					c0.426,7.233,1.616,9.767,3.404,13.616c1.802,3.85,11.076,7.659,6.821,14.893c-4.262,7.233-6.396,16.169-6.821,23.402
+					c-0.419,7.233,0,21.275,0,21.275"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M133.223-155.309c0,0,2.134,14.042,0,22.977
+					c-2.127,8.936-6.814,17.869-6.814,29.359c0,11.489,8.091,31.913,8.091,31.913"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M163.885-158.288c0,0-5.963,34.041-0.857,43.4"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M152.815-71.485c0,0-2.128,8.464-1.702,18.609
+					c0.426,10.152,6.389,19.034,5.964,27.917l-0.532,11.867l-0.186,12.939"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M156.359-229.489c0,0,0,22.126-1.702,28.934
+					c-1.702,6.808-5.685,13.616-5.685,13.616"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M217.113-158.075c0,0,1.701-15.318-0.565-24.396
+					c-2.274-9.079-9.089-19.287-9.089-28.366c0-6.153-0.259-18.818-0.425-26.345l0.146-5.297"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="129.101" y1="-184.1" x2="119.453" y2="-226.085"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="7.6" y1="-77.442" x2="2.486" y2="-33.189"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M92.201-69.503c3.97,15.318-8.962,48.654-8.962,48.654l4.139,20.683
+					"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M54.73-149.495c0,0,2.264,11.917-1.143,19.859
+					c-3.405,7.941-16.466,22.123-17.6,27.794c-1.137,5.678-5.674,26.102-5.674,26.102"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M35.988-186.371c0,0-1.137,26.667-1.137,34.609
+					c0,7.941-3.407,22.123-8.517,31.201"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M42.804-231.191c0,0,3.41,24.962,5.112,34.041
+					c1.702,9.078,6.239,11.914,6.239,11.914"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M5.333-234.027c0,0,9.646,20.421,5.671,45.386"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M72.329-226.65c0,0,5.109,50.492,1.134,59.002
+					s-0.003,11.346-0.565,18.722c-0.568,7.376,14.76,34.61,14.76,34.61"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M103.554-224.383c0,0,6.249,14.753,3.979,24.965
+					c-2.271,10.212-5.682,20.424-6.814,30.636c-1.138,10.212,2.267,17.02,2.267,17.02"/>
+				<path fill="none" stroke="#000000" stroke-width="1.702" d="M58.135-116.018c0,0-10.219,15.313-11.355,26.09
+					c-1.141,10.784,6.242,22.126,3.403,32.338c-2.835,10.211-11.92,29.505-11.92,29.505"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="156.359" y1="-229.466" x2="156.545" y2="-242.479"/>
+				<line fill="none" stroke="#000000" stroke-width="1.702" x1="203.776" y1="-30.178" x2="207.181" y2="-0.152"/>
+			</g>
+		</g>
+	</pattern>
+</defs>
+<path fill="url(#ian_symbols_790edd68d2708d04d9d6478e86e8427d)" stroke="#231F20" stroke-width="1.5" d="M338.86,500.745
+	c-44.492-0.488-98.998-4.072-163.377-7.417C76.03,488.147,6.087,475.154,6.087,475.154L0.752,439.14
+	c0,0-1.475-315.206,65.299-315.206c121.258,0,73.9-110.189,105.551-118.675c8.77-2.344,68.842-12.651,114.465,8.969
+	c26.88,12.734,39.339,84.989,39.339,160.759c-0.01,166.047,13.449,325.762,13.449,325.762L338.86,500.745z"/>
+</svg>

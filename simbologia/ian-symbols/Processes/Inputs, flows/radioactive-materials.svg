@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="499" viewBox="0 0 500 499" xml:space="preserve">
+            <title>Radioactive materials</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Radioactive materials</ian_image_library:title>
+                <ian_image_library:descr>Illustration of radioactive materials</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>inputs, flows, radioactive, materials</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c882d8401d60e99405d4136a13264aa7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Radioactive materials</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/radioactive-materials/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/radioactive-materials/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>inputs, flows, radioactive, materials</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of radioactive materials</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FCEE22" stroke="#000000" stroke-width="5" d="M495.681,249.092
+	c0,136.188-110.403,246.593-246.596,246.593C112.904,495.685,2.5,385.281,2.5,249.092S112.904,2.5,249.085,2.5
+	C385.278,2.5,495.681,112.904,495.681,249.092z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M138.049,57.698c27.566,42.821,51.763,89.003,78.07,133.083
+	c-16.813,13.64-32.187,28.728-32.819,58.555c-51.763,0-103.513,0-155.269,0C31.431,152.182,76.558,96.764,138.049,57.698z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M471.644,249.335c-51.763,0-103.505,0-155.262,0
+	c-0.979-29.188-15.027-45.298-32.833-57.669c25.183-45.211,51.151-89.613,77.192-133.968
+	C423.35,95.938,467.936,152.192,471.644,249.335z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M243.632,205.866c27.233-3.858,48.573,14.955,50.571,39.035
+	c5.073,61.244-84.037,65.549-88.731,8.872C203.482,229.726,218.41,209.431,243.632,205.866z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M283.549,307.004c25.322,45.061,51.297,89.479,77.192,133.972
+	c-51.696,39.298-168.899,38.439-221.813,0.892c25.735-45.258,51.443-90.518,78.083-134.863
+	C233.119,318.83,267.17,317.844,283.549,307.004z"/>
+</svg>

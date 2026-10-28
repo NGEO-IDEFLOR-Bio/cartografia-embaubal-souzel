@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="105" viewBox="0 0 501 105" xml:space="preserve">
+            <title>Estuary 2D: open with mud deposits</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: open with mud deposits</ian_image_library:title>
+                <ian_image_library:descr>Illustration of open estuary base with mud deposits</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, open, mud, deposits</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f3ef4ca46a5af8a4cdfdaaf25e5ab9f2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: open with mud deposits</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-open-with-mud-deposits/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-open-with-mud-deposits/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, open, mud, deposits</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of open estuary base with mud deposits</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_eb3305b743e2bcd40d37a9efc382d4ec" y2="45.937" gradientUnits="userSpaceOnUse" x2="500.25" y1="45.937" x1="130.51">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#E2F0F6" offset=".0768"/>
+  <stop stop-color="#9FCEE1" offset=".2735"/>
+  <stop stop-color="#66B1D0" offset=".4601"/>
+  <stop stop-color="#3A9BC2" offset=".6312"/>
+  <stop stop-color="#1A8AB8" offset=".7836"/>
+  <stop stop-color="#0781B2" offset=".9117"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m494.12 17.187c-1.803 2.925-5.165 4.674-9.636 4.674-4.47 0-7.835-1.749-9.641-4.674-1.802 2.925-5.164 4.674-9.635 4.674s-7.838-1.749-9.642-4.674c-1.801 2.925-5.164 4.674-9.637 4.674-4.468 0-6.739-1.749-8.543-4.674-1.803 2.925-4.066 4.674-8.54 4.674-4.468 0-5.643-1.749-7.446-4.674-1.805 2.925-4.072 4.674-8.545 4.674-4.111 0-7.943-.842-9.605-2.247-1.656 1.405-3.656 2.247-7.771 2.247-4.113 0-6.113-.842-7.774-2.247-1.658 1.405-4.752 2.247-8.868 2.247-4.111 0-7.208-.842-8.866-2.247-1.663 1.405-4.756 2.247-8.867 2.247-4.116 0-7.212-.842-8.87-2.247-1.659 1.405-4.755 2.247-8.87 2.247-4.112 0-7.21-.842-8.868-2.247-1.662 1.405-4.757 2.247-8.869 2.247-4.114 0-7.21-.842-8.868-2.247-1.658 1.405-4.757 2.247-8.867 2.247-4.116 0-7.212-.842-8.87-2.247-1.659 1.405-4.755 2.247-8.871 2.247-4.112 0-7.209-.842-8.867-2.247-1.66 1.405-4.759 2.247-8.869 2.247-4.113 0-7.211-.842-8.869-2.247-1.657 1.405-4.757 2.247-8.869 2.247-4.113 0-7.209-.842-8.867-2.247-1.66 1.405-4.756 2.247-8.871 2.247-4.112 0-7.206-.842-8.865-2.247-1.662 1.405-4.758 2.247-8.871 2.247s-7.209-.842-8.868-2.247c-1.66 1.405-4.757 2.247-8.871 2.247-4.112 0-7.209-.842-8.868-2.247-1.657 1.405-4.756 2.247-8.867 2.247-4.114 0-7.211-.842-8.869-2.247-1.66 1.405-4.754 2.247-8.872 2.247-4.11 0-7.204-.842-8.865-2.247-1.659 1.405-4.758 2.247-8.868 2.247-4.116 0-7.211-.842-8.869-2.247-1.66 1.405-4.757 2.247-8.871 2.247v52.827h369.78v-53.25c-2.73-.676-4.83-2.156-6.13-4.251z" fill="url(#ian_symbols_eb3305b743e2bcd40d37a9efc382d4ec)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 70.724c-12.553-.155-24.891-.718-36.895-2.654-8.678-1.4-16.628-3.427-25.027-6.714-8.677-3.395-14.191-6.79-24.177-6.431-18.07.65-32.678 8.913-51.3 7.141-18.291-1.738-44.028-3.602-62.046-7.02-16.586-3.144-33.077-8.692-49.18-13.112-8.961-2.461-17.683-4.32-26.808-6.853-10.143-2.812-19.663-6.888-29.389-10.116-18.199-6.046-36.107-10.211-54.672-13.24-11.706-1.911-23.585-3.803-35.552-4.937-12.232-1.155-77.29-6.19-104.95-6.535v103.49h500v-33.016z" fill="#DFCAAB"/>
+ <path stroke="#231F20" stroke-width=".5" d="m288.61 55.779c12.455 4.134 25.87 6.311 38.67 8.586 11.039 1.962 22.34 2.158 33.661 2.699 9.512.454 19.022-.954 27.212-5.569 1.712-.965 3.424-2.029 5.098-3.171-9.761 2.324-19.374 4.788-30.398 3.741-18.291-1.738-44.028-3.602-62.046-7.02-13.082-2.479-26.108-6.453-38.927-10.191 2.489 1.491 4.976 3.008 7.562 4.294 5.99 2.976 12.83 4.528 19.18 6.631z" fill="#9D5A44"/>
+</svg>

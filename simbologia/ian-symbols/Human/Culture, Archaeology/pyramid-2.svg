@@ -1,0 +1,84 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="305" viewBox="0 0 501 305" xml:space="preserve">
+            <title>Pyramid 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pyramid 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a second type of pyramid</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, pyramid, 2, temple</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-491438d3b1bb4b94adc66eeb48b67bd3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pyramid 2</dc:title>
+                <dc:date>2005-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pyramid-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pyramid-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, pyramid, 2, temple</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a second type of pyramid</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke-linejoin="round" stroke="#7A5353" stroke-width=".25" points=".125 211.57 231.41 6.724 244.62 .125 244.62 13.333 231.41 304.09" fill="#D4AD47"/>
+ <linearGradient id="ian_symbols_19108e7e09700054a51a7c0ec1246223" y2="152.11" gradientUnits="userSpaceOnUse" x2="500.12" y1="152.11" x1="231.41">
+  <stop stop-color="#D2A33C" offset="0"/>
+  <stop stop-color="#BB8D4C" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" stroke="#7A5353" stroke-width=".25" points="231.41 304.09 244.62 13.333 244.62 .125 500.12 202.76" fill="url(#ian_symbols_19108e7e09700054a51a7c0ec1246223)"/>
+ <linearGradient id="ian_symbols_62f4655867eccbd48d8b36b3569a230b" y2="158.25" gradientUnits="userSpaceOnUse" x2="348.16" y1="158.25" x1="306.25">
+  <stop stop-color="#D2A33C" offset="0"/>
+  <stop stop-color="#AC8052" offset=".9719"/>
+ </linearGradient>
+ <path stroke="#7A5353" stroke-width=".25" d="m317.57 121.1c-.864-2.635-10.141 1.037-11.285 2.322-1.135 1.296 28.942 71.774 30.843 72.735 1.89.961 9.968-2.625 11.016-4.406 1.04-1.78-29.71-68.01-30.57-70.65z" fill="url(#ian_symbols_62f4655867eccbd48d8b36b3569a230b)"/>
+</svg>

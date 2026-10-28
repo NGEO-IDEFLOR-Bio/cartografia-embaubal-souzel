@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="158" height="502" viewBox="0 0 158 502" xml:space="preserve">
+            <title>Plastic bottle 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Plastic bottle 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a plastic bottle with label and lid</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>environmental, degradation, trash, garbage, waste, plastic, soda, pop, bottle, recycle, recycling, disposal</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b8b4818b68fc9704a5a9346ba0630cb7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Plastic bottle 3</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/plastic-bottle-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/plastic-bottle-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>environmental, degradation, trash, garbage, waste, plastic, soda, pop, bottle, recycle, recycling, disposal</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a plastic bottle with label and lid</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m43.784 6.665s-4.007 38.694-3.4 43.025c29.537-14.5 68.794-1.592 68.794-1.592s-.872-12.605-3.99-45.852c-48.66-6.941-61.406 4.419-61.406 4.419z" fill="#6D9D31"/>
+ <path opacity=".76" stroke="#212429" stroke-width=".0102" d="m40.882 51.531l7.293 2.989s-3.146 18.833-2.236 21.594c8.583-3.422-59.497 106.51-43.485 110.35 0 0 .953 81.308-.222 112.96-1.218 34.611 22.623 78.849 1.83 129.84-.834 2.74 8.918 51.505 15.86 58.36 7.007 6.703 9.335 9.097 22.752 8.295 13.375-.66 25.374-9.064 31.433-12.021 3.661 22.828 27.085 14.393 27.085 14.393s19.693.4 18.339-12.941c25.287 11.338 33.274-18.486 33.274-18.486s7.114-26.694 2.675-46.545c-24.215-41.444 6.833-112.8-3.455-128.73 3.433 2.956 1.949-104.16-.368-108.32 23.12 11.13-46.01-105.77-46.01-105.77l-4.364-21.41s5.994.736 9.882-4.884c-39.68-21.225-70.278.325-70.278.325z" fill="#DEDFE7"/>
+ <linearGradient id="ian_symbols_530911c2bd4098049141e97834103e58" y2="-770.38" gradientUnits="userSpaceOnUse" x2="-310.6" gradientTransform="matrix(.9945 .104 -.104 .9945 304.09 982.31)" y1="-656.47" x1="-294.59">
+  <stop stop-color="#DEDFE7" offset="0"/>
+  <stop stop-color="#DBC2C9" offset=".0752"/>
+  <stop stop-color="#CD2127" offset=".4944"/>
+  <stop stop-color="#D35F66" offset=".639"/>
+  <stop stop-color="#D9A4AB" offset=".8117"/>
+  <stop stop-color="#DDCFD6" offset=".9366"/>
+  <stop stop-color="#DEDFE7" offset="1"/>
+ </linearGradient>
+ <path d="m3.309 187.57s81.215-6.541 145.67-3.108c3.422 3.108 7.992 103.23 1.809 106.98-50.752 11.945-147.7 6.411-147.7 6.411l.219-110.28z" fill="url(#ian_symbols_530911c2bd4098049141e97834103e58)"/>
+ <path stroke="#212429" stroke-width=".0107" d="m46.757 454.66c27.848 1.712 22.07 30.67 33.419 43.438 38.164 7.808 39.5-10.905 39.5-10.905s13.044-37.091 25.027-44.466" fill="none"/>
+ <path d="m88.737 155.45c4.694 2.892 17.229-3.108 17.229-3.108s-4.396 14.317 3.877 20.955l-15.751.531c-.006 0 1.428-9.85-5.362-18.38z" fill="#fff"/>
+</svg>

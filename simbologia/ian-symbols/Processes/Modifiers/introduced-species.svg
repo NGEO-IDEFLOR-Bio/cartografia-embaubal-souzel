@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="454" height="502" viewBox="0 0 454 502" xml:space="preserve">
+            <title>Introduced species</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Introduced species</ian_image_library:title>
+                <ian_image_library:descr>Illustration of introduced species</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>modifier, introduced, species, exotic, nonnative, noxious, weed, pest, alien, invasive</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6cb20015992bd654c91d8e100496d23a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Introduced species</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/introduced-species/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/introduced-species/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>modifier, introduced, species, exotic, nonnative, noxious, weed, pest, alien, invasive</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of introduced species</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".5" d="m230.42.338c71.093-2.574 155.13 51.718 175.81 85.32 59.472 64.631 51.718 127.98 32.326 188.73-19.392 60.781-42.666 74.991-77.565 103.44-34.911 28.433-56.877 65.918-62.058 77.544-5.18 11.637-9.052 24.571-27.146 32.326-18.094 7.766-62.057 16.817-86.624 10.339-24.544-6.456-43.936-10.339-62.051-34.9-18.094-24.55-46.537-113.75-74.97-148.65-28.45-34.92-49.145-91.79-47.842-131.87 1.298-40.08 33.603-112.47 78.864-135.74 45.238-23.267 80.148-43.967 151.25-46.542z" fill="#8DC640"/>
+ <path d="m48.143 182.62c2.585-14.211 69.812-25.848 103.41 16.817 33.608 42.655 19.392 85.32 15.52 90.479-3.883 5.181-60.759 23.263-89.203-23.274-28.437-46.55-32.325-69.82-29.724-84.03z" fill="#231F20"/>
+ <path d="m386.84 208.46c.032-14.44-80.946-37.562-121.7-1.68-40.778 35.893-34.518 80.412-31.649 86.192 2.89 5.792 69.135 31.105 105.53-9.521 36.38-40.62 47.8-60.51 47.82-74.99z" fill="#231F20"/>
+ <path d="m174.83 361.02c3.882-2.585 5.18 1.298 9.052 6.456 3.882 5.17 3.882 16.807 0 18.104-3.872 1.287-11.637-5.169-12.935-12.935-1.29-7.75.01-9.04 3.89-11.62z" fill="#231F20"/>
+ <path d="m213.36 363.32c-2.77-3.239-4.689.316-9.096 4.657-4.417 4.319-6.882 15.705-3.839 17.69 3.042 1.974 11.048-2.912 13.786-10.241 2.76-7.35 1.92-8.85-.85-12.11z" fill="#231F20"/>
+ <path d="m156.74 423.07c3.883-5.17 16.791 5.181 29.73 6.456 12.935 1.298 33.597-7.754 33.597-2.573 0 5.158-23.274 11.637-32.299 11.637-9.06-.01-34.92-10.35-31.03-15.53z" fill="#231F20"/>
+</svg>

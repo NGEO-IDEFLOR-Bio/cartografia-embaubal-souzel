@@ -1,0 +1,141 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="135" viewBox="0 0 502 135" xml:space="preserve">
+            <title>Coastline 3D: dunes and water table</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 3D: dunes and water table</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with dunes and water table</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, dunes, water, table</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-09</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6e0fb4ba58829c04f56d9bb256f6c54c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 3D: dunes and water table</dc:title>
+                <dc:date>2005-03-09</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-3d-dunes-and-water-table/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-3d-dunes-and-water-table/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, dunes, water, table</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with dunes and water table</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_3575cc32a54e4474a199047658803696" y2="23.978" gradientUnits="userSpaceOnUse" x2="278.91" y1="23.978" x1="248.77">
+  <stop stop-color="#D1BD92" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m248.77 19.63s10.639-7.768 17.731-5.975c7.095 1.792 12.411 9.559 12.411 9.559l-11.82 11.355-14.774-1.794-3.55-13.145z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_3575cc32a54e4474a199047658803696)"/>
+ <linearGradient id="ian_symbols_c6cc04630d8455842523015a3b93b1c1" y2="82.381" gradientUnits="userSpaceOnUse" x2="11.775" y1="44.735" x1="11.775">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#00A2CF" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_c6cc04630d8455842523015a3b93b1c1)" stroke="#007198" stroke-linecap="round" stroke-width=".5" points="23.3 68.04 .25 44.735 .25 59.077 23.3 82.381"/>
+ <linearGradient id="ian_symbols_f448f56d5504feb4f5b00e300a918920" y2="-8.8973" gradientUnits="userSpaceOnUse" x2="108.58" y1="92.403" x1="209.88">
+  <stop stop-color="#E3D5A4" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m265.32 36.958s-14.776-22.707-21.277-28.683c-6.499-5.975-11.229-8.962-16.548-7.766-5.32 1.193-10.639 3.285-17.139 6.869-6.501 3.586-15.367 13.745-20.686 16.733-5.318 2.988-7.683 3.883-13.594 2.688-5.909-1.195-21.867-13.146-27.776-13.146-5.912 0-8.866 3.584-12.709 5.377-3.84 1.793-9.16 11.354-16.845 14.343-7.681 2.986-20.685 5.975-27.777 5.975-7.091 0-20.687-1.486-26.004.308-5.318 1.792-12.411 7.467-12.411 7.467l27.779 34.055 184.99-44.22z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_f448f56d5504feb4f5b00e300a918920)"/>
+ <linearGradient id="ian_symbols_52bccd9ab928556499f6d3d39559243d" y2="68.04" gradientUnits="userSpaceOnUse" x2="38.434" y1="44.735" x1="38.434">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#00A2CF" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_52bccd9ab928556499f6d3d39559243d)" stroke="#007198" stroke-linecap="round" stroke-width=".5" points="55.42 44.735 .25 44.735 23.3 68.04 76.618 68.04"/>
+ <linearGradient id="ian_symbols_420df989abef3964ed6bbe90f1c935b2" y2="9.876" gradientUnits="userSpaceOnUse" x2="395.79" y1="81.919" x1="467.84">
+  <stop stop-color="#D1BD92" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m500.25 49.507l-23.05-23.304s-18.615-.598-28.071-.598c-9.457 0-20.097 2.989-27.781 3.586-7.68.597-15.362 5.975-21.864 8.964-6.502 2.986-27.188-4.781-27.188-4.781l14.186 32.267 79.195-2.988 34.57-13.146z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_420df989abef3964ed6bbe90f1c935b2)"/>
+ <linearGradient id="ian_symbols_4d8dca0387d953e43950ec083395d05c" y2="40.107" gradientUnits="userSpaceOnUse" x2="398.3" y1="40.107" x1="335.65">
+  <stop stop-color="#D1BD92" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m398.3 58.471s-9.456-11.951-14.775-16.731c-5.319-4.782-12.706-15.539-19.21-18.526-6.498-2.987-10.145-.596-15.266 0-5.122.598-13.397 5.977-13.397 5.977l13.397 21.514 49.26 7.766z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_4d8dca0387d953e43950ec083395d05c)"/>
+ <linearGradient id="ian_symbols_8de5c5e108f221c481f4777f1b52f192" y2="28.294" gradientUnits="userSpaceOnUse" x2="326.79" y1="28.294" x1="289.55">
+  <stop stop-color="#D1BD92" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m289.55 26.8s11.229-6.573 18.914-6.573c7.681 0 18.319 10.757 18.319 10.757l-18.912 5.376-18.32-9.56z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_8de5c5e108f221c481f4777f1b52f192)"/>
+ <linearGradient id="ian_symbols_71104dd4d928a014e513805ef131362c" y2="25.514" gradientUnits="userSpaceOnUse" x2="318.09" y1="54.853" x1="347.43">
+  <stop stop-color="#E3D5A4" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m353.97 48.312s-8.865-13.146-10.638-14.937c-1.772-1.793-4.728-7.77-10.048-7.171-5.319.597-9.456 1.792-14.776 2.988-5.317 1.194-7.681 3.584-7.681 3.584l5.317 8.965 17.14 10.156 20.69-3.585z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_71104dd4d928a014e513805ef131362c)"/>
+ <linearGradient id="ian_symbols_44eb8c394b1108a4752d39f94fff18c5" y2="22.122" gradientUnits="userSpaceOnUse" x2="272.42" y1="41.921" x1="292.22">
+  <stop stop-color="#E3D5A4" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m261.77 32.775s7.095-7.17 10.05-9.561c2.954-2.389 8.273-3.881 11.82-3.286 3.546.599 7.093 1.494 11.229 3.884 4.137 2.391 7.091 8.367 7.091 8.367l-12.41 11.353-17.14-1.792-10.64-8.965z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_44eb8c394b1108a4752d39f94fff18c5)"/>
+ <linearGradient id="ian_symbols_95534c51871621d4ed4577c92f28b084" y2="27.124" gradientUnits="userSpaceOnUse" x2="295.27" y1="59.436" x1="327.58">
+  <stop stop-color="#E3D5A4" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m283.64 38.751s2.364-2.391 8.865-5.977c6.501-3.584 9.455-5.376 14.774-3.584 5.319 1.793 8.864 1.793 11.229 4.781 2.366 2.987 16.254 13.146 20.391 13.744 4.138.596-35.755 1.792-35.755 1.792l-19.5-10.756z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_95534c51871621d4ed4577c92f28b084)"/>
+ <linearGradient id="ian_symbols_7bdfe73d99079f1491633ac416f58c68" y2="84.473" gradientUnits="userSpaceOnUse" x2="49.6" y1="68.339" x1="49.6">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#00A2CF" offset="1"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="16.134" width="52.601" stroke="#007198" stroke-linecap="round" y="68.339" x="23.3" stroke-width=".5" fill="url(#ian_symbols_7bdfe73d99079f1491633ac416f58c68)"/>
+ <linearGradient id="ian_symbols_874fd1edda114794c52bda46e0b97b59" y2="26.139" gradientUnits="userSpaceOnUse" x2="250.23" y1="173.22" x1="276.17">
+  <stop stop-color="#D1BD92" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m23.3 77.294s32.785-.084 39.885-.042 9.736-6.859 15.809-11.029c6.075-4.167 12.677-5.423 24.147-5.691 11.473-.269 32.61.082 39.328-2.333 6.719-2.417 15.332-16.698 26.097-15.831 10.764.866 20.593 12.308 35.182 7.035s36.184-23.41 47.992-23.304c11.809.104 22.404 11.498 22.404 11.498s7.021-.601 12.397-1.961c5.375-1.364 7.793 4.677 17.666 5.69 9.874 1.012 5.949-2.461 12.344-2.517 6.396-.056 9.624 5.704 15.987 6.409 6.364.705 8.139-1.483 13.456-2.629 5.32-1.146 13.96 8.368 22.937 8.092 8.979-.275 14.204-3.533 19.571-.561 5.365 2.975 17.737 11.782 28.396 11.413 10.658-.372 10.47.339 18.543-4.498 8.071-4.836 28.291-8.415 41.674-7.971 13.384.444 23.135.444 23.135.444v84.205h-476.96v-56.416z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_874fd1edda114794c52bda46e0b97b59)"/>
+ <linearGradient id="ian_symbols_cdbb75d14ca89a2491ef5987bec4ed75" y2="79.684" gradientUnits="userSpaceOnUse" x2="25.943" y1="108.02" x1="-2.3926">
+  <stop stop-color="#E2D3A3" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_cdbb75d14ca89a2491ef5987bec4ed75)" stroke="#957966" stroke-linecap="round" stroke-width=".5" points="23.3 77.294 .25 53.99 .25 110.41 23.3 133.71"/>
+ <path stroke-linejoin="round" d="m398.71 56.045c-59.763-1.807-119.7-.629-180.2 5.147-48.035 4.408-95.055 6.754-142 8.018" stroke="#007198" stroke-linecap="round" stroke-dasharray="7.0555" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m500.25 62.901c-9.52-2.171-18.371-4.083-25.395-4.083-14.177-.98-26.003-.629-40.186-1.329" stroke="#007198" stroke-linecap="round" stroke-dasharray="7.0555" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m278.03 45.325c-.589-4.184-3.884-7.729-3.884-7.729" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="none"/>
+</svg>

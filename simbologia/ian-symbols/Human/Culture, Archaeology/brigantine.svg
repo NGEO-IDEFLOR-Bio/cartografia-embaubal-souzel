@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="397" viewBox="0 0 501 397" xml:space="preserve">
+            <title>Brigantine</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Brigantine</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a brigantine</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, brigantine, seaship, boat, sailboat, sailing</ian_image_library:contains>
+                    <ian_image_library:when>2009-11-18</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-cb0ea560e52e7744b51427f33146d04e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Brigantine</dc:title>
+                <dc:date>2009-11-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/brigantine/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/brigantine/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, brigantine, seaship, boat, sailboat, sailing</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a brigantine</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".0547" stroke-miterlimit="1" d="m372.02 360.32l-3.491-10.362 105.37-35.54s14.372-4.063 17.592-4.049c3.22.013 13.55 3.999 5.584 7.439-2.931 1.343-7.949 3.011-7.949 3.011l-117.1 39.5z" fill="#6C5735"/>
+ <polygon stroke="#000" stroke-width=".0547" stroke-miterlimit="1" points="287.03 352.27 276.1 352.27 276.1 .027 287.03 .027 287.03 352.27" fill="#6C5735"/>
+ <polygon stroke="#000" stroke-width=".0547" stroke-miterlimit="1" points="116.87 352.24 105.94 352.24 105.94 12.779 116.87 12.779 116.87 352.24" fill="#6C5735"/>
+ <path stroke="#000" stroke-width=".0547" d="m382.47 349.74h-380.89c-11.329 0 43.015 22.829 43.074 39.104 25.359 9.378 246.11 9.378 299.27 0-23.26-13.61 27.21-8.29 38.55-39.1z" fill="#AA8D6B"/>
+ <polygon stroke="#000" stroke-width=".75" points="440.23 324.2 341.35 276.35 370.06 324.2" fill="#fff"/>
+ <path stroke="#000" stroke-width=".75" d="m10.225 333.84l9.199-105.78 156.37-4.599s4.597 64.386 0 124.17c-55.19-64.38-165.56-13.79-165.56-13.79z" fill="#fff"/>
+ <path stroke="#000" stroke-width=".75" d="m40.378 202.19l6.897-79.332 117.27-3.449s3.449 48.29 0 93.13c-41.38-48.29-124.16-10.35-124.16-10.35z" fill="#fff"/>
+ <path stroke="#000" stroke-width=".75" d="m65.289 105.76l5.173-59.498 87.957-2.587s2.584 36.216 0 69.845c-31.04-36.219-93.131-7.76-93.131-7.76z" fill="#fff"/>
+ <path stroke="#000" stroke-width=".75" d="m194.18 329.24l7.939-105.78 134.91-4.6s3.967 64.386 0 124.17c-47.61-64.38-142.85-13.79-142.85-13.79z" fill="#fff"/>
+ <path stroke="#000" stroke-width=".75" d="m220.2 197.59l5.948-79.333 101.19-3.449s2.979 48.29 0 93.13c-35.72-48.29-107.14-10.35-107.14-10.35z" fill="#fff"/>
+ <path stroke="#000" stroke-width=".75" d="m241.69 101.16l4.463-59.499 75.886-2.587s2.232 36.216 0 69.848c-26.78-36.218-80.35-7.76-80.35-7.76z" fill="#fff"/>
+ <polygon stroke="#000" stroke-width=".75" points="460.93 310.84 346.87 255.66 379.98 310.84" fill="#fff"/>
+ <polygon stroke="#000" stroke-width=".75" points="490.82 294.75 348.25 225.76 389.64 294.75" fill="#fff"/>
+</svg>

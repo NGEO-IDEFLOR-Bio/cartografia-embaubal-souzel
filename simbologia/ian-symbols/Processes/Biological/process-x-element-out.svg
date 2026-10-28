@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="133" height="501" viewBox="0 0 133 501" xml:space="preserve">
+            <title>Process; (x = element) out</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Process; (x = element) out</ian_image_library:title>
+                <ian_image_library:descr><p>General illustration of an any element outgoing</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, x, element</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ba4f7cb0742b37548dd9b6fa65c04ba5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Process; (x = element) out</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/process-x-element-out/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/process-x-element-out/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, x, element</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>General illustration of an any element outgoing</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#0093D8" d="M132.77,201.562H97.937l0,0c-16.412,48.991,7.384,74.361,9.229,130.396
+	c1.469,44.734-35.605,90.735-9.229,168.042l-61.39-0.916C17.059,402.27,50.812,372.04,51.038,321.347
+	c0.232-48.72-25.786-67.731-14.491-119.786H0l66.357-92.06L132.77,201.562z"/>
+<path d="M92.375,214.759l-1.344,2.122c-15.275,29.892-32.911,46.567-49.775,47.101l-1.243-0.176
+	c2.505,8.495,5.268,16.952,7.421,26.238c13.656-1.79,30.507-9.255,47.452-30.08c-2.938-15.156-4.119-30.092,0.12-48.011
+	C93.806,213.107,92.833,214.168,92.375,214.759z"/>
+<path d="M48.2,346.894c-1.808,8.853-4.244,17.535-6.768,26.627c31.668-0.163,47.151-7.823,65.597-33.848
+	c0.151-2.579,0.226-5.147,0.138-7.716c-0.446-13.461-2.16-25.119-4.282-35.793C77.57,340.12,69.207,346.127,48.2,346.894z"/>
+<path d="M31.022,429.01c-0.546,8.262-0.603,17.196-0.076,26.946c3.158,0.389,6.31,0.634,9.48,0.634
+	c13.204,0,31.185-8.746,48.256-20.511c0.729-13.857,3.133-26.54,5.952-38.462c-18.879,17.014-44.175,32.44-54.208,32.44
+	C37.3,430.058,34.155,429.587,31.022,429.01z"/>
+<path d="M25.183,87.395l30.281-45.601L27.996,0h20.644l17.272,26.062L83.214,0h20.725L76.377,41.858l30.174,45.537H85.424
+	L65.923,57.724L46.385,87.395H25.183z"/>
+</svg>

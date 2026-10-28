@@ -1,0 +1,90 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="178" viewBox="0 0 500 178" xml:space="preserve">
+            <title>Island: mud banks</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Island: mud banks</ian_image_library:title>
+                <ian_image_library:descr>Illustration of island with mud banks</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, islmud, banks, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d0384eea0627748415a829968c649ebf">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Island: mud banks</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/island-mud-banks/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/island-mud-banks/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, islmud, banks, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of island with mud banks</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_abac410f909aa3c4ed869a6b5e818a25" gradientUnits="userSpaceOnUse" x1="566.54" y1="1494.5532" x2="3108.4785" y2="1494.5532" gradientTransform="matrix(0.1966 0 0 -0.1966 -111.2545 406.9252)">
+	<stop  offset="0" style="stop-color:#7F694F"/>
+	<stop  offset="1" style="stop-color:#998568"/>
+</linearGradient>
+<path fill="url(#ian_symbols_abac410f909aa3c4ed869a6b5e818a25)" stroke="#231F20" stroke-width="0.2542" d="M4.371,94.919c10.581-11.72,113.89-25.078,150.485-37.399
+	c52.473-17.682,148.977-3.127,190.096,9.089c36.588,10.866,33.081,18.903,53.284,27.551c20.199,8.662,73.734-4.244,86.581,9.367
+	c12.842,13.602,20.087,27.148,10.979,35.27c-9.104,8.111-124.077,31.745-164.487,37.528c-40.402,5.763-89.464-34.645-129.845-34.645
+	c-40.413,0-75.049-11.541-138.532-2.884c-63.475,8.638-69.146-32.172-58.563-43.893L4.371,94.919z"/>
+<linearGradient id="ian_symbols_af3e91c9353e1914f1f1b3452e65dc72" gradientUnits="userSpaceOnUse" x1="646.4932" y1="1700.3677" x2="3003.6504" y2="1700.3677" gradientTransform="matrix(0.1966 0 0 -0.1966 -111.2545 406.9252)">
+	<stop  offset="0" style="stop-color:#A6B587"/>
+	<stop  offset="1" style="stop-color:#C3BD92"/>
+</linearGradient>
+<path fill="url(#ian_symbols_af3e91c9353e1914f1f1b3452e65dc72)" stroke="#231F20" stroke-width="0.2542" d="M39.859,74.106c0,0,88.542-58.462,125.129-69.224
+	c52.473-15.423,73.262,10.697,114.382,21.35c36.595,9.486,80.8,2.566,89.462,20.204c8.657,17.627,67.556,31.65,80.813,37.528
+	c13.236,5.877,33.87,24.656,28.847,27.933c-5.029,3.262-124.1,27.704-164.478,32.748c-40.399,5.038-89.462-30.231-129.867-30.231
+	c-40.398,0-75.032-10.077-138.512-2.517c-63.48,7.545-5.761-37.807-5.761-37.807L39.859,74.106z"/>
+</svg>

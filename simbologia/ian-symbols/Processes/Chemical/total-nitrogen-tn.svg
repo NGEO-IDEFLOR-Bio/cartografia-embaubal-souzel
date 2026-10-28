@@ -1,0 +1,71 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+            <title>Total nitrogen (TN)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Total nitrogen (TN)</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration for total nitrogen</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>nitrogen, nitrate, nitrite, ammonia, organically bonded nitrogen, water quality, wastewater treatment plants, threshold</ian_image_library:contains>
+                    <ian_image_library:when>2014-02-26</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-3c46640f787eee34e583e8fb05d41c94">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Total nitrogen (TN)</dc:title>
+                <dc:date>2014-02-26</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/total-nitrogen-tn/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/total-nitrogen-tn/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>nitrogen, nitrate, nitrite, ammonia, organically bonded nitrogen, water quality, wastewater treatment plants, threshold</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration for total nitrogen</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+                 <radialGradient id="ian_symbols_038a8a7a08805674a59e0ef80256fb6e" cx="249.9707" cy="702.89" r="249.9875" gradientTransform="matrix(1.0001 0 0 1 4.265989e-03 -452.89)" gradientUnits="userSpaceOnUse"> <stop offset="0" style="stop-color:#FFFFFF"></stop> <stop offset="1" style="stop-color:#8CC39C"></stop> </radialGradient> <path fill="url(#ian_symbols_038a8a7a08805674a59e0ef80256fb6e)" d="M500,250.1c0,138-112,249.9-250.1,249.9C112,500,0,388,0,250.1C0,112,112,0,250,0S500,112,500,250.1z "></path> <g> <path d="M222.5,194.3h-38.4v126.3c0,7.3-1.6,12.7-4.9,16.2c-3.2,3.5-7.4,5.3-12.6,5.3c-5.2,0-9.5-1.8-12.7-5.3 c-3.3-3.6-4.9-8.9-4.9-16.1V194.3h-38.4c-6,0-10.5-1.3-13.4-4c-2.9-2.6-4.4-6.1-4.4-10.5c0-4.5,1.5-8.1,4.6-10.7 c3-2.6,7.4-3.9,13.2-3.9h111.9c6.1,0,10.6,1.3,13.6,4s4.4,6.2,4.4,10.6c0,4.3-1.5,7.8-4.5,10.5C233,193,228.5,194.3,222.5,194.3z"></path> <path d="M307.2,183.4l67.7,102.4V182.4c0-6.7,1.4-11.8,4.3-15.1c2.9-3.4,6.8-5,11.7-5c5.1,0,9,1.7,12,5c2.9,3.4,4.4,8.4,4.4,15.1 v136.7c0,15.3-6.3,22.9-19,22.9c-3.2,0-6-0.5-8.5-1.4s-4.9-2.4-7.1-4.3c-2.2-2-4.3-4.3-6.2-6.9c-1.9-2.6-3.8-5.4-5.7-8.1l-66-101.2 v101.8c0,6.6-1.5,11.7-4.6,15.1s-7,5.1-11.9,5.1c-5,0-9-1.7-12-5.2c-3-3.4-4.5-8.4-4.5-15V187.8c0-5.7,0.6-10.2,1.9-13.4 c1.5-3.6,4-6.5,7.5-8.7c3.5-2.3,7.2-3.4,11.3-3.4c3.2,0,5.9,0.5,8.1,1.5c2.3,1,4.2,2.4,5.9,4.1c1.7,1.7,3.4,4,5.2,6.8 C303.5,177.5,305.3,180.4,307.2,183.4z"></path> </g> </svg> 

@@ -1,0 +1,129 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="150" viewBox="0 0 501 150" xml:space="preserve">
+            <title>Mesocosm 4</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mesocosm 4</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mesocosm 4 setup</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, mesocosm, setup, biological, community, ecosystem</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5ed2d581813c6df4d9aff7249ea5de3b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mesocosm 4</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mesocosm-4/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mesocosm-4/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, mesocosm, setup, biological, community, ecosystem</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mesocosm 4 setup</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_29ce26d0e66377b43505073f9480cec6" y2="-35.671" gradientUnits="userSpaceOnUse" x2="490.98" gradientTransform="matrix(-.2757 .1037 .2545 .9276 182.61 3.9018)" y1="39.616" x1="490.98">
+  <stop stop-color="#3E6577" offset="0"/>
+  <stop stop-color="#436C7F" offset=".0337"/>
+  <stop stop-color="#548399" offset=".1592"/>
+  <stop stop-color="#6195AC" offset=".2991"/>
+  <stop stop-color="#6AA1BA" offset=".4588"/>
+  <stop stop-color="#6FA9C3" offset=".6557"/>
+  <stop stop-color="#71ABC5" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points=".529 112.93 94.867 71.236 94.963 .365 .251 36.902" fill="url(#ian_symbols_29ce26d0e66377b43505073f9480cec6)"/>
+ <linearGradient id="ian_symbols_b9787a829a27d594f112d2bb4f1d5abe" y2="23.505" gradientUnits="userSpaceOnUse" x2="303.16" gradientTransform="matrix(.9973 .0731 -.0667 .9101 -1.2727 -28.054)" y1="99.237" x1="303.16">
+  <stop stop-color="#325565" offset=".6236"/>
+  <stop stop-color="#507F94" offset=".7411"/>
+  <stop stop-color="#69A1BA" offset=".8537"/>
+  <stop stop-color="#78B6D1" offset=".9437"/>
+  <stop stop-color="#7DBEDA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="499.89 99.473 94.845 69.792 94.032 .857 500.16 30.207" fill="url(#ian_symbols_b9787a829a27d594f112d2bb4f1d5abe)"/>
+ <rect height="41.008" width="20.942" stroke="#231F20" y="107.27" x="20.338" stroke-width=".5" fill="#B1B3B6"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="94.867 110.6 40.436 148.28 40.436 107.27 95.711 72.904" fill="#86888A"/>
+ <rect height="30.985" width="20.942" stroke="#231F20" y="117.29" x="354.46" stroke-width=".5" fill="#B1B3B6"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="428.98 119.8 374.55 148.28 374.55 117.29 429.82 91.333" fill="#86888A"/>
+ <rect height="30.985" width="20.953" stroke="#231F20" y="117.29" x="193.66" stroke-width=".5" fill="#B1B3B6"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="268.2 119.8 213.77 148.28 213.77 117.29 269.05 91.333" fill="#86888A"/>
+ <linearGradient id="ian_symbols_bd1392753eb56cd42194ffb41bd4c93e" y2="27.084" gradientUnits="userSpaceOnUse" x2="235.01" y1="136.82" x1="235.01">
+  <stop stop-color="#D7BD9C" offset="0"/>
+  <stop stop-color="#CDB392" offset=".2434"/>
+  <stop stop-color="#B19878" offset=".6604"/>
+  <stop stop-color="#967D5F" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#967D5F" stroke-width=".5" points="431.81 104.5 466.57 48.561 122.38 27.083 3.449 76.124 178.44 101.76 185.64 119.72 398.52 136.82" fill="url(#ian_symbols_bd1392753eb56cd42194ffb41bd4c93e)"/>
+ <path stroke="#0083B7" stroke-width=".5" d="m477.33 52.464l-65.191-9.198c-18.429 12.332-41.361 15.541-49.714 19.445-16.301 7.637-46.024 22.066-54.389 26.954-8.364 4.898 19.487 22.43 19.487 22.43l25.47 15.26 6.974 4.803 31.457 2.759 85.9-82.456z" fill="#95BFD5"/>
+ <linearGradient id="ian_symbols_32e324f21354f2646501902db0877ced" y2="67.065" gradientUnits="userSpaceOnUse" x2="189.63" y1="134.99" x1="189.63">
+  <stop stop-color="#967D5F" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m283.3 95.098c-16.97-5.23-279.85-28.034-279.85-28.034v38.013l372.37 29.916c-22.14-12.9-76.44-34.95-92.52-39.902z" fill="url(#ian_symbols_32e324f21354f2646501902db0877ced)"/>
+ <linearGradient id="ian_symbols_5c223af32eb727746ddda9c90dd94615" y2="142.75" gradientUnits="userSpaceOnUse" x2="-814.35" gradientTransform="matrix(-.2757 .1037 .2545 .9276 182.61 3.9018)" y1="218.04" x1="-814.35">
+  <stop stop-color="#3E6577" offset="0"/>
+  <stop stop-color="#436C7F" offset=".0337"/>
+  <stop stop-color="#548399" offset=".1592"/>
+  <stop stop-color="#6195AC" offset=".2991"/>
+  <stop stop-color="#6AA1BA" offset=".4588"/>
+  <stop stop-color="#6FA9C3" offset=".6557"/>
+  <stop stop-color="#71ABC5" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="405.82 143.07 500.16 101.38 500.25 30.506 405.53 67.043" fill="url(#ian_symbols_5c223af32eb727746ddda9c90dd94615)"/>
+ <linearGradient id="ian_symbols_ff3881c1775c4764091fc0fcf1633d86" y2="52.399" gradientUnits="userSpaceOnUse" x2="212.4" gradientTransform="matrix(.9973 .0731 -.0731 .9973 -2.2768 -15.449)" y1="128.14" x1="212.4">
+  <stop stop-color="#5F93AA" offset="0"/>
+  <stop stop-color="#6196AE" offset=".0248"/>
+  <stop stop-color="#6EA8C1" offset=".1862"/>
+  <stop stop-color="#76B4CF" offset=".3716"/>
+  <stop stop-color="#7BBCD8" offset=".6002"/>
+  <stop stop-color="#7DBEDA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="405.61 142.92 .583 113.24 .251 37.736 18.755 39.084 391.31 65.962 406.37 67.043" fill="url(#ian_symbols_ff3881c1775c4764091fc0fcf1633d86)"/>
+</svg>

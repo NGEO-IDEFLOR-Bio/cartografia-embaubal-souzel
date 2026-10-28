@@ -1,0 +1,104 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="512" height="512" viewBox="0 0 512 512" xml:space="preserve">
+            <title>Concentration: low sulfate</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: low sulfate</ian_image_library:title>
+                <ian_image_library:descr>Illustration of low sulfate concentration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, low, sulfate, SO4</ian_image_library:contains>
+                    <ian_image_library:when>2011-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-18996a75ffd14ee479cf1a317beaf310">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: low sulfate</dc:title>
+                <dc:date>2011-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-low-sulfate/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-low-sulfate/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, low, sulfate, SO4</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of low sulfate concentration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#BADB96" stroke="#000000" stroke-width="11.4739" stroke-dasharray="34.4217" d="M505.737,255.737
+	c0,138.066-111.919,250-250.01,250c-138.05,0-249.99-111.944-249.99-250c0-138.055,111.93-250,249.99-250
+	C393.818,5.737,505.737,117.671,505.737,255.737z"/>
+<path fill="#D2232A" d="M70.802,277.972l27.256-3.171c3.074,21.465,13.111,32.182,30.176,32.182c8.419,0,15.023-2.185,19.901-6.563
+	c4.806-4.4,7.242-9.85,7.242-16.336c0-3.809-0.837-7.057-2.523-9.725c-1.701-2.683-4.266-4.877-7.71-6.605
+	c-3.454-1.696-11.811-4.569-25.108-8.63c-11.919-3.572-20.641-7.483-26.182-11.683c-5.536-4.22-9.935-9.776-13.214-16.612
+	c-3.233-6.852-4.867-14.243-4.867-22.123c0-9.195,2.086-17.481,6.275-24.836c4.194-7.361,9.956-12.901,17.362-16.664
+	c7.36-3.758,16.468-5.634,27.333-5.634c16.288,0,29.009,4.431,38.168,13.282c9.133,8.877,13.965,21.537,14.52,38.021l-27.955,1.414
+	c-1.229-9.036-3.87-15.395-7.941-19.008c-4.061-3.598-9.869-5.407-17.393-5.407c-7.53,0-13.313,1.547-17.398,4.631
+	c-4.055,3.115-6.091,6.924-6.091,11.534c0,4.508,1.84,8.322,5.541,11.406c3.69,3.099,12.171,6.553,25.447,10.403
+	c14.037,4.179,24.152,8.481,30.422,12.968c6.229,4.508,11.015,10.311,14.309,17.404c3.29,7.104,4.939,15.734,4.939,25.864
+	c0,14.649-4.498,26.97-13.523,36.968c-9.031,9.977-23.134,14.957-42.321,14.957c-33.887-0.021-52.822-19.348-56.646-58.057
+	L70.802,277.972z"/>
+<path fill="#D2232A" d="M387.341,220.697v18.217h-56.548c0.606-6.883,2.467-13.442,5.571-19.661
+	c3.109-6.245,9.134-14.407,18.103-24.518c7.093-8.034,11.457-13.487,13.097-16.34c2.421-4.148,3.634-8.301,3.634-12.516
+	c0-4.467-0.992-7.839-3.022-10.136c-2.021-2.261-4.703-3.408-7.992-3.408c-7.212,0-11.087,5.34-11.662,15.975l-15.815-2.077
+	c0.977-10.388,3.896-18.016,8.701-22.878c4.837-4.883,11.271-7.325,19.29-7.325c8.8,0,15.471,2.873,19.933,8.604
+	c4.477,5.746,6.717,12.31,6.717,19.722c0,4.185-0.58,8.26-1.722,12.187c-1.156,3.953-2.909,7.916-5.294,11.889
+	c-2.374,3.994-6.348,9.087-11.888,15.287c-5.218,5.833-8.481,9.652-9.858,11.529c-1.383,1.866-2.503,3.675-3.325,5.448h32.098
+	H387.341z"/>
+<path fill="#D2232A" d="M402.993,197.67v-20.395h37.68v20.395H402.993z"/>
+<path fill="#D2232A" d="M192.363,249.718c0-20.103,2.786-36.644,8.357-49.653c5.582-12.999,12.875-22.683,21.865-29.046
+	c8.995-6.373,19.896-9.565,32.715-9.565c18.56,0,33.692,7.561,45.384,22.672c11.693,15.112,17.543,36.628,17.543,64.559
+	c0,28.224-6.184,50.28-18.561,66.162c-10.86,14.033-25.632,21.054-44.264,21.054c-18.781,0-33.604-6.943-44.475-20.832
+	c-12.377-15.888-18.57-37.66-18.57-65.35H192.363z M219.172,248.561c0,19.395,3.464,33.95,10.434,43.66
+	c6.954,9.693,15.569,14.546,25.869,14.546c10.346,0,18.93-4.816,25.746-14.448c6.81-9.617,10.207-24.4,10.207-44.338
+	c0-19.537-3.31-34.006-9.94-43.346c-6.63-9.354-15.29-14.032-26.012-14.032c-10.722,0-19.449,4.703-26.197,14.155
+	c-6.744,9.406-10.115,24.02-10.115,43.788L219.172,248.561z"/>
+<path fill="#D2232A" d="M364.326,375.443v-21.219h-43.148v-17.691l45.738-66.953h16.972v66.881h13.092v17.764h-13.092v21.219
+	H364.326z M364.326,336.46v-36.031l-24.234,36.031H364.326z"/>
+</svg>

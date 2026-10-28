@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="503" height="350" viewBox="0 0 503 350" xml:space="preserve">
+            <title>Inputs: conductivity</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Inputs: conductivity</ian_image_library:title>
+                <ian_image_library:descr>Arrow representing conductivity inputs or flows</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>conductivity, input, flow, electricity, chemical</ian_image_library:contains>
+                    <ian_image_library:when>2013-02-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f13fec0a2b15c29485776e6259a8db89">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Inputs: conductivity</dc:title>
+                <dc:date>2013-02-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/inputs-conductivity/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/inputs-conductivity/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>conductivity, input, flow, electricity, chemical</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Arrow representing conductivity inputs or flows</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<path d="M441.595,237.346c22.115-17.344,24.645-20.885,51.756-41.078l-29.854,135.256c-52.619,5.271-84.076,13.746-147.375,16.229
+		c22.299-23.435,31.539-29.733,49.889-49.058C333.341,192.033,73.697,45.15,0,13.283C134.157,6.283,401.71,129.184,441.595,237.346z
+		"/>
+	<path fill="#662D91" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M447.734,224.852
+		c22.85-17.926,25.354-21.444,52.266-41.051l-30.332,135.186c-52.451,4.72-83.914,13.238-147.199,15.68
+		c22.611-22.831,31.861-29.129,49.891-49.057C339.507,179.555,80.073,32.1,6.668,0.796
+		C140.82-6.223,407.775,116.687,447.734,224.852z"/>
+</g>
+</svg>

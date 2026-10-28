@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="470" height="502" viewBox="0 0 470 502" xml:space="preserve">
+            <title>Virus</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Virus</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a virus</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>virus</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5832d6c0fd7d99b4cdd7a348587f168c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Virus</dc:title>
+                <dc:date>2003-11-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/virus/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/virus/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>virus</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a virus</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width=".0725" points="327.42 350.56 291.71 377.49 159.72 202.52 195.42 175.57" fill="#E9302F"/>
+ <polygon stroke="#000" stroke-width=".0725" points="240.61 96.661 193.55 208.37 73.257 223.47 .042 126.86 47.105 15.148 167.39 .039" fill="#E9302F"/>
+ <path d="m61.618 66.084c-6.421 10.934-25.338 45.719 1.334 47.877 16.726 1.356 32.898-11.292 47.899-16.986-2.451.933-4.697 1.996-7.169 7.668-2.506 5.76-4.415 11.183-5.315 17.431-1.475 10.305 7.126 23.852 17.365 26.488 27.876 7.181 46.543-17.518 67.884-30.577 13.065-7.994 2.934-29.818-10.31-21.705-7.273 4.437-13.84 9.741-20.555 14.99-3.081 2.397-34.015 23.95-29.568 8.959 4.295-14.458 16.021-34.503-2.701-45.188-10.999-6.258-24.405 1.844-34.449 6.649-5.846 2.799-11.704 5.597-17.799 7.842-7.094 2.625 3.655 11.129 4.767 6.996 1.611-5.944 5.223-11.432 8.298-16.649 7.817-13.276-11.816-27.171-19.669-13.786z" fill="#00B6F1"/>
+ <path d="m163.44 405.18c8.916-20.836 17.827-41.64 26.759-62.466-2.072.955-4.144 1.919-6.205 2.863 29.937 11.682 59.874 23.375 89.822 35.057 5.125 2.007 17.095 9.794 22.615 5.716 11.52-8.493 23.05-17.008 34.568-25.512 1.356-.998 1.877-2.917 1.627-4.523-5.879-37.942-11.758-75.883-17.647-113.8-1.291 1.866-2.592 3.721-3.904 5.586 22.257-4.197 44.504-8.384 66.761-12.604 6.118-1.15 4.447-10.663-1.67-9.502-22.263 4.198-44.515 8.385-66.772 12.593-2.625.488-4.328 2.961-3.916 5.607 3.656 23.548 7.312 47.097 10.939 70.677 1.925 12.365 3.845 24.72 5.754 37.096 1.15 7.333-.879 4.057 2.224 1.757-5.19 3.829-10.38 7.658-15.576 11.498-5.374 3.98-10.749 7.929-16.107 11.899-5.238 3.861 4.621 2.332-.693.271-11.477-4.491-22.952-8.97-34.428-13.45-23.418-9.144-46.836-18.299-70.254-27.432-2.527-.998-5.185.466-6.204 2.853-8.916 20.826-17.843 41.641-26.759 62.456-2.48 5.72 6.6 9.03 9.06 3.33z"/>
+ <path d="m171.07 496.93c11.725-35.936 23.45-71.87 35.165-107.83.749-2.311 1.497-4.61 2.256-6.909 1.725-5.283-3.384.672-3.222.672 8.558.391 17.105.781 25.664 1.171 19.166.878 38.332 1.735 57.509 2.614 6.194.282 7.132-9.339.9-9.632-28.039-1.27-56.066-2.539-84.116-3.818-2.104-.098-4.295 1.02-4.99 3.135-12.734 39.092-25.479 78.161-38.234 117.25-1.93 5.94 7.13 9.29 9.06 3.36z"/>
+ <path d="m464.09 253.34c-40.925 3.98-81.839 7.951-122.75 11.92-2.25.217-3.617 2.289-3.98 4.295-4.827 27.648-9.664 55.286-14.491 82.945-1.063 6.15 8.558 6.996 9.632.911 3.08-17.659 6.172-35.339 9.252-52.997 1.524-8.797 3.081-17.593 4.61-26.379 1.149-6.53-.705.488-2.68.672 2.332-.228 4.659-.455 6.98-.683 38.37-3.72 76.746-7.452 115.1-11.172 6.2-.60 4.49-10.12-1.67-9.51z"/>
+</svg>

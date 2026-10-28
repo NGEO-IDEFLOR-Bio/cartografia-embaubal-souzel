@@ -1,0 +1,94 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="307" height="500" viewBox="0 0 307 500" xml:space="preserve">
+            <title>Well</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Well</ian_image_library:title>
+                <ian_image_library:descr>Above-ground water well used often in rural or undeveloped areas.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>extraction, groundwater</ian_image_library:contains>
+                    <ian_image_library:when>2016-07-31</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-436569b3d569fe8495b932bf281a516c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Well</dc:title>
+                <dc:date>2016-07-31</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/well/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/well/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>extraction, groundwater</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Above-ground water well used often in rural or undeveloped areas.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+		<linearGradient id="ian_symbols_c9e2e0e335cdb0343dc740b93c0f86bc" gradientUnits="userSpaceOnUse" x1="0" y1="-460.255" x2="306.8" y2="-460.255" gradientTransform="matrix(1 0 0 -1 0 -20.355)">
+		<stop  offset="0" style="stop-color:#C3996B"/>
+		<stop  offset="0.7797" style="stop-color:#8A5F3D"/>
+	</linearGradient>
+		<ellipse id="ian_symbols_5b5937dc4180a574ad00545f948c1a6b" fill="url(#ian_symbols_c9e2e0e335cdb0343dc740b93c0f86bc)" cx="153.4" cy="439.9" rx="153.4" ry="60.1"/>
+		<linearGradient id="ian_symbols_039a9a16542ff5443dfbdccf46f60d4e" gradientUnits="userSpaceOnUse" x1="0" y1="-329.305" x2="306.7" y2="-329.305" gradientTransform="matrix(1 0 0 -1 0 -20.355)">
+		<stop  offset="0" style="stop-color:#C3996B"/>
+		<stop  offset="0.7797" style="stop-color:#8A5F3D"/>
+	</linearGradient>
+		<rect id="ian_symbols_3e5120e1a3890d342544c7a28a3f047a" y="177.9" fill="url(#ian_symbols_039a9a16542ff5443dfbdccf46f60d4e)" width="306.7" height="262.1"/>
+		<linearGradient id="ian_symbols_8cdb40593e47e724b5b7f4bb5d166fde" gradientUnits="userSpaceOnUse" x1="0" y1="-204.355" x2="306.8" y2="-204.355" gradientTransform="matrix(1 0 0 -1 0 -20.355)">
+		<stop  offset="0" style="stop-color:#D6C299"/>
+		<stop  offset="1" style="stop-color:#A98C6B"/>
+	</linearGradient>
+		<ellipse id="ian_symbols_a69acb3175c666a4f5f679b6fb47c7db" fill="url(#ian_symbols_8cdb40593e47e724b5b7f4bb5d166fde)" cx="153.4" cy="184" rx="153.4" ry="60.1"/>
+	<rect id="ian_symbols_e25e549efa4d2184753ef129d5f7c0ff" x="42.6" y="6.8" fill="#231F20" width="13.4" height="163.2"/>
+	<rect id="ian_symbols_9051a94d72c9bdb4899fefce859ce633" x="253.5" y="6.8" fill="#231F20" width="13.4" height="163.2"/>
+	<rect id="ian_symbols_3d0cde9db2151ec4956aca29ed03ebfe" x="150.1" y="6.8" fill="#754E2A" width="6.7" height="163.2"/>
+	<ellipse id="ian_symbols_e8626fb5b2c92b4421b2116e1ec08fe9" fill="#231F20" cx="153.2" cy="184" rx="90.6" ry="25.3"/>
+	<rect id="ian_symbols_55d520dd57d563e4c562110eb2fb71e6" x="32.6" fill="#231F20" width="240.6" height="13.4"/>
+</g>
+</svg>

@@ -1,0 +1,407 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="504" height="493" viewBox="0 0 504 493" xml:space="preserve">
+            <title>Cyclotella: single</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Cyclotella: single</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a single Cyclotella</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, Cyclotella, centric, diatom, Chromista, Ochrophyta, Coscinodiscophyceae, Thalassiosirales, Stephanodiscaceae</ian_image_library:contains>
+                    <ian_image_library:when>2004-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ddff605064b871c4199aed06130e9d7c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Cyclotella: single</dc:title>
+                <dc:date>2004-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/cyclotella-single/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/cyclotella-single/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, Cyclotella, centric, diatom, Chromista, Ochrophyta, Coscinodiscophyceae, Thalassiosirales, Stephanodiscaceae</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a single Cyclotella</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_582fbb4da878a694614a707f709edc07" gradientUnits="userSpaceOnUse" cy="682.7" cx="900.2" gradientTransform="matrix(.3824 -.987 .9418 .3098 -739.45 923.32)" r="240.33">
+  <stop stop-color="#AFA759" offset="0"/>
+  <stop stop-color="#B4AC59" offset=".3415"/>
+  <stop stop-color="#C4BB57" offset=".7549"/>
+  <stop stop-color="#D1C854" offset="1"/>
+ </radialGradient>
+ <path stroke="#4F6330" stroke-width="2.2932" d="m17.344 145.07c85.356-213.25 295.58-132.32 340.85-111.58 45.332 20.795 197.95 126.95 122.2 308.03-75.804 181.14-232.85 158.82-314.02 129.23-81.183-29.66-210.91-137.08-149.03-325.68z" fill="url(#ian_symbols_582fbb4da878a694614a707f709edc07)"/>
+ <linearGradient id="ian_symbols_ff1ea5f08ed6cb543d8aaa24ee6bd9bf" y2="544.87" gradientUnits="userSpaceOnUse" x2="924.39" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="544.87" x1="863.11">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="32.845 235.48 141.65 230.1 151.2 212.66 35.492 206.9" fill="url(#ian_symbols_ff1ea5f08ed6cb543d8aaa24ee6bd9bf)"/>
+ <linearGradient id="ian_symbols_6921ce2254c44624995fd1e91378f897" y2="542.39" gradientUnits="userSpaceOnUse" x2="941.21" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="542.39" x1="917.51">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m49.083 179.03c-10.932-15.37 1.082-17.272 1.082-17.272l104.64 34.338-3.612 16.563c.01 0-91.23-18.2-102.11-33.63z" fill="url(#ian_symbols_6921ce2254c44624995fd1e91378f897)"/>
+ <linearGradient id="ian_symbols_c7ed1c6dfe5a5c34b18035ff9bc1423c" y2="548.85" gradientUnits="userSpaceOnUse" x2="986.32" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="548.85" x1="941.21">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="66.729 140.65 79.817 121.42 163.26 181.3 154.81 196.1" fill="url(#ian_symbols_c7ed1c6dfe5a5c34b18035ff9bc1423c)"/>
+ <linearGradient id="ian_symbols_675acb87486497c471eb3dbf0a297f19" y2="554.91" gradientUnits="userSpaceOnUse" x2="1037.3" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="554.91" x1="957.99">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="174.33 167.27 120.47 81.845 86.896 103.22 163.26 181.3" fill="url(#ian_symbols_675acb87486497c471eb3dbf0a297f19)"/>
+ <linearGradient id="ian_symbols_49c8f5037ba4808489bb8a2a3cc57281" y2="578.13" gradientUnits="userSpaceOnUse" x2="1068.6" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="578.13" x1="989.05">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="184.46 155.88 123.44 74.008 151.45 59.658 205.45 145.07" fill="url(#ian_symbols_49c8f5037ba4808489bb8a2a3cc57281)"/>
+ <linearGradient id="ian_symbols_390778b0bc8e5b64d113eba042b1918c" y2="602.39" gradientUnits="userSpaceOnUse" x2="1097.4" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="602.39" x1="1009.2">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="230.48 138.63 194 44.24 160.49 50.877 213.92 145.01" fill="url(#ian_symbols_390778b0bc8e5b64d113eba042b1918c)"/>
+ <linearGradient id="ian_symbols_8fc07d8a09a570443d90dbbc207a2d3b" y2="642.18" gradientUnits="userSpaceOnUse" x2="1118.3" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="642.18" x1="1021">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="259.38 136.41 250.9 42.337 219.42 43.792 240.41 141.91" fill="url(#ian_symbols_8fc07d8a09a570443d90dbbc207a2d3b)"/>
+ <linearGradient id="ian_symbols_c1026bcb3e76a3f4350f5872339590fd" y2="675.2" gradientUnits="userSpaceOnUse" x2="1127.8" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="675.2" x1="1032.9">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="271.83 140.46 262.85 40.38 296.24 48.472 285.3 141.98" fill="url(#ian_symbols_c1026bcb3e76a3f4350f5872339590fd)"/>
+ <linearGradient id="ian_symbols_009848f87d0255f4ade08444c630246e" y2="704.04" gradientUnits="userSpaceOnUse" x2="1134.2" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="704.04" x1="1039.2">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="296.29 142.6 305.21 54.351 330.63 53.903" fill="url(#ian_symbols_009848f87d0255f4ade08444c630246e)"/>
+ <linearGradient id="ian_symbols_efd8117f3c7a6c243d98ea73999894f8" y2="746.18" gradientUnits="userSpaceOnUse" x2="1129.2" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="746.18" x1="1059.2">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="320.76 130.09 348.52 65.662 367.92 80.839" fill="url(#ian_symbols_efd8117f3c7a6c243d98ea73999894f8)"/>
+ <linearGradient id="ian_symbols_9ee29f38a0970f94f599c886156cd280" y2="772.19" gradientUnits="userSpaceOnUse" x2="1121.7" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="772.19" x1="1045.9">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="333.66 140.21 343.15 152.16 399.73 100.19 377.92 84.127" fill="url(#ian_symbols_9ee29f38a0970f94f599c886156cd280)"/>
+ <linearGradient id="ian_symbols_eec447b3c475c47455987aab8dc89f86" y2="798.36" gradientUnits="userSpaceOnUse" x2="1105.9" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="798.36" x1="1037.5">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m354.97 164.87c-15.942-2.281 5.114-12.965 5.114-12.965l49.123-39.832 12.33 18.844c.01 0-50.57 36.29-66.56 33.96z" fill="url(#ian_symbols_eec447b3c475c47455987aab8dc89f86)"/>
+ <linearGradient id="ian_symbols_c967469de5d18244dd3553f1fb6fa055" y2="819.39" gradientUnits="userSpaceOnUse" x2="1078.5" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="819.39" x1="1010.4">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="362.37 196.73 349.4 186.62 423.94 146.4 440.76 175.49" fill="url(#ian_symbols_c967469de5d18244dd3553f1fb6fa055)"/>
+ <linearGradient id="ian_symbols_b29ae847688c80a495841239b372964a" y2="849.4" gradientUnits="userSpaceOnUse" x2="1043.2" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="849.4" x1="991.38">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m377.73 222.4s12.517-10.552-.951-12.076c-13.523-1.516 73.847-16.887 73.847-16.887l3.419 27.577-76.32 1.39z" fill="url(#ian_symbols_b29ae847688c80a495841239b372964a)"/>
+ <linearGradient id="ian_symbols_e7dfcfffe24853e46dce2f8f0b2aa7fb" y2="859.81" gradientUnits="userSpaceOnUse" x2="1004.6" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="859.81" x1="966.41">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="458.91 237.38 373.61 232.83 376.08 248.33 454.86 262.48" fill="url(#ian_symbols_e7dfcfffe24853e46dce2f8f0b2aa7fb)"/>
+ <linearGradient id="ian_symbols_b33c16575083a3140d75947ebf89c540" y2="874.2" gradientUnits="userSpaceOnUse" x2="962.94" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="874.2" x1="921.24">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="456.25 280.62 377.04 260.46 369.94 278.72 451.07 323.06" fill="url(#ian_symbols_b33c16575083a3140d75947ebf89c540)"/>
+ <linearGradient id="ian_symbols_bb083c6d0caa1e84d5f4de08f801958b" y2="872.22" gradientUnits="userSpaceOnUse" x2="924.64" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="872.22" x1="881.99">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="448.48 336.9 368.37 289.92 352.82 308.38 434.38 358.77" fill="url(#ian_symbols_bb083c6d0caa1e84d5f4de08f801958b)"/>
+ <linearGradient id="ian_symbols_4f5518dc978b9914f59a0e63e59a585d" y2="860.88" gradientUnits="userSpaceOnUse" x2="894.56" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="860.88" x1="820.13">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m427.37 377.04s-64.687-50.708-77.582-60.889c-12.896-10.111-19.981 8.23-19.981 8.23l72.379 88.575 15.569-18.465 9.61-17.46z" fill="url(#ian_symbols_4f5518dc978b9914f59a0e63e59a585d)"/>
+ <linearGradient id="ian_symbols_f12cf2fc40ec9cb40173db7513558978" y2="547.67" gradientUnits="userSpaceOnUse" x2="885.16" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="547.67" x1="818.62">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="29.109 281.38 29.233 251.99 134.56 248.38 129.51 261.4" fill="url(#ian_symbols_f12cf2fc40ec9cb40173db7513558978)"/>
+ <linearGradient id="ian_symbols_352091f35eb76154e514226c5f243c61" y2="837.43" gradientUnits="userSpaceOnUse" x2="862.47" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="837.43" x1="777.34">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="382.22 421.05 323.73 340 302.17 344.73 354.59 441.41" fill="url(#ian_symbols_352091f35eb76154e514226c5f243c61)"/>
+ <linearGradient id="ian_symbols_1953db075d911ce41552640436e5d809" y2="813.3" gradientUnits="userSpaceOnUse" x2="850.77" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="813.3" x1="751.25">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m340.66 448.61c2.551-13.902-38.494-103.88-38.494-103.88l-20.416 2.096 28.887 106.59s27.44 9.04 30.02-4.81z" fill="url(#ian_symbols_1953db075d911ce41552640436e5d809)"/>
+ <linearGradient id="ian_symbols_06b5c3af52d429d4a979f624e26f071d" y2="777.76" gradientUnits="userSpaceOnUse" x2="841.93" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="777.76" x1="738.75">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m279.15 454.88c10.573-5.377 2.605-108.05 2.605-108.05l-20.994 10.684c-.01 0 7.96 102.67 18.38 97.37z" fill="url(#ian_symbols_06b5c3af52d429d4a979f624e26f071d)"/>
+ <linearGradient id="ian_symbols_f1d19d3be118fbf4a964463ec6d87da9" y2="748.84" gradientUnits="userSpaceOnUse" x2="827.33" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="748.84" x1="726.81">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m244.83 449.38l6.954-97.742s-12.068 16.617-22.063 28.066c-10.057 11.379-4.37 69.229-4.37 69.229l19.48.44z" fill="url(#ian_symbols_f1d19d3be118fbf4a964463ec6d87da9)"/>
+ <linearGradient id="ian_symbols_8259025b40d2f004319f5ff6e70ec4d6" y2="709.2" gradientUnits="userSpaceOnUse" x2="823.94" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="709.2" x1="720.36">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="190.96 443.5 228.39 346.88 202.28 370.66 184.14 417.63" fill="url(#ian_symbols_8259025b40d2f004319f5ff6e70ec4d6)"/>
+ <linearGradient id="ian_symbols_974e1a01d8ac8b8441c64c3f4c7ed0b2" y2="673.8" gradientUnits="userSpaceOnUse" x2="823.16" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="673.8" x1="730.66">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m160.12 421.56l38.371-84.529-13.468-1.455s-36.799 73.206-32.236 54.113c4.604-19.029-4.115 25.165-4.115 25.165l11.46 6.7z" fill="url(#ian_symbols_974e1a01d8ac8b8441c64c3f4c7ed0b2)"/>
+ <linearGradient id="ian_symbols_9fe981d6a94ec9d43555490c174a3fa7" y2="641.71" gradientUnits="userSpaceOnUse" x2="825.13" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="641.71" x1="743.36">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m115.35 392.09s37.558-17.011 49.123-39.77c11.573-22.629 5.121-27.695 5.121-27.695s-36.606 29.148-47.668 43.189c-11 14.03-6.57 24.28-6.57 24.28z" fill="url(#ian_symbols_9fe981d6a94ec9d43555490c174a3fa7)"/>
+ <linearGradient id="ian_symbols_4d757d83e28931b4dd74975484ca07eb" y2="608.65" gradientUnits="userSpaceOnUse" x2="835.62" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="608.65" x1="750.82">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <polygon points="86.014 373.7 163.09 319.58 146.27 305.16 68.624 353.27" fill="url(#ian_symbols_4d757d83e28931b4dd74975484ca07eb)"/>
+ <linearGradient id="ian_symbols_90ab7ead8c781c04897e86a8a754ffee" y2="570.54" gradientUnits="userSpaceOnUse" x2="863.08" gradientTransform="matrix(.3362 -.9418 .9418 .3362 -724.97 881.42)" y1="570.54" x1="774.97">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </linearGradient>
+ <path d="m52.819 336.2l90.975-46.532-4.928-16.307s-84.84 16.184-98.88 23.325c-13.966 7.22 12.839 39.52 12.839 39.52z" fill="url(#ian_symbols_90ab7ead8c781c04897e86a8a754ffee)"/>
+ <path stroke="#4F6330" stroke-width="2.2932" d="m50.166 161.76c65.624-140.29 203.83-141.93 298.35-96.098 94.58 45.835 135.94 171.22 92.429 283.5-43.498 112.16-180.31 131.95-274.39 77.444-94.014-54.43-182.02-124.6-116.39-264.84z" fill="none"/>
+ <path stroke="#4F6330" stroke-width="2.2932" d="m151.77 204c32.367-83.579 126.63-73.15 167.35-47.979 40.783 25.227 72.454 88.576 41.286 140.17-31.229 51.46-113.24 74.605-161.92 40.846-48.75-33.65-79.16-49.52-46.72-133.04z" fill="none"/>
+ <radialGradient id="ian_symbols_5fff99ba33cf10845d1f1eaee4e5df6a" gradientUnits="userSpaceOnUse" cy="-31.717" cx="1287.6" gradientTransform="matrix(.522 -.5301 .5729 .3966 -403.28 1002.6)" r="16.788">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m260.38 297.64c4.749 3.219 4.185 10.234-1.137 15.68-5.376 5.369-13.592 7.266-18.21 3.916-4.735-3.219-4.232-10.242 1.137-15.682 5.38-5.44 13.59-7.27 18.21-3.92z" fill="url(#ian_symbols_5fff99ba33cf10845d1f1eaee4e5df6a)"/>
+ <radialGradient id="ian_symbols_ca4e4e58dff1fc846d79051b16b02cd0" gradientUnits="userSpaceOnUse" cy="-217.41" cx="1591.1" gradientTransform="matrix(.3951 -.3875 .5124 .3681 -297.44 940.09)" r="25.25">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m230.8 232.7c6.382 4.494 6.638 13.027.503 18.968-6.072 5.941-16.252 7.272-22.566 2.592-6.259-4.487-6.452-13.02-.379-18.968 6.13-6 16.25-7.26 22.45-2.59z" fill="url(#ian_symbols_ca4e4e58dff1fc846d79051b16b02cd0)"/>
+ <radialGradient id="ian_symbols_6663cc80f7f0691445f3677bd80a927f" gradientUnits="userSpaceOnUse" cy="-178.21" cx="1595" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.766">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m293.64 286.88c3.667 2.467 3.343 7.843-.641 11.827-3.978 4.046-10.235 5.183-13.854 2.646-3.591-2.46-3.356-7.837.648-11.883 3.97-4.05 10.18-5.24 13.84-2.6z" fill="url(#ian_symbols_6663cc80f7f0691445f3677bd80a927f)"/>
+ <radialGradient id="ian_symbols_fe3f28c8154085c45914f4104c99ba44" gradientUnits="userSpaceOnUse" cy="-254.72" cx="1673.1" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="27.522">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m294.53 227.65c5.947 4.232 5.5 12.896-1.076 19.588-6.389 6.645-16.563 8.416-22.572 4.308-5.935-4.239-5.569-12.902 1.013-19.54 6.58-6.57 16.57-8.47 22.64-4.36z" fill="url(#ian_symbols_fe3f28c8154085c45914f4104c99ba44)"/>
+ <radialGradient id="ian_symbols_125b9766d0edb914e9c92e773f041e1b" gradientUnits="userSpaceOnUse" cy="-413.44" cx="1648.3" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="39.353">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m219.23 182.82c8.409 6.01 7.782 18.396-1.592 27.942-9.222 9.422-23.765 12.076-32.292 6.203-8.471-6.141-7.906-18.465 1.455-27.942 9.35-9.42 23.7-12.15 32.43-6.2z" fill="url(#ian_symbols_125b9766d0edb914e9c92e773f041e1b)"/>
+ <radialGradient id="ian_symbols_59292221c029c4d439f34aa0154f6d4d" gradientUnits="userSpaceOnUse" cy="-218.3" cx="1707" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.812">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m319.3 230.36c3.611 2.592 3.419 7.968-.572 11.945-3.977 4.046-10.166 5.19-13.833 2.661-3.681-2.592-3.357-7.968.558-11.89 4.06-4.03 10.32-5.18 13.84-2.71z" fill="url(#ian_symbols_59292221c029c4d439f34aa0154f6d4d)"/>
+ <radialGradient id="ian_symbols_d150f0a87ea85964913081685f9bf4e1" gradientUnits="userSpaceOnUse" cy="-156.8" cx="1587.9" gradientTransform="matrix(.4366 -.4369 .5168 .3642 -324.57 970.63)" r="16.753">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m295.73 211.71c4.231 2.978 4.046 9.043-.387 13.468-4.479 4.494-11.565 5.755-15.735 2.661-4.301-2.902-4.115-8.919.379-13.468 4.37-4.43 11.51-5.69 15.75-2.66z" fill="url(#ian_symbols_d150f0a87ea85964913081685f9bf4e1)"/>
+ <radialGradient id="ian_symbols_e16e2552c7e599147d07b321cda9f238" gradientUnits="userSpaceOnUse" cy="-279.72" cx="1789.7" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.789">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m324.25 178.89c3.667 2.474 3.343 7.782-.641 11.772-3.977 4.046-10.235 5.238-13.847 2.715-3.599-2.591-3.405-7.905.571-11.951 4.05-3.92 10.18-5.19 13.92-2.54z" fill="url(#ian_symbols_e16e2552c7e599147d07b321cda9f238)"/>
+ <radialGradient id="ian_symbols_790f5c79f94ce3e48d42949a181ba016" gradientUnits="userSpaceOnUse" cy="110.59" cx="1401.2" gradientTransform="matrix(.555 -.5303 .8008 .5868 -575.05 863.61)" r="16.758">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m301.41 175.61c6.638 4.749 7.341 13.082 1.654 18.527-5.631 5.431-15.557 5.935-22.076 1.144-6.638-4.756-7.265-13.089-1.696-18.534 5.7-5.43 15.75-6.01 22.13-1.14z" fill="url(#ian_symbols_790f5c79f94ce3e48d42949a181ba016)"/>
+ <radialGradient id="ian_symbols_34dc5e1f353b3154115918844bee9db2" gradientUnits="userSpaceOnUse" cy="-110.45" cx="1641" gradientTransform="matrix(.4031 -.3807 .6074 .4484 -357.55 889.3)" r="16.8">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m244.39 208.04c4.99 3.667 5.631 9.808 1.517 13.661-4.17 3.977-11.441 4.046-16.438.448-4.997-3.736-5.693-9.87-1.579-13.847 4.1-3.8 11.5-3.92 16.5-.26z" fill="url(#ian_symbols_34dc5e1f353b3154115918844bee9db2)"/>
+ <radialGradient id="ian_symbols_9a2535b6fe415284659c0ef1976bd5a0" gradientUnits="userSpaceOnUse" cy="-234.15" cx="1486" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.756">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m226.24 312.18c3.736 2.522 3.357 7.83-.627 11.883-3.977 4.046-10.18 5.252-13.778 2.592-3.667-2.529-3.419-7.837.572-11.883 3.98-3.99 10.18-5.18 13.84-2.59z" fill="url(#ian_symbols_9a2535b6fe415284659c0ef1976bd5a0)"/>
+ <radialGradient id="ian_symbols_710899ad60af997415900b10371ef1c2" gradientUnits="userSpaceOnUse" cy="-193.06" cx="1746.4" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.768">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m345.92 222.84c3.68 2.529 3.418 7.837-.559 11.828-3.978 4.046-10.181 5.183-13.848 2.715-3.666-2.591-3.411-7.968.635-11.944 4.05-4.05 10.18-5.19 13.78-2.6z" fill="url(#ian_symbols_710899ad60af997415900b10371ef1c2)"/>
+ <radialGradient id="ian_symbols_175ff600bdded6f4c9c842a350258569" gradientUnits="userSpaceOnUse" cy="-15.251" cx="1648.6" gradientTransform="matrix(.4005 -.3829 .5762 .422 -338.43 905.32)" r="16.775">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m320.44 260.46c4.688 3.474 5.26 9.546 1.075 13.399-4.101 3.922-11.187 4.356-15.928.882-4.735-3.474-5.184-9.353-1.068-13.275 4.05-4.04 11.19-4.35 15.92-1z" fill="url(#ian_symbols_175ff600bdded6f4c9c842a350258569)"/>
+ <radialGradient id="ian_symbols_03a646ab106df23401b8f18af9750511" gradientUnits="userSpaceOnUse" cy="-251.86" cx="1603.5" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.776">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m264.12 260.59c3.584 2.523 3.28 7.83-.642 11.821-3.977 4.046-10.166 5.19-13.901 2.647-3.599-2.523-3.288-7.768.634-11.821 4.04-4.1 10.24-5.25 13.91-2.65z" fill="url(#ian_symbols_03a646ab106df23401b8f18af9750511)"/>
+ <radialGradient id="ian_symbols_129d569333715104e106dd28c03ca0b6" gradientUnits="userSpaceOnUse" cy="-112.48" cx="1395.3" gradientTransform="matrix(.536 -.5668 .4591 .296 -345.16 1082.7)" r="16.878">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m361.04 248c3.722 2.522 2.336 9.16-3.164 15.053-5.445 5.741-12.965 8.471-16.756 6.065-3.729-2.468-2.329-9.174 3.102-14.984 5.63-5.76 13.02-8.47 16.82-6.14z" fill="url(#ian_symbols_129d569333715104e106dd28c03ca0b6)"/>
+ <radialGradient id="ian_symbols_ab9cdc8fd5b67304157b2701d281f970" gradientUnits="userSpaceOnUse" cy="17.74" cx="1547.5" gradientTransform="matrix(.3997 -.3836 .5671 .4143 -333.3 909.43)" r="16.749">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m302.69 316.1c4.673 3.343 5.114 9.223 1.007 13.213-4.115 3.977-11.256 4.355-15.874.883-4.673-3.288-5.052-9.236-.951-13.158 4.04-3.9 11.12-4.35 15.81-.93z" fill="url(#ian_symbols_ab9cdc8fd5b67304157b2701d281f970)"/>
+ <radialGradient id="ian_symbols_23aab3ebcc708ac4edc86fe5ef469ec5" gradientUnits="userSpaceOnUse" cy="-294.68" cx="1642.2" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.734">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m260.07 232.01c3.598 2.529 3.343 7.844-.642 11.828-3.977 4.046-10.166 5.238-13.777 2.715-3.667-2.591-3.412-7.836.634-11.882 3.99-4.06 10.19-5.27 13.79-2.67z" fill="url(#ian_symbols_23aab3ebcc708ac4edc86fe5ef469ec5)"/>
+ <radialGradient id="ian_symbols_2e6209c8c5bad0f445de8078f8059d02" gradientUnits="userSpaceOnUse" cy="-172.07" cx="1508.2" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.792">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m262.54 322.79c3.666 2.53 3.343 7.905-.572 11.896-3.991 4.046-10.249 5.169-13.848 2.647-3.729-2.53-3.418-7.838.572-11.883 3.98-4 10.17-5.19 13.85-2.67z" fill="url(#ian_symbols_2e6209c8c5bad0f445de8078f8059d02)"/>
+ <radialGradient id="ian_symbols_9ab3fc7db8fbbf44753f3b759e889e47" gradientUnits="userSpaceOnUse" cy="-262.52" cx="1300.1" gradientTransform="matrix(.4932 -.5159 .4553 .3006 -310.97 1042)" r="16.798">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m219.85 282.77c3.736 2.475 2.661 8.732-2.46 14.109-4.99 5.238-12.145 7.52-15.798 5.052-3.805-2.461-2.729-8.788 2.33-14.026 5-5.25 12.14-7.47 15.93-5.13z" fill="url(#ian_symbols_9ab3fc7db8fbbf44753f3b759e889e47)"/>
+ <radialGradient id="ian_symbols_04ca78404b49c76451ddf27f94833e6a" gradientUnits="userSpaceOnUse" cy="-28.862" cx="1347.6" gradientTransform="matrix(.522 -.5301 .5729 .3966 -403.28 1002.6)" r="26.849">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m299.2 261.15c7.465 5.052 6.582 16.376-1.889 24.972-8.616 8.664-21.753 11.704-29.218 6.327-7.52-5.121-6.638-16.376 1.902-25.041 8.6-8.78 21.68-11.63 29.21-6.26z" fill="url(#ian_symbols_04ca78404b49c76451ddf27f94833e6a)"/>
+ <radialGradient id="ian_symbols_d637de2fa0c550a43dd52f5e7736faed" gradientUnits="userSpaceOnUse" cy="-172.95" cx="1549" gradientTransform="matrix(.3951 -.3875 .5124 .3681 -297.44 940.09)" r="16.744">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m233.26 269.06c4.239 2.971 4.363 8.657.249 12.585-3.984 3.908-10.746 4.804-14.923 1.696-4.17-2.909-4.294-8.596-.248-12.572 4.05-3.99 10.81-4.81 14.92-1.71z" fill="url(#ian_symbols_d637de2fa0c550a43dd52f5e7736faed)"/>
+ <radialGradient id="ian_symbols_c9769df33486bc64358b1b280c2e47de" gradientUnits="userSpaceOnUse" cy="-240.28" cx="1760.7" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="26.863">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m334.8 198.12c5.865 4.046 5.376 12.517-.951 19.03-6.383 6.313-16.432 8.285-22.187 4.17-5.824-4.046-5.501-12.585.951-18.968 6.45-6.51 16.37-8.4 22.19-4.23z" fill="url(#ian_symbols_c9769df33486bc64358b1b280c2e47de)"/>
+ <radialGradient id="ian_symbols_43f07a7847a9431411da2f84153830f9" gradientUnits="userSpaceOnUse" cy="-168.77" cx="1556" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="22.297">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m285.04 302.69c4.873 3.356 4.425 10.374-.883 15.805-5.183 5.376-13.468 6.893-18.327 3.543-4.811-3.474-4.494-10.497.883-15.874 5.31-5.31 13.4-6.89 18.33-3.48z" fill="url(#ian_symbols_43f07a7847a9431411da2f84153830f9)"/>
+ <radialGradient id="ian_symbols_7a65ebf93700f30491932a11b3200642" gradientUnits="userSpaceOnUse" cy="-311.51" cx="1529.8" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="20.076">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m210.12 269.37c4.301 3.164 4.046 9.491-.696 14.295-4.804 4.742-12.138 6.128-16.563 3.149-4.315-3.094-3.977-9.477.813-14.212 4.76-4.81 12.16-6.13 16.45-3.23z" fill="url(#ian_symbols_7a65ebf93700f30491932a11b3200642)"/>
+ <radialGradient id="ian_symbols_8494d1da6d8138f4f5a1609c49374bdf" gradientUnits="userSpaceOnUse" cy="-245.67" cx="1429" gradientTransform="matrix(.4366 -.4369 .5168 .3642 -324.57 970.63)" r="19.96">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m181.92 247.18c5.114 3.536 4.928 10.746-.386 16.053-5.362 5.376-13.778 6.831-18.83 3.164-5.066-3.48-4.804-10.684.503-15.998 5.26-5.29 13.73-6.87 18.72-3.21z" fill="url(#ian_symbols_8494d1da6d8138f4f5a1609c49374bdf)"/>
+ <radialGradient id="ian_symbols_277169f09e6a65148573fc44ceae222d" gradientUnits="userSpaceOnUse" cy="-377.56" cx="1581.1" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="16.811">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m199.38 230.17c3.667 2.53 3.343 7.782-.634 11.828s-10.235 5.238-13.847 2.716c-3.543-2.592-3.357-7.968.634-12.014 4.04-3.99 10.17-5.2 13.85-2.54z" fill="url(#ian_symbols_277169f09e6a65148573fc44ceae222d)"/>
+ <radialGradient id="ian_symbols_28d604aee1a091f4b1a34f9e859fe881" gradientUnits="userSpaceOnUse" cy="24.3" cx="1615.8" gradientTransform="matrix(.4183 -.4042 .5778 .4201 -349.11 919.08)" r="16.785">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m348.52 268.68c4.805 3.405 5.122 9.608.883 13.71-4.301 4.184-11.579 4.811-16.321 1.33-4.805-3.405-5.114-9.546-.883-13.709 4.24-4.18 11.64-4.74 16.32-1.33z" fill="url(#ian_symbols_28d604aee1a091f4b1a34f9e859fe881)"/>
+ <radialGradient id="ian_symbols_ef21c0923200dc048910f7ae4dbc41ae" gradientUnits="userSpaceOnUse" cy="-118.24" cx="1776.3" gradientTransform="matrix(.4031 -.3807 .6074 .4484 -357.55 889.3)" r="16.822">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m294.22 153.04c4.983 3.667 5.687 9.801 1.51 13.654-4.108 3.915-11.449 4.046-16.433.503-4.941-3.791-5.568-9.925-1.585-13.916 4.16-3.77 11.5-3.96 16.5-.23z" fill="url(#ian_symbols_ef21c0923200dc048910f7ae4dbc41ae)"/>
+ <radialGradient id="ian_symbols_cdaee9fe9edc8494013b1292b54d7c11" gradientUnits="userSpaceOnUse" cy="-342.26" cx="1497.5" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="26.822">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m186.8 269.62c5.872 3.984 5.376 12.455-.951 19.023-6.383 6.396-16.253 8.299-22.132 4.115-5.879-3.977-5.376-12.586.951-18.969 6.32-6.38 16.23-8.34 22.13-4.17z" fill="url(#ian_symbols_cdaee9fe9edc8494013b1292b54d7c11)"/>
+ <radialGradient id="ian_symbols_3c14c93a1461f3a4f5bd197c5a4ac27d" gradientUnits="userSpaceOnUse" cy="-280.15" cx="1471.9" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="20.009">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m201.59 301.93c4.356 3.04 3.977 9.422-.709 14.171-4.735 4.734-12.193 6.127-16.563 3.15-4.294-3.096-3.977-9.423.827-14.158 4.74-4.86 12.07-6.19 16.44-3.16z" fill="url(#ian_symbols_3c14c93a1461f3a4f5bd197c5a4ac27d)"/>
+ <radialGradient id="ian_symbols_836bb2401da5c224c15da862f6da5ccf" gradientUnits="userSpaceOnUse" cy="-162.24" cx="1682.8" gradientTransform="matrix(.4005 -.3829 .5762 .422 -338.43 905.32)" r="22.293">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m251.91 183.01c6.245 4.549 7.017 12.586 1.454 17.769-5.5 5.19-14.853 5.749-21.235 1.13-6.142-4.604-6.83-12.448-1.399-17.638 5.38-5.38 14.93-5.81 21.19-1.26z" fill="url(#ian_symbols_836bb2401da5c224c15da862f6da5ccf)"/>
+ <radialGradient id="ian_symbols_e836b561f8d1b504ed79bb86f05c5783" gradientUnits="userSpaceOnUse" cy="-327.2" cx="1703.2" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="22.333">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m271.76 195.52c4.804 3.426 4.425 10.498-.882 15.805-5.245 5.308-13.523 6.831-18.396 3.543-4.866-3.405-4.363-10.491.827-15.805 5.37-5.37 13.58-6.94 18.45-3.54z" fill="url(#ian_symbols_e836b561f8d1b504ed79bb86f05c5783)"/>
+ <radialGradient id="ian_symbols_8a89dc10ff1bafb469291abc873a9577" gradientUnits="userSpaceOnUse" cy="-427.65" cx="1394.3" gradientTransform="matrix(.536 -.5668 .4591 .296 -345.16 1082.7)" r="20.071">
+  <stop stop-color="#7E6F40" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m217.71 153.29c4.494 3.04 2.716 10.945-3.791 17.893-6.445 6.831-15.433 10.063-19.857 7.279-4.549-2.971-2.84-10.938 3.66-17.893 6.64-6.9 15.44-10.05 19.99-7.28z" fill="url(#ian_symbols_8a89dc10ff1bafb469291abc873a9577)"/>
+ <radialGradient id="ian_symbols_13c18f329dff1d4435f3cedf36f3cd45" gradientUnits="userSpaceOnUse" cy="19.098" cx="1606.6" gradientTransform="matrix(.3997 -.3836 .5671 .4143 -333.3 909.43)" r="16.768">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m327.09 293.97c4.681 3.288 5.114 9.235 1.014 13.213-4.115 3.922-11.263 4.356-15.867.951-4.687-3.356-5.065-9.353-.951-13.213 4.05-3.92 11.12-4.42 15.81-.95z" fill="url(#ian_symbols_13c18f329dff1d4435f3cedf36f3cd45)"/>
+ <radialGradient id="ian_symbols_9dd8f8555a9a90c475e1fc167eb7c19f" gradientUnits="userSpaceOnUse" cy="-384.08" cx="1754.8" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="22.156">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m266.39 157.66c4.811 3.288 4.487 10.366-.89 15.68-5.176 5.37-13.405 6.955-18.21 3.536-4.873-3.412-4.617-10.428.827-15.736 5.24-5.38 13.39-7.03 18.27-3.48z" fill="url(#ian_symbols_9dd8f8555a9a90c475e1fc167eb7c19f)"/>
+ <radialGradient id="ian_symbols_28ca2cb326c231b4392198f73cea45a5" gradientUnits="userSpaceOnUse" cy="-424.47" cx="1729.7" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="26.967">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m240.6 152.73c5.88 4.101 5.376 12.641-.951 19.161-6.383 6.445-16.377 8.278-22.256 4.232-5.755-4.115-5.252-12.71 1.075-19.099 6.39-6.45 16.26-8.28 22.14-4.29z" fill="url(#ian_symbols_28ca2cb326c231b4392198f73cea45a5)"/>
+ <radialGradient id="ian_symbols_b800ce51a985dfb431f183074ea6dded" gradientUnits="userSpaceOnUse" cy="-425.06" cx="1576.6" gradientTransform="matrix(.3894 -.3923 .4459 .3118 -255.24 975.39)" r="26.897">
+  <stop stop-color="#677C3B" offset="0"/>
+  <stop stop-color="#96AA77" offset="1"/>
+ </radialGradient>
+ <path d="m180.72 212.73c5.81 4.17 5.376 12.71-1.021 19.092-6.313 6.513-16.301 8.347-22.063 4.232-5.872-4.046-5.493-12.71.889-19.085 6.39-6.32 16.31-8.22 22.19-4.23z" fill="url(#ian_symbols_b800ce51a985dfb431f183074ea6dded)"/>
+</svg>

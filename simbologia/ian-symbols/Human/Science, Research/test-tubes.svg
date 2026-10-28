@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="250" height="502" viewBox="0 0 250 502" xml:space="preserve">
+            <title>Test tubes</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Test tubes</ian_image_library:title>
+                <ian_image_library:descr>Illustration of test tubes</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, samples, glassware, test, tubes</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-78b52ecfa45eefc4698d14978f74464d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Test tubes</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/test-tubes-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/test-tubes-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, samples, glassware, test, tubes</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of test tubes</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke-linejoin="round" d="m98.853 77.019s-30.93 55.998-97.785-.825" stroke="#414042" stroke-linecap="round" stroke-width=".6183" fill="none"/>
+ <path stroke="#231F20" stroke-width=".6183" d="m2.608 26.07s-1.672 366.04 0 425.37c.847 59.353 98.621 58.506 96.938 0-.825-58.5 0-427.05 0-427.05" fill="none"/>
+ <path stroke="#231F20" stroke-width=".6183" d="m49.553 49.542c27.202 0 49.244-11.021 49.244-24.617s-22.042-24.616-49.244-24.616-49.244 11.022-49.244 24.617 22.043 24.616 49.244 24.616z" fill="#fff"/>
+ <path stroke-linejoin="round" d="m247.81 81.694s-30.93 55.998-97.784-.825" stroke="#414042" stroke-linecap="round" stroke-width=".6183" fill="none"/>
+ <path stroke="#231F20" stroke-width=".6183" d="m151.57 30.745s-1.683 366.04 0 425.37c.836 59.331 98.609 58.495 96.938 0-.836-58.5 0-427.06 0-427.06" fill="none"/>
+ <path stroke="#231F20" stroke-width=".6183" d="m198.52 54.228c27.19 0 49.244-11.032 49.244-24.627s-22.05-24.628-49.24-24.628c-27.201 0-49.255 11.033-49.255 24.628s22.06 24.627 49.26 24.627z" fill="#fff"/>
+</svg>

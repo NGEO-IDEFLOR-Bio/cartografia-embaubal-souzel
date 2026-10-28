@@ -1,0 +1,91 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="448" height="502" viewBox="0 0 448 502" xml:space="preserve">
+            <title>Bricks</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Bricks</ian_image_library:title>
+                <ian_image_library:descr>Illustration of bricks</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>bricks, building, material, construction, masonry, ceramic, block, mortar, road, wall</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9014cb6a46452b948539f64d890a30a4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Bricks</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/bricks/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/bricks/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>bricks, building, material, construction, masonry, ceramic, block, mortar, road, wall</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of bricks</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="379.07" width="196.06" stroke="#231F20" y="56.196" x=".617" stroke-width=".5112" fill="#CA7916"/>
+ <polygon stroke="#231F20" stroke-width=".5112" points=".617 56.196 196.68 56.196 248.95 3.9 52.901 3.9" fill="#CD985C"/>
+ <polygon stroke="#231F20" stroke-width=".5112" points="198 431.96 250.27 379.69 250.27 .617 198 52.901" fill="#AB670D"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m118.24 148.35c0 10.529-8.548 19.099-19.066 19.099-10.529 0-19.099-8.57-19.099-19.099 0-10.551 8.57-19.11 19.099-19.11 10.526 0 19.066 8.56 19.066 19.11z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m118.24 252.3c0 10.474-8.548 19.044-19.066 19.044-10.529 0-19.099-8.57-19.099-19.044 0-10.573 8.57-19.121 19.099-19.121 10.526 0 19.066 8.54 19.066 19.12z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m118.24 356.81c0 10.573-8.548 19.121-19.066 19.121-10.529 0-19.099-8.548-19.099-19.121 0-10.529 8.57-19.077 19.099-19.077 10.526 0 19.066 8.55 19.066 19.08z" fill="#231F20"/>
+ <rect height="379.07" width="196.06" stroke="#231F20" y="56.196" x="196.68" stroke-width=".5112" fill="#CA7916"/>
+ <polygon stroke="#231F20" stroke-width=".5112" points="196.68 56.196 392.74 56.196 445.03 3.9 248.95 3.9" fill="#CD985C"/>
+ <polygon stroke="#231F20" stroke-width=".5112" points="394.06 431.96 446.36 379.69 446.36 .617 394.06 52.901" fill="#AB670D"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m314.32 148.35c0 10.529-8.548 19.099-19.099 19.099-10.519 0-19.066-8.57-19.066-19.099 0-10.551 8.548-19.11 19.066-19.11 10.55 0 19.1 8.56 19.1 19.11z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m314.32 252.3c0 10.474-8.548 19.044-19.099 19.044-10.519 0-19.066-8.57-19.066-19.044 0-10.573 8.548-19.121 19.066-19.121 10.55 0 19.1 8.54 19.1 19.12z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m314.32 356.81c0 10.573-8.548 19.121-19.099 19.121-10.519 0-19.066-8.548-19.066-19.121 0-10.529 8.548-19.077 19.066-19.077 10.55 0 19.1 8.55 19.1 19.08z" fill="#231F20"/>
+ <rect height="379.08" width="196.07" stroke="#231F20" y="121.54" x="92.106" stroke-width=".5112" fill="#CA7916"/>
+ <polygon stroke="#231F20" stroke-width=".5112" points="92.106 121.54 288.18 121.54 340.48 69.264 144.37 69.264" fill="#CD985C"/>
+ <polygon stroke="#231F20" stroke-width=".5112" points="289.52 497.3 341.78 445 341.78 65.97 289.52 118.25" fill="#AB670D"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m209.73 213.68c0 10.551-8.542 19.121-19.071 19.121-10.518 0-19.088-8.57-19.088-19.121 0-10.54 8.57-19.044 19.088-19.044 10.52 0 19.07 8.5 19.07 19.04z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m209.73 317.63c0 10.551-8.542 19.11-19.071 19.11-10.518 0-19.088-8.559-19.088-19.11 0-10.54 8.57-19.099 19.088-19.099 10.52 0 19.07 8.56 19.07 19.1z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5112" d="m209.73 422.16c0 10.551-8.542 19.099-19.071 19.099-10.518 0-19.088-8.548-19.088-19.099 0-10.563 8.57-19.044 19.088-19.044 10.52 0 19.07 8.48 19.07 19.04z" fill="#231F20"/>
+</svg>

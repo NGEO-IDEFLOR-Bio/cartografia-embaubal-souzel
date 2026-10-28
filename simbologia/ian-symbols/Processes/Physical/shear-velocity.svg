@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="504" height="206" viewBox="0 0 504 206" xml:space="preserve">
+            <title>Shear velocity</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Shear velocity</ian_image_library:title>
+                <ian_image_library:descr>Illustration of shear velocity</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, shear, velocity, friction, shear, stress, fluid, dynamics</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c092a2aad65bb164e1f70d749a47e5c4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Shear velocity</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/shear-velocity/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/shear-velocity/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, shear, velocity, friction, shear, stress, fluid, dynamics</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of shear velocity</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_dcf48bd6863b34a4351b8f31a2f8a8f8" y2="84.191" gradientUnits="userSpaceOnUse" x2="251.72" y1="203.17" x1="251.72">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="3.4467" d="m1.723 203.17l500-.011v-102.61c-40.798-8.497-98.156 7.128-129.34 7.128-54.047.011-87.278.011-138.9-13.884-46.573-12.548-78.721-12.45-124.99-1.741-31.918 7.379-71.906-3.285-106.77 1.335v109.78z" fill="url(#ian_symbols_dcf48bd6863b34a4351b8f31a2f8a8f8)"/>
+ <path stroke="#231F20" stroke-width="13.788" d="m326.38 41.707l46.01 34.086c-54.047.011-87.278.011-138.9-13.895-46.573-12.537-78.721-12.428-124.99-1.73" fill="none"/>
+ <path d="m241.07 38.345v-5.639c-2.978 4.336-7.04 6.504-12.165 6.504-2.256 0-4.379-.438-6.34-1.303-1.959-.865-3.416-1.96-4.369-3.274-.952-1.303-1.62-2.913-2.004-4.818-.262-1.27-.394-3.296-.394-6.066v-23.749h6.46v21.264c0 3.395.132 5.672.405 6.854.395 1.708 1.271 3.055 2.595 4.019 1.325.985 2.957 1.467 4.917 1.467 1.943 0 3.772-.493 5.485-1.5 1.709-.997 2.912-2.354 3.635-4.073.701-1.719 1.063-4.216 1.063-7.5v-20.531h6.461v38.345h-5.75z" fill="#231F20"/>
+ <path d="m254.38 36.713l1.675-5.069c3.843 1.336 6.646 2.485 8.409 3.46-.471-4.292-.723-7.26-.756-8.869h5.464c-.077 2.343-.372 5.3-.864 8.836 2.496-1.237 5.343-2.376 8.54-3.427l1.653 5.069c-3.044 1.007-6.033 1.687-8.957 2.026 1.457 1.27 3.516 3.548 6.187 6.822l-4.325 3.077c-1.401-1.905-3.076-4.5-5.059-7.774-1.85 3.405-3.46 5.99-4.822 7.774l-4.276-3.077c2.803-3.438 4.807-5.716 6.011-6.822-3.1-.602-6.06-1.281-8.87-2.026z" fill="#231F20"/>
+</svg>

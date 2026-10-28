@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="510" height="220" viewBox="0 0 510 220" xml:space="preserve">
+            <title>Integral length scale</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Integral length scale</ian_image_library:title>
+                <ian_image_library:descr>Illustration of integral length scale</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, integral, length, scale, turbulence, turbulent, flow, Kolmogorov, microscales</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-08dc320be62526b44d2ee0119eeed8a8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Integral length scale</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/integral-length-scale/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/integral-length-scale/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, integral, length, scale, turbulence, turbulent, flow, Kolmogorov, microscales</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of integral length scale</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <line y2="107.01" x1="422.89" fill-rule="evenodd" x2="88.224" stroke="#231F20" stroke-linecap="round" clip-rule="evenodd" y1="107.01" stroke-width="14.282" fill="none"/>
+ <path stroke="#231F20" stroke-width="1.5868" d="m490.76 108c-36.998-14.095-82.899-37.931-111.19-63.081l21.936 62.332-23.011 61.93c28.78-24.59 74.98-47.63 112.26-61.18z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="1.5868" d="m20.528 108c37.019-14.095 82.953-37.931 111.26-63.081l-21.957 62.332 23.032 61.93c-28.8-24.59-75.031-47.63-112.33-61.18z" fill="#231F20"/>
+ <line y2="218.92" x1="4.76" x2="4.76" stroke="#231F20" stroke-width="9.5208" fill="none"/>
+ <line y2="218.92" x1="504.76" x2="504.76" stroke="#231F20" stroke-width="9.5208" fill="none"/>
+</svg>

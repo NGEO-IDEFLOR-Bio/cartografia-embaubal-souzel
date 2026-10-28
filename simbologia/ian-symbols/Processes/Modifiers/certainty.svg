@@ -1,0 +1,74 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="484" viewBox="0 0 501 484" xml:space="preserve">
+            <title>Certainty</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Certainty</ian_image_library:title>
+                <ian_image_library:descr>Illustration of certainty asterisk</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>modifier, certainty, asterisk</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-83ec6578bc4c30e445a21de739353945">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Certainty</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/certainty/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/certainty/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>modifier, certainty, asterisk</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of certainty asterisk</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m327.29 73.562c0 18.728-8.594 44.282-25.815 76.698-17.21 32.428-26.449 59.25-27.684 80.446 16.52-7.88 41.509-29.665 74.978-65.331 26.438-27.797 52.265-41.689 77.469-41.689 20.256 0 37.602 7.778 52.061 23.324 14.43 15.56 21.69 34.13 21.69 55.7 0 22.396-7.462 40.545-22.328 54.45-14.86 13.89-34.09 20.84-57.6 20.84-10.744 0-28.725-1.868-53.929-5.604-25.192-3.737-40.682-5.605-46.456-5.605-14.9 0-26.687 1.246-35.326 3.703 12.443 11.164 47.079 32.427 103.91 63.813 32.36 17.765 48.54 41.271 48.54 70.596 0 21.456-7.982 39.719-23.959 54.789-15.964 15.07-35.563 22.6-58.797 22.6-27.378 0-47.294-11.13-59.737-33.424-7.055-13.202-13.995-38.575-20.845-76.121-6.839-37.545-14.833-64.334-23.959-80.435-8.707 14.447-16.383 40.024-23.018 76.732-6.635 38.372-13.485 64.164-20.539 77.366-12.024 23.925-31.941 35.881-59.726 35.881-23.233 0-42.833-7.529-58.809-22.6-15.965-15.07-23.958-33.333-23.958-54.789 0-28.906 16.395-52.208 49.162-69.973 55.582-30.56 90.229-52.027 103.92-64.437-9.126-2.457-20.958-3.703-35.473-3.703-13.27 0-30.492 1.868-51.642 5.605-21.15 3.73-37.528 5.6-49.145 5.6-24.06 0-43.444-6.952-58.175-20.845-14.731-13.91-22.09-32.06-22.09-54.45 0-21.569 7.156-40.138 21.467-55.695 14.312-15.546 31.414-23.324 51.336-23.324 24.468 0 50.815 14.515 79.02 43.546 34.851 35.677 59.737 56.838 74.672 63.474-1.665-21.604-11.413-49.049-29.246-82.303-17.006-31.601-25.509-56.521-25.509-74.841.01-49.043 25.94-73.579 77.78-73.579 51.86 0 77.78 24.536 77.78 73.562z" fill="#ED1C24"/>
+</svg>

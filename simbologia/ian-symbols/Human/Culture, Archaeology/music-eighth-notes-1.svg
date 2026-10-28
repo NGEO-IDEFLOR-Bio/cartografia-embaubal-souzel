@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="342" height="500" viewBox="0 0 342 500" xml:space="preserve">
+            <title>Music: eighth notes 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Music: eighth notes 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a musical note known as a double quaver, or two eighth notes beamed together. An eighth note or quaver is a musical note played for one eighth of the duration of whole note.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>music, note, musical, character, double quaver, eighth</ian_image_library:contains>
+                    <ian_image_library:when>2007-04-25</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-bfefbd797707b9d425d876c41124e06d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Music: eighth notes 1</dc:title>
+                <dc:date>2007-04-25</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/music-eighth-notes-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/music-eighth-notes-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>music, note, musical, character, double quaver, eighth</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a musical note known as a double quaver, or two eighth notes beamed together. An eighth note or quaver is a musical note played for one eighth of the duration of whole note.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<path fill="#007198" d="M341.76,0v326.113c0,11.125-3.709,21.504-11.103,31.137c-7.417,9.995-17.23,17.773-29.463,23.336
+		c-12.211,5.562-24.082,8.321-35.569,8.321c-9.995,0-19.062-2.962-27.225-8.887s-12.233-13.884-12.233-23.901
+		c0-11.487,4.07-21.844,12.233-31.115c7.032-9.271,17.049-17.592,30.006-25.009c6.67-2.962,12.776-5.088,18.338-6.376
+		c5.562-1.312,10.921-1.945,16.123-1.945c11.125,0,20.938,3.143,29.441,9.429V43.89L115.593,147.228v290.001
+		c0,11.103-3.708,21.481-11.125,31.091c-7.417,10.018-17.23,17.796-29.441,23.336C62.794,497.219,50.945,500,39.458,500
+		c-10.379,0-19.65-2.962-27.791-8.886C3.889,485.189,0,477.229,0,467.235c0-10.763,3.889-21.12,11.667-31.114
+		c3.708-4.07,8.141-8.253,13.341-12.504c5.178-4.273,10.922-8.434,17.23-12.504c6.286-2.962,12.301-5.088,18.044-6.399
+		c5.744-1.289,11.216-1.944,16.417-1.944c11.103,0,20.917,3.143,29.441,9.452V111.116L341.76,0z"/>
+</g>
+</svg>

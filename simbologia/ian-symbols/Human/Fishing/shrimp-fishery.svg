@@ -1,0 +1,96 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="479" viewBox="0 0 500 479" xml:space="preserve">
+            <title>Shrimp Fishery</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Shrimp Fishery</ian_image_library:title>
+                <ian_image_library:descr>Icon representing a shrimp fishery.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>economy, revenue, seafood, industry, food, trade</ian_image_library:contains>
+                    <ian_image_library:when>2016-05-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b02f65a876a94664c5b250e32a299c2b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Shrimp Fishery</dc:title>
+                <dc:date>2016-05-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/shrimp-fishery/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/shrimp-fishery/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>economy, revenue, seafood, industry, food, trade</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Icon representing a shrimp fishery.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<title>Layer 1</title>
+	<path id="ian_symbols_1022decde71949447d237288443e77f1" fill="#231F20" d="M370.2,133.4c-10.2,2.9-56.7,107.8-56.7,114.9
+		s20.9,16.5,24.7,13.2c23-20.2,93.3-72.7,93.3-81C431.5,172.1,380.4,130.4,370.2,133.4z"/>
+	<path id="ian_symbols_f2366768a67588b4f590d08c72271297" fill="#231F20" d="M447.2,194c-10.6-1.1-89,75.6-91.6,82.1
+		s11.4,25.5,15.8,23c46.2-26.3,101.2-33.3,116.2-39.5C495.1,256.5,457.8,195.1,447.2,194L447.2,194z"/>
+	<path id="ian_symbols_02014fcd35930ee4c9e6fd81694e94c6" fill="#231F20" d="M493.1,278.2c-7.6-5.8-105,25.1-109.9,28.8
+		c-5,3.7,0.2,27.4,4.8,27.6c47.5,1.6,93.3,7.8,107.6,10.1C502.8,345.9,500.7,284,493.1,278.2z"/>
+	<path id="ian_symbols_2cd1908f577f7b0485a5d12fa3ae2479" fill="#231F20" d="M490.4,369c-3.6-7.9-96.2-18.3-101.8-17.5
+		c-5.6,0.8-11.6,21.9-8,24c37.2,21.6,72.8,39.6,83.2,47.6C469,427.1,493.9,376.8,490.4,369z"/>
+	<path id="ian_symbols_d10715b1850cd99489483a3564b954f6" fill="#231F20" d="M443.6,441.7c1.2-7.4-66.5-52.1-70.9-54.1
+		c-4.4-2-18.9,10.4-17.3,13.6c16.4,33.4,26.6,56.8,30.3,67.5C387.5,474.1,442.4,449.1,443.6,441.7z"/>
+	<path id="ian_symbols_e8ee41d43a803574ed92bb728c544fbd" fill="#231F20" d="M365.2,473.3c4.2-4.9-24.9-63-27.3-66.5
+		c-2.3-3.4-31-2.2-31.3,0.9c-2.7,31.6-0.8,59.1-2.9,68.5C302.8,480.9,361.1,478.1,365.2,473.3L365.2,473.3z"/>
+	<path id="ian_symbols_ecc7e77c885d7194912fcaac9aa6ed43" fill="#231F20" d="M359,125.1C356.6,113.7-13.8-8.1,0.4,0.4
+		c80.9,37.9,153.8,107.2,174.7,117.4c0,0-131.5-56-87.8-30.7s141.6,134.5,207.5,163.1C312.1,202.5,332,159.3,359,125.1L359,125.1z
+		 M286.6,146.9c-8.4-2.8-13-12-10.1-20.5c2.8-8.4,12-13,20.5-10.1c8.4,2.8,13,12,10.1,20.5C304.2,145.2,295.1,149.7,286.6,146.9z"/>
+	<polygon id="ian_symbols_4e6ecb5cad0d63e435f9a9ffbed180a9" fill="#231F20" points="291.6,410.2 239.6,385.2 179.5,336.6 
+		179.5,370.1 209,390.9 179.5,382.3 179.5,415.3 211.2,426.4 179.5,428.4 179.5,461.6 288.8,476.9 	"/>
+	<path id="ian_symbols_778f5ce8ee750d44edbc628a5a5bfa89" fill="#231F20" d="M208.1,276.1l40.9-25.8c0,0,73.8,24,80.4,27.2
+		c16.8,9.7,49.1,67.6,44.3,70.8c-4.8,3.2-24.1,3.2-24.1,3.2l-9.4,30.1l-13.9-24.4l14.2-15.9l-1.4-4.5l-22.4,4l-3.1,32.7L302.5,342
+		l13.6-19.3l-2.6-4.5h-14.8l-7.1,17l-9.4,35.2l-6-54.2l15.3-8.8l1.4-7.7l-77.8,11.8l29.3-25.4l33-4.3l-0.6-8l-25.6-6.3L208.1,276.1
+		L208.1,276.1z"/>
+</g>
+</svg>

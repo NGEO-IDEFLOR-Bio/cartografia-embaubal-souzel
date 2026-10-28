@@ -1,0 +1,99 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="376" height="502" viewBox="0 0 376 502" xml:space="preserve">
+            <title>USA MD: Sinepuxent Bay watershed</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>USA MD: Sinepuxent Bay watershed</ian_image_library:title>
+                <ian_image_library:descr>Illustration map of Sinepuxent Bay watershed in Maryland, USA</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>map, ecosystem, geography, geographical, USA, United States of America, MD, MarylandSinepuxent Bay, Chincoteague Bay Ocean, City, Inlet, Delmarva, peninsula, Coastal Bays, Atlantic Ocean</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-11</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7427448358001b8435b47cc5a900aab2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>USA MD: Sinepuxent Bay watershed</dc:title>
+                <dc:date>2005-02-11</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/usa-md-sinepuxent-bay-watershed/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/usa-md-sinepuxent-bay-watershed/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>map, ecosystem, geography, geographical, USA, United States of America, MD, MarylandSinepuxent Bay, Chincoteague Bay Ocean, City, Inlet, Delmarva, peninsula, Coastal Bays, Atlantic Ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration map of Sinepuxent Bay watershed in Maryland, USA</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_40264782259d7c042168346dc9bb6d25" y2="298.34" gradientUnits="userSpaceOnUse" x2="318.81" y1="213.46" x1="85.613">
+  <stop stop-color="#C3C4AF" offset=".0225"/>
+  <stop stop-color="#AACBD3" offset=".3427"/>
+  <stop stop-color="#A9D8F0" offset=".6348"/>
+  <stop stop-color="#76BFE0" offset=".8708"/>
+ </linearGradient>
+ <polygon stroke="#00A2CF" stroke-width=".5" points="8.112 473.55 7.165 429 71.003 370.56 244.68 9.134 374.81 9.134 245.32 500.25 22.985 500.25" fill="url(#ian_symbols_40264782259d7c042168346dc9bb6d25)"/>
+ <path stroke="#F8F0B9" stroke-width=".5" d="m149.84 500.25l7.244.003c17.309-51.118 36.888-109.44 41.052-120.2 5.983-15.459 22.184-52.164 24.677-58.953 3.647-10.053 28.834-82.818 31.478-93.193 3.713-14.607 18.401-38.346 21.389-52.96 3.372-16.56 14.567-99.846 43.366-138.14 1.545-2.053 3.136-3.983 4.782-5.761 1.48-1.598-2.42-2.968-6.857-5.508l-25.341 41.485-44.472 141.07-100.9 292.15" fill="#F8F0B9"/>
+ <linearGradient id="ian_symbols_db0ebc821d2367f4a9955ba88e4f87b4" y2="14.822" gradientUnits="userSpaceOnUse" x2="349.4" y1="14.822" x1="324.8">
+  <stop stop-color="#D3E3BD" offset=".0056"/>
+  <stop stop-color="#CEE2B4" offset=".6437"/>
+  <stop stop-color="#CAE1AD" offset="1"/>
+ </linearGradient>
+ <path stroke="#8F6843" stroke-width=".5" d="m329.9 17.843c2.706 5.111 9.167 8.402 14.116 7.188 1.751-.428 7.051-15.162 4.869-18.624-2.18-3.46-18.238-1.886-22.622 0-4.39 1.887 2.35 9.02 3.63 11.436z" fill="url(#ian_symbols_db0ebc821d2367f4a9955ba88e4f87b4)"/>
+ <linearGradient id="ian_symbols_5796d2be5c073a74e964fdee1d9887e8" y2="246.61" gradientUnits="userSpaceOnUse" x2="320.35" y1="246.61" x1=".25">
+  <stop stop-color="#D3E3BD" offset=".0056"/>
+  <stop stop-color="#CEE2B4" offset=".6437"/>
+  <stop stop-color="#CAE1AD" offset="1"/>
+ </linearGradient>
+ <path stroke="#8F6843" stroke-width=".5" d="m220.6 135.5c.914-3.453 4.094-3.936 9.167-6.111 2.733-1.17 8.819-10.97 11.457-13.749 5.098-5.38 11.841-23.666 15.278-30.554 3.538-7.084-12.822-7.044-10.694-12.221 2.014-4.898 11.927 5.247 15.277-.765 1.63-2.947-5.479-23.643 15.275-31.317 5.462-2.019 10.524-5.732 12.985-11.458-4.35-1.529-19.353-3.309-26.733-6.111 9.166.511 21.156 2.569 30.554 1.783 3.056-.255-.942-4.68.508-8.657 1.42-3.973 36.595-6.601 23.936-9.167-12.661-2.566-8.402 3.819-25.971.765-17.568-3.056-22.917-8.355-42.013-7.615s-11.718 3.055-31.317 15.253c-19.6 12.198-37.357 55.122-53.815 61.17-16.458 6.049-21.805 28.963-19.956 37.357 1.477 6.697 12.037 17.219 11.511 22.513-1.578 16.067-18.344 22.04-19.958 27.633-4.204 14.585-3.771 19.951-7.985 34.748-1.849 6.513-8.966 36.079-10.434 43.546-2.593 13.164-6.472 44.526-16.122 54.501-10.175 10.52-15.349 15.35-28.654 25.015-6.955 5.051-12.234 9.703-17.147 16.383-7.415 10.076-4.718 26.923-6.395 37.66-2.029 13.018-19.803 13.416-30.704 20.726-19.475 13.068-13.659 18.263-16.885 42.984-2.307 17.652-1.933 19.964.77 31.471 4.377 18.643 9.628 18.834 15.647 21.698 2.67-1.814-3.464-24.487-3.864-31.994-.833-15.792-.048-33.452 4.964-38.351 5.034-4.899 38.437-24.398 43.199-21.317 4.766 3.082 6.487 11.293 11.393 11.838 8.121.899 8.088-18.516 10.759-21.769 2.865-3.473 12.995-1.555 16.041-3.818 3.604-2.677-.19-11.072 2.292-14.513 3.007-4.136 10.333-3.319 13.749-6.875 3.76-3.909-1.47-11.989 3.056-16.041 8.08-7.223 18.333-.763 21.388-6.875 2.021-4.039-3.715-7.959-6.875-18.333-3.157-10.375 1.542-29.631 3.056-34.37 3.003-9.32 45.067-53.472 48.122-65.692 1.215-4.855-3.302-3.015-5.554-10.68-1.842-6.267-7.517-9.718-6.237-14.334 1.279-4.617 3.114-6.091 6.027-9.646 2.908-3.544 10.098-11.408 16.001-13.017 5.912-1.616 5.096 9.483 7.977 2.119 1.538-3.916-1.659-8.436 1.047-13.401 1.574-2.884 1.19-11.63 2.892-13.607 1.701-1.976 2.521-2.892 2.521-2.892l-1.152-1.43-8.048 6.482c-.703.566-1.73.456-2.294-.247-.565-.703-.457-1.729.245-2.294l8.049-6.482-3.07-3.813-8.048 6.482c-.703.565-1.729.454-2.295-.247-.566-.702-.455-1.73.247-2.295l8.049-6.482-5.118-6.353-4.236 3.41c-.701.566-1.729.457-2.295-.246-.563-.702-.453-1.729.248-2.294l11.014-8.872-1.195-1.484c-.564-.7-.455-1.729.249-2.293.701-.566 1.727-.456 2.293.246l1.195 1.485 3.812-3.071c.701-.566 1.728-.456 2.295.246.566.703.453 1.729-.248 2.295l-3.811 3.071 1.875 2.328c.564.702.453 1.73-.248 2.295s-1.728.455-2.293-.247l-1.878-2.33-4.234 3.412 5.117 6.354 6.779-5.459c.7-.564 1.729-.456 2.294.248.563.701.453 1.729-.248 2.293l-6.776 5.459 3.068 3.813 6.779-5.459c.7-.564 1.729-.455 2.294.248.566.702.453 1.729-.248 2.295l-6.776 5.458 1.365 1.695c7.14-4.78 7.12-10 7.7-12.16z" fill="url(#ian_symbols_5796d2be5c073a74e964fdee1d9887e8)"/>
+ <linearGradient id="ian_symbols_9478742591f99c64fdac18ede12a4c11" y2="259.28" gradientUnits="userSpaceOnUse" x2="320.57" y1="259.28" x1="79.175">
+  <stop stop-color="#D3E3BD" offset=".0056"/>
+  <stop stop-color="#CEE2B4" offset=".6437"/>
+  <stop stop-color="#CAE1AD" offset="1"/>
+ </linearGradient>
+ <path stroke="#8F6843" stroke-width=".5" d="m315.47 36.798c1.544-2.053 3.135-3.983 4.782-5.761 2.479-2.676-10.13-4.711-15.086-12.68-.521-.833-5.142 10.163-7.739 18.441-1.01 3.224-1.717 6.035-1.754 7.577-6.185-.504-12.363 1.813-16.225 7.217-5.903 8.209 11.258 7.22 1.788 18.947-.998 1.243-14.857 13.555-15.89 15.241-3.057 4.967 7.669 10.321 2.263 12.634.91 2.704-7.239 2.799-9.032 10.829-2.398 10.783 8.533 8.145 2.26 18.045-6.031 9.532-9.937 7.664-9.017 11.282 3.048 12.228 7.571 25.416 0 33.834-8.144 9.042-26.155 12.649-25.719 23.461.447 11.527 9.245 7.507 7.207 18.498-7.04 37.98-45.375 128.09-58.471 145.68-.26 2.958-21.857-5.35-22.387-2.861-.901 4.279 19.396 15.793 10.388 21.203 0 0-25.713 39.563-7.229 43.316-10.088 2.558-15.778 13.089-8.573 23.921-10.833-8.127-13.984 11.264-13.532 23.004-2.717-.455-5.429-4.517-9.924 1.805-2.141 2.976 6.505 8.354 5.864 9.93-1.321 3.199-18.511-.459-23.008 4.058-2.328 2.322 6.938 6.875 6.274 11.846-.336 2.516-28.005-7.638-33.099-.51-1.12 1.567.001 3.08 2.289 4.49l71.606.003c17.31-51.118 36.888-109.44 41.052-120.2 5.983-15.459 22.185-52.164 24.677-58.953 3.648-10.053 28.835-82.818 31.479-93.193 3.713-14.607 18.4-38.346 21.388-52.96 3.38-16.56 14.57-99.846 43.37-138.14z" fill="url(#ian_symbols_9478742591f99c64fdac18ede12a4c11)"/>
+</svg>

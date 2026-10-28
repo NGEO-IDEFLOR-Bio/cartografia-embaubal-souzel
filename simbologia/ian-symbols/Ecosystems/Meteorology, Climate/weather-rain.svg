@@ -1,0 +1,97 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="310" viewBox="0 0 501 310" xml:space="preserve">
+            <title>Weather: rain</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Weather: rain</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a cloud with rain droplets falling straight down</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, climate, weather, atmosphere, sky, cloud, rain</ian_image_library:contains>
+                    <ian_image_library:when>2002-10-03</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-578f498bf0b93e74999c89a737bc4c15">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Weather: rain</dc:title>
+                <dc:date>2002-10-03</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/weather-rain/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/weather-rain/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, climate, weather, atmosphere, sky, cloud, rain</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a cloud with rain droplets falling straight down</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".0578" d="m16.336 261.32c1.267 0 2.522 3.151 3.779 6.291 3.15 8.186 5.663 20.15-4.407 20.15s-7.558-12.592-3.779-20.15c1.267-3.13 3.151-6.29 4.407-6.29z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m42.585 158.22c1.256 0 2.523 3.15 3.779 6.301 3.151 8.186 5.663 20.149-4.412 20.149s-7.552-12.592-3.773-20.149c1.256-3.14 3.15-6.3 4.406-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m46.087 222.96c1.256 0 2.523 3.15 3.779 6.301 3.151 8.186 5.663 20.139-4.407 20.139-10.08 0-7.558-12.582-3.79-20.139 1.268-3.15 3.162-6.3 4.418-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m91.56 194.35c1.261 0 2.522 2.522 3.778 6.301 3.151 7.558 5.658 20.15-4.407 20.15-10.08 0-7.557-12.592-3.778-20.15 1.266-3.15 3.139-6.3 4.407-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m73.006 278.32c1.267 0 2.523 3.14 3.779 6.301 3.773 8.175 5.673 20.139-4.412 20.139-10.075 0-7.542-12.592-3.773-20.139 1.266-3.16 3.15-6.3 4.406-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m163.68 225.43c1.256 0 2.522 2.523 3.778 6.291 3.779 7.568 5.663 20.149-4.407 20.149-10.069 0-7.563-12.582-3.778-20.149 1.26-3.15 3.16-6.29 4.41-6.29z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m114.57 249.99c1.256 0 2.512 2.522 3.768 6.291 3.79 8.196 5.673 20.149-4.407 20.149s-7.547-12.592-3.768-20.149c1.26-3.14 3.15-6.29 4.41-6.29z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m203.36 265.09c1.256 0 2.512 3.151 3.779 6.301 3.763 8.186 5.663 20.15-4.412 20.15s-7.552-12.592-3.773-20.15c1.87-3.15 3.13-6.3 4.4-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m159.91 272.65c1.256 0 2.522 3.15 3.779 6.301 3.778 8.186 5.663 20.149-4.407 20.149-10.08 0-7.558-12.592-3.784-20.149 1.26-3.15 3.14-6.3 4.41-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m244.91 282.1c1.267 0 2.512 3.14 4.407 6.291 3.151 8.186 5.045 20.778-5.035 20.778-10.08-.628-7.547-13.22-3.779-20.778 1.9-3.15 3.16-5.66 4.41-6.29z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m263.8 246.21c1.256 0 2.507 2.522 4.407 6.301 3.14 8.175 5.035 20.139-5.035 20.139-10.08 0-7.558-12.582-3.779-20.139 1.88-3.15 3.14-6.3 4.4-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m301.59 217.86c1.256 0 2.512 2.522 4.407 6.301 3.14 7.558 5.023 20.15-5.046 20.15s-7.558-12.592-3.784-20.15c1.89-3.14 3.15-6.3 4.42-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m316.69 268.88c1.262 0 2.528 3.14 4.412 6.291 3.151 8.186 5.035 20.149-5.034 20.149s-7.558-12.592-3.79-20.149c1.89-3.15 3.16-6.29 4.41-6.29z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m233.58 212.2c1.256 0 2.522 2.522 4.417 6.301 3.15 7.558 5.024 20.139-5.045 20.139-10.07 0-7.558-12.581-3.779-20.139 1.88-3.15 3.14-6.3 4.4-6.3z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m358.25 282.1c1.257 0 2.518 3.14 4.407 6.291 3.15 8.186 5.663 20.778-5.035 20.778-10.069-.628-7.557-13.22-3.778-20.778 1.9-3.15 3.16-5.66 4.41-6.29z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m358.25 231.1c1.257 0 2.518 2.522 4.407 6.291 3.15 7.568 5.663 20.16-5.035 20.16-10.069 0-7.557-12.592-3.778-20.16 1.9-3.15 3.16-6.29 4.41-6.29z" fill="#006597"/>
+ <path stroke="#231F20" stroke-width=".0578" d="m403.6 246.21c1.246 0 3.141 2.522 4.401 6.301 3.146 8.175 5.668 20.139-4.401 20.139-10.708 0-7.568-12.582-3.784-20.139 1.25-3.15 2.51-6.3 3.78-6.3z" fill="#006597"/>
+ <linearGradient id="ian_symbols_8c90b1f2a1af67d4c577aa4d2840d3c6" y2="12.307" gradientUnits="userSpaceOnUse" x2="552.92" gradientTransform="matrix(.5376 0 0 .672 -47.222 -21.376)" y1="390.63" x1="552.92">
+  <stop stop-color="#231F20" offset="0"/>
+  <stop stop-color="#00B1EF" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".0578" d="m212.67.051c1.639 0-77.831 13.114-121.3 26.44-43.064 13.965-120.3 48.431-80.09 78.899 40.208 31.103 49.56 17.148 64.994 31.103 15.445 13.327-2.842 49.506 80.428 39.363 45.834-5.567 69.954-12.656 140.44 14.476 28.037 10.154 91.572 25.11 121.46 21.289 90.114-11.485 99.875-84.239 56.414-101.38-43.045-17.138 9.506-40.012-15.269-60.96-24.774-20.309-69.204-43.056-100.38-31.603-95.92 35.265-98.75-18.893-146.69-17.626z" fill="url(#ian_symbols_8c90b1f2a1af67d4c577aa4d2840d3c6)"/>
+</svg>

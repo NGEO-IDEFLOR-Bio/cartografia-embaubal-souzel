@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="420" height="502" viewBox="0 0 420 502" xml:space="preserve">
+            <title>Canadian autoroute sign</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Canadian autoroute sign</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Canadian autoroute sign</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, Canadian, Canada, autoroute, sign, road, highway</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2823c5f165b097d46194a7da513bf9bd">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Canadian autoroute sign</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/canadian-autoroute-sign/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/canadian-autoroute-sign/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, Canadian, Canada, autoroute, sign, road, highway</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Canadian autoroute sign</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m1.517 2.244h415.19s6.261 270.38-11.519 345.83c-17.801 75.452-93.859 148.86-195.99 151.85-102.12 2.97-178.51-83.02-196.15-151.84-17.622-68.84-11.533-345.84-11.533-345.84z" fill="#0079B2"/>
+ <path d="m75.271 287.54c0-61.122 22.416-88.078 59.933-88.078 37.681 0 59.955 27.255 59.955 88.332 0 62.304-21.72 88.497-59.955 88.497-36.859 0-59.933-24.847-59.933-88.497v-.25zm59.669-74.72c-21.885 0-40.269 23.5-40.269 75.109 0 56.395 17.629 75.004 40.539 75.004 23.231 0 40.568-18.998 40.568-75.004 0-51.339-18.339-75.109-40.568-75.109h-.27z" fill="#fff"/>
+ <path d="m223.1 287.54c0-61.122 22.423-88.078 59.925-88.078 37.711 0 59.985 27.255 59.985 88.332 0 62.304-21.735 88.497-59.985 88.497-36.858 0-59.925-24.847-59.925-88.497v-.25zm59.69-74.72c-21.9 0-40.262 23.5-40.262 75.109 0 56.395 17.613 75.004 40.501 75.004 23.246 0 40.599-18.998 40.599-75.004 0-51.339-18.354-75.109-40.599-75.109h-.24z" fill="#fff"/>
+ <path d="m416.72 0h-415.19s-1.241 56.245-.987 124.34h417.19c.27-68.215-1.01-124.34-1.01-124.34z" fill="#BB6244"/>
+ <path stroke="#fff" d="m1.517 2.244h415.19s6.261 270.38-11.519 345.83c-17.801 75.452-93.859 148.86-195.99 151.85-102.12 2.97-178.51-83.02-196.15-151.84-17.622-68.84-11.533-345.84-11.533-345.84z" fill="none"/>
+ <line y2="124.34" x1="3.065" fill-rule="evenodd" x2="415.23" stroke="#fff" clip-rule="evenodd" y1="124.34" stroke-width=".75" fill="none"/>
+</svg>

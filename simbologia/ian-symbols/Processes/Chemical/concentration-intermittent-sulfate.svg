@@ -1,0 +1,104 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="523" height="524" viewBox="0 0 523 524" xml:space="preserve">
+            <title>Concentration: intermittent sulfate</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: intermittent sulfate</ian_image_library:title>
+                <ian_image_library:descr>Illustration of intermittent sulfate</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, low, sulfate, SO4</ian_image_library:contains>
+                    <ian_image_library:when>2011-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4a0f963c286e42b4393b69fb6e0dbccb">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: intermittent sulfate</dc:title>
+                <dc:date>2011-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-intermittent-sulfate/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-intermittent-sulfate/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, low, sulfate, SO4</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of intermittent sulfate</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#BADB96" stroke="#000000" stroke-width="22.4741" stroke-dasharray="112.3707" d="M511.237,261.237
+	c0,138.067-111.918,250-250.012,250c-138.048,0-249.988-111.945-249.988-250s111.93-250,249.988-250
+	C399.319,11.237,511.237,123.172,511.237,261.237z"/>
+<path fill="#D2232A" d="M76.302,283.473l27.256-3.172c3.074,21.466,13.111,32.183,30.176,32.183c8.419,0,15.023-2.186,19.901-6.564
+	c4.806-4.399,7.242-9.849,7.242-16.335c0-3.809-0.838-7.057-2.523-9.725c-1.701-2.684-4.266-4.878-7.71-6.605
+	c-3.454-1.696-11.811-4.569-25.108-8.63c-11.919-3.572-20.641-7.483-26.182-11.683c-5.536-4.22-9.935-9.776-13.214-16.612
+	c-3.233-6.852-4.867-14.243-4.867-22.123c0-9.195,2.086-17.481,6.275-24.836c4.194-7.361,9.956-12.901,17.362-16.664
+	c7.36-3.758,16.468-5.634,27.333-5.634c16.288,0,29.009,4.431,38.168,13.282c9.133,8.877,13.965,21.537,14.52,38.021l-27.956,1.414
+	c-1.229-9.036-3.871-15.395-7.941-19.008c-4.061-3.598-9.869-5.407-17.393-5.407c-7.53,0-13.313,1.547-17.398,4.631
+	c-4.055,3.115-6.091,6.924-6.091,11.534c0,4.508,1.84,8.322,5.541,11.406c3.69,3.099,12.171,6.553,25.447,10.403
+	c14.037,4.179,24.152,8.481,30.423,12.968c6.229,4.508,11.015,10.311,14.31,17.404c3.289,7.104,4.939,15.734,4.939,25.865
+	c0,14.649-4.498,26.97-13.523,36.967c-9.031,9.977-23.134,14.957-42.321,14.957c-33.887-0.02-52.822-19.347-56.646-58.056
+	L76.302,283.473z"/>
+<path fill="#D2232A" d="M392.842,226.198v18.216h-56.549c0.607-6.882,2.467-13.441,5.572-19.661
+	c3.109-6.245,9.133-14.407,18.102-24.518c7.094-8.034,11.457-13.487,13.098-16.34c2.42-4.148,3.633-8.301,3.633-12.516
+	c0-4.467-0.992-7.839-3.021-10.136c-2.021-2.261-4.703-3.408-7.992-3.408c-7.213,0-11.088,5.341-11.662,15.976l-15.816-2.077
+	c0.977-10.388,3.896-18.016,8.701-22.878c4.838-4.883,11.271-7.325,19.291-7.325c8.799,0,15.471,2.873,19.932,8.604
+	c4.477,5.746,6.717,12.31,6.717,19.722c0,4.185-0.58,8.26-1.721,12.187c-1.156,3.953-2.91,7.916-5.295,11.889
+	c-2.373,3.994-6.348,9.088-11.887,15.287c-5.219,5.833-8.482,9.653-9.859,11.529c-1.383,1.866-2.502,3.675-3.324,5.448h32.098
+	H392.842z"/>
+<path fill="#D2232A" d="M408.493,203.17v-20.395h37.68v20.395H408.493z"/>
+<path fill="#D2232A" d="M197.864,255.218c0-20.103,2.785-36.643,8.357-49.652c5.582-13,12.875-22.683,21.864-29.046
+	c8.995-6.374,19.896-9.565,32.715-9.565c18.56,0,33.691,7.561,45.385,22.672c11.692,15.112,17.542,36.628,17.542,64.559
+	c0,28.224-6.184,50.279-18.561,66.162c-10.859,14.032-25.631,21.054-44.264,21.054c-18.78,0-33.604-6.943-44.475-20.833
+	c-12.377-15.887-18.57-37.66-18.57-65.35H197.864z M224.672,254.062c0,19.393,3.465,33.951,10.434,43.66
+	c6.955,9.694,15.568,14.546,25.869,14.546c10.347,0,18.93-4.816,25.746-14.447c6.81-9.618,10.207-24.4,10.207-44.339
+	c0-19.537-3.311-34.006-9.94-43.346c-6.63-9.354-15.291-14.032-26.013-14.032s-19.449,4.703-26.197,14.155
+	c-6.744,9.406-10.115,24.02-10.115,43.788L224.672,254.062z"/>
+<path fill="#D2232A" d="M369.827,380.944v-21.22h-43.148v-17.69l45.738-66.954h16.971v66.882h13.092v17.763h-13.092v21.22H369.827z
+	 M369.827,341.961v-36.032l-24.234,36.032H369.827z"/>
+</svg>

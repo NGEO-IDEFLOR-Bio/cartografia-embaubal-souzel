@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="280" height="501" viewBox="0 0 280 501" xml:space="preserve">
+            <title>Rusty drum</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Rusty drum</ian_image_library:title>
+                <ian_image_library:descr>Illustration of rusty drum</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>environmental, degradation, trash, garbage, waste, disposal, rusty, oil, drum, container, toxic</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b4b13b9e2d33f38419535b794dcfa0a7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Rusty drum</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/rusty-drum/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/rusty-drum/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>environmental, degradation, trash, garbage, waste, disposal, rusty, oil, drum, container, toxic</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of rusty drum</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_5b47a88c9757dd54a15cced0cbb3cc0a" y2="826.03" gradientUnits="userSpaceOnUse" x2="156.13" gradientTransform="matrix(-.4048 .9144 -.9144 -.4048 1094.3 467.42)" y1="1085.7" x1="261.05">
+  <stop stop-color="#602503" offset="0"/>
+  <stop stop-color="#76310E" offset=".2109"/>
+  <stop stop-color="#8B3D19" offset=".4877"/>
+  <stop stop-color="#994420" offset=".755"/>
+  <stop stop-color="#9D4622" offset="1"/>
+ </linearGradient>
+ <path d="m269.76 458.01l6.516-403.44s-129.24 62.985-272.97-16.187c-.447-1.326-1.657 418.05-3.31 413.39 163.58 104.75 269.76 6.24 269.76 6.24z" fill="url(#ian_symbols_5b47a88c9757dd54a15cced0cbb3cc0a)"/>
+ <radialGradient id="ian_symbols_f84f10e7ac32ac240dbe1f135a12f0bb" gradientUnits="userSpaceOnUse" cy="1042.8" cx="-.3179" gradientTransform="matrix(-.4048 .9144 -.9144 -.4048 1094.3 467.42)" r="133.57">
+  <stop stop-color="#411" offset=".0056"/>
+  <stop stop-color="#231F20" offset="1"/>
+ </radialGradient>
+ <path d="m3.306 38.375c1.211-24.572 63.656-41.482 139.67-37.895 75.92 3.771 136.56 26.495 135.4 51.197-1.168 24.486-63.742 41.46-139.62 37.809-75.958-3.675-136.66-26.528-135.45-51.111z" fill="url(#ian_symbols_f84f10e7ac32ac240dbe1f135a12f0bb)"/>
+ <path stroke="#5E2402" stroke-width=".7495" d="m271.46 211.94s-135.73 57.863-268.73-24.388" fill="none"/>
+ <path stroke="#5E2402" stroke-width=".7482" d="m270.73 329.37s-135.58 57.723-268.44-24.561" fill="none"/>
+</svg>

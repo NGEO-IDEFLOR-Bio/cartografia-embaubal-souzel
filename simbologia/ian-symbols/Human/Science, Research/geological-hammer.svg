@@ -1,0 +1,114 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="317" height="501" viewBox="0 0 317 501" xml:space="preserve">
+            <title>Geological hammer</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Geological hammer</ian_image_library:title>
+                <ian_image_library:descr>Illustration of geological hammer</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, field, gear, geological, geology, hammer, rock, mineralogy, chisel, pick, flat, head</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-09</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b69add9e1b5bce54417fa22ac1ac54d3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Geological hammer</dc:title>
+                <dc:date>2005-03-09</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/geological-hammer/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/geological-hammer/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, field, gear, geological, geology, hammer, rock, mineralogy, chisel, pick, flat, head</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of geological hammer</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_f16564526678059441a72706f512f055" y2="480.97" gradientUnits="userSpaceOnUse" x2="235.74" y1="496.87" x1="176.42">
+  <stop stop-color="#688AB2" offset="0"/>
+  <stop stop-color="#8DA5C7" offset=".6685"/>
+  <stop stop-color="#8494AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".15" d="m175.28 492.44c0 4.219 17.688 7.638 31.77 7.638 14.071 0 31.759-3.419 31.759-7.638l-6.279-11.858c0 4.241-11.408 7.661-25.479 7.661-14.082 0-25.479-3.42-25.479-7.661l-6.29 11.86z" fill="url(#ian_symbols_f16564526678059441a72706f512f055)"/>
+ <linearGradient id="ian_symbols_05961e3d9cbc45b41937e676be9ed063" y2="239.49" gradientUnits="userSpaceOnUse" x2="227.32" y1="250.81" x1="185.1">
+  <stop stop-color="#688AB2" offset="0"/>
+  <stop stop-color="#8DA5C7" offset=".6573"/>
+  <stop stop-color="#8494AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".15" d="m187.14 239.17c1.523-3.134 3.244-5.852 5.096-6.707 1.83-.876 26.411-1.096 29.02.208 2.586 1.304 3.989 3.792 5.513 6.389 1.522 2.597 2.805 9.622 2.805 9.622l-2.269 7.277-40.273.219-2.499-7.496c-.01 0 1.08-6.38 2.6-9.51z" fill="url(#ian_symbols_05961e3d9cbc45b41937e676be9ed063)"/>
+ <linearGradient id="ian_symbols_63b21e6ea0c1d724d50db635e86debc0" y2="481.08" gradientUnits="userSpaceOnUse" x2="232.53" y1="481.08" x1="181.57">
+  <stop stop-color="#688AB2" offset="0"/>
+  <stop stop-color="#8DA5C7" offset=".6573"/>
+  <stop stop-color="#8494AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".15" d="m232.53 480.58c0 4.241-11.408 7.661-25.479 7.661-14.082 0-25.479-3.42-25.479-7.661 0 0-.395-6.937 25.326-6.651 25.74.28 25.63 6.65 25.63 6.65z" fill="url(#ian_symbols_63b21e6ea0c1d724d50db635e86debc0)"/>
+ <linearGradient id="ian_symbols_23b1fa7dc9bfb11435170c42e536ee40" y2="367.13" gradientUnits="userSpaceOnUse" x2="229.57" y1="367.13" x1="184.53">
+  <stop stop-color="#688AB2" offset="0"/>
+  <stop stop-color="#8DA5C7" offset=".6573"/>
+  <stop stop-color="#8494AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".15" d="m184.53 479.83c0 3.431 10.082 5.743 22.499 5.743 12.449 0 22.542-2.313 22.542-5.743v-231.15c0 3.441-10.082 6.225-22.509 6.225-12.45 0-22.532-2.783-22.532-6.225v231.15z" fill="url(#ian_symbols_23b1fa7dc9bfb11435170c42e536ee40)"/>
+ <linearGradient id="ian_symbols_898c40e62930e2a4290ea506afeccff5" y2="165.49" gradientUnits="userSpaceOnUse" x2="224.02" y1="165.49" x1="191.45">
+  <stop stop-color="#A7A9AC" offset="0"/>
+  <stop stop-color="#D1D3D4" offset=".6685"/>
+  <stop stop-color="#B8BABC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".15" d="m191.45 232.89c0 2.487 7.299 5.644 16.264 5.644 9.008 0 16.307-3.156 16.307-5.644v-140.44c0 2.477-7.288 4.493-16.285 4.493-8.986 0-16.285-2.017-16.285-4.493v140.44z" fill="url(#ian_symbols_898c40e62930e2a4290ea506afeccff5)"/>
+ <linearGradient id="ian_symbols_6754cee39b5b10b479c3ccd60af62647" y2="105.45" gradientUnits="userSpaceOnUse" x2="240.68" y1="-26.998" x1="82.829">
+  <stop stop-color="#808285" offset="0"/>
+  <stop stop-color="#D1D3D4" offset=".882"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".15" d="m316.08.568s-28.624-.493-56.285-.493c-27.649 0-55.803 8.406-80 11.857-24.197 3.452-96.811 26.159-110.63 31.595-13.83 5.436-69.14 28.153-69.14 28.153l82.477-20.241 221.74-21.742 11.83-29.129z" fill="url(#ian_symbols_6754cee39b5b10b479c3ccd60af62647)"/>
+ <linearGradient id="ian_symbols_d68beb66f44273e4d5486d51feaf0fde" y2="60.016" gradientUnits="userSpaceOnUse" x2="294.87" y1="60.016" x1=".0283">
+  <stop stop-color="#A7A9AC" offset="0"/>
+  <stop stop-color="#D1D3D4" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".15" d="m188.93 93.292s7.167 8.767 17.786 8.888c10.619.132 20.373-7.408 20.373-7.408s-.625-17.655 0-23.572c.613-5.929 1.589-3.463 6.049-6.926 4.438-3.452 15.311-5.929 15.311-5.929h46.422v-37.042s-36.056-3.452-46.916-3.452c-10.871 0-38.531 1.983-63.715 4.942s-80 15.299-99.758 21.238c-19.752 5.918-84.454 27.65-84.454 27.65s85.929-14.816 101.25-14.816c15.298 0 64.186-2.466 71.112-1.479 6.904.998 11.354 2.959 13.819 4.449 2.477 1.479 2.718 5.918 2.718 5.918v27.539z" fill="url(#ian_symbols_d68beb66f44273e4d5486d51feaf0fde)"/>
+ <polygon stroke="#58595B" stroke-width=".15" points="316.08 .568 294.87 21.303 294.87 58.344 316.08 37.609" fill="#D1D3D4"/>
+</svg>

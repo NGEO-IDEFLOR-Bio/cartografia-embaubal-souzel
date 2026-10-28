@@ -1,0 +1,101 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="144" height="512" viewBox="0 0 144 512" xml:space="preserve">
+            <title>Deposition: mercury</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Deposition: mercury</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mercury deposition</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, deposition, mercury, Hg</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-99dda350e81eb39475998e05701e8038">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Deposition: mercury</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/deposition-mercury/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/deposition-mercury/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, deposition, mercury, Hg</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mercury deposition</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_46e9f930e19672546d18fbf3c4aafafb" y2="90.477" gradientUnits="userSpaceOnUse" x2="84.226" y1="90.477" x1="14.834">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#F4F4F5" offset=".3281"/>
+  <stop stop-color="#D7D8D9" offset=".9044"/>
+  <stop stop-color="#D1D3D4" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m50.841 11.913c-38.753 60.664-42.401 124.83-28.855 163.4 0 0 25.339-4.585 19.464-20.522-15.099-83.889 30.2-125 42.776-145.96-8.388-6.726-27.345-1.392-33.385 3.083z" stroke="#A7A9AC" stroke-linecap="round" stroke-width="11.286" fill="url(#ian_symbols_46e9f930e19672546d18fbf3c4aafafb)"/>
+ <linearGradient id="ian_symbols_72ae21b398f137c40d46881d0fc8749f" y2="221.05" gradientUnits="userSpaceOnUse" x2="109.88" y1="221.05" x1="5.6431">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#F4F4F5" offset=".3281"/>
+  <stop stop-color="#D7D8D9" offset=".9044"/>
+  <stop stop-color="#D1D3D4" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m47.325 301.6s-14.923-33.583-17.629-57.886c-3.345-30.2 5.042-94.798 38.587-93.96 13.419 2.524 23.405 20.016 8.393 31.875-15.943 12.587-30.563-18.186-30.563-18.186s-15.574 25.063-12.785 28.745c12.62 16.687 30.723 29.197 48.661 20.589 53.742-25.835 22.936-102.94-34.09-86.366-45.433 13.3-57.402 136.74-20.237 191.61" stroke="#A7A9AC" stroke-linecap="round" stroke-width="11.286" fill="url(#ian_symbols_72ae21b398f137c40d46881d0fc8749f)"/>
+ <linearGradient id="ian_symbols_90ff0ecd794f5964c15c8be3051846ff" y2="347.49" gradientUnits="userSpaceOnUse" x2="114.46" y1="347.49" x1="11.971">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#F4F4F5" offset=".3281"/>
+  <stop stop-color="#D7D8D9" offset=".9044"/>
+  <stop stop-color="#D1D3D4" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m72.73 437.08c-75.598-73.48-78.271-158.13-21.228-175.35 72.16-26.408 89.772 92.715 13.116 81.737-12.852-1.852-25.692-13.358-28.205-18.384-2.513-7.55 10.911-31.037 10.911-31.037s8.862 22.649 24.325 22.649c16.775 0 22.077-27.83 1.675-32.724-20.963-5.025-44.473 23.498-35.236 57.049 9.236 33.55 51.669 82.211 51.669 82.211l-17.027 13.84z" stroke="#A7A9AC" stroke-linecap="round" stroke-width="11.286" fill="url(#ian_symbols_90ff0ecd794f5964c15c8be3051846ff)"/>
+ <linearGradient id="ian_symbols_b9c6129859afe484b1cee83460066b2a" y2="447.44" gradientUnits="userSpaceOnUse" x2="155.61" gradientTransform="matrix(.9976 .0686 -.0686 .9976 17.372 -18.922)" y1="447.44" x1="35.458">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#F4F4F5" offset=".3281"/>
+  <stop stop-color="#D7D8D9" offset=".9044"/>
+  <stop stop-color="#D1D3D4" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill-rule="evenodd" points="76.665 427.46 96.526 367.15 137.27 505.64 21.688 435.15 76.665 427.46" stroke="#A7A9AC" stroke-linecap="round" clip-rule="evenodd" stroke-width="11.286" fill="url(#ian_symbols_b9c6129859afe484b1cee83460066b2a)"/>
+</svg>

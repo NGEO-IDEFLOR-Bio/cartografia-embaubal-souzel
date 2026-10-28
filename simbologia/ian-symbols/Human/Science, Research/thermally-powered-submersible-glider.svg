@@ -1,0 +1,175 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="330" viewBox="0 0 501 330" xml:space="preserve">
+            <title>Thermally powered submersible glider</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Thermally powered submersible glider</ian_image_library:title>
+                <ian_image_library:descr>Illustration of thermally powered submersible glider</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, thermally, powered, submersible, glider, autonomous, underwater, vehicle, data, collection, seafloor, ocean, bottom</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-24a1371c400b08c4596c0a89c44873a0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Thermally powered submersible glider</dc:title>
+                <dc:date>2008-12-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/thermally-powered-submersible-glider/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/thermally-powered-submersible-glider/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, thermally, powered, submersible, glider, autonomous, underwater, vehicle, data, collection, seafloor, ocean, bottom</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of thermally powered submersible glider</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_4ec7c154c6c17bd4c5d05388e93e7341" y2="249.12" gradientUnits="userSpaceOnUse" x2="781.07" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="266.25" x1="777.05">
+  <stop stop-color="#000" offset=".2131"/>
+  <stop stop-color="#030303" offset=".2697"/>
+  <stop stop-color="#0E0E0D" offset=".317"/>
+  <stop stop-color="#1F1F1D" offset=".361"/>
+  <stop stop-color="#373734" offset=".4029"/>
+  <stop stop-color="#575751" offset=".4434"/>
+  <stop stop-color="#7E7E75" offset=".4828"/>
+  <stop stop-color="#ABAB9F" offset=".5207"/>
+  <stop stop-color="#BCBCAF" offset=".5336"/>
+  <stop stop-color="#A2A296" offset=".5609"/>
+  <stop stop-color="#77776F" offset=".6114"/>
+  <stop stop-color="#52524D" offset=".6646"/>
+  <stop stop-color="#343431" offset=".72"/>
+  <stop stop-color="#1D1D1B" offset=".7781"/>
+  <stop stop-color="#0D0D0C" offset=".8405"/>
+  <stop stop-color="#030303" offset=".9097"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <path d="m16.04 297.27c-5.765 5.883-23.511 15.792-11.97 26.076 7.332 6.71 20.687 6.119 29.522 1.492-11.884-6.635-14.525-14.643-15.996-28.224" fill="url(#ian_symbols_4ec7c154c6c17bd4c5d05388e93e7341)"/>
+ <path d="m15.863 297.1c-5.518 5.511-19.202 12.755-15.102 22.425 2.285 5.39 8.907 8.043 14.257 8.826 6.317.924 13.043-.417 18.7-3.29.169-.086.157-.343 0-.432-4.837-2.749-9.001-6.229-11.685-11.171-2.772-5.105-3.558-11.152-4.187-16.837-.035-.316-.536-.32-.5 0 .782 7.058 1.883 14.646 6.383 20.416 2.335 2.994 5.251 5.32 8.477 7.294 1.533.938-.797 1.275-1.778 1.661-1.09.429-2.217.757-3.346 1.063-2.522.682-5.134.983-7.74 1.049-7.66.193-21.778-4.693-18.281-14.863 2.378-6.918 10.247-10.884 15.156-15.787.228-.23-.126-.58-.354-.35z"/>
+ <linearGradient id="ian_symbols_592116a859b1b1c46d5d6367cba487ee" y2="237.87" gradientUnits="userSpaceOnUse" x2="757.26" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="271.87" x1="748.68">
+  <stop stop-color="#676767" offset=".19"/>
+  <stop stop-color="#81817D" offset=".2817"/>
+  <stop stop-color="#A1A198" offset=".419"/>
+  <stop stop-color="#B5B5A9" offset=".5341"/>
+  <stop stop-color="#BCBCAF" offset=".6121"/>
+  <stop stop-color="#B1B1A5" offset=".6543"/>
+  <stop stop-color="#95958A" offset=".7277"/>
+  <stop stop-color="#66665F" offset=".8238"/>
+  <stop stop-color="#262624" offset=".9374"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5" d="m44.446 279.33s1.277 15.91 4.444 22.083c3.178 6.173 15.212 13.495 15.212 13.495l-30.081 9.726s-6.302.419-13.248-11.798c-6.914-12.185-4.294-15.964-4.294-15.964l27.967-17.54z" fill="url(#ian_symbols_592116a859b1b1c46d5d6367cba487ee)"/>
+ <linearGradient id="ian_symbols_3fa8dab0e43cb554c9f99df338bae97f" y2="210.9" gradientUnits="userSpaceOnUse" x2="485.63" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="247.29" x1="492.35">
+  <stop stop-color="#FFD358" offset=".1273"/>
+  <stop stop-color="#FEE239" offset=".2292"/>
+  <stop stop-color="#FDEB25" offset=".3162"/>
+  <stop stop-color="#FDEE1E" offset=".3758"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5" d="m255.13 223.02s111.49 1.535 113.27 4.284c1.793 2.727-18.948 14.332-26.656 16.264-7.687 1.954-127.4.44-127.4.44l40.79-20.98z" fill="url(#ian_symbols_3fa8dab0e43cb554c9f99df338bae97f)"/>
+ <linearGradient id="ian_symbols_017ff184e7aeed4469a37a06e83fa375" y2="190.92" gradientUnits="userSpaceOnUse" x2="563.24" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="230.41" x1="554.17">
+  <stop stop-color="#FFD358" offset="0"/>
+  <stop stop-color="#FFD94B" offset=".0698"/>
+  <stop stop-color="#FDE82A" offset=".2671"/>
+  <stop stop-color="#FDEE1E" offset=".3758"/>
+  <stop stop-color="#FDEE1E" offset=".6909"/>
+  <stop stop-color="#FDEE22" offset=".7439"/>
+  <stop stop-color="#FDED2E" offset=".7956"/>
+  <stop stop-color="#FCEB41" offset=".8468"/>
+  <stop stop-color="#FCE85D" offset=".8978"/>
+  <stop stop-color="#FBE580" offset=".948"/>
+  <stop stop-color="#FAE2A7" offset=".9939"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5" d="m307.99 164.01c-20.236 9.341-120.29 51.768-120.29 51.768l-143.5 63.55s.558 14.762 3.242 20.935c2.663 6.205 16.404 14.644 16.404 14.644s267.77-126.59 333.98-155.98" fill="url(#ian_symbols_017ff184e7aeed4469a37a06e83fa375)"/>
+ <linearGradient id="ian_symbols_619ff5837378adb4657fbfd1363f74fc" y2="145.34" gradientUnits="userSpaceOnUse" x2="532.01" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="171.17" x1="505.56">
+  <stop stop-color="#FDEE1E" offset=".0848"/>
+  <stop stop-color="#FDEB25" offset=".1603"/>
+  <stop stop-color="#FEE239" offset=".2707"/>
+  <stop stop-color="#FFD358" offset=".4"/>
+  <stop stop-color="#FFD358" offset=".5273"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5" d="m249.41 190.25s44.8-57.64 44.209-60.624c-.601-2.995-16.876 4.96-24.177 9.158-7.3 4.197-54 66.11-54 66.11l33.97-14.65z" fill="url(#ian_symbols_619ff5837378adb4657fbfd1363f74fc)"/>
+ <path stroke="#000" stroke-width=".5" d="m187.05 257.44c-18.895-12.239-22.233-30.887-22.233-30.887l-3.8 2.008s4.981 16.265 19.549 32.229c-.01 0 5.17-3.51 6.48-3.35z" fill="#554129"/>
+ <path stroke="#000" stroke-width=".5" d="m251.87 226.66c-18.809-12.013-21.739-28.481-21.739-28.481l-3.789 1.986s4.52 14.096 19.055 29.834c0 0 5.19-3.5 6.47-3.34z" fill="#554129"/>
+ <linearGradient id="ian_symbols_0afa2fef187bcce419d3b44e54bbf86b" y2="148.85" gradientUnits="userSpaceOnUse" x2="395.55" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="188.01" x1="386.55">
+  <stop stop-color="#FFD358" offset="0"/>
+  <stop stop-color="#FFD94B" offset=".0698"/>
+  <stop stop-color="#FDE82A" offset=".2671"/>
+  <stop stop-color="#FDEE1E" offset=".3758"/>
+  <stop stop-color="#FDEE1E" offset=".6909"/>
+  <stop stop-color="#FDEE22" offset=".7439"/>
+  <stop stop-color="#FDED2E" offset=".7956"/>
+  <stop stop-color="#FCEB41" offset=".8468"/>
+  <stop stop-color="#FCE85D" offset=".8978"/>
+  <stop stop-color="#FBE580" offset=".948"/>
+  <stop stop-color="#FAE2A7" offset=".9939"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5" d="m395.21 160.35c40.474-16.727 46.152-27.473 42.824-43.973-3.596-13.581-73.71 14.053-73.71 14.053s-38.756 24.617-57.94 35.126" fill="url(#ian_symbols_0afa2fef187bcce419d3b44e54bbf86b)"/>
+ <path stroke="#000" stroke-width=".5" d="m436.58 119.65c.806 2.147 3.328 3.188 5.615 2.351 2.308-.88 3.511-3.35 2.684-5.507l-.966-2.512c-.806-2.158-3.339-3.21-5.626-2.34-2.286.859-3.489 3.328-2.662 5.497l.96 2.51z"/>
+ <linearGradient id="ian_symbols_140251fa67498c2455e8caa58318fb5b" y2="121.86" gradientUnits="userSpaceOnUse" x2="326.8" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="130.71" x1="323.41">
+  <stop stop-color="#676767" offset=".3876"/>
+  <stop stop-color="#848484" offset=".4915"/>
+  <stop stop-color="#A4A4A5" offset=".6274"/>
+  <stop stop-color="#B0B0B1" offset=".7022"/>
+ </linearGradient>
+ <polygon stroke="#000" stroke-width=".5" points="364.85 129.92 491.43 53.006 497.35 55.164 400.41 118.54" fill="url(#ian_symbols_140251fa67498c2455e8caa58318fb5b)"/>
+ <path stroke="#000" stroke-width=".5" d="m453.05 76.066c-.279 7.751 1.557-53.238 3.393-54.923 14.021-7.472 40.666-23.393 43.372-20.559 2.651 2.824-7.709 52.454-7.709 52.454l-39.05 23.028z" fill="#E5DA46"/>
+ <linearGradient id="ian_symbols_fd3b418e19aaaf74b9e04b27d17401da" y2="56.863" gradientUnits="userSpaceOnUse" x2="286.7" gradientTransform="matrix(-.9801 .1984 .1984 .9801 725.08 -95.11)" y1="56.863" x1="252.13">
+  <stop stop-color="#FFD358" offset="0"/>
+  <stop stop-color="#FFD94B" offset=".0698"/>
+  <stop stop-color="#FDE82A" offset=".2671"/>
+  <stop stop-color="#FDEE1E" offset=".3758"/>
+  <stop stop-color="#FDEE1E" offset=".6909"/>
+  <stop stop-color="#FDEE22" offset=".7439"/>
+  <stop stop-color="#FDED2E" offset=".7956"/>
+  <stop stop-color="#FCEB41" offset=".8468"/>
+  <stop stop-color="#FCE85D" offset=".8978"/>
+  <stop stop-color="#FBE580" offset=".948"/>
+  <stop stop-color="#FAE2A7" offset=".9939"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5" d="m488.04 4.707l-20.988 4.241s-15.663 7.826-9.845 13.785c.90.235 18.54.020 30.84-18.026z" fill="url(#ian_symbols_fd3b418e19aaaf74b9e04b27d17401da)"/>
+</svg>

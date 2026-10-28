@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="177" height="501" viewBox="0 0 177 501" xml:space="preserve">
+            <title>Light: no light</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Light: no light</ian_image_library:title>
+                <ian_image_library:descr>Illustration of no light absorption</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, light, none, absorption, infiltration</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e3a00b2c965230142d2638f42b127238">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Light: no light</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/light-no-light/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/light-no-light/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, light, none, absorption, infiltration</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of no light absorption</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_876636e48d658244f114935a16567634" y2="81.416" gradientUnits="userSpaceOnUse" x2="166.39" y1="81.416" x1="-.1118">
+  <stop stop-color="#943895" offset=".1582"/>
+  <stop stop-color="#4A58AA" offset=".194"/>
+  <stop stop-color="#156FBA" offset=".2232"/>
+  <stop stop-color="#0078C0" offset=".2373"/>
+  <stop stop-color="#00A6E9" offset=".339"/>
+  <stop stop-color="#41AD49" offset=".4689"/>
+  <stop stop-color="#fd0" offset=".6045"/>
+  <stop stop-color="#F99D1C" offset=".774"/>
+  <stop stop-color="#D2232A" offset=".8814"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="3.4561" d="m24.701 1.728h127.68l-1.63 76.432 20.328.817-84.569 82.128-82.137-81.307 21.145.817-.818-78.882z" fill="url(#ian_symbols_876636e48d658244f114935a16567634)"/>
+ <line y2="405.31" x1="10.141" x2="61.543" stroke="#231F20" stroke-dasharray="27.6474,27.6474,27.6474,27.6474,27.6474,27.6474" y1="81.655" stroke-width="4" fill="none"/>
+ <line y2="391.04" x1="165.22" x2="108.41" stroke="#231F20" stroke-dasharray="27.6474,27.6474,27.6474,27.6474,27.6474,27.6474" y1="81.655" stroke-width="4" fill="none"/>
+ <path d="m115.88 500l-17.366-21.623c-6.986-8.274-11.177-13.647-15.369-19.313h-.397c-3.793 5.664-7.792 10.896-14.573 19.451l-16.165 21.48h-19.957l41.107-49.5-39.505-48.329h20.15l17.765 22.935c4.986 6.384 8.78 11.315 12.37 16.539h.602c3.793-5.804 7.189-10.296 12.176-16.539l18.162-22.935h20.15l-40.902 47.608 41.9 50.221-20.15.01z" fill="#ED1C24"/>
+</svg>

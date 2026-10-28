@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="184" viewBox="0 0 502 184" xml:space="preserve">
+            <title>Book</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Book</ian_image_library:title>
+                <ian_image_library:descr>Illustration of open book</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>open, book, pages, text, writing, reading, library, office, academic</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-292f0fc88ece1534c92a1cee14ac607c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Book</dc:title>
+                <dc:date>2004-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/book/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/book/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>open, book, pages, text, writing, reading, library, office, academic</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of open book</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#806184" stroke-width=".25" d="m104.75 47.537c-23.693 4.733-66.348 40.273-73.441 45.016-7.125 4.743-30.825 4.743-30.825 4.743l154.04 85.3s23.694-2.372 37.913-9.476c14.218-7.114 26.054-26.065 49.759-35.541 10.612-4.256 31.036-9.248 48.969-11.067 7.916-.802 21.506-.379 29.228 3.173 10.774 4.938 26.888-4.147 26.888-4.147s8.652-11.663 32.357-14.024c23.693-2.371 42.645 9.476 61.605 9.476 18.945 0 59.246-11.847 59.246-11.847l-156.41-94.783s-21.312 16.59-42.645 14.208c-21.333-2.361-30.819-4.721-49.77-4.721s-68.715 26.054-68.715 26.054-54.51-7.104-78.21-2.361z" fill="#9E0B0F"/>
+ <path stroke="#7F7E96" stroke-width=".25" d="m332.24 120.99l-149.29-80.567s49.765-26.065 68.715-26.065 28.437 2.372 49.77 4.732c21.333 2.371 42.645-14.208 42.645-14.208l156.4 94.786s-40.301 11.847-59.246 11.847c-18.961 0-37.912-11.847-61.605-9.486-23.69 2.37-47.38 18.96-47.38 18.96z" fill="#D0CCA8"/>
+ <path stroke="#7F7E96" stroke-width=".25" d="m182.95 45.155s-54.502-11.847-78.201-7.114c-23.694 4.754-66.349 40.294-73.442 45.038-7.125 4.731-30.824 4.731-30.824 4.731l154.04 85.311s23.694-2.371 37.913-9.486c14.218-7.104 26.054-26.055 49.759-35.541 23.705-9.475 90.043-7.104 90.043-7.104l-149.28-75.835z" fill="#D0CCA8"/>
+ <path stroke="#7F7E96" stroke-width=".25" d="m182.95 35.68s-54.502-11.836-78.201-7.115c-23.694 4.743-66.349 40.294-73.442 45.038-7.125 4.732-21.344 4.732-21.344 4.732l158.77 85.3s9.475-2.361 23.694-9.465c14.218-7.114 26.054-26.076 49.759-35.551s90.043 2.372 90.043 2.372l-149.27-85.32z" fill="#E5E0B7"/>
+ <path stroke="#7F7E96" stroke-width=".25" d="m332.24 120.99l-149.29-85.31s49.765-26.065 68.715-26.065 28.437 2.372 49.77 4.743 33.169-4.743 33.169-4.743l146.92 85.311s-21.339 7.104-40.284 7.104c-18.961 0-37.912-7.104-61.605-4.732-23.71 2.37-47.4 23.692-47.4 23.692z" fill="#E5E0B7"/>
+ <path stroke="#7F7E96" stroke-width=".25" d="m182.95 30.947s-54.502-11.857-78.201-7.104c-23.694 4.721-66.349 35.541-73.442 40.272-7.125 4.743-21.344 4.743-21.344 4.743l158.77 85.311s9.475-2.371 23.694-9.475c14.218-7.115 26.054-26.076 49.759-35.551 23.705-9.476 90.043 11.847 90.043 11.847l-149.27-90.053z" fill="#FFFBCC"/>
+ <path stroke="#7F7E96" stroke-width=".25" d="m332.24 120.99l-149.29-90.043s45.021-30.808 63.983-30.808 33.169 2.36 54.502 4.743c21.333 2.372 37.912-4.743 37.912-4.743l142.17 80.567s-26.065 11.847-45.016 11.847c-18.973 0-33.181-7.115-56.874-4.743-23.69 2.361-47.38 33.18-47.38 33.18z" fill="#FFFBCC"/>
+</svg>

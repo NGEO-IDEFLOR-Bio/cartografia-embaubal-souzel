@@ -1,0 +1,110 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="324" viewBox="0 0 500 324" xml:space="preserve">
+            <title>Papaya</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Papaya</ian_image_library:title>
+                <ian_image_library:descr>Illustration of papaya</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, papaya, edible, food, fruit, tropical, plant, vascular, Magnoliphyta, angiosperm, flowering, Magnoliopsida, dicot, Dilleniidae, Violales, Caricaceae, Carica, papaya</ian_image_library:contains>
+                    <ian_image_library:when>2004-02-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-08470a67269cf574ade22e6307b6a08e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Papaya</dc:title>
+                <dc:date>2004-02-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/papaya/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/papaya/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, papaya, edible, food, fruit, tropical, plant, vascular, Magnoliphyta, angiosperm, flowering, Magnoliopsida, dicot, Dilleniidae, Violales, Caricaceae, Carica, papaya</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of papaya</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_d270a9c5eb4b9b3455c6a8283f2448ba" gradientUnits="userSpaceOnUse" x1="208.6904" y1="-7.2456" x2="267.6669" y2="327.2264">
+	<stop  offset="0.2303" style="stop-color:#F0D46C"/>
+	<stop  offset="0.6629" style="stop-color:#C3B263"/>
+	<stop  offset="1" style="stop-color:#71945A"/>
+</linearGradient>
+<path fill="url(#ian_symbols_d270a9c5eb4b9b3455c6a8283f2448ba)" stroke="#000000" d="M2.841,113.246c9.618-36.076,40.475-76.7,52.511-81.504
+	c12.025-4.814,39.037-17.245,60.67-22.059c21.654-4.814,74.431-16.701,134.568-2.269c60.138,14.432,103.436,38.494,117.857,57.73
+	c14.433,19.236,45.705,43.287,64.952,55.323c19.236,12.036,31.262,9.628,36.075,26.458c3.898,13.612,4.549,22.506,3.388,40.678
+	c-0.277,4.292-0.66,9.117-1.118,14.646c-2.396,28.865-4.677,72.163-23.912,86.585c-19.247,14.433-55.323,9.628-74.57,9.628
+	c-19.236,0-33.68,21.654-74.57,21.654s-113.596,9.342-164.11-12.313c-50.503-21.633-71.604-47.835-95.665-79.097
+	C14.867,197.444-6.788,149.321,2.841,113.246z"/>
+<linearGradient id="ian_symbols_35fd3054c90baf24a59ead3e78b1d06b" gradientUnits="userSpaceOnUse" x1="355.8564" y1="34.9209" x2="355.8564" y2="317.0586">
+	<stop  offset="0.2303" style="stop-color:#B8BB68"/>
+	<stop  offset="1" style="stop-color:#80A565"/>
+</linearGradient>
+<path opacity="0.32" fill="url(#ian_symbols_35fd3054c90baf24a59ead3e78b1d06b)" d="M424.74,222.027c-15.242-21.366-100.293-7.85-125.686-15.817
+	c-28.226-8.83,65.122-25.68,53.48-34.01c-29.473-21.132-55.931-14.251-58.987-32.561c-3.046-18.299,38.792-6.167,59.126-20.419
+	c20.344-14.241-120.137-77.211-91.676-83.314c28.481-6.104,87.266,17.372,101.698,36.608s39.751,44.927,58.998,56.963
+	c19.236,12.036,40.943-2.439,45.747,14.39c3.894,13.623,4.549,22.517,3.388,40.678c-0.267,4.303-0.65,9.117-1.108,14.656
+	c-2.418,28.864-4.676,72.162-23.923,86.595c-19.236,14.422-55.322,9.618-74.569,9.618c-19.236,0-33.669,21.644-74.56,21.644
+	c-19.401-0.447-26.511-19.769-40.763-23.838c-50.498-21.644,40.337-6.358,16.286-37.631
+	C248.131,224.328,439.988,243.384,424.74,222.027z"/>
+<linearGradient id="ian_symbols_df45427581ce15646991af7b8275494f" gradientUnits="userSpaceOnUse" x1="453.5742" y1="215.9541" x2="498.1865" y2="215.9541">
+	<stop  offset="0.0843" style="stop-color:#B4A474"/>
+	<stop  offset="0.8146" style="stop-color:#B5AB88"/>
+</linearGradient>
+<path fill="url(#ian_symbols_df45427581ce15646991af7b8275494f)" stroke="#000000" d="M493.526,209.47c4.442,6.454,7.766,13.975,0,16.829
+	c-7.754,2.854-9.586-1.832-16.69,0c-15.481,2.854-7.35,22.176-18.533,22.176c-3.866,1.534-6.523-26.426-3.259-36.608
+	c3.259-10.183,12.738-28.333,17.5-28.492c4.771-0.149-2.227,15.455,3.046,18.31C480.867,204.549,489.096,203.004,493.526,209.47z"/>
+<linearGradient id="ian_symbols_e89ac5fe4bf4bba4c5db671cab208044" gradientUnits="userSpaceOnUse" x1="182.3926" y1="16.5576" x2="421.2188" y2="16.5576" gradientTransform="matrix(0.971 0.239 -0.1517 0.6163 47.03 27.562)">
+	<stop  offset="0.2303" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#E7F2DA"/>
+</linearGradient>
+<path opacity="0.21" fill="url(#ian_symbols_e89ac5fe4bf4bba4c5db671cab208044)" d="M258.984,53.375c36.96,5.07,114.428,52.415,136.092,67.849
+	c21.676,15.444,47.739,25.883,50.914,38.792c3.195,12.909-3.297,13.335-33.291,5.943c-30.021-7.371-24.854-28.333-59.461-42.915
+	c-34.611-14.571-88.811-40.049-112.83-45.939C216.411,71.183,222.035,48.326,258.984,53.375z"/>
+</svg>

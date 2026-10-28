@@ -1,0 +1,95 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="493" height="508" viewBox="0 0 493 508" xml:space="preserve">
+            <title>Phytoplankton bloom/crash</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Phytoplankton bloom/crash</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a phytoplankton bloom and crash</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, phytoplankton, bloom, crash</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0ad34ffe9ba66174211561f82c280969">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Phytoplankton bloom/crash</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/phytoplankton-bloom-crash/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/phytoplankton-bloom-crash/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, phytoplankton, bloom, crash</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a phytoplankton bloom and crash</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m213.45 361.85s-41.377-76.22-76.619-75.475c-34.165.688 26.506-65.417 38.51-60.526 11.002 6.046 21.939 30.863 41.255 53.024 18.271 22.239 43.478 34.153 43.478 34.153l-9.258 26.984c-.01.01-35.01 26.14-37.37 21.85z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m226.89 414.13c-1.589-9.857-5.068-116.75-138.19-148.42" fill="none"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m311.98 324.66c-9.713-1.7-111.32-3.001-144.16-140.37" fill="none"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m210.2 360.91s39.254-5.357 50.813-50.124" fill="none"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m128.91 277.96s5.268-42.222 50.429-56.748" fill="none"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m194.85 333.01s-.778-35.275 36.287-41.644" fill="none"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m165.46 302.54s-1.9-36.331 35.287-40.499" fill="none"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m248.43 164.37s-13.87 42.989-11.748 50.702c2.145 7.735 128.07 54.025 138.74 41.911 9.636-13.236 14.943-49.624 12.825-44.1-3.189 6.613-36.292 13.226-65.116 3.312-27.751-12.136-23.483 0-46.967-18.749-24.52-19.85-27.72-33.07-27.72-33.07z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m327.4 162.16c38.443 12.136 67.234 33.075 62.967 47.412-4.24 13.237-39.472 15.438-77.881 4.401-39.51-12.125-68.318-34.164-64.05-48.501 4.26-14.33 39.48-15.44 78.96-3.31z" fill="#fff"/>
+ <line y2="191.92" x1="284.72" x2="270.83" stroke="#231F20" stroke-miterlimit="3.8637" y1="179.81" stroke-width="4" fill="none"/>
+ <line y2="207.36" x1="303.91" x2="300.72" stroke="#231F20" stroke-miterlimit="3.8637" y1="188.62" stroke-width="4" fill="none"/>
+ <line y2="212.88" x1="323.13" x2="323.13" stroke="#231F20" stroke-miterlimit="3.8637" y1="197.44" stroke-width="4" fill="none"/>
+ <line y2="217.29" x1="345.55" x2="349.81" stroke="#231F20" stroke-miterlimit="3.8637" y1="202.96" stroke-width="4" fill="none"/>
+ <line y2="205.17" x1="366.91" x2="387.18" stroke="#231F20" stroke-miterlimit="3.8637" y1="201.84" stroke-width="4" fill="none"/>
+ <line y2="180.91" x1="354.08" x2="367.96" stroke="#231F20" stroke-miterlimit="3.8637" y1="188.62" stroke-width="4" fill="none"/>
+ <line y2="163.26" x1="331.66" x2="335.93" stroke="#231F20" stroke-miterlimit="3.8637" y1="179.81" stroke-width="4" fill="none"/>
+ <line y2="156.64" x1="308.18" x2="313.52" stroke="#231F20" stroke-miterlimit="3.8637" y1="175.39" stroke-width="4" fill="none"/>
+ <line y2="152.24" x1="287.92" x2="281.53" stroke="#231F20" stroke-miterlimit="3.8637" y1="165.47" stroke-width="4" fill="none"/>
+ <line y2="168.78" x1="249.49" x2="271.89" stroke="#231F20" stroke-miterlimit="3.8637" y1="166.58" stroke-width="4" fill="none"/>
+ <path stroke="#231F20" stroke-width="4" stroke-miterlimit="3.8637" d="m186.8 21.455c27.818-9.713 56.87-12.759 89.789-10.091 17.021.856 33.298 3.246 47.423 7.102 17.216 3.579 35.515 8.346 55.181 14.17l24.206-27.474 1.923 83.944-109.98 28.996 33.142-29.263c-30.98-16.603-63.33-28.383-105.54-25.36-32.336 2.323-53.775 10.581-79.326 25.062-94.924 53.68-123.54 178.87-67.2 273.07 55.98 93.612 178.66 124.53 272.27 68.55 162-96.058 96.958-289.44 106.63-296.12 69.568 116.3 32.158 267.29-82.17 336.66-115.59 69.096-267.06 30.952-336.13-84.621-69.584-116.3-32.18-267.29 82.932-337.14 20.25-11.692 44.26-21.428 66.86-27.485z" fill="#fff"/>
+</svg>

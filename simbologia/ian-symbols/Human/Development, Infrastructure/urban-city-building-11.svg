@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="410" viewBox="0 0 501 410" xml:space="preserve">
+            <title>Urban: city building 11</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: city building 11</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an apartment building.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, city building, apartment, office, hotel, high rise, multi-storey</ian_image_library:contains>
+                    <ian_image_library:when>2012-05-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-3f1771edfa009c34d140ec8f5cc59045">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: city building 11</dc:title>
+                <dc:date>2012-05-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-city-building-11/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-city-building-11/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, city building, apartment, office, hotel, high rise, multi-storey</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an apartment building.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#A4A7AA" points="214.24,409.364 214.24,248.655 13.43,153.386 13.43,314.029 "/>
+<path fill="#578FAF" d="M126.994,221.656v31.743l-53.813-23.272V197.42L126.994,221.656z M63.021,192.844v32.893l-38.57-16.68
+	v-33.603L63.021,192.844z M24.45,279.306v-34.032l38.57,16.624v33.584L24.45,279.306z M73.182,299.741v-33.49l53.813,23.161v32.892
+	L73.182,299.741z M202.137,353.814l-61.956-25.963v-32.725l61.956,26.654V353.814z M202.137,285.9l-61.956-26.804v-31.482
+	l61.956,27.915V285.9z"/>
+<polygon fill="#FEFFFF" points="214.24,248.655 214.24,409.364 481.64,256.687 481.64,100.826 "/>
+<path fill="#64ABB5" d="M415.331,155.142v32.883l-46.695,25.254v-33.107L415.331,155.142z M355.43,187.25v33.191l-53.813,29.109
+	v-33.471L355.43,187.25z M229.538,254.707l59.901-32.089v33.546l-59.901,32.389V254.707z M229.538,357.979v-33.9l59.901-32.613
+	v33.659L229.538,357.979z M301.617,318.456v-33.62l53.813-29.27v33.378L301.617,318.456z M368.636,281.715v-33.359l46.695-25.411
+	v33.145L368.636,281.715z M471.161,225.475l-44.66,24.487v-33.089l44.66-24.31V225.475z M471.161,157.813l-44.66,24.151v-32.79
+	l44.66-23.945V157.813z"/>
+<polygon fill="#A92128" points="500,98.089 217.472,254.277 132.019,144.813 405.525,3.372 "/>
+<polygon fill="#CC2233" points="217.472,254.277 132.019,144.813 0,154.778 "/>
+<polygon fill="#BA2230" points="405.525,3.372 132.019,144.813 0,154.778 294.931,0 "/>
+</svg>

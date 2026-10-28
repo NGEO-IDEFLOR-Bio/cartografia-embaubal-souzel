@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="405" viewBox="0 0 501 405" xml:space="preserve">
+            <title>Park: park bench</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Park: park bench</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a wooden park bench, with painted green armrests</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, park, bench, seat</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-34a67ecd729edb94a5053e2d9ec9b192">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Park: park bench</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/park-park-bench/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/park-park-bench/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, park, bench, seat</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a wooden park bench, with painted green armrests</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m378.24 214.11l20.204-4.894s-4.086-29.386 4.904-42.855c-2.862-3.67-10.618 2.043-16.331 2.862-5.71.81-8.77 44.89-8.77 44.89z" fill="#0D170E"/>
+ <path d="m369.68 4.526s12.405-9.512 27.906-.958c4.277 2.67-2.234 36.142 14.32 59.122 3.671 3.267 56.016 3.884 60.825 8.161s-.809 25.321 1.84 31.833c3.054 7.564 13.64 5.681 20.608 13.874 13.874 16.332-7.341 58.377-.404 115.51l-7.756 12.257c-8.82-4.277-6.937-121.23-93.179-140.83-6.42-6.956-24.17-98.964-24.17-98.964z" fill="#14331F"/>
+ <path d="m363.15 206.97s7.235-66.762 7.129-83.88c-.096-17.108-6.49-100.65-5.054-111.46 1.426-10.788 15.757-13.256 17.778-3.511 2.021 9.767 6.66 51.728 15.044 58.239 12.256 10.597 56.494 1.809 59.175 8.16 2.682 6.352 1.734 21.406 4.905 30.62 3.159 9.214 22.874 13.512 24.896 23.257 7.043 13.32-7.682 82.636-.617 115.93l-21.842-2.043s.479-56.239-6.927-77.549c-4.202-13.235-55.409-9.725-66.538.808-11.128 10.544-12.852 48.568-12.852 48.568l-15.09-7.15z" fill="#4A7153"/>
+ <polygon points="59.881 29.22 378.85 12.697 378.85 35.337 61.711 64.723" fill="#AD9E7B"/>
+ <polygon points="177.02 236.15 479.87 143.09 478.01 132.07 177.02 222.68" fill="#908467"/>
+ <polygon points="178.71 222.68 478.04 132.07 451.5 130.85 171.92 210.44" fill="#AD9E7B"/>
+ <polygon points="170.04 207.99 447.43 130.24 423.9 124.73 156.41 193.92" fill="#AD9E7B"/>
+ <polygon points="143.35 179.42 396.32 119.22 418.04 124.11 152.45 191.47" fill="#AD9E7B"/>
+ <polygon points="78.037 116.15 383.72 72.064 385.59 95.332 141.42 138.2" fill="#AD9E7B"/>
+ <path d="m7.839 16.154s24.896-13.874 48.568-.819c6.533 4.085-.813 65.304 24.492 100.41 3.266 4.894 53.063 8.16 60.41 14.693 7.341 6.522 4.075 38.365 5.703 48.983 1.639 10.607 22.05 19.587 29.396 34.279 7.346 14.693 7.346 156.73 5.713 165.71l-25.306 23.684c-13.469-6.533-31.019-218.36-106.12-235.1-9.789-10.59-42.851-151.83-42.851-151.83z" fill="#14331F"/>
+ <path d="m48.247 330.44l27.753-12.24s-7.346-46.536 6.533-68.581c0 0-23.672-16.32-36.732 4.905-13.066 21.23 2.446 75.92 2.446 75.92z" fill="#0D170E"/>
+ <path d="m20.489 324.74s2.447-102.87 1.633-127.36c-.813-24.49-23.666-154.29-22.039-169.79 1.639-15.522 22.04-19.598 25.306-5.724 3.266 13.884 5.713 82.455 17.964 91.434 17.954 14.692 61.218 19.587 65.298 28.566s2.453 35.929 7.347 48.973c4.899 13.064 26.125 19.597 29.385 33.481 10.618 18.768 0 131.42 11.432 178.77l-22.858-4.086s-5.713-92.242-17.14-122.45c-6.532-18.778-46.531-37.557-62.042-22.033-15.507 15.501-6.527 75.911-6.527 75.911l-27.752-5.69z" fill="#4A7153"/>
+</svg>

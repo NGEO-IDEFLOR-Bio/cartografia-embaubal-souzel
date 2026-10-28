@@ -1,0 +1,146 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+            <title>Seagrass habitat: deep water</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass habitat: deep water</ian_image_library:title>
+                <ian_image_library:descr>Illustration of deep water seagrass habitat</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, habitat, deep, water, ocean, level</ian_image_library:contains>
+                    <ian_image_library:when>2008-08-26</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2f98fb9c73ae359431d50a236480dc5f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass habitat: deep water</dc:title>
+                <dc:date>2008-08-26</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+James Cook University</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+James Cook University</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-habitat-deep-water/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-habitat-deep-water/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, habitat, deep, water, ocean, level</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of deep water seagrass habitat</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_cd86d9e7582248f419aacd2b9abba856">
+	<g>
+		<rect x="0.9" y="0.9" fill="#FFFFFF" width="498.3" height="498.3"/>
+			<linearGradient id="ian_symbols_c6a0f74533bde734a9a08b3d8fa24d4a" gradientUnits="userSpaceOnUse" x1="1425.6669" y1="474.9745" x2="1425.6669" y2="2835.7693" gradientTransform="matrix(0.1972 0 0 -0.1972 -31.1381 592.8177)">
+			<stop  offset="8.430000e-02" style="stop-color:#32368F"/>
+			<stop  offset="0.1599" style="stop-color:#26499B"/>
+			<stop  offset="0.382" style="stop-color:#0978BE"/>
+			<stop  offset="0.4288" style="stop-color:#067DC2"/>
+			<stop  offset="0.4968" style="stop-color:#0986C8"/>
+			<stop  offset="0.5777" style="stop-color:#0A98D5"/>
+			<stop  offset="0.6678" style="stop-color:#15AFE6"/>
+			<stop  offset="0.6966" style="stop-color:#1BBCEE"/>
+			<stop  offset="1" style="stop-color:#9FDCF9"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_c6a0f74533bde734a9a08b3d8fa24d4a)" d="M499.1,499.1H0.9V33.6c0,0,20,17.8,34.6,15.4c14.7-2.5,31.1-13.2,31.1-13.2S81.2,50.7,100.4,49
+			c19-1.9,31.4-13.5,31.4-13.5s16.5,15.4,34.1,13.8c17.5-1.8,31.8-13.8,31.8-13.8s17.6,16.2,34.5,13.8c16.8-2.5,31.2-13.2,31.2-13.2
+			s20.2,16.5,37.9,12.7c17.9-4.1,28-13.2,28-13.2s20.4,16.2,34.6,13.8c14.3-2.5,31.2-13.5,31.2-13.5s13.1,14,33.8,13.2
+			c20.7-1,31.1-13.9,31.1-13.9s23.7,16,39.2,14.8L499.1,499.1L499.1,499.1z"/>
+		<path fill="#ECEAD8" d="M0.9,430.7c8.2,0.7,60.3,1.7,66.6,2.2c74.1,6.7,123.9-15.2,243.5-13.2c73,1.2,124,22.8,188.1,29v50.4H0.9
+			L0.9,430.7L0.9,430.7z"/>
+		<path d="M273.2,427.7h-0.4c0-9.3-6.4-20.1-7.3-21l0.3-0.3C266.7,407.3,273.2,418.4,273.2,427.7z"/>
+		<path d="M273.2,426l-0.4-0.1c1.8-7.3,5.5-16.5,5.5-16.6l0.4,0.2C278.7,409.5,275,418.7,273.2,426z"/>
+			<linearGradient id="ian_symbols_76ec9c3415e7a874c539a8c1c7d8e67e" gradientUnits="userSpaceOnUse" x1="484.772" y1="275.104" x2="484.772" y2="310.2722" gradientTransform="matrix(1.1696 0 0 -1.1696 -310.8235 737.9149)">
+			<stop  offset="0" style="stop-color:#53A275"/>
+			<stop  offset="1" style="stop-color:#A5CE3A"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_76ec9c3415e7a874c539a8c1c7d8e67e)" d="M266.6,385.5c4.6,8.3,3.7,18.4-1.8,21.1c-5.5,3.7-13.7-0.9-18.3-10.1c-5.5-8.3-4.6-18.4,0.9-21.1
+			C252.9,371.7,261.1,376.3,266.6,385.5L266.6,385.5z"/>
+			<linearGradient id="ian_symbols_f93f5f43198a2e44393d5fd23960c392" gradientUnits="userSpaceOnUse" x1="509.9694" y1="275.4073" x2="509.9694" y2="310.0194" gradientTransform="matrix(1.1696 0 0 -1.1696 -310.8235 737.9149)">
+			<stop  offset="0" style="stop-color:#53A275"/>
+			<stop  offset="1" style="stop-color:#A5CE3A"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_f93f5f43198a2e44393d5fd23960c392)" d="M295.9,398.4c-4.6,8.3-13.7,13.8-19.2,10.1c-5.5-2.8-5.5-12.9-0.9-21.1c4.6-9.2,12.8-13.8,18.3-11
+			C299.6,380,300.5,389.2,295.9,398.4L295.9,398.4z"/>
+		<path d="M279.6,403l-0.4,0c0.9-11,11.9-20.3,12-20.4l0.3,0.3C291.4,383,280.5,392.2,279.6,403z"/>
+		<path d="M263.7,400.2c-0.9-8.1-12.6-20-12.8-20.1l0.3-0.3c0.5,0.5,12,12.1,12.9,20.3L263.7,400.2z"/>
+		<path d="M191.6,430.9h-0.4c0-8.2-5.5-19.2-7.3-21l0.3-0.3C186.1,411.5,191.6,422.7,191.6,430.9z"/>
+		<path d="M192.5,429.1l-0.4-0.1c1.8-7.3,5.5-16.5,5.5-16.6l0.4,0.2C198,412.7,194.3,421.9,192.5,429.1z"/>
+			<linearGradient id="ian_symbols_7c7cf7f17f2bca049548905689f44a3d" gradientUnits="userSpaceOnUse" x1="415.4513" y1="267.1707" x2="415.4513" y2="301.2778" gradientTransform="matrix(1.1696 0 0 -1.1696 -310.8235 737.9149)">
+			<stop  offset="0" style="stop-color:#53A275"/>
+			<stop  offset="1" style="stop-color:#A5CE3A"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_7c7cf7f17f2bca049548905689f44a3d)" d="M185,388.7c5.5,9.2,4.6,18.4-0.9,22c-5.5,2.8-13.7-1.8-19.2-10.1c-4.6-9.2-4.6-18.4,0.9-22
+			C172.2,375.8,180.4,380.4,185,388.7L185,388.7z"/>
+			<linearGradient id="ian_symbols_85c9f5f864364014dd3b087482339683" gradientUnits="userSpaceOnUse" x1="440.7377" y1="267.2214" x2="440.7377" y2="301.4798" gradientTransform="matrix(1.1696 0 0 -1.1696 -310.8235 737.9149)">
+			<stop  offset="0" style="stop-color:#53A275"/>
+			<stop  offset="1" style="stop-color:#A5CE3A"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_85c9f5f864364014dd3b087482339683)" d="M215.2,401.5c-5.5,9.2-13.7,13.8-19.2,11c-5.5-3.7-6.4-12.9-1.8-22c5.5-8.3,13.7-12.9,19.2-10.1
+			C218.9,383.1,219.8,393.3,215.2,401.5L215.2,401.5z"/>
+		<path d="M198.9,407.1l-0.4,0c0.9-11,11.9-21.2,12-21.3l0.3,0.3C210.6,386.2,199.8,396.3,198.9,407.1z"/>
+		<path d="M182.4,404.3H182c0-8.1-12.6-20.9-12.8-21l0.3-0.3C170.1,383.5,182.4,396,182.4,404.3z"/>
+		<path d="M232.5,441.5c-0.9-8.1-6.4-20.1-8.1-21l0.2-0.4c2,1,7.5,13.3,8.4,21.3L232.5,441.5z"/>
+		<path d="M232.9,439.7l-0.4-0.1c1.8-7.3,5.5-16.5,5.5-16.6l0.4,0.2C238.4,423.3,234.8,432.5,232.9,439.7z"/>
+			<linearGradient id="ian_symbols_db176fe92b488df4254e83200a55c4e2" gradientUnits="userSpaceOnUse" x1="450.2057" y1="264.897" x2="450.2057" y2="299.0041" gradientTransform="matrix(1.1696 0 0 -1.1696 -310.8235 737.9149)">
+			<stop  offset="0" style="stop-color:#53A275"/>
+			<stop  offset="1" style="stop-color:#A5CE3A"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_db176fe92b488df4254e83200a55c4e2)" d="M225.4,399.3c5.5,9.2,4.6,18.4-0.9,22c-5.5,2.8-13.7-1.8-19.2-10.1c-4.6-9.2-3.7-19.3,1.8-22
+			C212.6,386.4,220.8,391,225.4,399.3L225.4,399.3z"/>
+			<linearGradient id="ian_symbols_3dfe6ba6635c801479a60855964d1aa0" gradientUnits="userSpaceOnUse" x1="475.3842" y1="264.897" x2="475.3842" y2="299.5093" gradientTransform="matrix(1.1696 0 0 -1.1696 -310.8235 737.9149)">
+			<stop  offset="0" style="stop-color:#53A275"/>
+			<stop  offset="1" style="stop-color:#A5CE3A"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_3dfe6ba6635c801479a60855964d1aa0)" d="M255.6,412.1c-4.6,9.2-13.7,13.8-19.2,11c-5.5-3.7-6.4-12.9-0.9-22.1c4.6-8.3,12.8-13.8,18.3-10.1
+			C259.3,393.8,260.2,403.9,255.6,412.1L255.6,412.1z"/>
+		<path d="M239.4,417.7l-0.4,0c0.9-11,11.9-21.2,12-21.3l0.3,0.3C251.1,396.8,240.3,406.8,239.4,417.7z"/>
+		<path d="M223.4,414.9c-0.9-8.1-13.5-20.9-13.7-21l0.3-0.3c0.5,0.5,12.9,13,13.8,21.3L223.4,414.9z"/>
+		<path d="M499.1,500H0.9c-0.5,0-0.9-0.4-0.9-0.9V0.9C0,0.4,0.4,0,0.9,0h498.3c0.5,0,0.9,0.4,0.9,0.9v498.3
+			C500,499.6,499.6,500,499.1,500z M1.7,498.3h496.6V1.7H1.7V498.3z"/>
+	</g>
+</g>
+</svg>

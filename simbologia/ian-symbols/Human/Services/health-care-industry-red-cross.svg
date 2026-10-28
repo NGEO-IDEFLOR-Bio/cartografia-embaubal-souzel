@@ -1,0 +1,74 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+            <title>Health care industry: red cross</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Health care industry: red cross</ian_image_library:title>
+                <ian_image_library:descr>The red cross is a symbol of the health care industry, and is used on hospitals and ambulances.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>red cross, medical, medicine, hospital, doctor, medic, clinic, health, injury, ambulance, society, humanitarian movement, </ian_image_library:contains>
+                    <ian_image_library:when>2007-04-25</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-df50a9230f844ee4911e5f70012e1413">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Health care industry: red cross</dc:title>
+                <dc:date>2007-04-25</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/health-care-industry-red-cross/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/health-care-industry-red-cross/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>red cross, medical, medicine, hospital, doctor, medic, clinic, health, injury, ambulance, society, humanitarian movement, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>The red cross is a symbol of the health care industry, and is used on hospitals and ambulances.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<polygon fill="#CD0001" points="500,166.661 333.304,166.661 333.304,0 166.66,0 166.66,166.661 0,166.661 0,333.339 
+	166.66,333.339 166.66,500 333.304,500 333.304,333.339 500,333.339 "/>
+</svg>

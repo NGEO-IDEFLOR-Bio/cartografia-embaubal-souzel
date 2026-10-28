@@ -1,0 +1,124 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="363" viewBox="0 0 501 363" xml:space="preserve">
+            <title>Urban: apartment building 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: apartment building 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an apartment building.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, apartments, flats, units, townhouse, building, multistory</ian_image_library:contains>
+                    <ian_image_library:when>2012-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a614cb3da6078e140935d2f27629ef90">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: apartment building 3</dc:title>
+                <dc:date>2012-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-apartment-building-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-apartment-building-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, apartments, flats, units, townhouse, building, multistory</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an apartment building.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#A39179" points="0,225.955 0,85.215 212.1,155.912 212.1,296.641 "/>
+<linearGradient id="ian_symbols_760c1e32c03645948d5a5708fa406104" gradientUnits="userSpaceOnUse" x1="2010.5845" y1="217.0962" x2="2101.0818" y2="108.1984" gradientTransform="matrix(-1 0 0 1 2078.8818 0)">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_760c1e32c03645948d5a5708fa406104)" points="0,85.215 47.521,101.052 47.521,241.792 0,225.955 "/>
+<polygon fill="#A99B88" points="212.1,296.641 212.1,342.653 169.482,356.065 169.482,282.448 "/>
+<polygon fill="#DFDECA" points="0,225.955 169.482,282.448 169.482,356.065 0,299.571 "/>
+<polygon fill="#88796C" points="137.26,290.104 137.26,345.332 25.685,308.112 25.685,252.905 "/>
+<polygon fill="#A99B88" points="500,199.975 500,59.246 212.1,155.912 212.1,296.641 "/>
+<polygon fill="#A99B88" points="500,199.975 500,282.808 263.818,362.118 263.818,279.307 "/>
+<polygon fill="#DFDECA" points="212.1,296.641 263.818,279.307 263.818,362.118 212.1,342.653 "/>
+<polygon fill="#A12021" points="246.546,303.009 246.546,355.622 223.55,346.978 223.55,294.954 "/>
+<linearGradient id="ian_symbols_19c54bd02aaf493409da58cf717cae86" gradientUnits="userSpaceOnUse" x1="1696.7104" y1="323.7236" x2="1770.33" y2="275.4108" gradientTransform="matrix(-1 0 0 1 2078.8818 0)">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_19c54bd02aaf493409da58cf717cae86)" points="398.4,288.585 398.4,258.556 275.817,299.72 275.817,329.748 "/>
+<linearGradient id="ian_symbols_d3dcfe3372358f24b9e6c3606fcea3d4" gradientUnits="userSpaceOnUse" x1="1681.6216" y1="222.3223" x2="1967.0854" y2="222.3223" gradientTransform="matrix(-1 0 0 1 2078.8818 0)">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_d3dcfe3372358f24b9e6c3606fcea3d4)" points="397.26,180.458 397.26,201.282 212.542,264.187 111.796,230.594 111.796,209.759 
+	212.542,243.373 "/>
+<linearGradient id="ian_symbols_2864e09fcd412294b5a1edd2c2f0ae4a" gradientUnits="userSpaceOnUse" x1="1681.6216" y1="148.6943" x2="1967.0854" y2="148.6943" gradientTransform="matrix(-1 0 0 1 2078.8818 0)">
+	<stop  offset="0.0364" style="stop-color:#AAD9EF"/>
+	<stop  offset="0.3515" style="stop-color:#C6E3F0"/>
+	<stop  offset="0.5879" style="stop-color:#D3EFFC"/>
+	<stop  offset="0.703" style="stop-color:#EFF9FE"/>
+	<stop  offset="0.8606" style="stop-color:#EFF9FE"/>
+	<stop  offset="1" style="stop-color:#C3E7F6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_2864e09fcd412294b5a1edd2c2f0ae4a)" points="212.542,169.713 397.26,106.83 397.26,127.665 212.542,190.559 111.796,156.977 
+	111.796,136.142 "/>
+<polygon fill="#DBD8C7" points="149.354,55.777 114.474,47.384 0,85.215 212.1,155.912 500,59.246 320.291,0 "/>
+<polygon fill="#A39179" points="115.456,102.887 211.447,134.866 211.447,114.327 115.456,82.326 "/>
+<polygon fill="#DBD8C7" points="115.456,82.326 211.447,114.327 304.011,82.326 212.595,54.617 "/>
+<polygon fill="#A99B88" points="211.447,114.327 211.447,134.866 304.011,102.887 304.011,82.326 "/>
+</svg>

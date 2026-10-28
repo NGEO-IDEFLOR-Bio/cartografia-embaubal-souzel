@@ -1,0 +1,94 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="240" viewBox="0 0 501 240" xml:space="preserve">
+            <title>Industrial building 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Industrial building 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an industrial building</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, industry, manufacturing, refining, industrial park, industrial estate, building, warehouse, storage</ian_image_library:contains>
+                    <ian_image_library:when>2011-01-18</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-95863ea7da08641471ec53a76234ae16">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Industrial building 3</dc:title>
+                <dc:date>2011-01-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Department of Water Western Australia</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Department of Water Western Australia</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/industrial-building-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/industrial-building-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, industry, manufacturing, refining, industrial park, industrial estate, building, warehouse, storage</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an industrial building</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#D5D5D0" points="321.431,166.474 500,79.249 500,146.232 321.095,238.997 "/>
+<linearGradient id="ian_symbols_487e139233a0193499837c8857906640" gradientUnits="userSpaceOnUse" x1="119.7349" y1="13.7905" x2="176.5708" y2="112.2333">
+	<stop  offset="0" style="stop-color:#E4E4DD"/>
+	<stop  offset="1" style="stop-color:#C9CAC6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_487e139233a0193499837c8857906640)" points="195.167,0 0,82.918 106.637,128.375 296.304,43.104 "/>
+<linearGradient id="ian_symbols_dc0f5468f9193724e98b678cc6e31cc6" gradientUnits="userSpaceOnUse" x1="224.6255" y1="33.6245" x2="279.855" y2="129.2848">
+	<stop  offset="0" style="stop-color:#E4E4DD"/>
+	<stop  offset="1" style="stop-color:#C9CAC6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_dc0f5468f9193724e98b678cc6e31cc6)" points="397.88,61.143 213.756,147.394 106.599,101.766 296.261,17.891 "/>
+<linearGradient id="ian_symbols_e4d9385f3b533984a195b39faf38cc69" gradientUnits="userSpaceOnUse" x1="330.0942" y1="53.5527" x2="383.6978" y2="146.3968">
+	<stop  offset="0" style="stop-color:#E4E4DD"/>
+	<stop  offset="1" style="stop-color:#C9CAC6"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_e4d9385f3b533984a195b39faf38cc69)" points="397.915,35.843 213.791,120.7 321.431,166.474 500,79.249 "/>
+<polygon fill="#A6A7A4" points="213.791,120.7 321.431,166.474 321.095,238.997 0.551,181.523 0,82.918 106.637,128.375 
+	106.599,101.766 213.756,147.394 "/>
+</svg>

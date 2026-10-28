@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="499" height="345" viewBox="0 0 499 345" xml:space="preserve">
+            <title>Inputs: atmospheric carbon dioxide</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Inputs: atmospheric carbon dioxide</ian_image_library:title>
+                <ian_image_library:descr>Illustration of atmospheric carbon dioxide input</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>input, flows, atmospheric, carbon, dioxide, input</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e51df45a8258123471c30c272b4bac2f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Inputs: atmospheric carbon dioxide</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/inputs-atmospheric-carbon-dioxide/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/inputs-atmospheric-carbon-dioxide/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>input, flows, atmospheric, carbon, dioxide, input</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of atmospheric carbon dioxide input</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_66cc2933ed6fa624d1cc418bd801ca8b" gradientUnits="userSpaceOnUse" x1="10" y1="171.9595" x2="488.2344" y2="171.9595">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.1265" style="stop-color:#F4F9F3"/>
+	<stop  offset="0.3494" style="stop-color:#DFEDDA"/>
+	<stop  offset="0.6426" style="stop-color:#BFDBB5"/>
+	<stop  offset="0.9915" style="stop-color:#92C688"/>
+	<stop  offset="1" style="stop-color:#91C687"/>
+</linearGradient>
+<path fill="url(#ian_symbols_66cc2933ed6fa624d1cc418bd801ca8b)" stroke="#087B46" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="
+	M437.571,227.469c22.148-17.366,24.571-20.788,50.663-39.791l-29.397,131.042c-50.854,4.569-81.356,12.838-142.7,15.197
+	c21.915-22.128,30.885-28.228,48.367-47.549C332.652,183.555,81.154,40.61,10,10.278C140.054,3.477,398.843,122.615,437.571,227.469
+	z"/>
+</svg>

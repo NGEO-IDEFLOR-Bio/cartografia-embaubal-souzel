@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="462" height="502" viewBox="0 0 462 502" xml:space="preserve">
+            <title>Mortar and pestle 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mortar and pestle 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mortar and pestle</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, samples, grind, mortar, pestle</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-97333db068e3dae4b1da68660da97924">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mortar and pestle 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mortar-and-pestle-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mortar-and-pestle-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, samples, grind, mortar, pestle</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mortar and pestle</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_d139455df9b1b4e499dfb2120ecfd6da" y2="236.89" gradientUnits="userSpaceOnUse" x2="230.74" y1="500.46" x1="230.74">
+  <stop stop-color="#CFBC94" offset="0"/>
+  <stop stop-color="#E6D0A3" offset=".0932"/>
+  <stop stop-color="#FBE2B1" offset=".1921"/>
+  <stop stop-color="#F5E6C7" offset=".3616"/>
+  <stop stop-color="#A99A7A" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".9101" d="m230.41 236.89c129.78 0 230.62 33.653 230.62 73.301 0 40.369-17.486 188.96-233.32 190.26-217.85.71-227.26-149.89-227.26-190.26.005-39.65 102.21-73.3 229.96-73.3z" fill="url(#ian_symbols_d139455df9b1b4e499dfb2120ecfd6da)"/>
+ <path stroke="#231F20" stroke-width=".9101" d="m459.01 335.75c-15.459 20.833-129.77 50.397-206.42 53.777-6.721 0-14.777 18.805-22.844 18.805-7.408 0-19.508-18.805-25.564-18.805-59.838-2.66-170.77-16.788-203.04-56.48" fill="none"/>
+ <path stroke="#231F20" stroke-width=".9101" d="m264.03 293.4c4.698 14.096-1.353 37.621-6.737 47.705-16.805 29.608-52.447 26.905-90.101 6.748-37.643-20.2-49.744-59.849-40.325-88.738 8.078-16.832 29.576-31.636 50.43-30.96l186.23-219.19c22.206-28.257 82.731 20.844 64.58 46.397l-164.07 238.04z" fill="#FBE2B1"/>
+</svg>

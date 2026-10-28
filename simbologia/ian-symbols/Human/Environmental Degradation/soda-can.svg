@@ -1,0 +1,126 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="396" viewBox="0 0 501 396" xml:space="preserve">
+            <title>Soda can</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Soda can</ian_image_library:title>
+                <ian_image_library:descr>Illustration of soda can</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>environmental, degradation, trash, garbage, waste, disposal, landfill, recycled, recycling, industry, aluminum, soda, pop, can</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9de4a8b88f9062a461581a58e1b7b389">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Soda can</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/soda-can/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/soda-can/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>environmental, degradation, trash, garbage, waste, disposal, landfill, recycled, recycling, industry, aluminum, soda, pop, can</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of soda can</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_9e83f0e300cc0b94c1298532672224ea" y2="2.6684" gradientUnits="userSpaceOnUse" x2="224.58" y1="288.1" x1="389.38">
+  <stop stop-color="#9B1C1F" offset="0"/>
+  <stop stop-color="#C18B91" offset=".0906"/>
+  <stop stop-color="#DEDFE7" offset=".1573"/>
+  <stop stop-color="#DDDBE3" offset=".1586"/>
+  <stop stop-color="#CFB4BA" offset=".1751"/>
+  <stop stop-color="#C39096" offset=".1929"/>
+  <stop stop-color="#B87076" offset=".2129"/>
+  <stop stop-color="#AF565A" offset=".2351"/>
+  <stop stop-color="#A84044" offset=".2601"/>
+  <stop stop-color="#A23033" offset=".2894"/>
+  <stop stop-color="#9E2428" offset=".3255"/>
+  <stop stop-color="#9C1E21" offset=".3762"/>
+  <stop stop-color="#9B1C1F" offset=".5169"/>
+  <stop stop-color="#CD2127" offset="1"/>
+ </linearGradient>
+ <path d="m80.696 85.739l245.39-84.815c210.27-17.303 177.33 214.11 163.04 222.88-1.915 1.937-261.3 157.57-261.3 157.57l-147.13-295.63z" fill="url(#ian_symbols_9e83f0e300cc0b94c1298532672224ea)"/>
+ <linearGradient id="ian_symbols_55dbd347ffbedd14a16e502cae07cdb8" y2="114.58" gradientUnits="userSpaceOnUse" x2="278.05" y1="345.8" x1="46.839">
+  <stop stop-color="#CD2127" offset="0"/>
+  <stop stop-color="#CD2329" offset=".1933"/>
+  <stop stop-color="#CE2B31" offset=".2902"/>
+  <stop stop-color="#CF383E" offset=".3657"/>
+  <stop stop-color="#D14A51" offset=".4302"/>
+  <stop stop-color="#D36369" offset=".4876"/>
+  <stop stop-color="#D68087" offset=".5399"/>
+  <stop stop-color="#D9A4AB" offset=".5885"/>
+  <stop stop-color="#DCCCD3" offset=".6328"/>
+  <stop stop-color="#DEDFE7" offset=".6517"/>
+  <stop stop-color="#CEB2B9" offset=".6841"/>
+  <stop stop-color="#C18A90" offset=".718"/>
+  <stop stop-color="#B5686D" offset=".7541"/>
+  <stop stop-color="#AC4C51" offset=".7922"/>
+  <stop stop-color="#A4373B" offset=".8327"/>
+  <stop stop-color="#9F282B" offset=".877"/>
+  <stop stop-color="#9C1F22" offset=".9279"/>
+  <stop stop-color="#9B1C1F" offset="1"/>
+ </linearGradient>
+ <path d="m325 230.11c0 90.866-73.008 164.71-162.5 164.71-89.764 0-162.5-73.84-162.5-164.71 0-90.85 72.736-164.4 162.5-164.4 89.49-.005 162.5 73.55 162.5 164.4z" fill="url(#ian_symbols_55dbd347ffbedd14a16e502cae07cdb8)"/>
+ <radialGradient id="ian_symbols_3baf5fd4d72474043d8d309ce2be6ae0" gradientUnits="userSpaceOnUse" cy="236.03" cx="140.4" r="138.34">
+  <stop stop-color="#A6A6A5" offset="0"/>
+  <stop stop-color="#9F9F9F" offset=".0347"/>
+  <stop stop-color="#7E7F80" offset=".2242"/>
+  <stop stop-color="#6A6B6D" offset=".3823"/>
+  <stop stop-color="#636466" offset=".4888"/>
+  <stop stop-color="#636466" offset=".9157"/>
+  <stop stop-color="#212429" offset="1"/>
+ </radialGradient>
+ <path stroke="#231F20" stroke-width=".0088" d="m277.78 235.89c0 76.849-61.484 139.43-137.24 139.43-76.314 0-137.52-62.58-137.52-139.43 0-76.86 61.207-139.16 137.52-139.16 75.75 0 137.24 62.3 137.24 139.16z" fill="url(#ian_symbols_3baf5fd4d72474043d8d309ce2be6ae0)"/>
+ <path stroke="#231F20" stroke-width=".0088" d="m102.38 232.05c-69.994-47.217-1.649-86.469 15.648-89.756 17.02-3.297 110.34-10.708 56.815 77.394-3.28 3.3-31.01 12.91-72.46 12.37z" fill="#231F20"/>
+ <path d="m102.38 232.05c-4.119-5.212 33.767-66.424 72.464-12.362 16.198 54.628 9.609 73.845 9.609 73.845-31.292 64.771-70.821 12.625-70.821 12.625s-13.44-60.94-11.25-74.11z" fill="#BCBEC0"/>
+ <path stroke="#7B7973" stroke-width=".0087" d="m119.68 299.02c-15.92-18.392 44.464-33.768 53.247-23.332 11.529 13.449-.55 30.471-14.822 34.855-8.51 3.025-39.524-1.1-38.974-11.523" fill="none"/>
+ <path stroke="#7B7973" stroke-width=".0087" d="m130.66 227.94c-17.02-4.135-7.139 20.295-2.465 25.791 6.312 6.867 20.856 12.906 29.915 4.114 8.232-6.573 1.921-21.95-2.198-29.088-9.881-15.92-15.371 2.198-24.153-4.396" fill="none"/>
+ <path stroke="#BCBEC0" stroke-width=".0087" d="m66.974 225.46l55.994 98.548s48.588 43.91 72.464-10.436c-1.638 0 7.96-135.05 7.96-135.05s4.119-56.282-77.127-49.405c-81.24 6.86-59.286 96.34-59.286 96.34z" fill="none"/>
+</svg>

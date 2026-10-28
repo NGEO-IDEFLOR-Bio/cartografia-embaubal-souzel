@@ -1,0 +1,95 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="234" height="502" viewBox="0 0 234 502" xml:space="preserve">
+            <title>Banana 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Banana 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of unpeeled banana</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>banana, unpeeled, plant, herbaceous, vascular, Magnoliophyta, angiosperm, flowering, Liliopsida, monocot, Zingiberidae, Zingiberales, Musaceae, Musa, acuminata, edible, food, commercial, cultivar, tropical, fruit</ian_image_library:contains>
+                    <ian_image_library:when>2004-02-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1fbbc0037c711c44e10de0ecbcb84043">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Banana 2</dc:title>
+                <dc:date>2004-02-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/banana-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/banana-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>banana, unpeeled, plant, herbaceous, vascular, Magnoliophyta, angiosperm, flowering, Liliopsida, monocot, Zingiberidae, Zingiberales, Musaceae, Musa, acuminata, edible, food, commercial, cultivar, tropical, fruit</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of unpeeled banana</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_d59396643678364461eaecda5ad63791" y2="252.54" gradientUnits="userSpaceOnUse" x2=".1895" y1="252.54" x1="226.57">
+  <stop stop-color="#98C467" offset="0"/>
+  <stop stop-color="#B0CC64" offset=".0876"/>
+  <stop stop-color="#CAD561" offset=".2062"/>
+  <stop stop-color="#DDDC5E" offset=".3382"/>
+  <stop stop-color="#EBE15C" offset=".489"/>
+  <stop stop-color="#F4E45B" offset=".6749"/>
+  <stop stop-color="#F6E55B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".378" d="m88.932 58.882c-25.735 11.457-48.612 27.181-68.635 94.378-20.001 67.21-25.718 114.38-14.272 163 11.424 48.623 34.351 88.602 56.501 112.94 22.117 24.334 48.19 46.429 65.177 51.105 16.998 4.698 48.113 10.05 62.408 10.05 14.294 0 24.256 8.321 24.256 8.321l12.199-25.475s-9.352-3.922-22.716-13.939c-13.374-10.017-34.827-48.622-34.827-48.622s-28.6-42.883-42.894-74.33c-14.306-31.47-30.029-68.657-25.73-105.83 4.289-37.165 9.984-98.664 19.996-120.12 10.022-21.441 12.859-25.885 12.87-40.013.022-14.139-2.848-10.017 5.74-24.322 8.576-14.294 15.712-12.876 27.137-28.589 11.463-15.712-14.272-10.017-14.272-10.017s-8.599-1.429-20.045 1.441c-11.43 2.858-9.995 2.858-15.712 18.593-5.73 15.716-1.46 20.005-27.198 31.429z" fill="url(#ian_symbols_d59396643678364461eaecda5ad63791)"/>
+ <path stroke="#231F20" stroke-width=".378" d="m214.37 498.67c-6.022-6.017-3.015-4.51 1.507-16.543 4.498-12.012 15.015-9.02 15.015-9.02s6.039 12.022 0 15.036c-6.01 3.01-10.53 16.52-16.53 10.52z" fill="#58595B"/>
+ <linearGradient id="ian_symbols_c705635db26d02e4d13ec599074054af" y2="7.73" gradientUnits="userSpaceOnUse" x2="168.43" y1="7.73" x1="123.71">
+  <stop stop-color="#CED1A5" offset="0"/>
+  <stop stop-color="#D8D9A3" offset=".1025"/>
+  <stop stop-color="#E6E5A0" offset=".304"/>
+  <stop stop-color="#EFEB9E" offset=".5531"/>
+  <stop stop-color="#F1ED9E" offset=".9888"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".378" d="m125.76 14.215c-5.729-4.288 1.773-8.953 7.501-11.801 5.74-2.848 2.87 3.59 14.316-.698 11.424-4.299 24.29 1.407 20.001 5.695-4.288 4.289-10.017 11.458-17.153 5.729-7.14-5.729-18.94 5.363-24.67 1.075z" fill="url(#ian_symbols_c705635db26d02e4d13ec599074054af)"/>
+ <path stroke="#231F20" stroke-width=".378" stroke-linecap="round" d="m41.041 373.47c4.299 20.366 68.635 93.289 134.06 102.94" fill="none"/>
+ <path stroke="#231F20" stroke-width=".378" stroke-linecap="round" d="m200.84 478.81s-45.11-19.558-66.164-43.603c-21.042-24.068-54.506-46.65-60.119-106.75" fill="none"/>
+ <path stroke="#231F20" stroke-width=".378" stroke-linecap="round" d="m120.4 73.187s-31.087 56.845-30.023 105.1" fill="none"/>
+</svg>

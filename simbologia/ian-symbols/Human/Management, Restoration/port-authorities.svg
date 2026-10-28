@@ -1,0 +1,84 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="501" viewBox="0 0 501 501" xml:space="preserve">
+            <title>Port authorities</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Port authorities</ian_image_library:title>
+                <ian_image_library:descr>Illustration of port authorities anchor sign</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>management, port, authorities, authority, anchor, trade, import, export, goods, production, products, regulations, shipping</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-35c972769ac9bab41d87d2a54e5f1304">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Port authorities</dc:title>
+                <dc:date>2003-01-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/port-authorities/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/port-authorities/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>management, port, authorities, authority, anchor, trade, import, export, goods, production, products, regulations, shipping</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of port authorities anchor sign</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#FFFFFF" stroke="#000000" stroke-width="7.3892" d="M496.31,250c0,135.987-110.279,246.306-246.334,246.306
+	C113.974,496.306,3.695,385.987,3.695,250c0-136.06,110.279-246.305,246.281-246.305C386.031,3.695,496.31,113.94,496.31,250z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#0072BC" d="M280.764,110.962c0,17.044-13.816,30.793-30.788,30.793
+	c-16.982,0-30.769-13.749-30.769-30.793c0-16.996,13.787-30.721,30.769-30.721C266.948,80.241,280.764,93.966,280.764,110.962z
+	 M250.082,450.749c81.117,0,128.368-45.557,163.562-100.528l26.372,11.858l-3.108-80.382l-72.871,35.128l21.379,16.153
+	c-26.931,39.929-62.135,72.848-117.746,78.563V170.278c25.487-7.582,44.19-31.245,44.19-59.315c0-34.093-27.67-61.75-61.884-61.75
+	c-34.088,0-61.788,27.656-61.788,61.75c0,28.07,18.627,51.734,44.152,59.315v241.264c-55.635-5.716-90.831-38.635-117.649-78.563
+	l21.374-16.153l-72.987-35.128l-3.04,80.382l26.377-11.858c35.266,54.972,82.521,100.528,163.562,100.528H250.082z"/>
+</svg>

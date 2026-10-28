@@ -1,0 +1,107 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="212" viewBox="0 0 501 212" xml:space="preserve">
+            <title>Rhizophora stylosa leaf</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Rhizophora stylosa leaf</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Rhizophora stylosa leaf</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, spotted, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Rhizophora, stylosa</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f2f8fa282145eb449da6f39dc594e113">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Rhizophora stylosa leaf</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/rhizophora-stylosa-leaf/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/rhizophora-stylosa-leaf/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, spotted, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Rhizophora, stylosa</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Rhizophora stylosa leaf</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_280d08778dfe72c435e86529c53515d5" gradientUnits="userSpaceOnUse" cy="369.71" cx="284.3" gradientTransform="matrix(.576 0 0 .576 153.07 -104.37)" r="218.9">
+  <stop stop-color="#7EBB45" offset="0"/>
+  <stop stop-color="#496E6E" offset="1"/>
+ </radialGradient>
+ <path stroke="#006A44" stroke-width="1.7361" d="m176.27 36.199c50.9-37.187 119.27-34.613 141.77-35.238 128.04-3.54 141.23 94.464 159.07 113.17 2.909 3.072 20.819 2.72 21.938 2.964 1.614.356-20.711 2.709-21.958 6.663-4.795 15.289-79.704 87.929-243.16 86.242-77.69-.805-95.078-65.49-136.16-88.903-8.007-4.56 45.11-60.502 78.5-84.891z" fill="url(#ian_symbols_280d08778dfe72c435e86529c53515d5)"/>
+ <path stroke="#006A44" stroke-width="1.7361" d="m271.82 115.48c-38.892 1.987-157.46 10.128-166.57 9.42-11.373-.865-91.876-.865-104.13-11.366l7.873-13.129s6.125 21.009 153.13 15.747c46.793-1.668 8.016-.983 23.953-.79" fill="#006A44"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m150.28 114.39s57.678-36.414 105.7-109.23" fill="none"/>
+ <polyline stroke="#FFFCDF" stroke-width="1.7361" points="338.04 115.17 357.27 141.13 388.96 185.57" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m271.82 115.48s28.185 1.167 47.193.438c19.028-.743 41.015 2.472 66.323 0 25.336-2.485 60.396-.997 64.351.983 3.96 1.98 27.539 3.208 27.539 3.208" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m313.21 15.372c-.861 2.631-87.712 97.868-87.712 97.868" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m300.43 115.17s62.444-41.333 80.063-79.764" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m427.75 57.025s-57.332 56.402-64.337 58.145" fill="none"/>
+ <line y2="85.863" x1="410.67" x2="457.39" stroke="#FFFCDF" y1="113.43" stroke-width="1.7361" fill="none"/>
+ <line y2="143.82" x1="436.04" x2="455.03" stroke="#FFFCDF" y1="118.68" stroke-width="1.7361" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m424.55 161.15c0-9.63-26.149-43.345-29.635-45.979" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m347.66 193.18s-40.879-65.151-54.252-74.502" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m241.63 119.22s60.308 73.156 61.983 82.779" fill="none"/>
+ <line y2="121.41" x1="254.74" x2="197.15" stroke="#FFFCDF" y1="205.2" stroke-width="1.7361" fill="none"/>
+ <path stroke="#006A44" stroke-width="1.7361" d="m176.27 36.199c50.9-37.187 119.27-34.613 141.77-35.238 128.04-3.54 141.23 94.464 159.07 113.17 2.909 3.072 20.819 2.72 21.938 2.964 1.614.356-20.711 2.709-21.958 6.663-4.795 15.289-79.704 87.929-243.16 86.242-77.69-.805-95.078-65.49-136.16-88.903-8.007-4.56 45.11-60.502 78.5-84.891z" fill="url(#ian_symbols_280d08778dfe72c435e86529c53515d5)"/>
+ <path stroke="#006A44" stroke-width="1.7361" d="m271.82 115.48c-38.892 1.987-157.46 10.128-166.57 9.42-11.373-.865-91.876-.865-104.13-11.366l7.873-13.129s6.125 21.009 153.13 15.747c46.793-1.668 8.016-.983 23.953-.79" fill="#006A44"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m150.28 114.39s57.678-36.414 105.7-109.23" fill="none"/>
+ <polyline stroke="#FFFCDF" stroke-width="1.7361" points="338.04 115.17 357.27 141.13 388.96 185.57" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m271.82 115.48s28.185 1.167 47.193.438c19.028-.743 41.015 2.472 66.323 0 25.336-2.485 60.396-.997 64.351.983 3.96 1.98 27.539 3.208 27.539 3.208" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m313.21 15.372c-.861 2.631-87.712 97.868-87.712 97.868" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m300.43 115.17s62.444-41.333 80.063-79.764" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m427.75 57.025s-57.332 56.402-64.337 58.145" fill="none"/>
+ <line y2="85.863" x1="410.67" x2="457.39" stroke="#FFFCDF" y1="113.43" stroke-width="1.7361" fill="none"/>
+ <line y2="143.82" x1="436.04" x2="455.03" stroke="#FFFCDF" y1="118.68" stroke-width="1.7361" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m424.55 161.15c0-9.63-26.149-43.345-29.635-45.979" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m347.66 193.18s-40.879-65.151-54.252-74.502" fill="none"/>
+ <path stroke="#FFFCDF" stroke-width="1.7361" d="m241.63 119.22s60.308 73.156 61.983 82.779" fill="none"/>
+ <line y2="121.41" x1="254.74" x2="197.15" stroke="#FFFCDF" y1="205.2" stroke-width="1.7361" fill="none"/>
+</svg>

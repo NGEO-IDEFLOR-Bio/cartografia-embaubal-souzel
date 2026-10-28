@@ -1,0 +1,72 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="https://creativecommons.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/" x="0px" y="0px" width="500" height="361.54" viewBox="0 0 500 361.54" xml:space="preserve">
+            <title>Urban: Spanish-style building 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: Spanish-style building 2</ian_image_library:title>
+                <ian_image_library:descr><p>An illustration of a Spanish-style building.</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>building, house, development, infrastructure, town, urban, restaurant, Spanish,</ian_image_library:contains>
+                    <ian_image_library:when>2019-11-12</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7aa2c1bde80e97a4ed6f65b4aefdba15">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="https://dublincore.org/specifications/dublin-core/dcmi-terms/#StillImage" />
+                <cc:license
+                rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+                <dc:title>Urban: Spanish-style building 2</dc:title>
+                <dc:date>2019-11-12</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-spanish-style-building-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-spanish-style-building-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>building, house, development, infrastructure, town, urban, restaurant, Spanish,</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>An illustration of a Spanish-style building.</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+               <g> <polygon fill="#EF7D59" points="304.3,60.4 0.46,0.36 145.97,4.83 "></polygon> <g> <g> <polygon fill="#8B8169" points="292.64,361.09 484.49,340.62 499.57,48.05 298.66,51.21 "></polygon> <polygon fill="#4A3827" points="290.07,87.54 498.7,75.51 500,49.34 290.72,60.4 "></polygon> <polygon fill="#947B61" points="289.57,72.34 498.53,60.79 499.18,47.69 289.9,58.76 "></polygon> <polygon fill="#8A9A9F" stroke="#010101" stroke-width="3.8812" points="471.2,155.53 436.97,158.05 439.52,97.96 473.99,95.8 "></polygon> <polygon fill="#A09E9F" points="421.21,161.33 436.84,160.19 439.63,95.8 423.88,96.76 "></polygon> <polygon fill="#A09E9F" points="471.07,157.48 486.42,156.36 489.59,92.69 474.12,93.64 "></polygon> <line fill="#8A9A9F" stroke="#010101" stroke-width="3.8812" x1="471.98" y1="122.91" x2="438.72" y2="125.16"></line> <polygon fill="#8A9A9F" stroke="#010101" stroke-width="3.8812" points="373.35,162.77 337.88,165.38 339.72,104.26 375.45,102.02 "></polygon> <polygon fill="#A09E9F" points="321.6,169.46 337.8,168.26 339.8,101.53 323.48,102.55 "></polygon> <polygon fill="#A09E9F" points="373.25,165.54 389.15,164.36 391.57,98.21 375.54,99.21 "></polygon> <line fill="#8A9A9F" stroke="#010101" stroke-width="3.8812" x1="373.25" y1="129.63" x2="339.8" y2="131.9"></line> <path fill="#010101" stroke="#A8A8A8" stroke-width="3.5039" d="M326.7,355.75l43.64-4.47l2.14-57.04c0,0,3.65-44.26-20.36-42.23 c-21.92,1.85-23.6,46.28-23.6,46.28L326.7,355.75z"></path> <path fill="#2A1B12" d="M317.66,265.16l-2.67,93.58l11.75-1.25l1.58-52.79C328.32,304.7,330.57,264.72,317.66,265.16z"></path> <path fill="#2A1B12" d="M386.74,259.9l-3.41,91.71l-12.86,1.37l1.85-51.95C372.31,301.03,372.56,261.89,386.74,259.9z"></path> <path fill="#010101" stroke="#A8A8A8" stroke-width="3.4933" d="M416.84,345.47l42.26-4.3l2.79-55.85c0,0,4.09-43.33-19.16-41.38 c-21.22,1.78-23.4,45.28-23.4,45.28L416.84,345.47z"></path> <path fill="#2A1B12" d="M409.22,256.7l-3.71,92.36l11.38-1.21l2.17-52.1C419.06,295.74,421.71,256.29,409.22,256.7z"></path> <path fill="#2A1B12" d="M476.08,251.95l-4.39,90.01l-12.46,1.33l2.4-50.99C461.64,292.29,462.34,253.88,476.08,251.95z"></path> <g> <polygon fill="#E0D49B" points="294.21,361.54 4,278.23 1.88,19.88 302.6,59.03 "></polygon> <g> <path fill="#2D1F11" stroke="#FFFFFF" stroke-width="4.5661" d="M22.16,283.45l33,9.47l-0.1-53.51c0,0,1.47-40.92-16.93-45.17 c-16.32-3.77-16.28,36.69-16.28,36.69L22.16,283.45z"></path> <path fill="#30A674" d="M12.99,198.98l0.57,81.25l8.58,2.46l-0.28-46.19C21.87,236.5,22.43,201.86,12.99,198.98z"></path> <path fill="#30A674" d="M65.23,212.41l0.05,82.65l-10.08-2.89l-0.09-46.49C55.12,245.68,54.16,210.41,65.23,212.41z"></path> </g> <g> <path fill="#2D1F11" stroke="#FFFFFF" stroke-width="4.5661" d="M86.79,302l35.64,10.23l0.35-55.51c0,0,1.95-42.46-17.95-47.06 c-17.64-4.08-17.94,37.89-17.94,37.89L86.79,302z"></path> <path fill="#30A674" d="M77.59,214.33l-0.07,84.24l9.26,2.65l0.1-47.89C86.87,253.33,87.77,217.41,77.59,214.33z"></path> <path fill="#30A674" d="M134.05,228.8l-0.66,85.77l-10.9-3.12l0.31-48.23C122.79,263.23,122.06,226.61,134.05,228.8z"></path> </g> <g> <path fill="#2D1F11" stroke="#FFFFFF" stroke-width="4.5661" d="M154.11,321.32l38.5,11.05l0.87-57.59 c0,0,2.49-44.05-19.04-49.03c-19.06-4.41-19.74,39.12-19.74,39.12L154.11,321.32z"></path> <path fill="#30A674" d="M144.9,230.32l-0.79,87.33l9.99,2.86l0.51-49.65C154.61,270.87,155.89,233.62,144.9,230.32z"></path> <path fill="#30A674" d="M205.94,245.93l-1.47,89.02l-11.79-3.38l0.76-50.03C193.43,281.54,192.96,243.53,205.94,245.93z"></path> </g> <g> <path fill="#2D1F11" stroke="#FFFFFF" stroke-width="4.5661" d="M226.88,342.22l41.72,11.98l1.47-59.84 c0,0,3.11-45.77-20.26-51.17c-20.67-4.78-21.8,40.43-21.8,40.43L226.88,342.22z"></path> <path fill="#30A674" d="M217.69,247.62l-1.63,90.66l10.82,3.1l1-51.54C227.87,289.84,229.6,251.16,217.69,247.62z"></path> <path fill="#30A674" d="M283.89,264.5l-2.42,92.53l-12.79-3.67l1.28-51.98C269.96,301.38,269.79,261.86,283.89,264.5z"></path> <path fill="#30A674" d="M283.89,264.5l-2.42,92.53l-12.79-3.67l1.28-51.98C269.96,301.38,269.79,261.86,283.89,264.5z"></path> </g> <line fill="#806043" stroke="#53361D" stroke-width="4.4971" x1="123.5" y1="149.94" x2="123.38" y2="169.08"></line> <line fill="#806043" stroke="#53361D" stroke-width="4.4971" x1="155.81" y1="156.24" x2="155.61" y2="175.72"></line> <g> <polygon fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" points="121.42,133.36 89.23,127.38 89.35,73.1 121.76,78.11 "></polygon> <polygon fill="#30A674" points="75.05,127.4 89.23,130.07 89.36,70.47 75.07,68.27 "></polygon> <polygon fill="#30A674" points="121.41,136.06 136.37,138.88 136.86,77.72 121.78,75.4 "></polygon> </g> <g> <polygon fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" points="191.81,146.46 157.02,139.99 157.61,83.66 192.65,89.07 "></polygon> <polygon fill="#30A674" points="141.77,139.78 157.08,142.65 157.72,81.04 142.29,78.67 "></polygon> <polygon fill="#30A674" points="191.77,149.07 207.95,152.1 209,88.91 192.69,86.42 "></polygon> </g> <g> <polygon fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" points="274.24,161.82 236.29,154.77 237.47,96.04 275.72,101.95 "></polygon> <polygon fill="#30A674" points="219.55,154.41 236.23,157.54 237.52,93.42 220.69,90.84 "></polygon> <polygon fill="#30A674" points="274.17,164.55 291.86,167.86 293.63,101.91 275.79,99.18 "></polygon> </g> <polygon fill="#806043" points="0.46,21.25 303.89,86.28 304.3,68.23 0.29,11.28 "></polygon> <polygon fill="#F18F71" points="0.1,11.32 304.3,71.53 304.72,59.99 0,0 "></polygon> <g> <polygon fill="#665E59" points="12.13,279.83 4.32,277.59 4.24,267.93 12.06,270.13 "></polygon> <polygon fill="#665E59" points="6.53,265.52 15.25,267.96 15.2,260.78 6.47,258.38 "></polygon> <polygon fill="#665E59" points="11.96,255.8 4.13,253.67 4.04,243.44 11.89,245.53 "></polygon> <polygon fill="#665E59" points="8.08,241.45 15.08,243.3 15.02,234.01 8.01,232.2 "></polygon> <polygon fill="#665E59" points="10.61,230.3 3.92,228.58 3.86,221.08 10.56,222.77 "></polygon> <polygon fill="#665E59" points="7.18,219.13 14.93,221.07 14.88,213.81 7.12,211.9 "></polygon> </g> <g> <polygon fill="#665E59" points="11.67,215.2 3.8,213.25 3.72,203.44 11.6,205.35 "></polygon> <polygon fill="#665E59" points="6.02,200.9 14.81,203.01 14.76,195.71 5.96,193.64 "></polygon> <polygon fill="#665E59" points="11.49,190.79 3.6,188.95 3.51,178.56 11.42,180.36 "></polygon> <polygon fill="#665E59" points="7.58,176.36 14.64,177.95 14.58,168.51 7.51,166.97 "></polygon> <polygon fill="#665E59" points="10.13,164.93 3.39,163.46 3.33,155.84 10.08,157.28 "></polygon> <polygon fill="#665E59" points="6.67,153.72 14.49,155.37 14.44,147.99 6.62,146.38 "></polygon> </g> <g> <polygon fill="#665E59" points="292.46,265.94 281.67,263.37 281.96,251.95 292.77,254.46 "></polygon> <polygon fill="#665E59" points="285.25,249.07 297.31,251.85 297.54,243.34 285.47,240.62 "></polygon> <polygon fill="#665E59" points="293.23,237.48 282.4,235.07 282.71,222.96 293.56,225.32 "></polygon> <polygon fill="#665E59" points="288.42,220.53 298.12,222.62 298.42,211.6 288.71,209.57 "></polygon> <polygon fill="#665E59" points="292.43,207.27 283.17,205.35 283.4,196.46 292.67,198.34 "></polygon> <polygon fill="#665E59" points="288.11,194.09 298.85,196.25 299.09,187.63 288.34,185.51 "></polygon> </g> <g> <polygon fill="#665E59" points="289.94,358.26 279.29,355.22 279.58,344.05 290.25,347.04 "></polygon> <polygon fill="#665E59" points="282.82,341.4 294.73,344.71 294.96,336.4 283.04,333.14 "></polygon> <polygon fill="#665E59" points="290.7,330.45 280.01,327.55 280.31,315.72 291.02,318.56 "></polygon> <polygon fill="#665E59" points="285.95,313.62 295.52,316.14 295.82,305.38 286.23,302.9 "></polygon> <polygon fill="#665E59" points="289.9,300.84 280.76,298.5 280.98,289.81 290.13,292.12 "></polygon> <polygon fill="#665E59" points="285.63,287.73 296.24,290.38 296.47,281.95 285.85,279.34 "></polygon> </g> <path fill="#30A674" d="M283.91,263.92l-2.42,92.54l-12.79-3.66l1.28-51.99C269.97,300.81,269.8,261.29,283.91,263.92z"></path> <path fill="#30A674" d="M12.99,198.98l0.57,81.25l8.58,2.46l-0.28-46.19C21.87,236.5,22.43,201.86,12.99,198.98z"></path> <line fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" x1="174.48" y1="143.16" x2="175.07" y2="87.6"></line> <line fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" x1="105.06" y1="128.87" x2="105.28" y2="76.58"></line> <line fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" x1="255.03" y1="160.26" x2="256.35" y2="100.99"></line> <g> <g> <polygon fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" points="51.37,120.3 21.67,114.79 21.36,62.56 51.25,67.18 "></polygon> <polygon fill="#30A674" points="8.58,114.94 21.69,117.41 21.35,59.96 8.16,57.93 "></polygon> <polygon fill="#30A674" points="51.38,122.97 65.18,125.57 65.14,66.68 51.25,64.54 "></polygon> </g> <line fill="#CFE6EF" stroke="#423617" stroke-width="5.1771" x1="36.37" y1="116.41" x2="36.15" y2="63.78"></line> </g> <path fill="#806043" d="M107.67,180.51c-0.06,13.26,13.48,27.08,30.53,30.97c17.39,3.96,31.87-3.85,32.03-17.57 c0.17-13.76-14.13-27.84-31.63-31.35C121.45,159.12,107.73,167.2,107.67,180.51z"></path> </g> </g> <polygon fill="#A3614E" points="499.16,48.05 304.72,60.4 145.97,4.83 324.52,10.78 "></polygon> </g> </g> </svg> 

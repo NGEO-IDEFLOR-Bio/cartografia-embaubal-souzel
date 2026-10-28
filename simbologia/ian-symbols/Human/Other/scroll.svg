@@ -1,0 +1,170 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="452" height="501" viewBox="0 0 452 501" xml:space="preserve">
+            <title>Scroll</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Scroll</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a scroll</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>object, scroll, government, mandate, policy, document</ian_image_library:contains>
+                    <ian_image_library:when>2010-04-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-74a653d2c39b8ea495faa8e1b9ce342d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Scroll</dc:title>
+                <dc:date>2010-04-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/scroll/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/scroll/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>object, scroll, government, mandate, policy, document</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a scroll</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<radialGradient id="ian_symbols_f06d3e308e3e53b4e1af0aada88a648e" cx="18.0703" cy="106.373" r="113.5858" fx="-5.0164" fy="110.7956" gradientTransform="matrix(0.6715 -0.741 0.6284 0.5695 -60.9049 59.1852)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.211" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.2332" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.5463" style="stop-color:#D2C3A6"/>
+	<stop  offset="1" style="stop-color:#A68D57"/>
+</radialGradient>
+<path fill="url(#ian_symbols_f06d3e308e3e53b4e1af0aada88a648e)" stroke="#3A2E17" stroke-width="1.3834" d="M6.676,109.855c0.926,0.452,1.703,0.706,2.753,0.811
+	c0.854,0.084,1.729-0.088,2.58-0.01c0.719,0.067,1.428,0.344,2.131,0.328c-0.662,1.138-2.185,1.905-2.574,3.145
+	c0.733,0.334,2.02,0.03,2.473,0.786c0.469,0.773-0.719,1.561-1.084,2.294c-0.436,0.888-0.422,1.769-0.878,2.641
+	c-0.503,0.976-0.646,1.773-0.497,2.925c3.356,0.844,0.857,2.82-0.311,4.37c-0.615,0.807-1.206,1.756-1.689,2.705
+	c-0.253,0.493-1.179,2.246-1.287,2.155c0,0,3.245,11.074,12.965,20.254c9.724,9.186,13.854,11.077,25.388,4.863
+	c12.047-6.481,40.518-93.185,40.518-93.185L67.928,12.351c0,0-19.943-10.822-26.951-10.537C33.972,2.104,21.8,16.4,21.8,16.4
+	S6.676,32.334,2.894,49.353c-3.786,17.016-1.715,33.939-0.901,42.312C2.806,100.04,6.676,109.855,6.676,109.855z"/>
+<linearGradient id="ian_symbols_c37f886a8bd7b124e52bd21029782ff6" gradientUnits="userSpaceOnUse" x1="28.5396" y1="95.8677" x2="63.1226" y2="95.8677">
+	<stop  offset="0.0032" style="stop-color:#D2C3A6"/>
+	<stop  offset="0.6965" style="stop-color:#C3B08A"/>
+</linearGradient>
+<path fill="url(#ian_symbols_c37f886a8bd7b124e52bd21029782ff6)" stroke="#3A2E17" stroke-width="1.3834" d="M42.332,119.581c-4.081-1.624-13.513-6.244-13.78-22.456
+	c-0.273-16.208,3.992-23.685,9.99-25.11c3.824-0.913,15.401,3.272,15.401,3.272l9.18,19.444l-2.425,20.257
+	C60.698,114.988,46.407,121.203,42.332,119.581z"/>
+<linearGradient id="ian_symbols_50672abcd939dc24415db3aeae4a330c" gradientUnits="userSpaceOnUse" x1="42.2378" y1="111.436" x2="64.4502" y2="111.436">
+	<stop  offset="0.2716" style="stop-color:#B09969"/>
+	<stop  offset="0.9585" style="stop-color:#7B6842"/>
+</linearGradient>
+<path fill="url(#ian_symbols_50672abcd939dc24415db3aeae4a330c)" stroke="#3A2E17" stroke-width="1.3834" d="M63.727,102.769c0,0-3.404,0.885-7.562,0.811
+	c-2.543-0.044-5.13-0.811-6.214,0c-1.162,0.871,1.084,6.754-1.348,9.993c-2.432,3.238-7.083,5.468-6.271,6.008
+	c0.807,0.541,15.725,1.288,19.774-1.412C66.158,115.464,63.727,102.769,63.727,102.769z"/>
+<linearGradient id="ian_symbols_c25efa16a98d65e4f9c0508fba709844" gradientUnits="userSpaceOnUse" x1="27.1533" y1="149.3882" x2="99.534" y2="84.2164">
+	<stop  offset="0.0032" style="stop-color:#E8E0D0"/>
+	<stop  offset="0.6166" style="stop-color:#D2C3A6"/>
+	<stop  offset="0.9776" style="stop-color:#B7A175"/>
+</linearGradient>
+<path fill="url(#ian_symbols_c25efa16a98d65e4f9c0508fba709844)" stroke="#3A2E17" stroke-width="1.3834" d="M37.397,160.765c0,0,26.27-6.343,39.775-8.507
+	c13.503-2.162,24.037-2.432,24.037-2.432l-2.972-65.092L84.193,67.179c0,0-12.151,2.972-21.612,3.782
+	c-9.473,0.807-8.643,1.054-24.04,1.054c0,0,6.218,1.55,11.615,7.494c5.411,5.944,10.362,16.029,10.092,27.374
+	c-0.27,11.344-1.715,31.599-9.818,42.406C46.023,155.169,37.397,160.765,37.397,160.765z"/>
+<linearGradient id="ian_symbols_4c0c5b4659918b54b1f044bc933e6593" gradientUnits="userSpaceOnUse" x1="191.7056" y1="4.5571" x2="230.8282" y2="499.1958">
+	<stop  offset="0" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.7081" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.7827" style="stop-color:#F1EBE0"/>
+	<stop  offset="1" style="stop-color:#D2C3A6"/>
+</linearGradient>
+<path fill="url(#ian_symbols_4c0c5b4659918b54b1f044bc933e6593)" stroke="#3A2E17" stroke-width="1.3834" d="M28.39,7.615c3.586-3.803,7.515-5.009,13-6.653
+	c8.562-2.57,89.263,14.087,155.247,12.169c53.765-1.564,120.673-4.827,120.673-4.827s5.516,0.003,13.101,3.452
+	c12.412,5.515,24.824,43.091,24.824,43.091l-6.896,2.068l-4.826,2.759c0,0,11.202,3.796,14.65,8.619
+	c3.445,4.83,17.583,50.167,18.443,112.398c0.413,29.646-8.271,88.95-8.271,88.95l-5.053,1.27l-1.154,4.245l-5.979,3.459l5.979-0.703
+	l-2.07,4.83l2.756,5.519c0,0-7.579,1.378-4.823,4.134c2.759,2.76,7.585,2.07,6.204,8.967c-1.381,6.894-4.826,25.51-5.516,36.543
+	c-3.444,25.51,8.274,59.3,8.274,59.3l9.652,64.818l-82.741,0.688c0,0-105.215,33.399-116.934,34.777
+	c-11.72,1.378-14.081,5.907-40.279-7.887c-26.208-13.789-46.199-45.51-46.199-45.51l0.689-6.893c0.5-1.004,2.628-2.283,2.648-3.466
+	c0.027-1.354-2.077-1.732-2.509-2.877c-0.835-2.179,4.241-6.722-0.727-6.167c-0.263-0.649-0.226-1.224,0.017-1.854
+	c1.514-0.648,3.503-1.621,4.89-2.686c1.77-1.357-0.665-2.215,1.571-3.704c-4.698-3.107-0.635-3.239,1.412-6.843
+	c-4.343-3.087-3.249-0.814-7.923-1.5c0.364-1.033,0.875-2.138,1.243-3.175c-2.415-0.574-4.431,1.121-6.724,0.446
+	c-0.828-2.804,2.607-5.421,2.546-8.035c-2.813-1.392-7.481,1.246-10.24-1.513c-2.755-2.76-3.444-29.65,2.07-62.056
+	c5.522-32.409,16.549-93.093,16.549-93.093s6.208-103.429-5.512-142.73C78.726,58.641,68.215,24.644,60.157,14.235
+	c-4.35-5.61-10.584-11.183-20.531-9.72c-9.18,1.347-18.782,12.996-18.782,12.996S25.495,10.692,28.39,7.615z"/>
+<radialGradient id="ian_symbols_c51f815a83be1d6459f5e80d8239a2ab" cx="163.9209" cy="447.8735" r="63.4695" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.0639" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.5463" style="stop-color:#D2C3A6"/>
+	<stop  offset="1" style="stop-color:#A68D57"/>
+</radialGradient>
+<path fill="url(#ian_symbols_c51f815a83be1d6459f5e80d8239a2ab)" stroke="#3A2E17" stroke-width="1.3834" d="M161.238,397.038c-8.646,7.569-18.447,16.415-17.366,38.833
+	c1.081,22.419,17.829,31.869,31.338,32.949c13.503,1.081,37.806-37.813,37.806-37.813l-6.481-30.247l-29.44-11.075
+	C177.095,389.685,169.88,389.476,161.238,397.038z"/>
+<linearGradient id="ian_symbols_599c9248f2b817a49558c81ecf616746" gradientUnits="userSpaceOnUse" x1="167.3379" y1="436.1831" x2="191.0762" y2="436.1831">
+	<stop  offset="0.0032" style="stop-color:#D2C3A6"/>
+	<stop  offset="0.6965" style="stop-color:#C3B08A"/>
+</linearGradient>
+<path fill="url(#ian_symbols_599c9248f2b817a49558c81ecf616746)" stroke="#3A2E17" stroke-width="1.3834" d="M178.969,442.301c-4.975,0.261-10.426,2.121-11.341,1.058
+	c-1.621-1.889,3.783-13.776,10.53-14.591c6.755-0.804,11.044,4.229,11.044,4.229s3.3,8.35,1.142,9.703
+	C189.402,443.291,182.826,442.095,178.969,442.301z"/>
+<linearGradient id="ian_symbols_0997177770330424011672920b2ee4c9" gradientUnits="userSpaceOnUse" x1="171.9644" y1="448.2505" x2="210.3174" y2="448.2505">
+	<stop  offset="0.0032" style="stop-color:#E8E0D0"/>
+	<stop  offset="0.6166" style="stop-color:#D2C3A6"/>
+	<stop  offset="0.9776" style="stop-color:#B7A175"/>
+</linearGradient>
+<path fill="url(#ian_symbols_0997177770330424011672920b2ee4c9)" stroke="#3A2E17" stroke-width="1.3834" d="M176.828,429.116c0,0,2.56-1.34,6.096-1.259
+	c5.427,0.135,14.296-0.122,18.548-0.28c7.021-0.274,8.845,0.188,8.845,0.188l-4.323,26.472l-1.956,9.291
+	c0,0-2.871,2.118-11.416,3.995c-11.699,2.57-20.659,1.031-20.659,1.031s11.074-1.352,14.583-12.696
+	c3.512-11.345,2.715-21.588-1.341-24.286C181.154,428.867,176.828,429.116,176.828,429.116z"/>
+<linearGradient id="ian_symbols_45991fd0ca82dc6445899ca5f436d6de" gradientUnits="userSpaceOnUse" x1="299.5303" y1="372.9829" x2="314.3285" y2="500.9786">
+	<stop  offset="0" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.3815" style="stop-color:#F1EBE0"/>
+	<stop  offset="0.4217" style="stop-color:#F1EBE0"/>
+	<stop  offset="1" style="stop-color:#D2C3A6"/>
+</linearGradient>
+<path fill="url(#ian_symbols_45991fd0ca82dc6445899ca5f436d6de)" stroke="#3A2E17" stroke-width="1.3834" d="M200.901,468.098c1.142,0,2.587-0.43,3.708-0.291
+	c0.095,0.831-0.55,0.787-0.469,1.51c1.381,0.189,2.013,0.267,3.137,1.188c0.817,0.666,1.659,1.794,2.688,2.101
+	c-2.58-0.098-5.009-0.57-7.417,0.332c-1.108,0.415-2.02,1.036-3.023,1.617c-1.057,0.618-2.395,0.929-2.985,1.823
+	c0,0-3.513,8.103-7.829,11.886c-4.323,3.785-8.373,6.48-11.885,8.103c-3.512,1.617-5.944,2.165-5.944,2.165
+	s12.341-1.53,25.452-4.756c31.338-7.704,83.161-21.656,97.444-22.797c20.257-1.621,79.134-2.973,93.451-1.621
+	c14.316,1.351,41.869,4.049,45.382,3.238c3.509-0.808,9.449-3.779,15.66-22.959c6.218-19.177-7.288-51.856-14.854-61.043
+	c-7.563-9.179-17.552-13.769-21.879-15.394c-4.322-1.618-8.368-1.618-14.856-0.533c-6.48,1.073-18.366,8.099-66.173,14.31
+	c-47.807,6.215-141.903-0.882-154.72,1.786c-6.85,1.429-11.929,6.323-11.929,6.323s9.993-4.861,18.096-2.973
+	c8.099,1.888,15.124,10.808,18.64,18.906c3.509,8.103,6.208,21.332,5.13,30.515C204.647,450.718,200.901,468.098,200.901,468.098z"
+	/>
+</svg>

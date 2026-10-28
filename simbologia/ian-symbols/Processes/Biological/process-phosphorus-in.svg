@@ -1,0 +1,90 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="134" height="501" viewBox="0 0 134 501" xml:space="preserve">
+            <title>Process; phosphorus in</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Process; phosphorus in</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of incoming phosphorus</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, phosphorus, in</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-396a2b3ca9e1aab40d05e59db34eebf1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Process; phosphorus in</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/process-phosphorus-in/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/process-phosphorus-in/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, phosphorus, in</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of incoming phosphorus</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path d="M34.739,87.522V0h28.338c10.739,0,17.737,0.44,21.007,1.314c5.004,1.314,9.205,4.175,12.587,8.57
+	c3.376,4.401,5.068,10.085,5.068,17.052c0,5.376-0.975,9.89-2.917,13.556c-1.949,3.666-4.433,6.539-7.426,8.633
+	c-2.999,2.087-6.048,3.47-9.148,4.149c-4.212,0.83-10.312,1.251-18.297,1.251H52.445v32.997H34.739z M52.445,14.889v24.748h9.62
+	c6.917,0,11.55-0.458,13.883-1.365c2.333-0.917,4.162-2.338,5.495-4.288c1.32-1.937,1.987-4.2,1.987-6.778
+	c0-3.176-0.931-5.797-2.792-7.859c-1.861-2.063-4.213-3.346-7.061-3.861c-2.1-0.402-6.313-0.597-12.644-0.597H52.445z"/>
+<path fill="#7F8390" d="M0,407.805h34.877l0,0c16.448-49.074-7.395-74.47-9.23-130.599c-1.471-44.787,35.65-90.862,9.23-168.275
+	l61.492,0.918c19.517,96.954-14.298,127.229-14.512,177.988c-0.245,48.792,25.811,67.837,14.512,119.967h36.587L66.51,500L0,407.805
+	z"/>
+<path fill="#E9372F" d="M40.448,394.588l1.346-2.124c15.298-29.941,32.972-46.636,49.86-47.17l1.245,0.176
+	c-2.521-8.507-5.288-16.977-7.444-26.275c-13.676,1.792-30.539,9.261-47.509,30.111c2.93,15.178,4.125,30.148-0.119,48.081
+	C39.027,396.243,39.989,395.174,40.448,394.588z"/>
+<path fill="#E9372F" d="M84.693,262.261c1.805-8.865,4.25-17.561,6.772-26.672c-31.708,0.17-47.22,7.841-65.692,33.902
+	c-0.139,2.584-0.214,5.156-0.126,7.715c0.434,13.493,2.163,25.169,4.288,35.858C55.287,269.032,63.649,263.028,84.693,262.261z"/>
+<path fill="#E9372F" d="M101.89,180.025c0.56-8.274,0.61-17.222,0.075-26.986c-3.163-0.389-6.306-0.641-9.481-0.641
+	c-13.235,0-31.23,8.759-48.326,20.548c-0.742,13.877-3.15,26.571-5.961,38.518c18.895-17.039,44.24-32.488,54.287-32.488
+	C95.615,178.975,98.752,179.447,101.89,180.025z"/>
+</svg>

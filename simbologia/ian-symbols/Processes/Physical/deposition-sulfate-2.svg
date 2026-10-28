@@ -1,0 +1,109 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="165" height="505" viewBox="0 0 165 505" xml:space="preserve">
+            <title>Deposition: sulfate 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Deposition: sulfate 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of sulfate deposition</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, deposition, sulfate</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c2ef8d02a5e54b04111dd3aad1e1252d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Deposition: sulfate 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/deposition-sulfate-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/deposition-sulfate-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, deposition, sulfate</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of sulfate deposition</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_7e4478e8650a45e4cd7bc124871e5b46" y2="164.66" gradientUnits="userSpaceOnUse" x2="91.518" y1="164.66" x1="35.474">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FEFDF4" offset=".1377"/>
+  <stop stop-color="#FAF6D6" offset=".3804"/>
+  <stop stop-color="#F4EBA7" offset=".6971"/>
+  <stop stop-color="#EDE073" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m64.562 101.2c-31.302 48.999-34.257 100.83-23.307 131.98 0 0 20.458-3.704 15.722-16.577-12.197-67.75 24.392-100.96 34.541-117.89-6.766-5.429-22.079-1.121-26.956 2.49z" stroke="#D8C800" stroke-linecap="round" stroke-width="9.1162" fill="url(#ian_symbols_7e4478e8650a45e4cd7bc124871e5b46)"/>
+ <linearGradient id="ian_symbols_567f7b753eb80c54b9d12dd5de917c75" y2="270.13" gradientUnits="userSpaceOnUse" x2="112.25" y1="270.13" x1="28.042">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FEFDF4" offset=".1377"/>
+  <stop stop-color="#FAF6D6" offset=".3804"/>
+  <stop stop-color="#F4EBA7" offset=".6971"/>
+  <stop stop-color="#EDE073" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m61.712 335.19s-12.054-27.126-14.226-46.756c-2.707-24.393 4.06-76.571 31.158-75.894 10.844 2.039 18.909 16.167 6.784 25.746-12.873 10.167-24.695-14.689-24.695-14.689s-12.57 20.244-10.327 23.218c10.202 13.478 24.82 23.583 39.313 16.63 43.408-20.868 18.518-83.149-27.544-69.76-36.705 10.73-46.364 110.44-16.345 154.75" stroke="#D8C800" stroke-linecap="round" stroke-width="9.1162" fill="url(#ian_symbols_567f7b753eb80c54b9d12dd5de917c75)"/>
+ <linearGradient id="ian_symbols_6021f259f1cfec040193380550385520" y2="372.26" gradientUnits="userSpaceOnUse" x2="115.94" y1="372.26" x1="33.16">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FEFDF4" offset=".1377"/>
+  <stop stop-color="#FAF6D6" offset=".3804"/>
+  <stop stop-color="#F4EBA7" offset=".6971"/>
+  <stop stop-color="#EDE073" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m82.241 444.62c-61.071-59.344-63.225-127.72-17.146-141.63 58.275-21.33 72.502 74.889 10.594 66.021-10.381-1.496-20.761-10.79-22.791-14.85-2.029-6.098 8.813-25.069 8.813-25.069s7.158 18.295 19.657 18.295c13.55 0 17.823-22.479 1.354-26.432-16.933-4.06-35.931 18.979-28.471 46.079s41.735 66.404 41.735 66.404l-13.745 11.19z" stroke="#D8C800" stroke-linecap="round" stroke-width="9.1162" fill="url(#ian_symbols_6021f259f1cfec040193380550385520)"/>
+ <linearGradient id="ian_symbols_073c17a270a26d647d035a616ca89571" y2="450.37" gradientUnits="userSpaceOnUse" x2="149.01" gradientTransform="matrix(.9976 .0686 -.0686 .9976 20.368 -14.05)" y1="450.37" x1="51.949">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FEFDF4" offset=".1377"/>
+  <stop stop-color="#FAF6D6" offset=".3804"/>
+  <stop stop-color="#F4EBA7" offset=".6971"/>
+  <stop stop-color="#EDE073" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill-rule="evenodd" points="85.411 436.85 101.45 388.14 134.38 500 41.005 443.06 85.411 436.85" stroke="#D8C800" stroke-linecap="round" clip-rule="evenodd" stroke-width="9.1162" fill="url(#ian_symbols_073c17a270a26d647d035a616ca89571)"/>
+ <path d="m0 45.438l8.119-.712c.383 3.276 1.282 5.964 2.688 8.065 1.407 2.101 3.597 3.792 6.57 5.092 2.964 1.291 6.303 1.941 10.006 1.941 3.294 0 6.205-.49 8.725-1.478 2.519-.979 4.398-2.324 5.626-4.042 1.237-1.709 1.852-3.57 1.852-5.591 0-2.039-.605-3.819-1.816-5.342-1.219-1.531-3.187-2.813-5.92-3.846-1.754-.686-5.635-1.745-11.626-3.187-6-1.442-10.193-2.795-12.588-4.078-3.098-1.638-5.413-3.667-6.935-6.089-1.522-2.421-2.279-5.146-2.279-8.146 0-3.303.935-6.383 2.795-9.259 1.87-2.875 4.594-5.048 8.182-6.534 3.587-1.484 7.576-2.232 11.955-2.232 4.834 0 9.099.784 12.784 2.341 3.694 1.558 6.534 3.855 8.511 6.882 1.994 3.027 3.054 6.463 3.205 10.292l-8.262.57c-.445-4.086-1.95-7.176-4.522-9.259-2.564-2.092-6.356-3.134-11.377-3.134-5.226 0-9.036.961-11.422 2.867-2.395 1.923-3.588 4.229-3.588 6.926 0 2.35.846 4.273 2.537 5.787 1.665 1.513 6.009 3.063 13.024 4.656 7.024 1.594 11.84 2.974 14.458 4.158 3.81 1.753 6.615 3.97 8.421 6.65 1.816 2.68 2.725 5.769 2.725 9.268 0 3.472-.997 6.73-2.974 9.802-1.994 3.071-4.843 5.457-8.555 7.158-3.712 1.7-7.896 2.555-12.553 2.555-5.894 0-10.834-.863-14.814-2.582-3.988-1.718-7.113-4.309-9.374-7.763-2.269-3.465-3.462-7.373-3.578-11.736z" fill="#231F20"/>
+ <path d="m61.089 34.631c0-10.834 2.902-19.31 8.725-25.443 5.813-6.125 13.318-9.188 22.505-9.188 6.036 0 11.457 1.442 16.291 4.318 4.844 2.875 8.529 6.891 11.049 12.036 2.555 5.155 3.81 10.995 3.81 17.511 0 6.624-1.326 12.543-3.997 17.761-2.671 5.226-6.454 9.178-11.342 11.867-4.896 2.68-10.185 4.024-15.847 4.024-6.143 0-11.626-1.478-16.47-4.451-4.834-2.964-8.492-7.015-10.985-12.152-2.492-5.128-3.739-10.559-3.739-16.283zm8.974.107c0 7.87 2.102 14.057 6.321 18.588 4.211 4.522 9.499 6.784 15.855 6.784 6.472 0 11.805-2.279 15.988-6.855 4.185-4.567 6.276-11.057 6.276-19.452 0-5.315-.89-9.944-2.688-13.915-1.78-3.953-4.397-7.033-7.843-9.205-3.445-2.19-7.309-3.276-11.6-3.276-6.09 0-11.333 2.101-15.723 6.303-4.404 4.193-6.594 11.208-6.594 21.028z" fill="#231F20"/>
+ <path d="m148.16 93.726v-10.968h-19.79v-5.128l20.868-29.556h4.558v29.556h6.196v5.128h-6.196v10.968h-5.64zm0-16.096v-20.467l-14.28 20.467h14.28z" fill="#231F20"/>
+ <path d="m138.58 10.256v-8.119h24.785v8.119h-24.78z" fill="#231F20"/>
+</svg>

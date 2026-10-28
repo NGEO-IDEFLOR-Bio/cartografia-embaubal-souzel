@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="326" height="501" viewBox="0 0 326 501" xml:space="preserve">
+            <title>Uptake; phosphate</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Uptake; phosphate</ian_image_library:title>
+                <ian_image_library:descr>Illustration of phosphate uptake</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, phosphate, uptake</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-3dd980dc2e52a67405de3745d98f988e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Uptake; phosphate</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/uptake-phosphate/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/uptake-phosphate/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, phosphate, uptake</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of phosphate uptake</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width="8.1864" d="m238.21 94.861c0-50.117-40.641-90.768-90.768-90.768-50.138 0-90.767 40.651-90.767 90.768 0 50.127 40.629 90.767 90.767 90.767 50.13 0 90.77-40.64 90.77-90.769z" fill="#87AD87"/>
+ <polygon points="96.33 116.8 151.46 61.681 206.57 116.8"/>
+ <line y2="296.61" x1="147.44" x2="147.44" stroke="#000" y1="108.61" stroke-width="10.916"/>
+ <path d="m0 470.46v-127.08h47.905c8.425 0 14.866.412 19.312 1.215 6.224 1.052 11.461 3.035 15.668 5.931 4.218 2.928 7.612 7.016 10.182 12.274 2.57 5.248 3.86 11.027 3.86 17.327 0 10.8-3.438 19.94-10.29 27.422-6.864 7.481-19.257 11.223-37.192 11.223h-32.519v51.688h-16.926zm16.926-66.77h32.8c10.865 0 18.563-2.006 23.118-6.05 4.565-4.012 6.853-9.683 6.853-16.991 0-5.291-1.355-9.835-4.034-13.598-2.678-3.773-6.224-6.256-10.604-7.46-2.83-.748-8.056-1.127-15.668-1.127h-32.465v45.23z"/>
+ <path d="m112.98 408.6c0-21.067 5.66-37.561 16.98-49.487 11.331-11.917 25.958-17.881 43.871-17.881 11.732 0 22.293 2.798 31.715 8.404 9.423 5.605 16.612 13.412 21.546 23.432 4.944 10.019 7.416 21.36 7.416 34.079 0 12.86-2.591 24.376-7.807 34.557-5.194 10.149-12.578 17.837-22.099 23.074-9.53 5.227-19.821 7.829-30.859 7.829-11.96 0-22.651-2.885-32.074-8.653-9.434-5.779-16.557-13.662-21.415-23.638-4.86-9.99-7.28-20.55-7.28-31.71zm17.23.23c0 15.289 4.12 27.336 12.383 36.118 8.251 8.815 18.606 13.207 31.065 13.207 12.675 0 23.118-4.445 31.326-13.326 8.197-8.891 12.296-21.49 12.296-37.82 0-10.322-1.745-19.344-5.259-27.031-3.513-7.721-8.62-13.674-15.375-17.924-6.745-4.229-14.324-6.354-22.728-6.354-11.938 0-22.207 4.077-30.805 12.231-8.61 8.17-12.91 21.8-12.91 40.89z"/>
+ <path d="m274.37 500v-16.926h-30.621v-8.003l32.161-45.529h7.069v45.529h9.542v8.003h-9.542v16.93h-8.61zm0-24.93v-31.563l-22.099 31.563h22.1z"/>
+ <path d="m245.53 370.47v-8.772h26.771v8.772h-26.77z"/>
+ <path d="m279.39 373.23l8.62-1.235c.986 4.857 2.667 8.349 5.031 10.484 2.363 2.147 5.27 3.21 8.761 3.21 4.121 0 7.568-1.398 10.345-4.218 2.786-2.809 4.175-6.3 4.175-10.453 0-3.969-1.302-7.243-3.904-9.802-2.591-2.581-5.888-3.871-9.889-3.871-1.637 0-3.676.314-6.104.965l.954-7.536c.586.065 1.041.087 1.388.087 3.676 0 6.962-.954 9.911-2.895 2.938-1.92 4.413-4.901 4.413-8.913 0-3.188-1.085-5.823-3.253-7.916-2.158-2.093-4.955-3.134-8.371-3.134-3.394 0-6.224 1.063-8.49 3.188-2.255 2.125-3.708 5.313-4.358 9.574l-8.609-1.54c1.063-5.812 3.48-10.312 7.243-13.499 3.762-3.21 8.446-4.804 14.041-4.804 3.871 0 7.428.824 10.681 2.483 3.242 1.637 5.726 3.903 7.449 6.755 1.725 2.852 2.592 5.888 2.592 9.087 0 3.047-.824 5.822-2.462 8.316-1.626 2.516-4.055 4.5-7.254 5.975 4.164.965 7.417 2.949 9.748 5.975 2.331 3.036 3.502 6.809 3.502 11.363 0 6.147-2.255 11.363-6.733 15.636-4.488 4.271-10.159 6.408-17.013 6.408-6.191 0-11.342-1.822-15.408-5.476-4.1-3.67-6.42-8.42-7.01-14.24z"/>
+</svg>

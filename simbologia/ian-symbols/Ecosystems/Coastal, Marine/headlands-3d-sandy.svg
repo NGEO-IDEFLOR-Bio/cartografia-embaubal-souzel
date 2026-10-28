@@ -1,0 +1,138 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="204" viewBox="0 0 502 204" xml:space="preserve">
+            <title>Headlands 3D: sandy</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Headlands 3D: sandy</ian_image_library:title>
+                <ian_image_library:descr>Illustration of sandy headlands base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, terrestrial, coastal, marine, headlands, uplands, cliffs, sandy</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-727e3df972eeca045d0ce82b7ea5c1b2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Headlands 3D: sandy</dc:title>
+                <dc:date>2005-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/headlands-3d-sandy/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/headlands-3d-sandy/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, terrestrial, coastal, marine, headlands, uplands, cliffs, sandy</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of sandy headlands base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_53143c6de9865ed40dd5cd928313c796" y2="84.042" gradientUnits="userSpaceOnUse" x2="223.77" y1="143.56" x1="223.77">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#59B3DA" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m398.39 143.56h-398.14l23.865-27.159 115.83-32.363 71.596 12.136 176.95-6.355 58.789 14.446s-22.118 30.051-23.284 32.361l-25.61 6.94z" stroke="#007198" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_53143c6de9865ed40dd5cd928313c796)"/>
+ <linearGradient id="ian_symbols_fc6faf11cf7748d4edb9b2a4b8ff36b9" y2="63.528" gradientUnits="userSpaceOnUse" x2="500.25" y1="63.528" x1="14.802">
+  <stop stop-color="#89AC7B" offset=".0056"/>
+  <stop stop-color="#C3BD92" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m500.25.25h-404.54s-3.493 5.2-4.655 7.513c-1.164 2.311-6.986 10.402-8.151 12.136-1.163 1.732-2.91 2.889-6.402 5.2s-5.82 10.981-11.059 13.292c-5.238 2.313-6.403 13.87-11.06 15.025-4.655 1.155-12.806 22.538-16.88 27.738-4.075 5.202-13.388 23.116-15.134 26.006-1.746 2.889-7.567 16.181-7.567 16.181l.583 3.468 75.67-46.81 87.31-8.089 28.521 11.557 1.746 27.161 66.357-14.449 76.25-16.761 40.745 20.225 2.91 13.87s10.257-5.829 16.299-6.937c6.039-1.106 11.059 5.202 38.997-14.446 27.94-19.65 50.06-91.884 50.06-91.884z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_fc6faf11cf7748d4edb9b2a4b8ff36b9)"/>
+ <linearGradient id="ian_symbols_ce77e40fb692bed4a5672533f65ed4da" y2="173.83" gradientUnits="userSpaceOnUse" x2="386.27" y1="119.44" x1="440.66">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#00A2CF" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m431.24 110.02l-32.854 33.548-2.688 39.688c20.04-20.3 37-43.55 35.54-73.24z" stroke="#007198" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_ce77e40fb692bed4a5672533f65ed4da)"/>
+ <linearGradient id="ian_symbols_bc428c5b3dc43894010e4fdace175269" y2="125.96" gradientUnits="userSpaceOnUse" x2="401.61" gradientTransform="matrix(.9689 .2476 -.2476 .9689 80.351 -90.277)" y1="54.445" x1="401.61">
+  <stop stop-color="#E9CCA4" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m485.54 73.155c-6.126.441-12.203.505-17.232 1.594-5.032 1.086-11.737 3.581-16.971 5.236-5.231 1.656-10.176 2.191-15.407 3.845-5.233 1.654-24.074 14.171-30.736 19.042-6.66 4.872-9.386 13.126-9.386 13.126s-2.989 4.609.118 4.205c3.108-.404 7.923-2.763 7.923-2.763s30.251-7.829 42.972-10.567c9.112-1.964 29.396-5.374 46.079-6.091l7.109-27.62c-6.18-.17-10.54-.287-14.46-.005z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_bc428c5b3dc43894010e4fdace175269)"/>
+ <linearGradient id="ian_symbols_73388d17eced9c643d5ac2b572736490" y2="202.51" gradientUnits="userSpaceOnUse" x2="428.36" y1="84.744" x1="428.36">
+  <stop stop-color="#F0DCAE" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m431.24 110.02c1.458 29.691-15.503 52.95-35.542 73.236l2.689 19.258s50.904-56.111 59.307-75.886c8.403-19.777-1.708-41.879-1.708-41.879l-24.75 25.269z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_73388d17eced9c643d5ac2b572736490)"/>
+ <linearGradient id="ian_symbols_ae4521c6c317b174a9a677304a2c8e17" y2="202.51" gradientUnits="userSpaceOnUse" x2="199.32" y1="143.56" x1="199.32">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#00A2CF" offset="1"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="58.946" width="398.14" stroke="#007198" stroke-linecap="round" y="143.56" x=".25" stroke-width=".5" fill="url(#ian_symbols_ae4521c6c317b174a9a677304a2c8e17)"/>
+ <linearGradient id="ian_symbols_b15891bd3b41053441e932cb2ab8ed53" y2="196.04" gradientUnits="userSpaceOnUse" x2="199.32" y1="180.55" x1="199.32">
+  <stop stop-color="#F0DEAF" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="15.494" width="398.14" stroke="#957966" stroke-linecap="round" y="180.55" x=".25" stroke-width=".5" fill="url(#ian_symbols_b15891bd3b41053441e932cb2ab8ed53)"/>
+ <linearGradient id="ian_symbols_94f8b04f808610f409510b5d4ab4ffd6" y2="194.43" gradientUnits="userSpaceOnUse" x2="199.32" y1="202.51" x1="199.32">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#CCB88D" offset="1"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="8.081" width="398.14" stroke="#957966" stroke-linecap="round" y="194.43" x=".25" stroke-width=".5" fill="url(#ian_symbols_94f8b04f808610f409510b5d4ab4ffd6)"/>
+ <linearGradient id="ian_symbols_b3b7a2f7991b83c4dda375ba09e1c38f" y2="126.92" gradientUnits="userSpaceOnUse" x2="208.05" y1="64.312" x1="208.05">
+  <stop stop-color="#E9CCA4" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m18.294 126.81s1.165-.579 6.403-.579c5.239 0 44.819-18.493 59.371-20.804s25.611-9.247 36.672-8.667c11.059.576 26.774-2.313 39.58-1.734s22.7 3.468 32.597 5.779c9.894 2.313 20.372 10.402 20.372 10.402s-13.388 15.024-8.732 15.604c4.658.576 4.658-1.157 11.061-3.468s33.178-11.558 40.745-13.87c7.568-2.311 13.97-3.466 24.447-5.778 10.477-2.311 44.238-10.979 54.132-10.979 9.896 0 15.136 0 23.865 1.731 8.732 1.734 19.209 4.047 24.449 6.937 5.237 2.889 14.551 4.044 14.551 4.044l-9.896-31.206-79.171-9.906-95.451 46.891-3.494-30.715-46.563-12.094-96.042 10.451-48.894 47.968z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_b3b7a2f7991b83c4dda375ba09e1c38f)"/>
+ <linearGradient id="ian_symbols_3f3eb802874df544914c64944820cba2" y2="47.057" gradientUnits="userSpaceOnUse" x2="115.81" y1="126.81" x1="115.81">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m160.9 47.057c15.134 0 20.372.579 32.015 5.779 11.64 5.202 15.715 6.936 20.372 14.449 4.656 7.513 3.125 11.24 3.492 17.335.366 6.096-1.958 16.525-4.657 21.383-2.698 4.857-3.548 9.076-5.238 9.244-1.689.17 2.332-13.78.583-19.07-1.75-5.289-5.446-11.513-15.717-14.446s-25.677-3.709-37.253-3.468c-11.575.241-34.343 4.688-41.908 5.779-7.567 1.093-28.208 8.962-36.09 12.136-7.881 3.177-34.007 15.912-38.998 18.494-4.991 2.579-14.316 10.277-15.717 10.979-1.398.702-4.78 1.146-6.401 1.157-1.622.009.201-6.599 4.074-10.402 3.873-3.806 8.314-9.678 11.059-13.291 2.744-3.612 21.67-23.562 29.687-27.74 8.016-4.175 25.611-12.136 36.088-16.18 10.488-4.042 49.488-12.133 64.618-12.133z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_3f3eb802874df544914c64944820cba2)"/>
+ <linearGradient id="ian_symbols_52231c026f64bf346157d9b67e401e44" y2="48.215" gradientUnits="userSpaceOnUse" x2="301.26" y1="126.97" x1="301.26">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m263.35 64.972c4.604-2.29 10.475-3.845 16.297-5.778 5.825-1.934 12.919-3.179 26.194-6.357 13.276-3.176 23.283-4.621 38.998-4.621 15.716 0 25.611 5.779 36.088 12.134 10.479 6.357 14.553 12.714 15.716 17.914 1.166 5.202 3.492 16.759 2.912 21.383-.583 4.623-2.405 15.661-4.657 15.602-2.251-.06.582-5.778-2.91-15.602s-12.224-11.557-25.612-17.336c-13.387-5.781-39.579-2.889-55.878-1.734-16.298 1.155-48.311 15.025-59.953 20.804-11.642 5.778-38.999 20.804-38.999 20.804s-4.074 3.466-6.986 4.623c-2.91 1.155-1.162-4.047-1.162-4.047s.581-8.668 5.82-15.025c5.238-6.354 20.371-23.114 25.028-26.003 4.656-2.889 9.313-4.623 13.97-7.513 4.65-2.875 10.52-6.94 15.13-9.232z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_52231c026f64bf346157d9b67e401e44)"/>
+ <linearGradient id="ian_symbols_34a9e1f675e888440dca7cbf9da1f54d" y2="48.537" gradientUnits="userSpaceOnUse" x2="438.75" y1="119.87" x1="438.75">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m470.13 52.087c-5.824 1.934-11.695 3.489-16.3 5.779-4.604 2.292-10.477 6.357-15.133 9.247-4.655 2.889-9.313 4.624-13.971 7.513-4.655 2.889-19.789 19.648-25.026 26.004-5.24 6.357-5.821 15.024-5.821 15.024s-1.748 5.202 1.163 4.047c2.91-1.157 6.984-4.623 6.984-4.623s27.357-15.025 39-20.804c8.341-4.141 23.717-11.679 39.702-16.475l3.422-29.262c-6.04 1.355-10.29 2.313-14.01 3.548z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_34a9e1f675e888440dca7cbf9da1f54d)"/>
+ <linearGradient id="ian_symbols_910e6655450168e4c907f763c8879004" y2=".2505" gradientUnits="userSpaceOnUse" x2="449.32" y1="202.51" x1="449.32">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m398.39 202.51l101.86-104.02v-98.24s-3.494 4.299-6.515 9.405c-3.713 6.281-7.305 13.785-10.048 16.017-4.974 4.049-7.016 11.771-11.816 17.446-4.799 5.673-8.17 8.335-13.773 12.97-5.602 4.635-4.047 23.257-6.535 30.363-2.49 7.108-3.966 16.916-5.982 26.642-1.787 8.615-4.348 22.74-10.271 34.894-5.927 12.155-36.923 46.432-36.923 46.432v8.1z" stroke="#957966" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_910e6655450168e4c907f763c8879004)"/>
+</svg>

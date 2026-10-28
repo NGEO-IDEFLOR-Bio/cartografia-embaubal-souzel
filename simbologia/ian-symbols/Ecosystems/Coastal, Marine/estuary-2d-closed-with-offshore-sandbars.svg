@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="195" viewBox="0 0 501 195" xml:space="preserve">
+            <title>Estuary 2D: closed with offshore sandbars</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: closed with offshore sandbars</ian_image_library:title>
+                <ian_image_library:descr>Illustration of closed estuary base with offshore sandbars</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, closed, offshore, sandbars</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9ab6a30c1f20bf14b1938a019a6fc138">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: closed with offshore sandbars</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-closed-with-offshore-sandbars/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-closed-with-offshore-sandbars/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, closed, offshore, sandbars</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of closed estuary base with offshore sandbars</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_559096ee22032ea4b576e3e72092d3e4" y2="105.73" gradientUnits="userSpaceOnUse" x2="500.25" y1="105.73" x1="60.545">
+  <stop stop-color="#D8C384" offset="0"/>
+  <stop stop-color="#589D78" offset=".2921"/>
+  <stop stop-color="#589D78" offset=".2928"/>
+  <stop stop-color="#6DAE9E" offset=".3952"/>
+  <stop stop-color="#7EBDBE" offset=".5007"/>
+  <stop stop-color="#8CC8D6" offset=".611"/>
+  <stop stop-color="#95D0E7" offset=".7267"/>
+  <stop stop-color="#9BD4F2" offset=".8511"/>
+  <stop stop-color="#9DD6F5" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m490.58 70.462c-7.654.674-13.648-5.844-13.648-5.844s-5.205 6.398-13.609 6.161c-8.409-.317-13.087-5.604-13.087-5.604s-6.671 5.287-13.008 5.842c-6.296.518-13.722-6.398-13.722-6.398s-4.223 5.844-12.633 6.281c-8.408.356-13.723-5.962-13.723-5.962s-6.864 4.968-12.67 6.079c-5.768 1.073-14.063-6.199-14.063-6.199s-4.074 4.134-11.35 5.961c-7.203 1.709-15.385-5.723-15.385-5.723s-5.845 4.85-12.668 5.961c-6.863 1.073-13.988-6.199-13.988-6.199s-5.809 5.406-12.894 6.199c-7.128.757-13.837-6.199-13.837-6.199s-5.016 5.245-12.746 6.082c-7.766.753-13.725-5.962-13.725-5.962s-6.674 4.848-12.63 5.962c-5.919 1.073-13.876-5.844-13.876-5.844s-5.881 5.723-12.746 6.081c-6.859.398-14.098-6.081-14.098-6.081s-4.865 5.723-12.935 5.961c-8.067.239-17.168-6.827-17.168-6.827s-5.184 5.436-11.781 6.71c-6.561 1.19-11.394-5.962-11.394-5.962s-5.467 5.404-12.895 5.962c-7.39.515-13.31-5.844-13.31-5.844s-3.695 3.459-4.11 3.459c-.339 0-.904 1.947-8.521 2.502-7.654.518-13.952-5.525-13.952-5.525s-6.332 5.287-12.971 6.043c-6.559.793-13.42-5.245-13.42-5.245s-3.169 2.225-7.919 4.489c-4.715 2.147-9.426.477-9.426.477s-.189 76.02-.114 76.02l439.69-.507v-79.46c-2.37 1.3-5.75 2.808-9.65 3.152z" fill="url(#ian_symbols_559096ee22032ea4b576e3e72092d3e4)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m470.51 131.17c-7.021-6.167-7.703-35.74-25.203-36.861-24.666-1.605-21.332 16.8-45.173 27.671-18.249 8.319-30.271 3.212-50.761 4.145-13.185.6-19.729-6.461-25.232-12.96-4.838-5.753-7.398-12.177-22.529-10.199-10.007 1.271-14.648-5.58-39.502-5.692-25.659-.111-26.223-35.085-51.445-35.933-35.43-1.188-36.294 22.772-63.994 26.052-23.064 2.73.253-26.611-75.53-26.612-44.432 0-51.954-59.637-70.887-60.514v193.44h500v-47.3c-5.9-2-17.73-4.65-29.76-15.23z" fill="#CABDA7"/>
+</svg>

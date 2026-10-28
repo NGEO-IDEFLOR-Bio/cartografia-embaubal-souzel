@@ -1,0 +1,104 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="200" height="501" viewBox="0 0 200 501" xml:space="preserve">
+            <title>Process; primary production</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Process; primary production</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of primary production (conversion of incoming carbon dioxide)</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, primary, productionsynthesis, chemosynthesis, carbon, dioxide, in</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-75b7fc637a32c714adac12c51c7f1c20">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Process; primary production</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/process-primary-production/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/process-primary-production/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, primary, productionsynthesis, chemosynthesis, carbon, dioxide, in</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of primary production (conversion of incoming carbon dioxide)</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path d="M58.134,55.573l16.75,5.124c-2.58,9.465-6.872,16.499-12.877,21.093c-5.998,4.594-13.61,6.891-22.835,6.891
+	c-11.417,0-20.803-3.892-28.15-11.669C3.676,69.232,0,58.591,0,45.104c0-14.275,3.695-25.36,11.091-33.254
+	C18.481,3.954,28.199,0,40.245,0c10.524,0,19.072,3.092,25.643,9.274c3.91,3.658,6.842,8.905,8.801,15.753l-17.145,4.138
+	c-1.017-4.446-3.141-7.95-6.368-10.524c-3.227-2.574-7.149-3.861-11.769-3.861c-6.374,0-11.546,2.285-15.519,6.848
+	c-3.972,4.569-5.956,11.959-5.956,22.183c0,10.851,1.946,18.58,5.869,23.18c3.911,4.607,8.998,6.91,15.254,6.91
+	c4.625,0,8.591-1.472,11.916-4.422C54.298,66.535,56.687,61.897,58.134,55.573z"/>
+<path d="M85.939,44.968c0-8.757,1.306-16.104,3.929-22.047c1.946-4.372,4.619-8.301,7.993-11.781
+	c3.388-3.479,7.082-6.06,11.11-7.741C114.329,1.133,120.5,0,127.495,0c12.662,0,22.799,3.929,30.397,11.787
+	c7.601,7.858,11.406,18.777,11.406,32.769c0,13.875-3.775,24.731-11.319,32.571c-7.544,7.833-17.625,11.75-30.25,11.75
+	c-12.772,0-22.934-3.898-30.483-11.695C89.708,69.386,85.939,58.646,85.939,44.968z M103.872,44.377
+	c0,9.754,2.242,17.144,6.731,22.169c4.489,5.038,10.186,7.55,17.102,7.55c6.909,0,12.575-2.494,17.009-7.488
+	c4.435-4.988,6.651-12.477,6.651-22.466c0-9.865-2.162-17.225-6.479-22.083c-4.311-4.853-10.038-7.279-17.182-7.279
+	s-12.908,2.457-17.28,7.371S103.872,34.474,103.872,44.377z"/>
+<path d="M199.529,99.814v6.404H175.29c0.266-2.438,1.047-4.754,2.353-6.934c1.312-2.187,3.893-5.087,7.754-8.695
+	c3.104-2.919,5.006-4.896,5.715-5.937c0.948-1.435,1.422-2.852,1.422-4.255c0-1.545-0.412-2.74-1.237-3.572s-1.965-1.25-3.418-1.25
+	c-1.436,0-2.58,0.432-3.431,1.3c-0.85,0.869-1.342,2.31-1.472,4.316l-6.896-0.689c0.406-3.794,1.699-6.516,3.866-8.167
+	c2.168-1.65,4.878-2.475,8.13-2.475c3.565,0,6.361,0.967,8.399,2.895c2.039,1.927,3.055,4.329,3.055,7.199
+	c0,1.631-0.289,3.183-0.875,4.661c-0.578,1.479-1.502,3.018-2.765,4.638c-0.837,1.071-2.353,2.617-4.551,4.625
+	c-2.198,2.013-3.584,3.35-4.169,4.009c-0.579,0.659-1.048,1.299-1.41,1.928H199.529z"/>
+<path fill="#41AD49" stroke="#41AD49" stroke-width="1.5765" d="M33.058,408.352h34.16l0,0c16.11-48.064-7.242-72.938-9.04-127.914
+	c-1.441-43.865,34.917-88.994,9.04-164.815l60.229,0.899c19.115,94.961-14.004,124.614-14.214,174.33
+	c-0.239,47.788,25.28,66.441,14.214,117.5h35.836l-65.082,90.3L33.058,408.352z"/>
+<path fill="#006A44" d="M72.674,395.407l1.318-2.082c14.983-29.325,32.294-45.676,48.835-46.199l1.22,0.173
+	c-2.47-8.333-5.179-16.628-7.291-25.736c-13.395,1.756-29.911,9.071-46.532,29.492c2.869,14.866,4.039,29.529-0.117,47.094
+	C71.282,397.026,72.225,395.979,72.674,395.407z"/>
+<path fill="#006A44" d="M116.011,265.8c1.767-8.684,4.162-17.2,6.632-26.124c-31.057,0.166-46.249,7.68-64.342,33.206
+	c-0.136,2.53-0.209,5.05-0.123,7.556c0.425,13.216,2.118,24.652,4.2,35.121C87.208,272.432,95.398,266.551,116.011,265.8z"/>
+<path fill="#006A44" d="M132.854,185.255c0.548-8.105,0.597-16.868,0.073-26.432c-3.098-0.382-6.177-0.628-9.286-0.628
+	c-12.964,0-30.589,8.578-47.333,20.125c-0.727,13.591-3.085,26.025-5.838,37.726c18.506-16.689,43.33-31.82,53.171-31.82
+	C126.707,184.226,129.78,184.688,132.854,185.255z"/>
+</svg>

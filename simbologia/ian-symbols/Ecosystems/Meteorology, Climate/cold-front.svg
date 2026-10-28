@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="352" height="500" viewBox="0 0 352 500" xml:space="preserve">
+            <title>Cold Front</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Cold Front</ian_image_library:title>
+                <ian_image_library:descr>Icon representing a cold front.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>weather, climate, wind, storm</ian_image_library:contains>
+                    <ian_image_library:when>2016-05-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c3b5d4125319bf64811cd5f9e13e1cde">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Cold Front</dc:title>
+                <dc:date>2016-05-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/cold-front/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/cold-front/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>weather, climate, wind, storm</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Icon representing a cold front.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<title>Layer 1</title>
+	<polygon id="ian_symbols_cba2dcfdc9c93a8449016648c2b4b546" fill="#0376BC" points="141.3,324.1 194.3,206.1 285.8,318.2 	"/>
+	<polygon id="ian_symbols_2f4c9e510d42692419f21b396eb8abfd" fill="#0376BC" points="213.5,168.9 234.7,41.3 351.7,126.3 	"/>
+	<polygon id="ian_symbols_9d215596d7231d041d978886e4a3437c" fill="#0376BC" points="38.7,463.7 123.8,366.2 178.7,500 	"/>
+	<path id="ian_symbols_e0fdf74b6f78957435cfb140f211df9c" fill="#0376BC" d="M8,487.2l-8-14.6C121.1,406.4,227.3,185.5,227.3,0H244
+		C244,190.8,133.7,418.5,8,487.2z"/>
+</g>
+</svg>

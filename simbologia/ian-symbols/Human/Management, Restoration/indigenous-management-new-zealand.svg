@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="501" viewBox="0 0 501 501" xml:space="preserve">
+            <title>Indigenous management (New Zealand)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Indigenous management (New Zealand)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of indigenous management in New Zealand</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>management, indigenous, peoples, native, aboriginals, New Zealand</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2ac949f66274a844257b0556fb4e9657">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Indigenous management (New Zealand)</dc:title>
+                <dc:date>2005-02-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/indigenous-management-new-zealand/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/indigenous-management-new-zealand/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>management, indigenous, peoples, native, aboriginals, New Zealand</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of indigenous management in New Zealand</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#C4161C" d="M249.98,496.305c110.145,0,203.375-72.304,234.886-172H268.732l55.265-76.677l-29.325-40.597L8.227,202.995
+	C5.287,218.221,3.695,233.918,3.695,250C3.695,385.997,113.979,496.305,249.98,496.305z"/>
+<path d="M249.98,3.695c-116.562,0-214.151,81.007-239.7,189.804h288.913l15.779,47.366l-32.713,74.431h205.232
+	c5.706-20.807,8.813-42.681,8.813-65.295C496.306,113.94,386.045,3.695,249.98,3.695z"/>
+<path fill="#FFFFFF" d="M299.193,297.246c0,0,47.356-38.336,42.844-74.431c-1.761-14.1-17.626-44.758-36.32-56.275
+	c-29.162-17.992-65.185-13.638-65.185-13.638H23.601c-9.097,21.191-15.259,43.917-18.098,67.671h245.189
+	c0,0,33.271-3.954,41.719,29.316c8.457,33.266-13.528,45.105-13.528,45.105s2.819-66.541-57.521-66.541
+	c-10.155,0-59.209,1.698-58.656,67.671c-2.814,60.898,75.57,71.049,75.57,71.049H466.69c11.69-21.566,20.205-45.086,25.036-69.928
+	H299.193z"/>
+<path fill="none" stroke="#000000" stroke-width="7.3892" d="M496.306,250c0,135.997-110.261,246.305-246.325,246.305
+	C113.979,496.305,3.695,385.997,3.695,250C3.695,113.94,113.979,3.695,249.98,3.695C386.045,3.695,496.306,113.94,496.306,250z"/>
+</svg>

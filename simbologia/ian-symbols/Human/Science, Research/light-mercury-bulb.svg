@@ -1,0 +1,167 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="217" height="501" viewBox="0 0 217 501" xml:space="preserve">
+            <title>Light: mercury bulb</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Light: mercury bulb</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mercury light bulb</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, mercury, light, bulb, gas, discharge, lamp</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-925a9d06eb62910469e4b6edb4e89ca2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Light: mercury bulb</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/light-mercury-bulb/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/light-mercury-bulb/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, mercury, light, bulb, gas, discharge, lamp</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mercury light bulb</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".3904" d="m65.64 398.76c-17.775-7.311-5.947-60.691-12.505-71.832-115.86-196.17-15.8-326.99 55.878-326.73 57.352.207 167.94 129.24 62.622 322.78-7.038 12.941 5.26 64.521-16.673 73.97l-89.32 1.81z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".2376" d="m86.765 478.04c7.257 29.036 38.726 30.247 48.394-.611l-48.395.61z" fill="#636466"/>
+ <path stroke="#231F20" stroke-width=".2421" d="m154.96 396.94c0 1.168-.982 2.117-2.193 2.117h-85.897c-1.211 0-2.193-.949-2.193-2.117 0-1.156.982-2.105 2.193-2.105h85.896c1.21 0 2.19.95 2.19 2.1z" fill="#939498"/>
+ <linearGradient id="ian_symbols_825fd77a333d8ab4350ad30826361ca8" y2="439.52" gradientUnits="userSpaceOnUse" x2="153.69" y1="439.52" x1="65.64">
+  <stop stop-color="#939498" offset=".0056"/>
+  <stop stop-color="#95969A" offset=".2355"/>
+  <stop stop-color="#9D9EA2" offset=".3558"/>
+  <stop stop-color="#ABABAE" offset=".4506"/>
+  <stop stop-color="#BEBEC1" offset=".5322"/>
+  <stop stop-color="#D6D7D8" offset=".6053"/>
+  <stop stop-color="#F4F5F5" offset=".6713"/>
+  <stop stop-color="#fff" offset=".691"/>
+  <stop stop-color="#fff" offset=".7416"/>
+  <stop stop-color="#FBFBFB" offset=".7464"/>
+  <stop stop-color="#D6D6D8" offset=".7984"/>
+  <stop stop-color="#B9B9BC" offset=".8503"/>
+  <stop stop-color="#A4A5A8" offset=".9016"/>
+  <stop stop-color="#97989C" offset=".9519"/>
+  <stop stop-color="#939498" offset="1"/>
+ </linearGradient>
+ <path d="m149.18 475.42l.033-7.267c4.845-.196 4.845-8.064.011-8.064l-.011-6.448c4.637-.207 5.248-9.984.011-9.788l-.011-9.58c5.248-.196 5.444-9.373.011-9.177v-7.867c5.434 0 6.448-8.97 0-8.773v-9.679l-83.583-.021c.982 2.892 2.532 5.543 4.779 7.289v9.679c-6.448-.207-5.434 8.772 0 8.772v7.856c-5.434-.196-5.237 8.98 0 9.177v9.592c-5.237-.208-4.637 9.569 0 9.776v6.449c-4.833 0-4.833 7.715 0 8.063 5.307 6.56 71.704 6.42 78.764.01z" fill="url(#ian_symbols_825fd77a333d8ab4350ad30826361ca8)"/>
+ <linearGradient id="ian_symbols_c826b98e41a28e0429eb69fc7af92924" y2="433.31" gradientUnits="userSpaceOnUse" x2="153.22" y1="433.31" x1="66.417">
+  <stop stop-color="#939498" offset=".0056"/>
+  <stop stop-color="#95969A" offset=".1017"/>
+  <stop stop-color="#9D9EA2" offset=".152"/>
+  <stop stop-color="#ABABAE" offset=".1916"/>
+  <stop stop-color="#BEBEC1" offset=".2258"/>
+  <stop stop-color="#D6D7D8" offset=".2563"/>
+  <stop stop-color="#F4F5F5" offset=".2839"/>
+  <stop stop-color="#fff" offset=".2921"/>
+  <stop stop-color="#fff" offset=".3427"/>
+  <stop stop-color="#FBFBFB" offset=".355"/>
+  <stop stop-color="#D6D6D8" offset=".4872"/>
+  <stop stop-color="#B9B9BC" offset=".6193"/>
+  <stop stop-color="#A4A5A8" offset=".7497"/>
+  <stop stop-color="#97989C" offset=".8775"/>
+  <stop stop-color="#939498" offset="1"/>
+ </linearGradient>
+ <path d="m149.21 434.27c5.248-.196 5.444-9.373.011-9.177l-78.805 7.256c-5.434-.196-5.237 8.98 0 9.177l78.795-7.26z" fill="url(#ian_symbols_c826b98e41a28e0429eb69fc7af92924)"/>
+ <linearGradient id="ian_symbols_0acbc7ef00158d141da8f4c09d2e63a6" y2="416.47" gradientUnits="userSpaceOnUse" x2="153.69" y1="416.47" x1="65.955">
+  <stop stop-color="#939498" offset=".0056"/>
+  <stop stop-color="#95969A" offset=".1017"/>
+  <stop stop-color="#9D9EA2" offset=".152"/>
+  <stop stop-color="#ABABAE" offset=".1916"/>
+  <stop stop-color="#BEBEC1" offset=".2258"/>
+  <stop stop-color="#D6D7D8" offset=".2563"/>
+  <stop stop-color="#F4F5F5" offset=".2839"/>
+  <stop stop-color="#fff" offset=".2921"/>
+  <stop stop-color="#fff" offset=".3427"/>
+  <stop stop-color="#FBFBFB" offset=".355"/>
+  <stop stop-color="#D6D6D8" offset=".4872"/>
+  <stop stop-color="#B9B9BC" offset=".6193"/>
+  <stop stop-color="#A4A5A8" offset=".7497"/>
+  <stop stop-color="#97989C" offset=".8775"/>
+  <stop stop-color="#939498" offset="1"/>
+ </linearGradient>
+ <path d="m149.22 417.23c5.434 0 6.448-8.97 0-8.773l-78.805 7.268c-6.448-.207-5.434 8.772 0 8.772l78.805-7.27z" fill="url(#ian_symbols_0acbc7ef00158d141da8f4c09d2e63a6)"/>
+ <linearGradient id="ian_symbols_752e157639c16524cd7030d7d53521b8" y2="452.37" gradientUnits="userSpaceOnUse" x2="152.92" y1="452.37" x1="66.713">
+  <stop stop-color="#939498" offset=".0056"/>
+  <stop stop-color="#95969A" offset=".1017"/>
+  <stop stop-color="#9D9EA2" offset=".152"/>
+  <stop stop-color="#ABABAE" offset=".1916"/>
+  <stop stop-color="#BEBEC1" offset=".2258"/>
+  <stop stop-color="#D6D7D8" offset=".2563"/>
+  <stop stop-color="#F4F5F5" offset=".2839"/>
+  <stop stop-color="#fff" offset=".2921"/>
+  <stop stop-color="#fff" offset=".3427"/>
+  <stop stop-color="#FBFBFB" offset=".355"/>
+  <stop stop-color="#D6D6D8" offset=".4872"/>
+  <stop stop-color="#B9B9BC" offset=".6193"/>
+  <stop stop-color="#A4A5A8" offset=".7497"/>
+  <stop stop-color="#97989C" offset=".8775"/>
+  <stop stop-color="#939498" offset="1"/>
+ </linearGradient>
+ <path d="m149.21 453.64c4.637-.207 5.248-9.984.011-9.788l-78.805 7.268c-5.237-.208-4.637 9.569 0 9.776l78.795-7.26z" fill="url(#ian_symbols_752e157639c16524cd7030d7d53521b8)"/>
+ <linearGradient id="ian_symbols_0257dc8c3ccf65540121ccee2de5c3d1" y2="467.75" gradientUnits="userSpaceOnUse" x2="152.85" y1="467.75" x1="66.794">
+  <stop stop-color="#939498" offset=".0056"/>
+  <stop stop-color="#95969A" offset=".1017"/>
+  <stop stop-color="#9D9EA2" offset=".152"/>
+  <stop stop-color="#ABABAE" offset=".1916"/>
+  <stop stop-color="#BEBEC1" offset=".2258"/>
+  <stop stop-color="#D6D7D8" offset=".2563"/>
+  <stop stop-color="#F4F5F5" offset=".2839"/>
+  <stop stop-color="#fff" offset=".2921"/>
+  <stop stop-color="#fff" offset=".3427"/>
+  <stop stop-color="#FBFBFB" offset=".355"/>
+  <stop stop-color="#D6D6D8" offset=".4872"/>
+  <stop stop-color="#B9B9BC" offset=".6193"/>
+  <stop stop-color="#A4A5A8" offset=".7497"/>
+  <stop stop-color="#97989C" offset=".8775"/>
+  <stop stop-color="#939498" offset="1"/>
+ </linearGradient>
+ <path d="m149.21 468.15c4.845-.196 4.845-8.064.011-8.064l-78.805 7.257c-4.833 0-4.833 7.867 0 8.063l78.795-7.26z" fill="url(#ian_symbols_0257dc8c3ccf65540121ccee2de5c3d1)"/>
+ <path stroke="#231F20" stroke-width=".2093" d="m149.18 475.42l.033-7.267c4.845-.196 4.845-8.064.011-8.064l-.011-6.448c4.637-.207 5.248-9.984.011-9.788l-.011-9.58c5.248-.196 5.444-9.373.011-9.177v-7.867c5.434 0 6.448-8.97 0-8.773v-9.679l-83.583-.021c.982 2.892 2.532 5.543 4.779 7.289v9.679c-6.448-.207-5.434 8.772 0 8.772v7.856c-5.434-.196-5.237 8.98 0 9.177v9.592c-5.237-.208-4.637 9.569 0 9.776v6.449c-4.833 0-4.833 7.715 0 8.063 5.307 6.56 71.704 6.42 78.764.01z" fill="none"/>
+</svg>

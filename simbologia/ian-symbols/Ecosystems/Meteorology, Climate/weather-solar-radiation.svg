@@ -1,0 +1,151 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="493" height="501" viewBox="0 0 493 501" xml:space="preserve">
+            <title>Weather: solar radiation</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Weather: solar radiation</ian_image_library:title>
+                <ian_image_library:descr>Illustration of the sun, symbolizing solar radiation (energy from the sun)</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, climate, weather, atmosphere, sky, sun, radiation, solar, UV, light, heat, daytime</ian_image_library:contains>
+                    <ian_image_library:when>2008-08-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fd7bdb042bc15ac459f48979d86fab28">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Weather: solar radiation</dc:title>
+                <dc:date>2008-08-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/weather-solar-radiation/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/weather-solar-radiation/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, climate, weather, atmosphere, sky, sun, radiation, solar, UV, light, heat, daytime</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of the sun, symbolizing solar radiation (energy from the sun)</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_24d0c28fb7a24b3439ac28ba3500fb5d" gradientUnits="userSpaceOnUse" x2="225.3" y1="118.51" x1="225.3">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_24d0c28fb7a24b3439ac28ba3500fb5d)" clip-rule="evenodd" d="m251.23 0c14.22 24.991-21.828 42.878-22.758 68.362-.733 20 11.264 25.791 13.639 50.147-104.04-30.149-.65-87.072 9.12-118.51z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_a34472d468d57214a14e8e8decc0f02f" y2="500" gradientUnits="userSpaceOnUse" x2="262.61" y1="381.51" x1="262.61">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_a34472d468d57214a14e8e8decc0f02f)" clip-rule="evenodd" d="m236.68 500c-14.209-25.003 21.872-42.867 22.78-68.352.733-20.021-11.264-25.791-13.661-50.136 104.04 30.12.64 87.05-9.12 118.49z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_c100375608752b24c9877890fa736336" y2="472.25" gradientUnits="userSpaceOnUse" x2="134.63" y1="371.95" x1="192.54">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_c100375608752b24c9877890fa736336)" clip-rule="evenodd" d="m115.87 461.42c-5.911-28.385 35.336-28.111 48.406-43.732 18.325-21.883 1.5-33.814 17.285-52.084 59.02 44.44-10.23 79.61-65.69 95.81z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_3a94cdb58ba378a44d21c7addfc6dcbe" y2="29.559" gradientUnits="userSpaceOnUse" x2="354.91" y1="129.88" x1="296.99">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_3a94cdb58ba378a44d21c7addfc6dcbe)" clip-rule="evenodd" d="m373.68 40.393c5.879 28.396-35.336 28.111-48.428 43.721-18.314 21.86-1.5 33.803-17.274 52.106-59.02-44.454 10.23-79.637 65.7-95.827z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_366bc29694dbefd4ad9eafd1b541d414" y2="113.89" gradientUnits="userSpaceOnUse" x2="452" y1="172.64" x1="350.25">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_366bc29694dbefd4ad9eafd1b541d414)" clip-rule="evenodd" d="m464.81 136.07c-17.602 18.708-44.345 2.036-63.818 9.129-23.591 8.56-22.179 33.289-45.55 36.43-24.48-70.01 64.69-63.67 109.37-45.56z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_bb022e449a4a0cd42d0740d4b23bce51" y2="385.52" gradientUnits="userSpaceOnUse" x2="36.863" y1="326.76" x1="138.64">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_bb022e449a4a0cd42d0740d4b23bce51)" clip-rule="evenodd" d="m24.061 363.34c17.581-18.676 44.334-2.069 63.819-9.108 23.579-8.593 22.145-33.321 45.56-36.474 24.47 70.04-64.728 63.69-109.38 45.58z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_9a11770abb32d344cd8f62aab6cd94ea" y2="235.41" gradientUnits="userSpaceOnUse" x2="492.14" y1="235.41" x1="378.21">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_9a11770abb32d344cd8f62aab6cd94ea)" clip-rule="evenodd" d="m492.14 263.67c-39.562-12.315-69.884-41.762-113.93-13.662 9.11-87.36 94.77-19.48 113.93 13.66z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_79e203ec6e44487445dcc03758274da2" y2="266.17" gradientUnits="userSpaceOnUse" x2="0" y1="266.17" x1="113.92">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_79e203ec6e44487445dcc03758274da2)" clip-rule="evenodd" d="m0 237.9c39.561 12.337 69.883 41.794 113.92 13.694-9.12 87.36-94.763 19.46-113.92-13.69z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_a13dd43cbe23b9f47dcf46059a809399" y2="139.99" gradientUnits="userSpaceOnUse" x2="20.339" y1="199.24" x1="122.96">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_a13dd43cbe23b9f47dcf46059a809399)" clip-rule="evenodd" d="m32.145 119.54c30.809.733 24.581 35.883 47.832 53.901 23.25 18.073 30.278-3.164 50.234 13.235-56.418 68.25-82.504-30.73-98.065-67.14z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_99ec427507cad664a5cab5ad88070972" y2="360.89" gradientUnits="userSpaceOnUse" x2="469.78" y1="301.65" x1="367.18">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_99ec427507cad664a5cab5ad88070972)" clip-rule="evenodd" d="m457.98 381.34c-30.815-.734-24.543-35.873-47.805-53.935-23.251-18.029-30.3 3.164-50.245-13.202 56.38-68.25 82.48 30.74 98.04 67.14z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_946b3914ff7188e4191d1f43f6e49d4d" y2="451.37" gradientUnits="userSpaceOnUse" x2="382" y1="355.02" x1="326.37">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_946b3914ff7188e4191d1f43f6e49d4d)" clip-rule="evenodd" d="m358.68 464.84c-18.237-10.629-4.214-55.183-13.65-72.938-9.479-17.745-26.622-12.885-31.932-27.345 24.564-24.258 52.063-7.379 59.255 13.684 9.33 27.37-16.64 62.08-13.68 86.6z" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_dec0959aa1ce9f74116a05f34d499b06" y2="50.027" gradientUnits="userSpaceOnUse" x2="107.21" y1="146.37" x1="162.83">
+  <stop stop-color="#FFCF01" offset=".0056"/>
+  <stop stop-color="#F8BC0D" offset=".4715"/>
+  <stop stop-color="#EEA11E" offset="1"/>
+ </linearGradient>
+ <path fill="url(#ian_symbols_dec0959aa1ce9f74116a05f34d499b06)" clip-rule="evenodd" d="m130.53 36.562c18.237 10.641 4.192 55.171 13.661 72.905 9.48 17.745 26.611 12.884 31.932 27.355-24.586 24.269-52.095 7.367-59.266-13.683-9.33-27.324 16.64-62.091 13.68-86.578z" fill-rule="evenodd"/>
+ <radialGradient id="ian_symbols_9f90223c0f21c6149deb73f323b13009" fx="288.32" fy="227.24" gradientUnits="userSpaceOnUse" cy="250.5" cx="244.59" r="103.56">
+  <stop stop-color="#EEA11E" offset="0"/>
+  <stop stop-color="#F3AF15" offset=".3767"/>
+  <stop stop-color="#FFCF01" offset="1"/>
+ </radialGradient>
+ <path fill="url(#ian_symbols_9f90223c0f21c6149deb73f323b13009)" clip-rule="evenodd" d="m348.15 250.5c0 57.164-46.382 103.56-103.57 103.56-57.208 0-103.56-46.392-103.56-103.56 0-57.208 46.348-103.57 103.56-103.57 57.19.01 103.57 46.37 103.57 103.57z" fill-rule="evenodd"/>
+</svg>

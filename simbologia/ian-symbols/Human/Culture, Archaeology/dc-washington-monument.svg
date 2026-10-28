@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="82" height="501" viewBox="0 0 82 501" xml:space="preserve">
+            <title>DC Washington Monument</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>DC Washington Monument</ian_image_library:title>
+                <ian_image_library:descr>Illustration of the Washington Monument in D.C.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, washington, monument, D.C. historical, resource</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fd22324e9f0d0bb465f4cd42975ea69f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>DC Washington Monument</dc:title>
+                <dc:date>2004-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/dc-washington-monument/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/dc-washington-monument/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, washington, monument, D.C. historical, resource</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of the Washington Monument in D.C.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="0 489.84 22.474 500 35.101 53.369 25.288 53.369" fill="#D5C8BF"/>
+ <polygon points="61.791 51.956 35.101 53.369 22.474 500 81.461 498.6" fill="#AFA194"/>
+ <linearGradient id="ian_symbols_fb4fc655364ea344d5ced411fb5cd0c6" y2="26.684" gradientUnits="userSpaceOnUse" x2="61.791" y1="26.684" x1="25.288">
+  <stop stop-color="#D5C8BF" offset=".1517"/>
+  <stop stop-color="#BAACA0" offset=".6945"/>
+  <stop stop-color="#AFA194" offset="1"/>
+ </linearGradient>
+ <polygon points="25.288 53.369 42.839 0 61.791 51.956 35.101 53.369" fill="url(#ian_symbols_fb4fc655364ea344d5ced411fb5cd0c6)"/>
+</svg>

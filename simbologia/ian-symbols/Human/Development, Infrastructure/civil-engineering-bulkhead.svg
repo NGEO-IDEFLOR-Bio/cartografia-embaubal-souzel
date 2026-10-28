@@ -1,0 +1,106 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="106" viewBox="0 0 501 106" xml:space="preserve">
+            <title>Civil Engineering: bulkhead</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Civil Engineering: bulkhead</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a bulkhead</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, bulkhead, retaining, retention, wall, barrier, bulwark</ian_image_library:contains>
+                    <ian_image_library:when>2007-10-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-67f1c6e880e095448181b470ae6621ec">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Civil Engineering: bulkhead</dc:title>
+                <dc:date>2007-10-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/civil-engineering-bulkhead/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/civil-engineering-bulkhead/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, bulkhead, retaining, retention, wall, barrier, bulwark</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a bulkhead</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_009921f4fc281754452969b9b0532252" y2="11.958" gradientUnits="userSpaceOnUse" x2="250.08" y1="83.225" x1="250.08">
+  <stop stop-color="#B3B39C" offset=".1236"/>
+  <stop stop-color="#8A8C7A" offset=".1742"/>
+  <stop stop-color="#B3B39C" offset=".2247"/>
+  <stop stop-color="#B3B39C" offset=".7865"/>
+  <stop stop-color="#878977" offset=".8371"/>
+  <stop stop-color="#B3B39C" offset=".8933"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="71.267" width="500" stroke="#6C491C" y="11.958" x=".075" stroke-width=".15" fill="url(#ian_symbols_009921f4fc281754452969b9b0532252)"/>
+ <linearGradient id="ian_symbols_4cfcbb46b26e25c45de6c553f041dc91" y2="52.45" gradientUnits="userSpaceOnUse" x2="44.358" y1="52.45" x1="25.997">
+  <stop stop-color="#8A8C7A" offset=".0056"/>
+  <stop stop-color="#8A8C7A" offset=".0899"/>
+  <stop stop-color="#B3B39C" offset=".1854"/>
+ </linearGradient>
+ <rect height="104.75" width="18.361" stroke="#8A8C7A" y=".075" x="25.997" stroke-width=".15" fill="url(#ian_symbols_4cfcbb46b26e25c45de6c553f041dc91)"/>
+ <linearGradient id="ian_symbols_5bf46951968a4de45de84b606415dfac" y2="52.45" gradientUnits="userSpaceOnUse" x2="154.51" y1="52.45" x1="136.15">
+  <stop stop-color="#8A8C7A" offset=".0056"/>
+  <stop stop-color="#8A8C7A" offset=".0899"/>
+  <stop stop-color="#B3B39C" offset=".1854"/>
+ </linearGradient>
+ <rect height="104.75" width="18.361" stroke="#8A8C7A" y=".075" x="136.15" stroke-width=".15" fill="url(#ian_symbols_5bf46951968a4de45de84b606415dfac)"/>
+ <linearGradient id="ian_symbols_d36c317f54f6d904e1a748ad69f3a90f" y2="52.45" gradientUnits="userSpaceOnUse" x2="264.66" y1="52.45" x1="246.29">
+  <stop stop-color="#8A8C7A" offset=".0056"/>
+  <stop stop-color="#8A8C7A" offset=".0899"/>
+  <stop stop-color="#B3B39C" offset=".1854"/>
+ </linearGradient>
+ <rect height="104.75" width="18.36" stroke="#8A8C7A" y=".075" x="246.3" stroke-width=".15" fill="url(#ian_symbols_d36c317f54f6d904e1a748ad69f3a90f)"/>
+ <linearGradient id="ian_symbols_8ed5aa9649ab0c04d176f924e7371876" y2="52.45" gradientUnits="userSpaceOnUse" x2="374.8" y1="52.45" x1="356.45">
+  <stop stop-color="#8A8C7A" offset=".0056"/>
+  <stop stop-color="#8A8C7A" offset=".0899"/>
+  <stop stop-color="#B3B39C" offset=".1854"/>
+ </linearGradient>
+ <rect height="104.75" width="18.35" stroke="#8A8C7A" y=".075" x="356.45" stroke-width=".15" fill="url(#ian_symbols_8ed5aa9649ab0c04d176f924e7371876)"/>
+</svg>

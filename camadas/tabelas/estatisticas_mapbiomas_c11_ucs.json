@@ -1,0 +1,492 @@
+[
+  {
+    "unidade": "Reserva de Desenvolvimento Sustentável Vitória de Souzel",
+    "categoria": "RDS",
+    "total_pixels": 257445,
+    "anos": {
+      "1985": {
+        "ano": 1985,
+        "area_total_ha": 22987.64,
+        "classes": [
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 142891,
+            "area_ha": 12758.95,
+            "percentual": 55.5
+          },
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 78956,
+            "area_ha": 7050.1,
+            "percentual": 30.67
+          },
+          {
+            "id": 11,
+            "nome": "Campo Alagado e Área Pantanosa",
+            "hex": "#519799",
+            "pixels": 32095,
+            "area_ha": 2865.81,
+            "percentual": 12.47
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 3264,
+            "area_ha": 291.45,
+            "percentual": 1.27
+          },
+          {
+            "id": 3,
+            "nome": "Formação Florestal",
+            "hex": "#1f8d49",
+            "pixels": 206,
+            "area_ha": 18.39,
+            "percentual": 0.08
+          },
+          {
+            "id": 4,
+            "nome": "Formação Savânica",
+            "hex": "#7dc975",
+            "pixels": 33,
+            "area_ha": 2.95,
+            "percentual": 0.01
+          }
+        ]
+      },
+      "1995": {
+        "ano": 1995,
+        "area_total_ha": 22987.64,
+        "classes": [
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 123108,
+            "area_ha": 10992.49,
+            "percentual": 47.82
+          },
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 99185,
+            "area_ha": 8856.37,
+            "percentual": 38.53
+          },
+          {
+            "id": 11,
+            "nome": "Campo Alagado e Área Pantanosa",
+            "hex": "#519799",
+            "pixels": 28340,
+            "area_ha": 2530.52,
+            "percentual": 11.01
+          },
+          {
+            "id": 15,
+            "nome": "Pastagem",
+            "hex": "#edde8e",
+            "pixels": 3352,
+            "area_ha": 299.3,
+            "percentual": 1.3
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 2838,
+            "area_ha": 253.41,
+            "percentual": 1.1
+          },
+          {
+            "id": 12,
+            "nome": "Formação Campestre",
+            "hex": "#d6bc74",
+            "pixels": 415,
+            "area_ha": 37.06,
+            "percentual": 0.16
+          },
+          {
+            "id": 3,
+            "nome": "Formação Florestal",
+            "hex": "#1f8d49",
+            "pixels": 207,
+            "area_ha": 18.48,
+            "percentual": 0.08
+          }
+        ]
+      },
+      "2005": {
+        "ano": 2005,
+        "area_total_ha": 22987.64,
+        "classes": [
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 123743,
+            "area_ha": 11049.19,
+            "percentual": 48.07
+          },
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 95941,
+            "area_ha": 8566.71,
+            "percentual": 37.27
+          },
+          {
+            "id": 11,
+            "nome": "Campo Alagado e Área Pantanosa",
+            "hex": "#519799",
+            "pixels": 23372,
+            "area_ha": 2086.92,
+            "percentual": 9.08
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 7076,
+            "area_ha": 631.83,
+            "percentual": 2.75
+          },
+          {
+            "id": 15,
+            "nome": "Pastagem",
+            "hex": "#edde8e",
+            "pixels": 6589,
+            "area_ha": 588.34,
+            "percentual": 2.56
+          },
+          {
+            "id": 12,
+            "nome": "Formação Campestre",
+            "hex": "#d6bc74",
+            "pixels": 518,
+            "area_ha": 46.25,
+            "percentual": 0.2
+          },
+          {
+            "id": 3,
+            "nome": "Formação Florestal",
+            "hex": "#1f8d49",
+            "pixels": 206,
+            "area_ha": 18.39,
+            "percentual": 0.08
+          }
+        ]
+      },
+      "2015": {
+        "ano": 2015,
+        "area_total_ha": 22987.64,
+        "classes": [
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 120506,
+            "area_ha": 10760.16,
+            "percentual": 46.81
+          },
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 92642,
+            "area_ha": 8272.14,
+            "percentual": 35.99
+          },
+          {
+            "id": 11,
+            "nome": "Campo Alagado e Área Pantanosa",
+            "hex": "#519799",
+            "pixels": 27996,
+            "area_ha": 2499.8,
+            "percentual": 10.87
+          },
+          {
+            "id": 15,
+            "nome": "Pastagem",
+            "hex": "#edde8e",
+            "pixels": 13357,
+            "area_ha": 1192.67,
+            "percentual": 5.19
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 2220,
+            "area_ha": 198.23,
+            "percentual": 0.86
+          },
+          {
+            "id": 12,
+            "nome": "Formação Campestre",
+            "hex": "#d6bc74",
+            "pixels": 518,
+            "area_ha": 46.25,
+            "percentual": 0.2
+          },
+          {
+            "id": 3,
+            "nome": "Formação Florestal",
+            "hex": "#1f8d49",
+            "pixels": 206,
+            "area_ha": 18.39,
+            "percentual": 0.08
+          }
+        ]
+      },
+      "2024": {
+        "ano": 2024,
+        "area_total_ha": 22987.64,
+        "classes": [
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 123893,
+            "area_ha": 11062.59,
+            "percentual": 48.12
+          },
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 92489,
+            "area_ha": 8258.48,
+            "percentual": 35.93
+          },
+          {
+            "id": 11,
+            "nome": "Campo Alagado e Área Pantanosa",
+            "hex": "#519799",
+            "pixels": 29066,
+            "area_ha": 2595.35,
+            "percentual": 11.29
+          },
+          {
+            "id": 15,
+            "nome": "Pastagem",
+            "hex": "#edde8e",
+            "pixels": 9158,
+            "area_ha": 817.73,
+            "percentual": 3.56
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 2010,
+            "area_ha": 179.48,
+            "percentual": 0.78
+          },
+          {
+            "id": 12,
+            "nome": "Formação Campestre",
+            "hex": "#d6bc74",
+            "pixels": 490,
+            "area_ha": 43.75,
+            "percentual": 0.19
+          },
+          {
+            "id": 3,
+            "nome": "Formação Florestal",
+            "hex": "#1f8d49",
+            "pixels": 271,
+            "area_ha": 24.2,
+            "percentual": 0.11
+          },
+          {
+            "id": 4,
+            "nome": "Formação Savânica",
+            "hex": "#7dc975",
+            "pixels": 55,
+            "area_ha": 4.91,
+            "percentual": 0.02
+          },
+          {
+            "id": 25,
+            "nome": "Outras Áreas não Vegetadas",
+            "hex": "#db4d4f",
+            "pixels": 13,
+            "area_ha": 1.16,
+            "percentual": 0.01
+          }
+        ]
+      }
+    }
+  },
+  {
+    "unidade": "Refúgio de Vida Silvestre Tabuleiro do Embaubal (REVIS)",
+    "categoria": "REVIS",
+    "total_pixels": 45197,
+    "anos": {
+      "1985": {
+        "ano": 1985,
+        "area_total_ha": 4033.94,
+        "classes": [
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 33471,
+            "area_ha": 2987.37,
+            "percentual": 74.06
+          },
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 9916,
+            "area_ha": 885.03,
+            "percentual": 21.94
+          },
+          {
+            "id": 11,
+            "nome": "Campo Alagado e Área Pantanosa",
+            "hex": "#519799",
+            "pixels": 1693,
+            "area_ha": 151.1,
+            "percentual": 3.75
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 117,
+            "area_ha": 10.44,
+            "percentual": 0.26
+          }
+        ]
+      },
+      "1995": {
+        "ano": 1995,
+        "area_total_ha": 4033.94,
+        "classes": [
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 36958,
+            "area_ha": 3298.59,
+            "percentual": 81.77
+          },
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 8216,
+            "area_ha": 733.3,
+            "percentual": 18.18
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 12,
+            "area_ha": 1.07,
+            "percentual": 0.03
+          },
+          {
+            "id": 15,
+            "nome": "Pastagem",
+            "hex": "#edde8e",
+            "pixels": 11,
+            "area_ha": 0.98,
+            "percentual": 0.02
+          }
+        ]
+      },
+      "2005": {
+        "ano": 2005,
+        "area_total_ha": 4033.94,
+        "classes": [
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 36502,
+            "area_ha": 3257.89,
+            "percentual": 80.76
+          },
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 8695,
+            "area_ha": 776.05,
+            "percentual": 19.24
+          }
+        ]
+      },
+      "2015": {
+        "ano": 2015,
+        "area_total_ha": 4033.94,
+        "classes": [
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 36172,
+            "area_ha": 3228.44,
+            "percentual": 80.03
+          },
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 9025,
+            "area_ha": 805.5,
+            "percentual": 19.97
+          }
+        ]
+      },
+      "2024": {
+        "ano": 2024,
+        "area_total_ha": 4033.94,
+        "classes": [
+          {
+            "id": 33,
+            "nome": "Rio, Lago e Oceano",
+            "hex": "#2532e4",
+            "pixels": 36293,
+            "area_ha": 3239.24,
+            "percentual": 80.3
+          },
+          {
+            "id": 6,
+            "nome": "Floresta Alagável",
+            "hex": "#007785",
+            "pixels": 8783,
+            "area_ha": 783.9,
+            "percentual": 19.43
+          },
+          {
+            "id": 15,
+            "nome": "Pastagem",
+            "hex": "#edde8e",
+            "pixels": 102,
+            "area_ha": 9.1,
+            "percentual": 0.23
+          },
+          {
+            "id": 21,
+            "nome": "Mosaico de Usos",
+            "hex": "#ffefc3",
+            "pixels": 19,
+            "area_ha": 1.7,
+            "percentual": 0.04
+          }
+        ]
+      }
+    }
+  }
+]

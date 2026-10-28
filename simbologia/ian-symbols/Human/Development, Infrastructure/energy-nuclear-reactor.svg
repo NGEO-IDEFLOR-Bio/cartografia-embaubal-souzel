@@ -1,0 +1,230 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="372" height="501" viewBox="0 0 372 501" xml:space="preserve">
+            <title>Energy: nuclear reactor</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Energy: nuclear reactor</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a nuclear power station</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, energy, nuclear, reactor</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7a20367bac132854513f8e0c540173d8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Energy: nuclear reactor</dc:title>
+                <dc:date>2005-02-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/energy-nuclear-reactor/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/energy-nuclear-reactor/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, energy, nuclear, reactor</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a nuclear power station</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_a2b6c006204dcdf459c750f8dca095b0" gradientUnits="userSpaceOnUse" x1="93.0786" y1="82.334" x2="275.1556" y2="33.5466">
+	<stop  offset="0.0787" style="stop-color:#E9E7E2"/>
+	<stop  offset="1" style="stop-color:#B6B29E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_a2b6c006204dcdf459c750f8dca095b0)" stroke="#525A44" stroke-width="0.3307" stroke-linejoin="round" d="M280.442,57.933
+	c0,31.912-43.134,57.785-96.339,57.785c-53.187,0-96.312-25.873-96.312-57.785c0-31.875,43.125-57.767,96.312-57.767
+	C237.308,0.166,280.442,26.058,280.442,57.933z"/>
+<linearGradient id="ian_symbols_45cebe5dd4674324f974424a15918931" gradientUnits="userSpaceOnUse" x1="133.894" y1="108.1089" x2="235.0117" y2="6.9912">
+	<stop  offset="0.0899" style="stop-color:#888E7E"/>
+	<stop  offset="0.7303" style="stop-color:#B6B29E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_45cebe5dd4674324f974424a15918931)" stroke="#525A44" stroke-width="0.3307" d="M272.833,57.549c0,27.114-39.585,49.1-88.384,49.1
+	c-48.808,0-88.375-21.986-88.375-49.1S135.642,8.45,184.45,8.45C233.249,8.45,272.833,30.436,272.833,57.549z"/>
+<linearGradient id="ian_symbols_a60a4e6d527ae4d4f510bec3629c8a80" gradientUnits="userSpaceOnUse" x1="-21.5762" y1="327.209" x2="327.5296" y2="233.6664">
+	<stop  offset="0.0787" style="stop-color:#E9E7E2"/>
+	<stop  offset="0.5843" style="stop-color:#B6B29E"/>
+	<stop  offset="1" style="stop-color:#9F9F91"/>
+</linearGradient>
+<path fill="url(#ian_symbols_a60a4e6d527ae4d4f510bec3629c8a80)" stroke="#525A44" stroke-width="0.3307" stroke-linejoin="round" d="M280.442,57.933
+	c0,31.912-43.134,57.785-96.339,57.785c-53.187,0-96.312-25.873-96.312-57.785c0,0,2.244,94.04-2.29,110.662
+	c-4.543,16.622-8.676,38.846-11.695,50.906c-3.038,12.097-29.103,68.44-38.162,88.073S9.963,354.412,5.429,371.052
+	c-4.534,16.604-5.264,30.233-5.264,30.233c0,54.41,83.028,98.547,185.434,98.547c102.405,0,185.434-44.137,185.434-98.547
+	c0,0-9.059-19.669-15.107-34.776c-6.039-15.126-51.773-118.252-56.289-134.856c-4.534-16.622-11.294-38.791-16.229-58.479
+	C278.48,153.487,280.442,57.933,280.442,57.933z"/>
+<linearGradient id="ian_symbols_063889682a46a0c49d3e0cd75b68e8a2" gradientUnits="userSpaceOnUse" x1="153.7485" y1="478.7334" x2="176.1167" y2="472.7399">
+	<stop  offset="0.1685" style="stop-color:#747A68"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_063889682a46a0c49d3e0cd75b68e8a2)" d="M159.763,451.736l-0.629,47.093c3.886,0.292,7.818,0.491,11.769,0.693l-0.237-47.13
+	C167.006,452.228,163.357,452.009,159.763,451.736z"/>
+<linearGradient id="ian_symbols_a3f147d03284fd64a538ea1e81a41aa6" gradientUnits="userSpaceOnUse" x1="125.3306" y1="476.748" x2="152.4274" y2="469.4875">
+	<stop  offset="0.1685" style="stop-color:#747A68"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_a3f147d03284fd64a538ea1e81a41aa6)" d="M135.04,448.725l-4.717,46.655c4.379,0.712,8.831,1.351,13.338,1.88l3.667-46.802
+	C143.177,449.948,139.081,449.382,135.04,448.725z"/>
+<linearGradient id="ian_symbols_19f65843ee7d8214657706826897b618" gradientUnits="userSpaceOnUse" x1="98.7813" y1="472.3438" x2="127.7312" y2="464.5866">
+	<stop  offset="0.1685" style="stop-color:#747A68"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_19f65843ee7d8214657706826897b618)" d="M110.553,443.489l-7.134,46.162c4.635,1.203,9.388,2.336,14.223,3.339l5.218-46.582
+	C118.682,445.515,114.567,444.547,110.553,443.489z"/>
+<linearGradient id="ian_symbols_a865dad427c8d5844db9e79ce9e79d59" gradientUnits="userSpaceOnUse" x1="75.1211" y1="465.4033" x2="104.754" y2="457.4632">
+	<stop  offset="0.1685" style="stop-color:#747A68"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_a865dad427c8d5844db9e79ce9e79d59)" d="M87.956,436.3l-8.357,45.814c4.124,1.534,8.357,2.975,12.727,4.345l7.882-45.963
+	C96.002,439.183,91.924,437.796,87.956,436.3z"/>
+<linearGradient id="ian_symbols_eb286c6193f41c1431d4841cdad1fad6" gradientUnits="userSpaceOnUse" x1="52.1836" y1="456.9775" x2="82.9314" y2="448.7387">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_eb286c6193f41c1431d4841cdad1fad6)" d="M68.843,427.906l-12.681,43.919c3.74,1.934,7.627,3.813,11.678,5.564l10.737-44.903
+	C75.211,431.026,71.99,429.494,68.843,427.906z"/>
+<linearGradient id="ian_symbols_ded4bd6a7bf1eff4f9cc450e60ba82d5" gradientUnits="userSpaceOnUse" x1="33.582" y1="446.5811" x2="65.3005" y2="438.0821">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_ded4bd6a7bf1eff4f9cc450e60ba82d5)" d="M51.299,417.434l-14.003,43.006c3.284,2.316,6.769,4.579,10.437,6.75l13.776-43.261
+	C57.923,421.867,54.52,419.695,51.299,417.434z"/>
+<linearGradient id="ian_symbols_d5c392f32cd840b41df0ab34830f27df" gradientUnits="userSpaceOnUse" x1="18.5542" y1="435.4697" x2="49.3445" y2="427.2195">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_d5c392f32cd840b41df0ab34830f27df)" d="M37.779,406.395l-16.02,41.035c2.919,2.938,6.122,5.802,9.579,8.539l14.25-42.769
+	C42.806,411.011,40.188,408.73,37.779,406.395z"/>
+<linearGradient id="ian_symbols_91dc7800710b303435e31dfa0c17956e" gradientUnits="userSpaceOnUse" x1="6.9937" y1="421.9375" x2="36.5662" y2="414.0136">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_91dc7800710b303435e31dfa0c17956e)" d="M26.604,393.075L9.909,432.814c2.171,3.394,4.671,6.714,7.49,9.944l15.865-41.072
+	C30.773,398.913,28.547,396.013,26.604,393.075z"/>
+<linearGradient id="ian_symbols_8b9a66250fd5d0148192b042a2506614" gradientUnits="userSpaceOnUse" x1="179.9976" y1="479.1328" x2="201.6734" y2="473.3248">
+	<stop  offset="0.1685" style="stop-color:#747A68"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_8b9a66250fd5d0148192b042a2506614)" d="M185.097,452.739c-0.027,0-0.036,0-0.073,0l0.52,47.093c0.018,0,0.027,0,0.055,0
+	c3.805,0,7.572-0.072,11.313-0.183l-0.803-47.093C192.459,452.648,188.792,452.739,185.097,452.739z"/>
+<linearGradient id="ian_symbols_1e07922547b6dfc4a9c5bca31f0ee50c" gradientUnits="userSpaceOnUse" x1="208.2017" y1="477.1846" x2="227.2306" y2="472.0858">
+	<stop  offset="0.1685" style="stop-color:#747A68"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_1e07922547b6dfc4a9c5bca31f0ee50c)" d="M210.779,451.718l3.184,46.966c3.439-0.274,6.843-0.62,10.227-1.006l-2.709-47.055
+	C217.95,451.043,214.382,451.426,210.779,451.718z"/>
+<linearGradient id="ian_symbols_1b899e157fad9264fd950b798fbc1f39" gradientUnits="userSpaceOnUse" x1="234.1841" y1="473.4824" x2="250.9326" y2="468.9947">
+	<stop  offset="0.2022" style="stop-color:#838776"/>
+	<stop  offset="0.9045" style="stop-color:#9F9F91"/>
+</linearGradient>
+<path fill="url(#ian_symbols_1b899e157fad9264fd950b798fbc1f39)" d="M235.209,448.725l4.872,46.766c3.403-0.53,6.77-1.168,10.09-1.807l-5.163-46.801
+	C241.779,447.521,238.522,448.142,235.209,448.725z"/>
+<linearGradient id="ian_symbols_897669da0f9f5d3421107957a8313cc1" gradientUnits="userSpaceOnUse" x1="253.8647" y1="469.1104" x2="267.3693" y2="465.4918">
+	<stop  offset="0.1685" style="stop-color:#909383"/>
+	<stop  offset="0.9045" style="stop-color:#9F9F91"/>
+</linearGradient>
+<path fill="url(#ian_symbols_897669da0f9f5d3421107957a8313cc1)" d="M251.741,445.439l8.146,46.146c3.111-0.712,6.149-1.496,9.16-2.3l-7.7-46.271
+	C258.191,443.854,254.998,444.674,251.741,445.439z"/>
+<linearGradient id="ian_symbols_1e41bc43c6ca26a4212a59adf3f14c89" gradientUnits="userSpaceOnUse" x1="270.9575" y1="464.2412" x2="282.4453" y2="461.1631">
+	<stop  offset="0.2022" style="stop-color:#838776"/>
+	<stop  offset="0.9045" style="stop-color:#9F9F91"/>
+</linearGradient>
+<path fill="url(#ian_symbols_1e41bc43c6ca26a4212a59adf3f14c89)" d="M267.459,441.281l9.598,45.725c3.284-1.005,6.505-2.044,9.688-3.139l-10.4-45.469
+	C273.435,439.401,270.479,440.369,267.459,441.281z"/>
+<linearGradient id="ian_symbols_7a31940406c8e7f4d988cf674894febe" gradientUnits="userSpaceOnUse" x1="321.9497" y1="438.3105" x2="338.2308" y2="433.948">
+	<stop  offset="0.0843" style="stop-color:#7E8473"/>
+	<stop  offset="0.8427" style="stop-color:#969785"/>
+</linearGradient>
+<path fill="url(#ian_symbols_7a31940406c8e7f4d988cf674894febe)" d="M316.742,418.875l18.857,40.305c2.719-1.971,5.319-4.013,7.755-6.111l-18.538-40.051
+	C322.271,415.024,319.57,416.995,316.742,418.875z"/>
+<linearGradient id="ian_symbols_001ee3568f0c1b144dbf8e1ab4fd436c" gradientUnits="userSpaceOnUse" x1="306.5669" y1="449" x2="320.7417" y2="445.2019">
+	<stop  offset="0.2022" style="stop-color:#838776"/>
+	<stop  offset="0.9045" style="stop-color:#9F9F91"/>
+</linearGradient>
+<path fill="url(#ian_symbols_001ee3568f0c1b144dbf8e1ab4fd436c)" d="M300.959,428.07l16.878,42.277c2.892-1.569,5.674-3.193,8.347-4.836l-18.009-41.31
+	C305.849,425.534,303.432,426.83,300.959,428.07z"/>
+<linearGradient id="ian_symbols_6409cb6ca0139d94792f9aaf22228280" gradientUnits="userSpaceOnUse" x1="289.9771" y1="457.416" x2="300.2891" y2="454.6529">
+	<stop  offset="0.2022" style="stop-color:#838776"/>
+	<stop  offset="0.9045" style="stop-color:#9F9F91"/>
+</linearGradient>
+<path fill="url(#ian_symbols_6409cb6ca0139d94792f9aaf22228280)" d="M284.119,435.552l12.79,44.537c3.147-1.257,6.167-2.554,9.15-3.902l-14.04-43.847
+	C289.456,433.453,286.809,434.529,284.119,435.552z"/>
+<linearGradient id="ian_symbols_81937af2a562e5a45192a0410f9a4d93" gradientUnits="userSpaceOnUse" x1="338.5181" y1="424.0244" x2="353.5371" y2="420.0001">
+	<stop  offset="0.1685" style="stop-color:#747A68"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_81937af2a562e5a45192a0410f9a4d93)" d="M338.656,399.661c-1.615,1.935-3.321,3.796-5.154,5.639l18.537,39.43
+	c2.245-2.408,4.279-4.872,6.141-7.407L338.656,399.661z"/>
+<linearGradient id="ian_symbols_0775c99ee529e014714f6e6e406d59b8" gradientUnits="userSpaceOnUse" x1="347.0308" y1="409.7139" x2="363.5322" y2="405.2923">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_0775c99ee529e014714f6e6e406d59b8)" d="M347.989,385.339c-1.424,2.992-3.139,5.948-5.118,8.849l20.417,35.288
+	c1.688-3.011,3.12-6.094,4.261-9.196L347.989,385.339z"/>
+<linearGradient id="ian_symbols_606fd2ce3eb17964bdc7475465b60a05" gradientUnits="userSpaceOnUse" x1="354.7876" y1="393.2627" x2="367.1546" y2="389.949">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_606fd2ce3eb17964bdc7475465b60a05)" d="M352.705,369.209c-0.364,3.047-1.013,6.039-1.952,8.995l18.693,35.744
+	c0.803-3.303,1.277-6.623,1.46-9.999L352.705,369.209z"/>
+<linearGradient id="ian_symbols_123836666c7df6c4253e26f8052ebaf3" gradientUnits="userSpaceOnUse" x1="-0.2876" y1="406.5674" x2="26.7692" y2="399.3175">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_123836666c7df6c4253e26f8052ebaf3)" d="M20.154,380.339L2.145,415.646c0.939,3.412,2.189,6.751,3.758,10.017l17.991-37.076
+	C22.407,385.886,21.148,383.149,20.154,380.339z"/>
+<linearGradient id="ian_symbols_226811e4683bc4a475f65493e0e392e3" gradientUnits="userSpaceOnUse" x1="-3.7441" y1="390.5898" x2="21.4987" y2="383.826">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_226811e4683bc4a475f65493e0e392e3)" d="M17.362,368.388L0.795,394.79c-0.502,4.051-0.629,6.495-0.629,6.495
+	c0,1.588,0.091,3.175,0.228,4.744l17.899-32.095C17.882,372.11,17.563,370.23,17.362,368.388z"/>
+<linearGradient id="ian_symbols_7896055dd366b9b441c23826af20bd05" gradientUnits="userSpaceOnUse" x1="-1.3188" y1="369.4453" x2="22.85" y2="362.9693">
+	<stop  offset="0.0787" style="stop-color:#525A44"/>
+	<stop  offset="0.9045" style="stop-color:#888E7E"/>
+</linearGradient>
+<path fill="url(#ian_symbols_7896055dd366b9b441c23826af20bd05)" d="M19.022,348.683L4.882,373.114c-0.967,3.776-1.761,7.353-2.372,10.618l15.272-27.021
+	C18.064,354.448,18.466,351.729,19.022,348.683z"/>
+</svg>

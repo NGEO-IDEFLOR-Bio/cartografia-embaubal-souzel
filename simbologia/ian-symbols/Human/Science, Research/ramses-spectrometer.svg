@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="110" height="501" viewBox="0 0 110 501" xml:space="preserve">
+            <title>Ramses spectrometer</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Ramses spectrometer</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Ramses spectrometer</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, ramses, spectrometer</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-eb54b831b86681a4cd7276a1cd4b3504">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Ramses spectrometer</dc:title>
+                <dc:date>2003-11-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/ramses-spectrometer/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/ramses-spectrometer/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, ramses, spectrometer</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Ramses spectrometer</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect y="93.287" x="1.186" height="382.06" width="107.04" fill="#C7C8CA"/>
+ <path stroke="#939598" d="m108.5 92.601c0 15.719-24.169 28.447-53.956 28.447-29.854 0-54.044-12.73-54.044-28.449 0-15.73 24.19-28.458 54.042-28.458 29.788 0 53.958 12.728 53.958 28.458z" fill="#C7C8CA"/>
+ <path d="m109.29 471.56c0 15.72-24.19 28.447-53.979 28.447-29.852 0-54.031-12.728-54.031-28.447 0-15.74 24.18-28.458 54.031-28.458 29.791 0 53.979 12.72 53.979 28.46z" fill="#C7C8CA"/>
+ <path stroke="#E2E3E4" d="m66.187 96.375c0 3.721-5.704 6.723-12.76 6.723-7.066 0-12.792-3.002-12.792-6.723 0-3.731 5.726-6.734 12.792-6.734 7.056-.001 12.76 3.001 12.76 6.732z" fill="#C0C2C4"/>
+ <rect y="6.895" x="40.635" height="90.371" width="25.306" fill="#C0C2C4"/>
+ <path d="m66.026 6.734c0 3.721-5.726 6.723-12.781 6.723-7.066 0-12.76-3.002-12.76-6.723 0-3.71 5.693-6.734 12.76-6.734 7.055 0 12.781 3.023 12.781 6.734z" fill="#EDEDEE"/>
+</svg>

@@ -1,0 +1,91 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="512" height="512" viewBox="0 0 512 512" xml:space="preserve">
+            <title>Concentration; low phytoplankton</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration; low phytoplankton</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of a low concentration of phytoplankton</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, low, concentration, phytoplankton</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c188d34e5b18419475af162632440e01">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration; low phytoplankton</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-low-phytoplankton/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-low-phytoplankton/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, low, concentration, phytoplankton</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of a low concentration of phytoplankton</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="11.189" stroke-dasharray="33.566,33.566,33.566,33.566,33.566" d="m505.59 255.62c0 138.04-111.91 249.98-250.01 249.98-138.06 0-249.98-111.93-249.98-249.98 0-138.09 111.92-250.02 249.98-250.02 138.1-.006 250.01 111.93 250.01 250.02z" fill="#B9DA95"/>
+ <path d="m173.64 117.58c0 15.757-12.771 28.528-28.539 28.528-15.758 0-28.528-12.771-28.528-28.528 0-15.758 12.771-28.528 28.528-28.528 15.77.003 28.54 12.778 28.54 28.528z" fill="#00AA4F"/>
+ <path d="m346.89 85.729c0 15.758-12.781 28.528-28.539 28.528s-28.528-12.771-28.528-28.528c0-15.769 12.771-28.539 28.528-28.539s28.54 12.767 28.54 28.536z" fill="#00AA4F"/>
+ <path d="m220.99 423.11c0 15.757-12.771 28.527-28.528 28.527-15.774 0-28.539-12.771-28.539-28.527 0-15.758 12.765-28.528 28.539-28.528 15.76 0 28.53 12.77 28.53 28.53z" fill="#00AA4F"/>
+ <path stroke="#231F20" stroke-width="2.417" d="m306.3 203.32c-5.636-1.609-24.173-5.614-34.646-3.207-10.478 3.207-35.443 11.26-35.443 19.325-.799 8.065 18.526 35.455 20.944 58.807 1.62 22.564 0 61.236 0 64.465 0 3.206 13.7 9.641 25.781 8.842 11.282-.799 27.379-1.631 35.455-6.435 8.043-4.027 20.934-13.689 20.934-13.689s-12.891-16.929-18.526-31.428c-5.636-13.689-15.309-41.08-15.309-55.579-.79-15.32.83-41.1.83-41.1z" fill="#D3B6D7"/>
+ <path stroke="#231F20" stroke-width="2.417" d="m306.3 203.32c-5.636-1.609-24.173-5.614-34.646-3.207-10.478 3.207-35.443 11.26-35.443 19.325-.799 8.065 18.526 35.455 20.944 58.807 1.62 22.564 0 61.236 0 64.465 0 3.206 13.7 9.641 25.781 8.842 11.282-.799 27.379-1.631 35.455-6.435 8.043-4.027 20.934-13.689 20.934-13.689s-12.891-16.929-18.526-31.428c-5.636-13.689-15.309-41.08-15.309-55.579-.79-15.32.83-41.1.83-41.1z" fill="#D3B6D7"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m325.63 147.74c-4.826 9.663-64.448 106.34 40.291 216.7" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m325.63 147.74c-4.826 9.663-64.448 106.34 40.291 216.7" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m233 221.07s26.58-33.047 74.105-17.749" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m233 221.07s26.58-33.047 74.105-17.749" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m257.16 345.92s41.89 20.135 82.17-14.488" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m257.16 345.92s41.89 20.135 82.17-14.488" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m248.3 252.46s30.619 20.956 58.008-10.472" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m248.3 252.46s30.619 20.956 58.008-10.472" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m257.16 298.4s31.417 21.732 58.008-9.685" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m257.16 298.4s31.417 21.732 58.008-9.685" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m192.72 175.95c8.054 7.233 103.11 72.475 51.552 215.08" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.2227" d="m192.72 175.95c8.054 7.233 103.11 72.475 51.552 215.08" fill="none"/>
+</svg>

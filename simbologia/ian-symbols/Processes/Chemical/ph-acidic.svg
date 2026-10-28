@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="96" height="504" viewBox="0 0 96 504" xml:space="preserve">
+            <title>pH: acidic</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>pH: acidic</ian_image_library:title>
+                <ian_image_library:descr>Illustration of acidic pH</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, pH, acidic</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a21f0cd08d253c943d7ac45da7b23fc9">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>pH: acidic</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/ph-acidic/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/ph-acidic/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, pH, acidic</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of acidic pH</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect stroke-linejoin="round" height="500" width="92.277" stroke="#000" stroke-linecap="round" y="1.384" x="1.384" stroke-width="2.7674" fill="#FFE5C2"/>
+ <polygon stroke-linejoin="round" fill="#B11116" stroke="#000" stroke-linecap="round" stroke-width="1.6605" points="81.732 475.29 19.064 475.29 13.529 470.04 75.991 406.85 81.732 412.61"/>
+ <rect stroke-linejoin="round" height="62.688" width="62.678" stroke="#000" stroke-linecap="round" y="406.85" x="13.313" stroke-width="1.6605" fill="#CE181E"/>
+ <polygon stroke-linejoin="round" fill="#B11116" stroke="#000" stroke-linecap="round" stroke-width="1.6605" points="81.732 381 19.064 381 13.529 375.75 75.991 312.55 81.732 318.3"/>
+ <rect stroke-linejoin="round" height="62.689" width="62.678" stroke="#000" stroke-linecap="round" y="312.55" x="13.313" stroke-width="1.6605" fill="#CE181E"/>
+ <polygon stroke-linejoin="round" fill="#B11116" stroke="#000" stroke-linecap="round" stroke-width="1.6605" points="81.732 286.69 19.064 286.69 13.529 281.46 75.991 218.26 81.732 224.01"/>
+ <rect stroke-linejoin="round" height="62.678" width="62.678" stroke="#000" stroke-linecap="round" y="218.26" x="13.313" stroke-width="1.6605" fill="#CE181E"/>
+</svg>

@@ -1,0 +1,94 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="483" height="501" viewBox="0 0 483 501" xml:space="preserve">
+            <title>North Arrow 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>North Arrow 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a north arrow. Useful for maps.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>north, arrow, map, maps, mapping</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4bbfce23c1eb8a74095ca1cb7121905b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>North Arrow 1</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/north-arrow-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/north-arrow-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>north, arrow, map, maps, mapping</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a north arrow. Useful for maps.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#030303" points="266.668,93.196 234.294,218.012 107.977,252.958 234.294,283.721 266.668,406.036 302.419,283.721 
+	424.555,252.958 302.419,218.012 "/>
+<polygon fill="#FFFFFF" points="132.89,248.789 265.042,248.789 235.961,222.181 "/>
+<polygon fill="#FFFFFF" points="266.668,383.568 266.668,252.958 235.961,279.553 "/>
+<polygon fill="#FFFFFF" points="295.792,279.553 405.484,252.958 266.668,252.958 "/>
+<polygon fill="#FFFFFF" points="266.668,248.789 295.792,222.181 266.668,118.178 "/>
+<path fill="#030303" d="M285.801,33.299c0,12.484,0,22.443,0,33.26c-4.161-9.966-8.315-16.646-14.116-26.619L246.75,0.851h-9.97
+	v79.054h9.97V46.624c0-14.134,0-22.46,0-33.305c4.161,8.333,8.302,18.302,14.117,26.615l24.906,39.131h9.97V0h-9.97L285.801,33.299
+	L285.801,33.299z"/>
+<path fill="#030303" d="M73.065,252.958c-2.508,9.955-4.154,18.258-5.814,26.573c-1.674-8.309-4.162-16.618-5.836-26.573
+	l-9.928-39.107h-9.976l-9.977,39.107c-1.667,9.955-5.814,18.258-5.814,26.573c-1.682-5.78-4.155-16.618-5.822-26.573l-9.963-39.107
+	H0l20.759,79.055h9.949l9.984-41.602c1.632-9.962,5.793-18.313,5.793-26.622c1.661,8.309,4.155,16.674,5.822,26.622l9.983,41.602
+	h9.935l22.426-79.055h-9.963L73.065,252.958z"/>
+<polygon fill="#030303" points="438.728,294.579 481.941,294.579 481.941,283.721 448.69,283.721 448.69,254.59 480.266,254.59 
+	480.266,248.789 448.69,248.789 448.69,223.827 481.941,223.827 481.941,215.498 438.728,215.498 "/>
+<path fill="#030303" d="M274.985,455.953c-9.942-5.836-16.618-8.322-16.618-16.639c0-5.836,4.161-12.485,14.117-12.485
+	c5.814,0,12.491,2.481,14.138,4.162l2.508-8.315c-2.508-1.688-8.33-4.176-16.646-4.176c-14.117,0-24.928,10.004-24.928,22.475
+	s8.316,18.307,20.766,22.461c9.977,5.802,14.139,9.949,14.139,16.639c0,8.316-5.829,14.11-16.64,14.11
+	c-8.323,0-14.124-4.161-18.265-5.794v5.794c4.154,4.154,12.457,5.815,20.766,5.815c18.293,0,26.602-9.977,26.602-22.476
+	C295.792,465.979,287.469,461.81,274.985,455.953z"/>
+</svg>

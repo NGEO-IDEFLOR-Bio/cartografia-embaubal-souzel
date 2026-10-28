@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="512" height="512" viewBox="0 0 512 512" xml:space="preserve">
+            <title>Concentration: low ammonium</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: low ammonium</ian_image_library:title>
+                <ian_image_library:descr>Illustration of low ammonium concentration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, low, ammonium, NH4+</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2045f2c7cc143f64f9a83965341f903d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: low ammonium</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-low-ammonium/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-low-ammonium/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, low, ammonium, NH4+</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of low ammonium concentration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width="11.19" stroke-dasharray="33.5673,33.5673,33.5673,33.5673,33.5673" d="m505.6 255.6c0 138.06-111.94 250-250 250-138.1 0-250-111.94-250-250 0-138.05 111.91-250 250-250 138.06-.005 250 111.94 250 250z" fill="#B9DA95"/>
+ <path d="m117.95 349.63v-169.01h25.559l52.921 112.87v-112.87h24.475v169.01h-26.411l-52.069-110.22v110.22h-24.47z" fill="#D2232A"/>
+ <path d="m248.7 349.63v-169.01h26.023v66.441h51.665v-66.441h26.04v169.01h-26.04v-73.82h-51.665v73.822h-26.02z" fill="#D2232A"/>
+ <path d="m398.09 383.2v-19.429h-30.306v-16.254l32.076-60.677h11.828v60.611h9.122v16.32h-9.122v19.429h-13.6zm0-35.75v-32.65l-16.995 32.651h16.99z" fill="#D2232A"/>
+ <path d="m392.34 231.96v-27.783h-26.223v-19.042h26.223v-27.771h17.482v27.771h26.223v19.042h-26.223v27.783h-17.48z" fill="#D2232A"/>
+</svg>

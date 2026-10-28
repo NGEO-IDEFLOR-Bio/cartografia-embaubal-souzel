@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="222" viewBox="0 0 501 222" xml:space="preserve">
+            <title>Ceriops australis leaf</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Ceriops australis leaf</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Ceriops australis leaf</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, yellow, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Ceriops, australis, estuarine, Australia</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-488042965d918fe439943a3a23f15bdf">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Ceriops australis leaf</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/ceriops-australis-leaf/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/ceriops-australis-leaf/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, yellow, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Ceriops, australis, estuarine, Australia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Ceriops australis leaf</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_2a1f0d9e8bf4f4040d6de9d94b30886d" y2="-286.15" gradientUnits="userSpaceOnUse" x2="176.03" gradientTransform="matrix(.576 0 0 .576 148.6 141.37)" y1="150.24" x1="176.03">
+  <stop stop-color="#34AC4C" offset="0"/>
+  <stop stop-color="#6FB947" offset=".3389"/>
+  <stop stop-color="#A1CB3D" offset=".7793"/>
+  <stop stop-color="#B5D338" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="1.7388" d="m5.386 99.835s100.7.367 117.24-3.77c16.532-4.137 99.854-59.754 132.62-73.226 91.96-37.825 180.19-22.747 220.15 14.461 39.962 37.21 22.055 115.75 0 137.79-22.041 22.051-67.527 45.486-101.99 45.486-34.43 0-108.52-3.429-161.92-46.444-36.46-29.373-43.378-44.393-77.845-55.532-35.876-11.587-117.02-1.226-126.89.978-12.388 2.74-1.364-19.755-1.364-19.755z" fill="url(#ian_symbols_2a1f0d9e8bf4f4040d6de9d94b30886d)"/>
+ <path stroke="#000" stroke-width="1.7388" d="m495.7 131.29s-269.86-49.681-364.31-22.424" fill="none"/>
+ <linearGradient id="ian_symbols_ce3f7b4bd86836f4a56e0ad3352ac054" y2="-122.33" gradientUnits="userSpaceOnUse" x2="281.64" gradientTransform="matrix(.7986 .0474 -.0474 .7986 89.896 204.65)" y1="-122.33" x1="-117.91">
+  <stop stop-color="#E5CC11" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path d="m5.967 100.71s44.923-.496 106.12-2.184c76.133-2.095 173.26-3.488 209.86 8.463 0 0-138.51 1.657-231.03 5.648-62.583 2.71-58.487.808-84.155 6.941-10.44 2.5-.798-18.87-.798-18.87z" fill="url(#ian_symbols_ce3f7b4bd86836f4a56e0ad3352ac054)"/>
+</svg>

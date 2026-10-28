@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="502" viewBox="0 0 501 502" xml:space="preserve">
+            <title>Moon: waning crescent</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Moon: waning crescent</ian_image_library:title>
+                <ian_image_library:descr>Illustration of the moon undergoing phases; waning (decreasing in size) crescent (name of shape), heading towards a new moon.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, atmosphere, sky, tide, tidal, effect, moon, lunar, space, night</ian_image_library:contains>
+                    <ian_image_library:when>2005-06-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2d0aa0717ba34084319dbf7d3f61ae19">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Moon: waning crescent</dc:title>
+                <dc:date>2005-06-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/moon-waning-crescent/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/moon-waning-crescent/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, atmosphere, sky, tide, tidal, effect, moon, lunar, space, night</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of the moon undergoing phases; waning (decreasing in size) crescent (name of shape), heading towards a new moon.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".5" d="m70.531 205.95c0-74.336 32.625-140.9 84.113-186.69 29.47-12.19 61.74-19.01 95.63-19.01 138.05 0 249.98 111.92 249.98 249.99 0 74.336-32.614 140.88-84.112 186.69-29.454 12.189-61.74 19.009-95.611 19.009-138.07 0-250-111.92-250-249.99z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5" d="m154.64 19.259c-51.488 45.79-84.113 112.36-84.113 186.69 0 138.07 111.92 249.99 249.99 249.99 33.871 0 66.157-6.82 95.611-19.009-44.14 39.27-102.13 63.31-165.86 63.31-138.07 0-250.02-111.93-250.02-250 0-104.19 63.79-193.42 154.39-230.98z" fill="#FFF8AD"/>
+</svg>

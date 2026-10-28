@@ -1,0 +1,199 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="307" viewBox="0 0 501 307" xml:space="preserve">
+            <title>Chiton</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Chiton</ian_image_library:title>
+                <ian_image_library:descr>Illustration of chiton</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chiton, sea, cradle, loricate, Mollusca, Polyplacophora, marine</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0044014944fbb4b4214af2a115f6f73b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Chiton</dc:title>
+                <dc:date>2003-01-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Water and Rivers Commission</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Water and Rivers Commission</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/chiton/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/chiton/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chiton, sea, cradle, loricate, Mollusca, Polyplacophora, marine</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of chiton</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<path fill="#E8DCCE" stroke="#343636" stroke-width="0.5017" d="M490.861,41.504c16.446,29.454,11.789,67.803-8.136,94.71
+	c-12.82,17.365-33.308,28.451-48.4,43.496c-11.42,11.459-28.349,21.064-42.543,28.738c-9.51,5.193-16.5,12.183-25.976,17.136
+	c-9.76,5.146-21.097,6.795-30.951,11.941c-15.44,7.956-32.182,15.033-47.582,22.619c-32.94,16.212-72.554,22.646-109.503,28.155
+	c-28.228,4.223-53.708,14.342-82.259,17.238c-33.201,3.343-67.059-16.313-84.061-44.783c-22.002-36.738-7.117-80.327,20.541-109.443
+	c16.238-17.15,39.474-29.481,59.586-41.779c25.4-15.488,51.972-29.917,78.948-42.618c40.331-19.017,88.671-34.605,131.588-41.207
+	c63.637-9.716,145.827-61.304,188.764,15.797L490.861,41.504z"/>
+<linearGradient id="ian_symbols_57e3d3c7608433340d1759e440c41f75" gradientUnits="userSpaceOnUse" x1="278.8213" y1="211.7949" x2="248.638" y2="294.7067" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.309" style="stop-color:#8A7D60"/>
+	<stop  offset="0.3933" style="stop-color:#BF662E"/>
+	<stop  offset="0.4719" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.691" style="stop-color:#85785A"/>
+	<stop  offset="0.7528" style="stop-color:#BF662E"/>
+	<stop  offset="0.809" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_57e3d3c7608433340d1759e440c41f75)" stroke="#343636" stroke-width="0.5017" d="M396.739,21.124c18.102-9.185,46.979,17.724,54.453,32.196
+	c4.645,8.9,4.686,46.317-10.911,44.815c-2.288-6.347-48.556-74.492-43.549-77.012H396.739z"/>
+<linearGradient id="ian_symbols_fa5f1a5845520054cd6c10a03606f9c4" gradientUnits="userSpaceOnUse" x1="252.082" y1="173.8711" x2="199.7732" y2="310.1234" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.309" style="stop-color:#8A7D60"/>
+	<stop  offset="0.3933" style="stop-color:#BF662E"/>
+	<stop  offset="0.4719" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.691" style="stop-color:#85785A"/>
+	<stop  offset="0.7528" style="stop-color:#BF662E"/>
+	<stop  offset="0.809" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_fa5f1a5845520054cd6c10a03606f9c4)" stroke="#343636" stroke-width="0.5017" d="M350.502,31.813c-3.271-4.544-18.731-12.992-16.057-18.504
+	c5.669-11.802,44.541-2.295,53.83,2.378c16.601,8.344,29.488,24.231,37.872,40.474c16.225,31.485,17.323,77.266-25.73,84.811
+	c-16.218,2.788-14.495-9.028-15.962-22.116c-3.903-35.613-13.004-58.165-33.956-87.049L350.502,31.813z"/>
+<linearGradient id="ian_symbols_967ea1dca55598d4096bafe16c993518" gradientUnits="userSpaceOnUse" x1="208.3423" y1="149.8965" x2="146.8248" y2="302.1522" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.309" style="stop-color:#8A7D60"/>
+	<stop  offset="0.3933" style="stop-color:#BF662E"/>
+	<stop  offset="0.4719" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.691" style="stop-color:#85785A"/>
+	<stop  offset="0.7528" style="stop-color:#BF662E"/>
+	<stop  offset="0.809" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_967ea1dca55598d4096bafe16c993518)" stroke="#343636" stroke-width="0.5017" d="M288.591,49.03c-9.329-10.675-26.78-17.28-9.168-27.829
+	c12.358-7.376,28.483-9.423,43.019-9.047c17.546,0.512,23.825,15.156,36.561,24.485c6.158,4.503,15.667,5.424,20.861,10.611
+	c6.286,6.22,3.752,16.704,6.039,25.431c1.857,7.165,6.039,14.497,8.506,21.754c11.514,34.313-9.858,63.842-43.905,74.135
+	c-18.021,5.421-19.233-12.418-23.584-26.486c-10.425-33.273-14.479-65.715-38.34-93.051L288.591,49.03z"/>
+<linearGradient id="ian_symbols_3f0c8b360415c6745953cbb508077b68" gradientUnits="userSpaceOnUse" x1="153.0205" y1="125.1543" x2="83.7063" y2="288.455" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.309" style="stop-color:#8A7D60"/>
+	<stop  offset="0.3933" style="stop-color:#BF662E"/>
+	<stop  offset="0.4719" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.691" style="stop-color:#85785A"/>
+	<stop  offset="0.7528" style="stop-color:#BF662E"/>
+	<stop  offset="0.809" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_3f0c8b360415c6745953cbb508077b68)" stroke="#343636" stroke-width="0.5017" d="M224.733,59.626c-2.989-3.344-7.613-6.979-9.972-10.884
+	c-5.314-8.803-3.58-8.822,2.727-13.239c29.052-20.434,65.718,3.914,90.676,19.278c17.894,11.011,5.495,28.946,13.657,45.646
+	c7.715,15.803,15.643,25.259,16.574,43.938c1.024,21.472-4.503,27.143-21.828,38.723c-19.623,13.097-35.144,18.056-43.742-9.456
+	c-6.476-20.541-6.777-47.771-16.575-66.703c-7.747-14.909-20.54-34.612-31.528-47.306L224.733,59.626z"/>
+<linearGradient id="ian_symbols_ebdb97eb49ec0ae4fdddfa2fdbc3bf52" gradientUnits="userSpaceOnUse" x1="98.8545" y1="102.5469" x2="22.5193" y2="266.2469" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.309" style="stop-color:#8A7D60"/>
+	<stop  offset="0.3933" style="stop-color:#BF662E"/>
+	<stop  offset="0.4719" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.691" style="stop-color:#85785A"/>
+	<stop  offset="0.7528" style="stop-color:#BF662E"/>
+	<stop  offset="0.809" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_ebdb97eb49ec0ae4fdddfa2fdbc3bf52)" stroke="#343636" stroke-width="0.5017" d="M156.621,81.688c-15.683-19.536,5.824-28.067,22.352-32.484
+	c24.434-6.551,36.666-3.43,55.685,14.966c9.082,8.766,25.133,20.883,30.902,32.034c3.64,7.117,3.64,16.701,6.032,24.187
+	c2.359,7.473,5.736,14.812,7.814,22.444c3.552,13.316,6.588,42.457-2.38,53.843c-5.884,7.351-19.488,14.181-28.101,16.641
+	c-15.661,4.584-21.546,2.164-26.942-11.816c-8.678-22.597-13.899-47.407-26.003-68.331c-5.019-8.686-9.289-18.249-14.597-26.674
+	c-6.502-10.209-17.299-15.51-24.765-24.812L156.621,81.688z"/>
+<linearGradient id="ian_symbols_74237270d7771e64b93ba69943207a2c" gradientUnits="userSpaceOnUse" x1="45.1289" y1="77.9834" x2="-39.6938" y2="237.507" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.309" style="stop-color:#8A7D60"/>
+	<stop  offset="0.3933" style="stop-color:#BF662E"/>
+	<stop  offset="0.4719" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.7022" style="stop-color:#85785A"/>
+	<stop  offset="0.764" style="stop-color:#BF662E"/>
+	<stop  offset="0.8146" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_74237270d7771e64b93ba69943207a2c)" stroke="#343636" stroke-width="0.5017" d="M152.969,200.29c-10.174-15.964-15.528-34.133-24.811-49.968
+	c-8.13-13.713-21.064-26.567-30.232-40.158c-5.917-8.84-7.493-8.753,0-17.566c5.421-6.327,12.265-11.333,19.133-15.735
+	c15.441-9.866,33.207-9.584,45.674,4.805c7.004,8.143,9.329,13.068,19.328,18.202c8.083,4.135,12.834,5.523,17.499,13.906
+	c8.438,14.932,8.042,32.491,13.946,47.757c6.548,16.729,14.194,30.876,11.225,50.539c-3.143,20.019-21.72,24.489-40.204,23.028
+	c-14.054-1.152-11.227-3.687-16.647-14.517c-3.853-7.626-10.496-13.255-14.911-20.289L152.969,200.29z"/>
+<linearGradient id="ian_symbols_c1274e0331c5fcc4c129bb7bc504f936" gradientUnits="userSpaceOnUse" x1="-77.2925" y1="48.6055" x2="-133.6679" y2="138.815" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.309" style="stop-color:#8A7D60"/>
+	<stop  offset="0.3933" style="stop-color:#BF662E"/>
+	<stop  offset="0.4719" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.691" style="stop-color:#85785A"/>
+	<stop  offset="0.7528" style="stop-color:#BF662E"/>
+	<stop  offset="0.809" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_c1274e0331c5fcc4c129bb7bc504f936)" stroke="#343636" stroke-width="0.5017" d="M48.073,162.411c21.594-2.723,10.703,34.018,17.21,44.561
+	c6.956,11.212,24.796,17.88,35.058,25.406c21.793,15.91-1.608,24.917-18.498,19.65c-12.774-4.021-23.959-1.81-34.542-11.334
+	c-8.564-7.76-11.681-16.526-13.289-27.536c-1.975-13.717-6.357-48.175,14.063-50.753L48.073,162.411z"/>
+<linearGradient id="ian_symbols_4c05e200e79b281495223d595d2a7ed8" gradientUnits="userSpaceOnUse" x1="-17.9673" y1="59.4146" x2="-97.6066" y2="197.3544" gradientTransform="matrix(1 0 0 -1 166.5098 309)">
+	<stop  offset="0" style="stop-color:#C7B8A3"/>
+	<stop  offset="0.3258" style="stop-color:#8A7D60"/>
+	<stop  offset="0.4045" style="stop-color:#BF662E"/>
+	<stop  offset="0.4831" style="stop-color:#827657"/>
+	<stop  offset="0.6236" style="stop-color:#786C4B"/>
+	<stop  offset="0.7079" style="stop-color:#85785A"/>
+	<stop  offset="0.764" style="stop-color:#BF662E"/>
+	<stop  offset="0.8258" style="stop-color:#8E8063"/>
+	<stop  offset="1" style="stop-color:#A6967B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_4c05e200e79b281495223d595d2a7ed8)" stroke="#343636" stroke-width="0.5017" d="M70.109,112.902c14.857-15.052,26.693-11.962,39.313,2.681
+	c4.866,5.636,9.048,11.513,15.756,15.783c6.24,3.988,17.177,3.914,21.875,9.583c5.133,6.227,1.039,19.061,3.814,26.419
+	c2.54,6.87,8.256,12.017,11.225,19.014c4.898,11.728,11.976,35.298,5.716,48.716c-6.93,14.796-33.214,12.264-47.208,9.69
+	c-12.94-2.44-27.176-12.948-38.71-19.336c-19.542-10.85-23.973-24.199-25.044-45.499c-1.21-24.373-5.828-47.782,13.266-67.059
+	L70.109,112.902z"/>
+</svg>

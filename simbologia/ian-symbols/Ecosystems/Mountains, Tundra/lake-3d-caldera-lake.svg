@@ -1,0 +1,116 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="397" viewBox="0 0 502 397" xml:space="preserve">
+            <title>Lake 3D: caldera lake</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lake 3D: caldera lake</ian_image_library:title>
+                <ian_image_library:descr>Illustration of caldera lake surrounded by mountains</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, lake, caldera, volcano, crater</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-127b0a11fe241f24dd7592cb63aa1c42">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lake 3D: caldera lake</dc:title>
+                <dc:date>2005-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lake-3d-caldera-lake/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lake-3d-caldera-lake/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, lake, caldera, volcano, crater</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of caldera lake surrounded by mountains</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_e68491de99505cf45deda101b2529780" y2=".2505" gradientUnits="userSpaceOnUse" x2="199.52" y1="325.78" x1="199.52">
+  <stop stop-color="#89AC7B" offset=".0056"/>
+  <stop stop-color="#C3BD92" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m300.9.25c2.002 0 8.432 4.679 13.107 9.357 4.671 4.68 7.279 15.248 10.616 15.248s1.823 6.631 9.167 7.299c7.342.668 16.265 14.888 22.939 19.566 6.675 4.679 20.027 14.706 29.372 18.716 9.346 4.011 12.684 20.054 12.684 20.054l-9.346 106.95-141.52 60.16-114.15 68.181-105.48-70.18-28.04-76.21s3.341-1.337 8.681-6.016c5.34-4.68 12.927-15.799 20.938-19.142 8.009-3.342 27.126-.911 32.466-4.922s10.68-4.681 18.022-9.359c7.344-4.68 27.55-3.341 29.555-1.337 2.001 2.005 8.498-.668 11.835-1.337 3.337-.668 7.342 0 7.342 0s20.026-22.727 27.369-28.742c7.345-6.016 44.726-18.718 46.729-22.06 2.004-3.342 3.824-14.038 6.496-18.716 2.67-4.678 10.257-13.369 18.935-18.047 8.679-4.68 15.291-8.509 22.633-13.856 7.344-5.349 32.043-27.588 34.712-30.261 2.671-2.674 5.099.668 8.438 0 3.34-.661 4.49-5.34 6.5-5.34z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_e68491de99505cf45deda101b2529780)"/>
+ <linearGradient id="ian_symbols_9c9adcb57c91a4e4c531c0f85d545efd" y2="72.441" gradientUnits="userSpaceOnUse" x2="351.76" y1="250.92" x1="351.76">
+  <stop stop-color="#89AC7B" offset=".0056"/>
+  <stop stop-color="#C3BD92" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m500.25 147.98l-27.37-18.72-47.396-44.786-28.036-12.033-14.687 2.006s-16.023 6.685-19.36 10.026c-3.338 3.341-7.343 12.701-11.347 15.374-4.007 2.675-18.024 5.348-22.697 10.696-4.674 5.348-22.697 24.063-26.035 28.743-3.339 4.679-26.704 11.363-31.375 15.374-4.673 4.011-17.357 13.371-22.03 20.055-4.672 6.683-5.691 12.519-12.367 21.208-6.675 8.689-39.035 22.91-33.694 32.268 5.341 9.357 220.29 22.727 220.29 22.727l76.13-102.93z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_9c9adcb57c91a4e4c531c0f85d545efd)"/>
+ <path stroke-linejoin="round" d="m281.96 234.21c14.018.668 24.031-21.39 27.369-24.732 3.336-3.342 7.885-3.099 11.89-6.441 4.006-3.342 6.134-6.99 6.134-10.333s8.678-7.958 14.019-13.306c5.342-5.349 7.345-21.391 8.012-25.401.668-4.01 6.675-4.01 8.01-6.685 1.335-2.673 2.67-7.353 8.011-8.021s4.673-5.348 6.676-9.359c2.002-4.01 8.01-21.388 12.017-21.388 4.005 0 13.352-2.675 13.352-2.675s7.343 2.675 12.016 0c4.673-2.673 6.008-6.685 8.677-10.694 2.67-4.011 4.006-.668 6.676-1.337 2.671-.669 4.672-2.674 14.688 3.342" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m55.659 194.1s35.379 11.971 39.385 19.992c4.005 8.021 7.343 15.68 16.689 17.018 9.345 1.337 16.022 13.792 16.022 13.792" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m65.672 248.91s24.031-2.005 28.705-.667c4.672 1.336 7.341 5.346 12.016 6.684 4.673 1.337 15.354 8.689 15.354 8.689" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <linearGradient id="ian_symbols_a46cc879864638e4315ee679e5b58316" y2="139.37" gradientUnits="userSpaceOnUse" x2="271.11" y1="345.04" x1="307.38">
+  <stop stop-color="#00A2CF" offset="0"/>
+  <stop stop-color="#81C3E3" offset=".9551"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m469.54 184.74s-36.716-6.017-50.066-6.017-40.72 8.021-51.401 12.031c-10.682 4.012-25.367 11.364-32.044 11.364-6.674 0-13.349-.131-13.349-.131s3.653-2.783 2.129-5.848c-1.248-2.514-7.771-5.214-7.47-6.721.666-3.343-9.411-2.068-17.422-6.081-8.01-4.01-19.963-1.273-25.303 1.401-5.341 2.673-14.687 1.337-20.027 1.337s-9.345-3.344-9.345-3.344l6.675-11.362 4.005-4.01s-18.023-10.026-30.039-10.696c-12.016-.668-29.371 4.681-40.053 1.338-10.681-3.343-23.366 1.335-31.376 2.005-8.008.669-15.352 7.354-22.694 9.359-7.343 2.004-4.674 9.356-6.677 12.698-2.002 3.342-11.349 2.674-13.351 6.017-2.003 3.343 2.67 10.695-.667 15.374-3.338 4.681-16.022 10.634-16.022 10.634l3.952 7.232s-3.952 8.205-1.282 12.215c2.672 4.011 10.682 14.036 12.017 16.042s1.6 7.496 1.6 7.496l4.707 2.764s.369 5.114 1.037 11.131c.666 6.017 8.01 10.027 10.681 14.706 2.67 4.68-8.227 3.929-8.894 7.938-.667 4.01-6.291 5.849-6.291 5.849l49.229 46.373 38.718 18.048 35.38-6.684 36.049-13.369 49.397-28.743 82.778-52.808 46.728-36.096 18.68-41.43z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_a46cc879864638e4315ee679e5b58316)"/>
+ <linearGradient id="ian_symbols_ac209f947ea911f45d5a230194418357" y2="147.98" gradientUnits="userSpaceOnUse" x2="350.38" y1="395.73" x1="350.38">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7C39A" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m200.52 355.86v39.872l299.73-175.13v-72.626s-17.357 13.369-24.033 21.392c-6.675 8.02-40.055 54.144-44.058 58.823-4.006 4.678-13.352 16.709-20.693 21.389-7.344 4.68-28.039 17.137-36.049 23.152-8.011 6.016-10.015 10.695-16.689 14.037s-18.023 5.591-25.367 10.938c-7.341 5.348-14.017 14.039-18.023 17.381-4.006 3.341-16.021 8.689-20.694 11.363-4.672 2.674-16.021 12.7-22.696 14.706-6.677 2.006-14.021-10.695-19.36-13.369s-21.361 3.342-28.036 5.347c-6.68 2.01-24.03 22.73-24.03 22.73z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_ac209f947ea911f45d5a230194418357)"/>
+ <linearGradient id="ian_symbols_73ee2b34c25d68f4fd4794b30389e795" y2="184.44" gradientUnits="userSpaceOnUse" x2="332.93" y1="339.17" x1="332.93">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7C39A" offset="1"/>
+ </linearGradient>
+ <line stroke-linejoin="round" x1="200.52" y2="184.44" x2="465.34" stroke="#231F20" stroke-linecap="round" y1="339.17" stroke-width=".5" fill="url(#ian_symbols_73ee2b34c25d68f4fd4794b30389e795)"/>
+ <linearGradient id="ian_symbols_7c7d51c9297ac274698819208693a57c" y2="179.39" gradientUnits="userSpaceOnUse" x2="100.38" y1="395.73" x1="100.38">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7C39A" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m.251 179.39v102.04l200.27 114.3v-39.872s-12.016-6.686-19.359-10.694c-7.343-4.011-24.033-23.396-27.371-24.064-3.337-.668-4.672 1.338-8.678 0-4.004-1.338-7.342-9.359-9.344-10.027-2.004-.667-4.673-1.337-7.342-3.342-2.671-2.006-8.011-14.707-12.018-18.716-4.005-4.012-56.074-26.738-65.42-37.434-9.347-10.695-32.043-34.759-36.715-48.796-4.677-14.04-14.024-23.4-14.024-23.4z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_7c7d51c9297ac274698819208693a57c)"/>
+ <linearGradient id="ian_symbols_a5f36b1afc157c14dd6c37aa6478937b" y2="338.53" gradientUnits="userSpaceOnUse" x2="200.52" y1="355.59" x1="200.52">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7C39A" offset="1"/>
+ </linearGradient>
+ <line stroke-linejoin="round" x1="200.52" y2="338.53" x2="200.52" stroke="#231F20" stroke-linecap="round" y1="355.59" stroke-width=".5" fill="url(#ian_symbols_a5f36b1afc157c14dd6c37aa6478937b)"/>
+ <linearGradient id="ian_symbols_2ca0b51f7e4daa147125937405fcbfdb" y2="292.82" gradientUnits="userSpaceOnUse" x2="159.92" y1="339.17" x1="159.92">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7C39A" offset="1"/>
+ </linearGradient>
+ <line stroke-linejoin="round" x1="119.31" y2="339.17" x2="200.52" stroke="#231F20" stroke-linecap="round" y1="292.82" stroke-width=".5" fill="url(#ian_symbols_2ca0b51f7e4daa147125937405fcbfdb)"/>
+</svg>

@@ -1,0 +1,96 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="316" viewBox="0 0 502 316" xml:space="preserve">
+            <title>Barn</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Barn</ian_image_library:title>
+                <ian_image_library:descr>Illustration of barn</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, barn</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4274bb79d7d81784859c51ae9d79303e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Barn</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/barn/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/barn/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, barn</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of barn</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#231F20" stroke-width=".1146" points="307.92 314.11 8.331 281.05 8.331 148.82 307.92 181.88" fill="#C64F2A"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="209.78 229.39 93.046 218.03 91.461 205.46 212.84 215.97" fill="#F2F1E6"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="204.96 302.74 99.52 291.1 99.7 218.88 204.62 229.39" fill="#FFFEF2"/>
+ <polygon stroke="#231F20" stroke-width=".1146" points="479.41 163.28 500.07 173.61 462.88 78.563 393.41 15.774 390.57 16.587" fill="#808285"/>
+ <polygon stroke="#231F20" stroke-width=".1146" points="307.92 181.88 485.61 165.35 454.62 78.563 390.57 16.587 262.46 82.703" fill="#C9633E"/>
+ <linearGradient id="ian_symbols_1bcb61e6185a3264e9fa24b04791f8a9" y2="77.163" gradientUnits="userSpaceOnUse" x2="166.72" y1="185.58" x1="157.24">
+  <stop stop-color="#A29F9D" offset="0"/>
+  <stop stop-color="#808285" offset=".882"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".1146" points="303.79 198.41 .071 165.35 24.86 66.174 324.45 90.962" fill="url(#ian_symbols_1bcb61e6185a3264e9fa24b04791f8a9)"/>
+ <linearGradient id="ian_symbols_defb1a1ee9f2454449755947b0ebad76" y2="-.5727" gradientUnits="userSpaceOnUse" x2="211.8" y1="81.899" x1="204.59">
+  <stop stop-color="#A29F9D" offset="0"/>
+  <stop stop-color="#8E8F90" offset=".927"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".1146" points="324.45 90.962 24.86 66.174 115.77 .058 391.53 15.151" fill="url(#ian_symbols_defb1a1ee9f2454449755947b0ebad76)"/>
+ <polygon stroke="#231F20" stroke-width=".1146" points="307.92 314.11 485.61 289.31 485.61 165.35 307.92 181.88" fill="#C9633E"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="444.39 293.77 353.14 305.84 353.14 202.54 444.05 192.21" fill="#FFFEF0"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="444.39 294.81 353.14 305.84 353.14 211.49 444.05 202.05" fill="#94908B"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="444.29 281.15 444.39 293.77 353.14 305.84 353.14 263.64" fill="#C6B7AE"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="390.27 40.309 353.8 81.183 432.41 76.155" fill="#F0EEE1"/>
+ <line y2="296.28" x1="149.48" x2="149.48" stroke="#231F20" y1="223.96" stroke-width=".191" fill="none"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="342.66 246.31 326.5 248.2 326.5 214.27 342.66 212.39" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".191" points="471.07 234.61 454.54 236.15 454.54 202.24 471.07 200.68" fill="#fff"/>
+</svg>

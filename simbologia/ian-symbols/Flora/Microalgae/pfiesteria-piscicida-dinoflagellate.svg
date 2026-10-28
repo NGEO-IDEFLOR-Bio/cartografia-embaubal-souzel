@@ -1,0 +1,184 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="403" viewBox="0 0 501 403" xml:space="preserve">
+            <title>Pfiesteria piscicida (Dinoflagellate)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pfiesteria piscicida (Dinoflagellate)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Pfiesteria piscicida (Dinoflagellate) , responsible for many harmful algal blooms in the 1980s and 1990s on the coast of North Carolina and Maryland. The species name piscicida means "fish-killer."</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, Pfiesteria, Dinoflagellate, Protista, Dinoflagellata, Dinophyceae, Pfiesteriaceae, P. piscicida</ian_image_library:contains>
+                    <ian_image_library:when>2004-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-20a6281c9b62fcf4a936907decfe0b39">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pfiesteria piscicida (Dinoflagellate)</dc:title>
+                <dc:date>2004-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pfiesteria-piscicida-dinoflagellate/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pfiesteria-piscicida-dinoflagellate/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, Pfiesteria, Dinoflagellate, Protista, Dinoflagellata, Dinophyceae, Pfiesteriaceae, P. piscicida</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Pfiesteria piscicida (Dinoflagellate) , responsible for many harmful algal blooms in the 1980s and 1990s on the coast of North Carolina and Maryland. The species name piscicida means "fish-killer."</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_c58854b5e7d054c405d2f48e1fcb4b91" y2="345.9" gradientUnits="userSpaceOnUse" x2="500.12" y1="345.9" x1="337.02">
+  <stop stop-color="#909F86" offset=".0056"/>
+  <stop stop-color="#ACBCA1" offset=".8034"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m488.38 402.31c-4.805 0-12.105.649-55.321-16.158-43.216-16.793-96.033-84.672-96.033-84.672l12.011-11.997s19.195 19.203 54.008 56.417c34.806 37.201 87.636 43.223 94.828 45.604 7.18 2.41-4.71 10.81-9.5 10.81z" fill="url(#ian_symbols_c58854b5e7d054c405d2f48e1fcb4b91)"/>
+ <linearGradient id="ian_symbols_246ee0b8bb173af40159aa8f10bae1f2" y2="217.01" gradientUnits="userSpaceOnUse" x2="391.67" y1="217.01" x1="46.55">
+  <stop stop-color="#82917B" offset=".0056"/>
+  <stop stop-color="#9DAD93" offset=".8034"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m293.82 332.7c10.799-9.601 32.951-26.409 46.159-42.011 13.201-15.61 36.646-50.416 42.654-66.012 6.009-15.609 10.806-58.832 8.403-75.633-2.395-16.787-32.416-55.212-32.416-55.212l-28.791-25.197-283.27 188.44s4.804 33.602 21.598 57.615c16.814 24 55.232 54.001 120.04 50.402 64.8-3.59 94.83-22.81 105.63-32.4z" fill="url(#ian_symbols_246ee0b8bb173af40159aa8f10bae1f2)"/>
+ <linearGradient id="ian_symbols_3ccd5c7a6099afe4d5566e1d2562aebd" y2="13.964" gradientUnits="userSpaceOnUse" x2="220.59" y1="13.964" x1="174.98">
+  <stop stop-color="#ACBCA1" offset="0"/>
+  <stop stop-color="#D9E1D2" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m206.19.204c-10.806 1.198-12.004-1.19-17.999 4.811-6.015 5.995-13.207 22.789-13.207 22.789h45.611s-3.059-6.651-4.243-11.435c-1.21-4.811.64-17.355-10.16-16.165z" fill="url(#ian_symbols_3ccd5c7a6099afe4d5566e1d2562aebd)"/>
+ <linearGradient id="ian_symbols_c554a9973b9691942d7d5f466a08e7a3" y2="44.463" gradientUnits="userSpaceOnUse" x2="137.76" y1="44.463" x1="100.02">
+  <stop stop-color="#ACBCA1" offset="0"/>
+  <stop stop-color="#D9E1D2" offset=".6011"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m137.76 43.42s-7.192-9.602-9.594-13.214c-2.409-3.593-4.812-5.995-12.004-4.784-7.192 1.191-14.412 15.59-15.616 19.189-1.184 3.613 0 19.209 0 19.209l37.21-20.4z" fill="url(#ian_symbols_c554a9973b9691942d7d5f466a08e7a3)"/>
+ <linearGradient id="ian_symbols_09d5528bdf31d014914d52715273bc7b" y2="42.209" gradientUnits="userSpaceOnUse" x2="263.21" y1="5.0151" x1="263.21">
+  <stop stop-color="#D9E1D2" offset=".0056"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m233.8 24.211s4.805-10.792 13.194-13.201c8.403-2.402 15.604-5.995 26.402-5.995 10.805 0 10.805 3.593 14.404 9.601 3.613 5.995 4.812 27.593 4.812 27.593l-19.216-3.593s2.401-16.807-2.382-20.414c-4.812-3.586-14.412-1.198-16.814 1.211-2.402 2.396-3.593 9.595-3.593 9.595l-16.8-4.797z" fill="url(#ian_symbols_09d5528bdf31d014914d52715273bc7b)"/>
+ <linearGradient id="ian_symbols_77fbecdef78621e41969861c6e5dac19" y2="77.022" gradientUnits="userSpaceOnUse" x2="333.54" y1="44.755" x1="333.54">
+  <stop stop-color="#D9E1D2" offset=".0056"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m304.07 45.822s35.354-2.402 42.56 0c7.199 2.402 9.595 5.995 13.201 12.003 3.606 5.995 4.804 8.397 0 12.003-4.811 3.6-13.201 7.192-13.201 7.192l-42.56-31.198z" fill="url(#ian_symbols_77fbecdef78621e41969861c6e5dac19)"/>
+ <linearGradient id="ian_symbols_95008f43dd409234d1b82770c09dc820" y2="122.35" gradientUnits="userSpaceOnUse" x2="54.946" y1="122.35" x1="30.221">
+  <stop stop-color="#909F86" offset="0"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m50.149 144.24s-11.348-3.045-16.151-12.646c-4.804-9.608-5.446-28.161.535-30.563 6.008-2.409 10.806 3.6 10.806 3.6s0 10.806 1.211 16.801c1.197 6.008 8.396 16.814 8.396 16.814l-4.797 6z" fill="url(#ian_symbols_95008f43dd409234d1b82770c09dc820)"/>
+ <linearGradient id="ian_symbols_c9018b6436bee6440dafe8ff6927d6f8" y2="191.06" gradientUnits="userSpaceOnUse" x2="43.713" y1="191.06" x1="6.9404">
+  <stop stop-color="#909F86" offset="0"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m14.146 190.41c3.6 5.995 15.603 15.048 23.999 15.048 8.404 0 4.798-14.405 4.798-14.405l-21.604-14.392-14.399 2.38s3.593 5.36 7.206 11.36z" fill="url(#ian_symbols_c9018b6436bee6440dafe8ff6927d6f8)"/>
+ <linearGradient id="ian_symbols_034f70c18ada5034c93dda1a7d546ede" y2="108.3" gradientUnits="userSpaceOnUse" x2="69.352" y1="108.3" x1="30.378">
+  <stop stop-color="#ACBCA1" offset="0"/>
+  <stop stop-color="#D9E1D2" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m69.352 105.85s-13.207-10.806-17.998-13.215c-4.804-2.402-9.608-3.6-13.208 0-3.612 3.593-7.768 12.552-7.768 16.158 0 3.593 8.979-5.353 13.763-.555 4.798 4.804 14.405 18.012 14.405 18.012l10.806-20.4z" fill="url(#ian_symbols_034f70c18ada5034c93dda1a7d546ede)"/>
+ <linearGradient id="ian_symbols_6d435da56e69918461d0463a1ba5b136" y2="266.35" gradientUnits="userSpaceOnUse" x2="57.356" y1="266.35" x1="3.3408">
+  <stop stop-color="#909F86" offset="0"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m18.497 275.62c12.003 0 38.858-6.549 38.858-6.549l-28.804-11.99-25.211 15.59c.001 0 3.153 2.95 15.157 2.95z" fill="url(#ian_symbols_6d435da56e69918461d0463a1ba5b136)"/>
+ <linearGradient id="ian_symbols_2a8b6496d6b5cee4c9636ccdb4aed414" y2="179.47" gradientUnits="userSpaceOnUse" x2="40.541" y1="179.47" x1="4.8467">
+  <stop stop-color="#ACBCA1" offset="0"/>
+  <stop stop-color="#D9E1D2" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m40.541 175.46s-9.608-9.608-14.398-12.017c-4.804-2.395-11.996-2.395-16.808 2.396-4.797 4.811-5.994 10.819-2.395 13.208 3.593 2.409 1.197 0 10.806 0 9.594 0 21.611 18.012 21.611 18.012l1.184-21.6z" fill="url(#ian_symbols_2a8b6496d6b5cee4c9636ccdb4aed414)"/>
+ <linearGradient id="ian_symbols_270be8436e28163425f4031e8a17291f" y2="257.77" gradientUnits="userSpaceOnUse" x2="57.356" y1="257.77" x1=".125">
+  <stop stop-color="#ACBCA1" offset="0"/>
+  <stop stop-color="#D9E1D2" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m46.55 249.86s-9.602-8.397-21.604-7.193c-12.011 1.198-16.808 5.995-20.407 10.806-3.606 4.791-7.206 16.794-1.197 19.196 5.994 2.402 9.594-10.143 20.399-10.143 10.793 0 33.615 6.543 33.615 6.543l-10.806-19.22z" fill="url(#ian_symbols_270be8436e28163425f4031e8a17291f)"/>
+ <linearGradient id="ian_symbols_76fe3811c1b5c814d96cf4012fa9b725" y2="333.18" gradientUnits="userSpaceOnUse" x2="153.01" y1="333.18" x1="53.383">
+  <stop stop-color="#BBCCAF" offset="0"/>
+  <stop stop-color="#ACBCA1" offset=".5112"/>
+  <stop stop-color="#C5D1BC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m92.161 305.1s-18.019 2.388-24.014 9.601c-5.995 7.192-9.602 11.99-12.003 19.196-2.382 7.199-4.791 13.208 0 16.807 4.811 3.593 7.206 0 10.806 0s0-8.41 6.008-12.003c5.995-3.6 15.59-10.799 21.611-10.799 1.827 0 12.903-8.37 24.981-.142 12.098 8.201 22.396 38.046 31.11 32.904 8.715-5.163-9.161-25.671-15.494-33.418-6.36-7.77-43.009-22.15-43.009-22.15z" fill="url(#ian_symbols_76fe3811c1b5c814d96cf4012fa9b725)"/>
+ <linearGradient id="ian_symbols_7f08876a2bd23b94f98a5057e3654b93" y2="158.65" gradientUnits="userSpaceOnUse" x2="379.27" y1="90.879" x1="379.27">
+  <stop stop-color="#D9E1D2" offset=".0056"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m353.83 96.224s16.26-5.345 19.853-5.345c3.612 0 13.762 4.147 19.757 5.345 6.009 1.218 13.201 20.414 10.806 28.811-2.396 8.404-9.608 16.8-19.202 21.611-9.602 4.797-28.817 12.003-28.817 12.003l2.396-19.203s7.205 2.402 13.207 0c5.995-2.408 8.424-12.003 9.608-15.603 1.197-3.613 1.197-7.206-3.613-10.806-4.784-3.606-19.202-2.409-19.202-2.409l-4.81-14.406z" fill="url(#ian_symbols_7f08876a2bd23b94f98a5057e3654b93)"/>
+ <linearGradient id="ian_symbols_cbf2b324bd2476f4510c29d09353bb62" y2="358.54" gradientUnits="userSpaceOnUse" x2="227.8" y1="358.54" x1="137.26">
+  <stop stop-color="#BBCCAF" offset="0"/>
+  <stop stop-color="#ACBCA1" offset=".5112"/>
+  <stop stop-color="#C5D1BC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m137.76 379.51c2.402 7.212 4.812 9.594 9.608 10.806 4.798 1.197 3.6-14.399 8.41-24.007 4.791-9.608 12.004-18.005 20.4-20.4 8.403-2.402 15.603-6.015 22.81-2.402 7.192 3.6 28.804 18.005 28.804 18.005v-12.003s-14.399-6.001-22.81-13.208-22.815-9.594-22.815-9.594-9.588 4.784-16.794 9.594c-7.192 4.797-11.455 5.995-17.464 12.003-5.99 5.99-12.54 23.98-10.15 31.2z" fill="url(#ian_symbols_cbf2b324bd2476f4510c29d09353bb62)"/>
+ <linearGradient id="ian_symbols_fb760746f53b4e0465b9dda4aaba2237" y2="348.62" gradientUnits="userSpaceOnUse" x2="244.6" y1="348.62" x1="224.58">
+  <stop stop-color="#BBCCAF" offset="0"/>
+  <stop stop-color="#ACBCA1" offset=".5112"/>
+  <stop stop-color="#C5D1BC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m228.99 318.29s-5.454 45.625-4.242 54.021c1.197 8.404 4.242 8.404 9.053 10.792 4.805 2.395 3.6-2.389 6.002-7.193 2.396-4.804 4.79-62.425 4.79-62.425l-15.6 4.81z" fill="url(#ian_symbols_fb760746f53b4e0465b9dda4aaba2237)"/>
+ <linearGradient id="ian_symbols_2e140fa161a88e949914dbc328b3e24f" y2="285.14" gradientUnits="userSpaceOnUse" x2="370.2" y1="285.14" x1="250.61">
+  <stop stop-color="#BBCCAF" offset="0"/>
+  <stop stop-color="#ACBCA1" offset=".5112"/>
+  <stop stop-color="#C5D1BC" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m252.99 293.07s25.218-22.795 28.817-26.395c3.593-3.6 5.994-8.403 15.603-7.192 9.608 1.184 31.22 2.382 40.814 2.382 9.601 0 25.211 1.211 28.804 3.613 3.6 2.402 4.797 10.792 0 12.003-4.798 1.198-63.609-5.995-73.211-2.409-9.615 3.606-16.808 14.412-24.014 20.407-7.205 6.002-19.195 15.495-19.195 15.495l2.39-17.91z" fill="url(#ian_symbols_2e140fa161a88e949914dbc328b3e24f)"/>
+ <linearGradient id="ian_symbols_bb79a1ed122ab1c421f418afd02d25cd" y2="231.26" gradientUnits="userSpaceOnUse" x2="417.63" y1="231.26" x1="334.38">
+  <stop stop-color="#9DAD93" offset="0"/>
+  <stop stop-color="#909F86" offset=".5112"/>
+  <stop stop-color="#909F86" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m335.83 225.86c1.197 9.608 3.6 16.807 7.192 22.802 3.613 6.008 12.004 14.412 16.814 19.216 4.804 4.791 10.799 4.791 15.609 4.791 4.791 0 2.409-5.995 1.184-8.397-1.184-2.409-15.589-10.799-18.004-17.999-2.396-7.206-5.988-12.017-7.193-19.216-1.197-7.192 1.205-9.602 7.193-10.799 6.015-1.205 10.818-1.205 18.004-1.205 7.22 0 31.22-2.381 36.03-4.791 4.791-2.402 3.593-8.396 4.791-12.003 1.204-3.613-3.606-8.417-8.403-8.417-4.798 0-20.414 8.417-28.811 8.417-8.404 0-25.211-1.205-37.215 3.593-11.99 4.82-8.39 14.42-7.19 24.02z" fill="url(#ian_symbols_bb79a1ed122ab1c421f418afd02d25cd)"/>
+ <radialGradient id="ian_symbols_1f208f7d90ad89444541160a65400175" gradientUnits="userSpaceOnUse" cy="192.18" cx="221.41" gradientTransform="matrix(.7501 -.6613 .6216 .705 -64.122 203.1)" r="178.73">
+  <stop stop-color="#9AA790" offset=".0288"/>
+  <stop stop-color="#BACBAE" offset=".6901"/>
+  <stop stop-color="#D9E1D2" offset=".9776"/>
+ </radialGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m114.97 51.817c-18.012 10.819-61.207 58.812-72.026 104.43-10.806 45.611-9.608 74.429 3.606 100.84 13.194 26.396 50.408 73.204 102.02 74.402 51.619 1.211 98.428-6.103 105.63-24.102 7.206-18.005 6.009-27.504 8.397-38.31 2.395-10.806 1.197-7.206 3.605-15.597 2.402-8.396 12.004-22.802 20.4-24.013 8.404-1.198 26.409-12.003 42.025-14.405 15.582-2.409 17.998-3.593 26.389-25.211 8.417-21.604 17.361-67.757 2.956-100.17-14.398-32.404-48.771-45.72-75.18-54.123-26.395-8.397-50.313-22.708-91.12-15.495-40.81 7.194-58.7 20.95-76.7 31.755z" fill="url(#ian_symbols_1f208f7d90ad89444541160a65400175)"/>
+ <linearGradient id="ian_symbols_0876d98397669f14c9aad9504ea96fe2" y2="234.4" gradientUnits="userSpaceOnUse" x2="403.48" y1="234.4" x1="238.61">
+  <stop stop-color="#D9E1D2" offset=".0056"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m255.4 165.84c14.405-8.397 36.017-11.99 48.021-11.99 12.003 0 56.41-3.6 68.406 2.395 12.017 6.002 25.211 14.405 30.021 22.802 4.791 8.411-2.415 36.01-3.6 54.028-1.211 17.998-8.41 33.601-16.813 43.196-8.397 9.608-20.4 14.412-28.804 21.611-8.418 7.213-11.997 9.601-18.005 14.405-5.995 4.79-20.414 3.606-20.414 3.606s34.819-33.628 36.017-38.412c1.197-4.811 21.598-15.616 28.804-26.409 7.213-10.806 8.397-15.603 8.397-27.606s1.197-26.409-2.389-34.813c-3.606-8.41-12.004-13.221-19.217-16.807-7.205-3.606-39.603 0-63.615 0-24 0-37.215 8.397-41.998 13.208-4.812 4.791-3.606 10.806-3.606 10.806l-17.998 5.995s2.39-27.61 16.79-36.02z" fill="url(#ian_symbols_0876d98397669f14c9aad9504ea96fe2)"/>
+ <linearGradient id="ian_symbols_e8752e1192282384e1671791fb31bb51" y2="206.85" gradientUnits="userSpaceOnUse" x2="269.18" y1="206.85" x1="191.19">
+  <stop stop-color="#D9E1D2" offset=".0056"/>
+  <stop stop-color="#ACBCA1" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m191.98 168.63c-3.797-.386 7.01 17.626 11.8 26.023 4.811 8.403 13.208 24.02 19.216 31.212 5.995 7.213 10.806 19.216 19.203 19.216 8.41 0 9.601-13.215 13.2-19.216 3.6-5.995 12.004-25.204 13.208-30.001 1.197-4.811 1.197-3.613-7.199-3.613-8.417 0-13.201 3.613-20.414 4.811-7.192 1.205-20.406-13.208-25.19-21.598-4.83-8.41-20.03-6.45-23.83-6.83z" fill="url(#ian_symbols_e8752e1192282384e1671791fb31bb51)"/>
+</svg>

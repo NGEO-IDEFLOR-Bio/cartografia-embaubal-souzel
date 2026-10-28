@@ -1,0 +1,110 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="375" height="500" viewBox="0 0 375 500" xml:space="preserve">
+            <title>Acropora: fragment</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Acropora: fragment</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an Acropora spp. fragment</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Staghorn, coral	Cnidaria, Anthozoa, Scleractinia, Acroporidae, Acropora, A. cervicornis, Elkhorn, coral, A. palmata, </ian_image_library:contains>
+                    <ian_image_library:when>2008-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-dae08fea82141304c9c0bed2a576aaa7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Acropora: fragment</dc:title>
+                <dc:date>2008-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Great Barrier Reef Marine Park Authority</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Great Barrier Reef Marine Park Authority</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/acropora-fragment/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/acropora-fragment/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Staghorn, coral	Cnidaria, Anthozoa, Scleractinia, Acroporidae, Acropora, A. cervicornis, Elkhorn, coral, A. palmata, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an Acropora spp. fragment</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_97360a09cedab0241d813986b0cd5f01">
+	<g>
+			<linearGradient id="ian_symbols_01934edc7f4f0e94f9e01de8445df7b4" gradientUnits="userSpaceOnUse" x1="2544.3506" y1="-1327.9064" x2="2544.3506" y2="-1476.8956" gradientTransform="matrix(0.1992 -3.000000e-004 3.000000e-004 0.1992 -201.4186 402.6785)">
+			<stop  offset="0" style="stop-color:#C3A1C9"/>
+			<stop  offset="0.3043" style="stop-color:#BF9FC9"/>
+			<stop  offset="0.5696" style="stop-color:#B69AC6"/>
+			<stop  offset="0.8194" style="stop-color:#A793C3"/>
+			<stop  offset="1" style="stop-color:#978CC2"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_01934edc7f4f0e94f9e01de8445df7b4)" d="M288.728,107.747c19.386-0.01,48.358,8.324,48.565,11.849c1.034,3.407-55.34,14.874-64.59,17.849
+			l16.018-29.703L288.728,107.747z"/>
+			<linearGradient id="ian_symbols_40f1b135885541044d54af1910ead37f" gradientUnits="userSpaceOnUse" x1="2400.1367" y1="31.2736" x2="2400.1367" y2="-86.1276" gradientTransform="matrix(0.1848 -0.0744 0.0744 0.1848 -193.17 377.0057)">
+			<stop  offset="0" style="stop-color:#C3A1C9"/>
+			<stop  offset="0.3043" style="stop-color:#BF9FC9"/>
+			<stop  offset="0.5696" style="stop-color:#B69AC6"/>
+			<stop  offset="0.8194" style="stop-color:#A793C3"/>
+			<stop  offset="1" style="stop-color:#978CC2"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_40f1b135885541044d54af1910ead37f)" d="M228.729,188.654c18.545-5.755,66.874-20.854,70.823-15.148
+			c0.603,10.005-54.521,39.693-99.999,45.772l29.178-30.62L228.729,188.654z"/>
+			<linearGradient id="ian_symbols_674219761d249564496ce04f8c758bae" gradientUnits="userSpaceOnUse" x1="1951.5878" y1="490.1848" x2="1951.5878" y2="-2017.2877" gradientTransform="matrix(0.1992 -3.000000e-004 3.000000e-004 0.1992 -201.4186 402.6785)">
+			<stop  offset="0" style="stop-color:#C3A1C9"/>
+			<stop  offset="0.2524" style="stop-color:#BF9FC9"/>
+			<stop  offset="0.4725" style="stop-color:#B69AC6"/>
+			<stop  offset="0.6805" style="stop-color:#A793C3"/>
+			<stop  offset="0.8799" style="stop-color:#918AC1"/>
+			<stop  offset="1" style="stop-color:#8283BF"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_674219761d249564496ce04f8c758bae)" d="M352.266,0c-14.344,5.647-50.962,62.239-60.56,79.622c-4.753-14.128-22.028-41.806-36.262-43.351
+			c-0.713,16.663,20.585,63.18,15.709,68.744c-4.851,5.486-83.545,90.888-121.118,120.219c0,0-92.582,90.814-122.858,115.066
+			c-19.69,21.183-19.69,36.316-19.69,36.316c-6.576,42.076-8.02,75.72-7.331,121.811c14.665,4.525,43.672-2.157,43.672-2.157
+			c-0.032-20.79-3.226-90.168-1.488-110.811c1.853-21.693,75.76-82.269,81.454-90.422c80.701-2.167,247.797-58.121,250.736-67.44
+			c-2.449-5.496-22.893-1.324-37.644-1.294c12.832-13.207,25.435-22.134,37.372-45.386c-19.062-1.064-59.66,36.478-70.595,39.782
+			c-87.311,26.36-118.37,34.816-143.859,34.88C289.782,164.902,353.19,23.786,352.261,0.005L352.266,0z"/>
+	</g>
+</g>
+</svg>

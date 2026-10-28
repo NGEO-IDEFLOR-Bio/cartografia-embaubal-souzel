@@ -1,0 +1,102 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="338" viewBox="0 0 501 338" xml:space="preserve">
+            <title>Suburban: house 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Suburban: house 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a house, view from the side</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, house, home, 6</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5ce21bc64b4fc62499c4106f5a482486">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Suburban: house 3</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/suburban-house-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/suburban-house-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, house, home, 6</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a house, view from the side</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width=".0839" points="386.55 .058 500.11 97.027 442.17 97.027 354.16 34.567" fill="#B48A28"/>
+ <polygon stroke="#000" stroke-width=".0839" points="352.24 13.077 434.54 85.566 434.54 277.14 278.71 336.58 271.08 104.57" fill="#E6C6AB"/>
+ <rect height="232.01" width="246.15" stroke="#000" y="103.76" x="32.562" stroke-width=".0839" fill="#E6C6AB"/>
+ <polygon stroke="#000" stroke-width=".0839" points="335.52 160.36 386.55 142.58 386.55 295.78 335.09 315.94" fill="#00AEEF"/>
+ <rect height="46.263" width="63.297" stroke="#000" y="180.57" x="64.54" stroke-width=".0839" fill="#00AEEF"/>
+ <rect height="46.231" width="63.642" stroke="#000" y="182.96" x="177.77" stroke-width=".0839" fill="#00AEEF"/>
+ <polygon stroke="#000" stroke-width=".0839" points=".113 114.86 127.84 4.356 386.55 2.035 277.95 114.86" fill="#B48A28"/>
+ <line y2="229.2" x1="209.73" x2="209.73" stroke="#000" y1="183.8" stroke-width=".0839" fill="none"/>
+ <line y2="229.2" x1="178.93" x2="240.58" stroke="#000" y1="229.2" stroke-width=".0839" fill="none"/>
+ <line y2="226.83" x1="95.817" x2="95.817" stroke="#000" y1="181.32" stroke-width=".0839" fill="none"/>
+ <line y2="226.83" x1="64.942" x2="126.67" stroke="#000" y1="226.83" stroke-width=".0839" fill="none"/>
+ <rect height="2.688" width="62.126" stroke="#000" y="224.14" x="65.24" stroke-width=".0839" fill="#A77436"/>
+ <rect height="45.854" width="4.523" stroke="#000" y="180.98" x="64.942" stroke-width=".0839" fill="#A77436"/>
+ <rect height="2.719" width="62.074" stroke="#000" y="226.48" x="178.93" stroke-width=".0839" fill="#A77436"/>
+ <rect height="45.594" width="4.632" stroke="#000" y="183.31" x="178.41" stroke-width=".0839" fill="#A77436"/>
+ <polygon stroke="#000" stroke-width=".0839" points="380.87 143.38 386.13 141.36 386.13 295.38 380.87 297.77" fill="#A77436"/>
+ <line y2="309.6" x1="348.06" x2="348.06" stroke="#000" y1="156.47" stroke-width=".0839" fill="none"/>
+ <line y2="302.89" x1="368.6" x2="368.6" stroke="#000" y1="148.55" stroke-width=".0839" fill="none"/>
+ <line y2="285.92" x1="336.28" x2="381.63" stroke="#000" y1="300.9" stroke-width=".0839" fill="none"/>
+ <line y2="268.47" x1="335.52" x2="380.87" stroke="#000" y1="283.48" stroke-width=".0839" fill="none"/>
+ <line y2="251.05" x1="334.34" x2="379.68" stroke="#000" y1="266.09" stroke-width=".0839" fill="none"/>
+ <line y2="236.41" x1="334.34" x2="379.68" stroke="#000" y1="251.42" stroke-width=".0839" fill="none"/>
+ <line y2="219.8" x1="334.34" x2="379.68" stroke="#000" y1="234.83" stroke-width=".0839" fill="none"/>
+ <line y2="205.92" x1="334.34" x2="379.68" stroke="#000" y1="220.96" stroke-width=".0839" fill="none"/>
+ <line y2="191.66" x1="334.34" x2="379.68" stroke="#000" y1="206.68" stroke-width=".0839" fill="none"/>
+ <line y2="176.63" x1="334.34" x2="379.68" stroke="#000" y1="191.66" stroke-width=".0839" fill="none"/>
+ <line y2="163.13" x1="335.52" x2="380.87" stroke="#000" y1="178.21" stroke-width=".0839" fill="none"/>
+</svg>

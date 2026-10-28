@@ -1,0 +1,130 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="188" viewBox="0 0 502 188" xml:space="preserve">
+            <title>Estuary 3D: river and barrier islands</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 3D: river and barrier islands</ian_image_library:title>
+                <ian_image_library:descr>Illustration of estuary base with river and barrier islands</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary river, uplbarrier, islands, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6c4d5b571a956ee419e3b3f082a39b17">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 3D: river and barrier islands</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-3d-river-and-barrier-islands/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-3d-river-and-barrier-islands/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary river, uplbarrier, islands, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of estuary base with river and barrier islands</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_29656196100db874011423fa732ee21b" y2=".2515" gradientUnits="userSpaceOnUse" x2="235.76" y1="118.64" x1="235.76">
+  <stop stop-color="#D7BD9C" offset="0"/>
+  <stop stop-color="#CDB392" offset=".2842"/>
+  <stop stop-color="#B29778" offset=".7715"/>
+  <stop stop-color="#AF9475" offset=".8202"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m319.02 21.716c-11.101-1.819-51.727-5.882-61.917-9.295-8.789-2.942-40.733-10.535-52.022-11.02-10.646-.455-44.163-1.151-44.163-1.151l-160.06 60.798 100.02 22.58 6.892 17.182 222.52 17.829 128.68-37.02 11.684-11.062v-35.881c-59.85-1.08-144.2-11.741-151.63-12.961z" fill="url(#ian_symbols_29656196100db874011423fa732ee21b)"/>
+ <linearGradient id="ian_symbols_5632e84a2f260904d19355e57ae7383d" y2="134.79" gradientUnits="userSpaceOnUse" x2="346.86" y1="-40.79" x1="282.95">
+  <stop stop-color="#CCC9BB" offset="0"/>
+  <stop stop-color="#B4C5C6" offset=".2181"/>
+  <stop stop-color="#A3C2CE" offset=".4519"/>
+  <stop stop-color="#98C0D3" offset=".7032"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m344.97 25.249s4.024 4.12-5.04 8.576c-6.555 3.218-13.394 5.785-19.023 9.444-9.183 5.967-37.403-1.251-46.372 3.101-23.423 11.367-40.809-2.517-51.648-1.867-10.84.652-30.942 8.372-36.864 4.46-3.226-2.136 5.107-4.917 7.365-9.079 3.5-6.447 10.296-11.796 5.124-15.328-2.061-1.406-30.285 3.082-32.021-.838-1.004-2.276 6.467-2.187 8.89-4.219 1.755-1.47 1.97-5.009.573-6.778-3.322-4.219-15.763-.797-19.359-1.764-3.597-.965 6.609-4.715 3.995-6.426-2.616-1.707-12.121 6.39-8.78 9.065 3.34 2.678 18.76-2.007 19.484 2.582s-15.457.76-10.773 8.79c4.686 8.034 29.588 2.025 31.823 4.04 4.475 4.033-11.319 13.585-18.579 19.578-1.229 1.013-9.624 3.399-17.965 2.381-5.149-.627.393-10.432-4.253-11.063-3.439-.471-12.405 5.459-16.363 6.045-3.957.588.974-7.067-1.646-9.02-2.619-1.957-11.443 1.406-12.092 2.683-.859 1.693 6.739-2.021 9.089-.145 2.983 2.382-3.229 8.633 2.248 10.046 5.479 1.413 14.576-7.278 16.77-7.104 2.193.172-2.497 11.527 2.553 12.841 9.227 2.4 20.709-1.408 20.985-1.247 3.502 2.021 11.092 4.297 19.623 4.913 13.433.969-.915 15.932-5.156 19.476-4.243 3.547-26.734 12.138-26.734 12.138l8.475 4.649 8.653 5.457h249.48l73.43-21.901-2.946-53.484h-152.94z" fill="url(#ian_symbols_5632e84a2f260904d19355e57ae7383d)"/>
+ <linearGradient id="ian_symbols_4065ccc64f42ffd421743a692ee51971" y2="170.91" gradientUnits="userSpaceOnUse" x2="212.18" y1="88.835" x1="212.18">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m356.26 170.91h-288.15v-80.712s3.085 1.305 4.378 1.367c1.291.062 4.555-1.367 4.555-1.367s2.779 1.194 4.555 1.367c1.773.17 5.011-1.367 5.011-1.367s3.956 1.412 5.921 1.367c1.959-.049 4.552-1.367 4.552-1.367s1.634 1.305 4.099 1.367c2.464.062 5.464-1.367 5.464-1.367s2.191 1.412 4.559 1.367c2.364-.049 5.007-1.367 5.007-1.367s2.781 1.305 5.466 1.367c2.685.062 5.466-1.367 5.466-1.367s2.118 1.305 5.01 1.367c2.891.062 4.555-1.367 4.555-1.367s2.89 1.305 5.465 1.367c2.573.062 5.465-1.367 5.465-1.367s3.8 1.194 6.832 1.367c3.032.17 5.466-1.367 5.466-1.367s3.086 1.194 6.374 1.367c3.294.17 5.011-1.367 5.011-1.367s1.017 1.631 4.554 1.367c3.54-.265 4.101-1.367 4.101-1.367s3.681 1.412 5.92 1.367c2.238-.049 4.099-1.367 4.099-1.367s2.404 1.305 6.375 1.367c3.975.062 6.38-1.367 6.38-1.367s3.597 1.305 6.373 1.367c2.776.062 4.555-1.367 4.555-1.367s3.087 1.084 6.375 1.367c3.292.277 6.378-1.367 6.378-1.367s2.022 1.305 5.466 1.367c3.439.062 5.92-1.367 5.92-1.367s2.034 1.305 5.01 1.367c2.977.062 5.465-1.367 5.465-1.367s1.35 1.305 4.556 1.367c3.202.062 5.463-1.367 5.463-1.367s2.877 1.412 5.922 1.367c3.046-.049 5.011-1.367 5.011-1.367s2.39 1.084 5.006 1.367c2.622.277 4.555-1.367 4.555-1.367s1.891 1.412 4.555 1.367c2.669-.049 5.012-1.367 5.012-1.367s3.172 1.305 5.92 1.367c2.747.062 5.01-1.367 5.01-1.367s.104 1.305 4.099 1.367c3.996.062 5.467-1.367 5.467-1.367s1.75 1.412 4.555 1.367c2.804-.049 4.554-1.367 4.554-1.367s2.543 1.305 5.466 1.367c2.922.062 5.01-1.367 5.01-1.367s2.037 1.631 4.554 1.367c2.516-.265 4.101-1.367 4.101-1.367s1.207 1.194 4.553 1.367c3.347.17 4.552-1.367 4.552-1.367s.904 1.522 4.103 1.367c3.192-.156 5.954-2.729 5.954-2.729v82.074z" fill="url(#ian_symbols_4065ccc64f42ffd421743a692ee51971)"/>
+ <linearGradient id="ian_symbols_0b652cba2dfc3f5429d316cb72ce308e" y2="59.473" gradientUnits="userSpaceOnUse" x2="178.88" y1="186.6" x1="178.88">
+  <stop stop-color="#A88E6F" offset=".0562"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m356.26 186.6h-354.75v-125.01s72.495-6.879 96.204 4.159c23.709 11.039 63.812 24.134 71.089 28.796 7.278 4.664 28.767 10.6 38.194 14.485s43.71 9.042 57.683 15.482c13.97 6.442 58.238 35.877 67.911 36.917 9.677 1.038 23.663.119 23.663.119v25.05z" fill="url(#ian_symbols_0b652cba2dfc3f5429d316cb72ce308e)"/>
+ <linearGradient id="ian_symbols_feef3b0a753ef0446dc2c8f5d6e5b437" y2="132.1" gradientUnits="userSpaceOnUse" x2="444" y1="62.856" x1="411.71">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m496.46 24.881s.071 1.81-4.071 3.597c-4.138 1.785-7.755.437-7.755.437s-3.17 4.304-3.367 4.387c-2.082.859-4.72.124-4.72.124s-1.746 2.83-3.879 3.829c-2.138 1.001-6.097.809-6.097.809s-.125 1.305-2.979 3.362c-2.856 2.06-7.187 1.367-7.187 1.367s-1.967 2.646-4.625 4.171c-2.657 1.522-5.425.762-5.425.762s-1.176 3.055-4.214 4.295c-3.037 1.24-6.389.209-6.389.209s-2.193 3.918-4.659 5.136c-2.467 1.22-6.285-.161-6.285-.161s-1.149 2.418-3.767 4.093c-2.613 1.672-5.783 1.054-5.783 1.054s-1.22 2.131-3.271 3.206c-2.048 1.075-4.862 1.15-4.862 1.15s-.9 2.52-3.816 3.744c-2.918 1.226-6.471.245-6.471.245s-.906 2.508-3.347 3.792c-2.435 1.282-6.308 1.146-6.308 1.146s-1.822 3.216-4.783 4.632c-2.959 1.416-6.214.812-6.214.812s-.009 1.541-3.502 3.233c-3.492 1.688-6.79 1.442-6.79 1.442s.691.905-3.47 2.851c-4.162 1.945-6.211.126-6.211.126v84.308l144.64-72.164v-76.008c-2.98.990-4.41.009-4.41.009z" fill="url(#ian_symbols_feef3b0a753ef0446dc2c8f5d6e5b437)"/>
+ <linearGradient id="ian_symbols_365b90efac1a5a24bdffbac064a996cd" y2="139.07" gradientUnits="userSpaceOnUse" x2="500.86" y1="139.07" x1="356.22">
+  <stop stop-color="#B19370" offset=".0056"/>
+  <stop stop-color="#9C8162" offset=".9551"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m466.2 109.53c-8.981 5.299-12.406 7.524-20.26 12.72-7.854 5.199-22.834 10.64-36.521 14.742-13.687 4.1-25.805 9.193-31.529 13.126-5.725 3.934-21.665 11.322-21.665 11.322v25.239l144.64-72.168v-23.052c-19.07 9.822-32.49 16.792-34.66 18.072z" fill="url(#ian_symbols_365b90efac1a5a24bdffbac064a996cd)"/>
+ <linearGradient id="ian_symbols_ae8c43139a32c0b451f5677c646f7d93" y2="72.917" gradientUnits="userSpaceOnUse" x2="321.15" gradientTransform="matrix(.7955 .0017 .0017 .8117 95.882 1.7156)" y1="93.523" x1="333.05">
+  <stop stop-color="#967D5F" offset=".0056"/>
+  <stop stop-color="#9B8264" offset=".0568"/>
+  <stop stop-color="#BCA282" offset=".4504"/>
+  <stop stop-color="#D0B695" offset=".7788"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m344.8 71.229c-2.501 1.729-10.411 3.032-13.677 3.856-3.265.824-8.04 5.057-4.653 6.872 3.385 1.814 3.076-.854 8.423-.324 5.345.53 14.204-2.545 18.161-3.841 3.958-1.293 10.036-1.127 13.387-2.824 3.352-1.697 4.555-5.693 8.339-8.571 3.783-2.88 5.179-5.159 7.633-7.375 2.454-2.221.576-7.441.576-7.441s-5.089-3.907-9.018-3.013c-3.929.891-4.855 4.924-7.971 7.209-3.117 2.285-13.842 8.796-16.292 11.013-2.46 2.218-2.4 2.706-4.91 4.439z" fill="url(#ian_symbols_ae8c43139a32c0b451f5677c646f7d93)"/>
+ <linearGradient id="ian_symbols_68695138bdce9234b5c008480145c1ef" y2="213.06" gradientUnits="userSpaceOnUse" x2="314.4" gradientTransform="matrix(-1.1944 .2032 -.1389 -.816 715.38 184.2)" y1="226.04" x1="314.4">
+  <stop stop-color="#D7BD9C" offset="0"/>
+  <stop stop-color="#CDB392" offset=".2434"/>
+  <stop stop-color="#B19878" offset=".6604"/>
+  <stop stop-color="#967D5F" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m308.14 74.486c-7.994.515-9.957.848-18.23-.275-8.272-1.119-12.477-2.09-4.902-5.062 7.576-2.97 19.633-3.333 27.347-5.489 7.713-2.15 9.538-3.3 22.017-1.213 12.47 2.092-18.25 11.519-26.24 12.039z" fill="url(#ian_symbols_68695138bdce9234b5c008480145c1ef)"/>
+ <linearGradient id="ian_symbols_a192fc65bdf3022469f2b26c4b638235" y2="35.674" gradientUnits="userSpaceOnUse" x2="336.99" gradientTransform="matrix(-.9749 .2227 .2227 .9749 681.97 -78.108)" y1="46.227" x1="336.99">
+  <stop stop-color="#967D5F" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m360.51 32.024c-3.142 1.553-3.97 1.743-6.749 4.883-2.771 3.142-4.071 5.11-.385 5.941 3.685.832 8.302-1.895 11.806-1.858 3.502.039 4.513.643 8.587-4.465 4.06-5.11-10.13-6.049-13.27-4.501z" fill="url(#ian_symbols_a192fc65bdf3022469f2b26c4b638235)"/>
+</svg>

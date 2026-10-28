@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="466" viewBox="0 0 500 466" xml:space="preserve">
+            <title>Energy: hydro power station</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Energy: hydro power station</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a hydro power station</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>SEQ, South East Queensland, hydropower, water power, hydro-power, energy, water, electricity, electric, infrastructure, green, renewable energy, dam, renewable, hydro, power</ian_image_library:contains>
+                    <ian_image_library:when>2013-09-26</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-61c11842fa70b12479806645b2627cf8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Energy: hydro power station</dc:title>
+                <dc:date>2013-09-26</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/energy-hydro-power-station/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/energy-hydro-power-station/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>SEQ, South East Queensland, hydropower, water power, hydro-power, energy, water, electricity, electric, infrastructure, green, renewable energy, dam, renewable, hydro, power</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a hydro power station</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<path fill="#FFE500" d="M55.562,466.593l-28.348-17.861l199.671-209.918l26.073,18.607L55.562,466.593z"/>
+<path fill="#FFE500" d="M29.52,427.534l-28.32-17.869L200.869,199.75l26.046,18.631L29.52,427.534z"/>
+<rect x="143.94" y="154.008" fill="#754C29" width="294.827" height="241.295"/>
+<g>
+	<path fill="#FFE500" d="M398.435,168.401L304.35,340.485l-25.982-49.43l-94.097,89.854l95.711-165.753l26.228,42.96
+		L398.435,168.401L398.435,168.401z"/>
+</g>
+<polygon fill="#A97C50" points="81.508,154.008 292.183,0.388 501.199,154.008 "/>
+</svg>

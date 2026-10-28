@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="331" viewBox="0 0 502 331" xml:space="preserve">
+            <title>Sweet potato plot</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Sweet potato plot</ian_image_library:title>
+                <ian_image_library:descr>Illustration of sweet potato plot</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, sweet, potato, edible, food, root, vegetable, plant, vascular, Magnoliophyta, angiosperm, flowering, Magnoliopsida, dicot, Asteridae, Convolvulaceae, Ipomoea, batatas</ian_image_library:contains>
+                    <ian_image_library:when>2009-11-18</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-19b0cf49b7fb4924b5b627ea4d5083b6">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Sweet potato plot</dc:title>
+                <dc:date>2009-11-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/sweet-potato-plot/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/sweet-potato-plot/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, sweet, potato, edible, food, root, vegetable, plant, vascular, Magnoliophyta, angiosperm, flowering, Magnoliopsida, dicot, Asteridae, Convolvulaceae, Ipomoea, batatas</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of sweet potato plot</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m472.79 171.53c0 68.578-95.469 124.15-213.22 124.15-117.78 0-213.25-55.573-213.25-124.15 0-68.551 95.469-124.12 213.25-124.12 117.75-.001 213.22 55.57 213.22 124.12z" fill="#E9DDC1"/>
+ <path stroke="#808285" stroke-width=".0505" d="m283.84 14.561s-43.728 32.31-10.301 36.958c33.441 4.688 78.383 10.591 81.83 6.619 3.448-3.972-7.86-32.324-7.86-32.324l-38.66-22.216-23.73 3.902-1.28 7.061z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m374.14 48.76s-43.659 32.338-10.287 36.985c33.469 4.688 75.955 9.226 81.774 6.633 5.834-2.592-7.805-32.352-7.805-32.352l-38.612-22.188-23.732 3.889-1.34 7.033z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m332.01 291.45s35.33 38.957 1.407 38.02c-33.855-.979-76.825-4.427-81.831-6.95-5.006-2.51 15.293-30.435 15.293-30.435l43.053-15.445 22.547 7.709-.47 7.1z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m100.17 103.22s37.619 37.247 3.765 37.84c-33.924.607-82.175-3.24-82.175-3.24l13.487-31.097 41.846-17.32 22.891 6.661.181 7.159z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m115.26 250.65s37.744 37.247 3.889 37.813c-33.896.62-78.052.345-82.12-3.228-4.054-3.585 13.28-31.068 13.28-31.068s33.882-17.472 42.06-17.376c8.177.097 22.822 6.758 22.822 6.758l.07 7.11z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m21.055 168.84s-41.604 34.282-7.777 37.44c33.606 3.13 76.866 6.412 82.051 2.979 5.199-3.447-9.874-31.966-9.874-31.966l-40.088-20.47-23.429 4.937-.883 7.08z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m216.9 281.43s37.813 37.22 3.806 37.867c-33.951.648-80.038 2.813-82.133-3.254-2.083-6.067 13.376-31.083 13.376-31.083l41.895-17.32 22.822 6.661.22 7.12z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m185.27 12.051s-41.48 34.241-7.736 37.385c33.731 3.199 77.762 3.93 82.106 2.965 4.357-.979-9.943-31.924-9.943-31.924l-39.93-20.451-23.36 4.951-1.14 7.074z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m426.81 130.14s-43.741 32.31-10.301 36.971c33.455 4.675 77.541 9.212 81.844 6.605 4.316-2.62-7.888-32.324-7.888-32.324l-38.653-22.216-23.733 3.903-1.27 7.06z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m101.33 34.143s-43.632 32.338-10.301 36.985c33.538 4.675 75.666 11.956 80.727 7.543 5.075-4.413-6.729-33.248-6.729-33.248l-38.64-22.216-23.678 3.917" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m377.96 265.82s-43.701 32.297-10.302 36.943c33.455 4.647 81.83 6.634 81.83 6.634l-7.805-32.338-38.653-22.229-23.733 3.916-1.34 7.08z" fill="#414042"/>
+ <path stroke="#808285" stroke-width=".0505" d="m427.44 204.04s-43.659 32.379-10.302 37.026c33.469 4.688 76.949 11.032 81.789 6.619 4.841-4.399-7.818-32.324-7.818-32.324l-38.599-22.229-23.747 3.931-1.32 6.97z" fill="#414042"/>
+ <path stroke="#231F20" stroke-width=".2896" d="m114.32 178.32s34.351-20.037 47.217-21.457c12.88-1.448 40.032-4.303 47.203 0 7.157 4.289 12.853 10.012 21.458 4.289 11.446 1.42 30.035-11.446 42.915-8.592 12.853 2.854 25.746 12.88 25.746 21.485 0 8.55-2.868 4.274-12.894 12.852-9.984 8.592-41.453 18.59-55.767 21.472-14.3 2.827-38.612-4.316-51.506-4.316-12.866 0-32.875-8.563-42.901-8.563s-21.48-17.16-21.48-17.16z" fill="#F26522"/>
+ <path stroke="#231F20" stroke-width=".2896" d="m203.19 250.16s30.931-24.933 43.466-28.298c12.507-3.323 38.943-10.204 46.666-7.061 7.723 3.2 14.218 7.999 21.857 1.049 11.528-.29 27.979-15.804 41.163-14.907 13.128.924 27.359 8.881 28.628 17.375 1.297 8.468-2.151 4.661-10.798 14.646-8.591 9.983-38.212 24.588-51.933 29.565-13.722 4.965-38.819 1.531-51.562 3.448-12.714 1.93-33.813-3.559-43.701-2.056-9.92 1.5-23.8-13.77-23.8-13.77z" fill="#F26522"/>
+ <path stroke="#231F20" stroke-width=".2896" d="m360.24 117.9s-36.364 16.024-49.327 16.01c-12.949-.055-40.267-.248-46.914-5.337-6.605-5.088-11.625-11.404-20.823-6.688-11.225-2.717-31.138 7.984-43.646 3.696-12.425-4.316-24.078-15.693-23.112-24.229.979-8.536 3.31-3.944 14.245-11.335 10.88-7.419 43.301-13.818 57.835-15.031 14.535-1.228 37.881 8.619 50.678 10.067 12.77 1.448 31.731 12.245 41.674 13.376 9.97 1.136 19.39 19.473 19.39 19.473z" fill="#F26522"/>
+</svg>

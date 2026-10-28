@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Outros Pontos IDEFLOR-Bio (Pará)</name>
+    <open>1</open>
+    <description>Pontos Cartográficos Consolidados - IDEFLOR-Bio (REVIS Tabuleiro do Embaubal e RDS Vitória de Souzel)</description>
+
+    <Style id="moradorStyle">
+      <IconStyle>
+        <color>ff00aaff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="pescaStyle">
+      <IconStyle>
+        <color>ff00d7ff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/fishing.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="desovaStyle">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <scale>1.2</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="hidroStyle">
+      <IconStyle>
+        <color>ffffaa00</color>
+        <scale>1.0</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/water.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="ilhaStyle">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <scale>1.0</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="infraStyle">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.2</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="floraStyle">
+      <IconStyle>
+        <color>ff228b22</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="fogoStyle">
+      <IconStyle>
+        <color>ff0000ee</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="defaultStyle">
+      <IconStyle>
+        <color>ffffff00</color>
+        <scale>1.0</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Apoio de Pesca e Ranchos (2)</name>
+      <open>0</open>
+      <Placemark>
+        <name>Pesca Esportiva Flota De Faro</name>
+        <styleUrl>#pescaStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Pesca Esportiva Flota De Faro</h3>
+                <p><b>Categoria:</b> Apoio de Pesca e Ranchos</p>
+                <p><b>Subcategoria:</b> Ponto de Apoio / Pesqueiro</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.720188, -57.187730</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.187730,-1.720188,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rancho do Patel</name>
+        <styleUrl>#pescaStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rancho do Patel</h3>
+                <p><b>Categoria:</b> Apoio de Pesca e Ranchos</p>
+                <p><b>Subcategoria:</b> Ponto de Apoio / Pesqueiro</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.219539, -56.315851</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.315851,-9.219539,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hidrografia (14)</name>
+      <open>0</open>
+      <Placemark>
+        <name>Afluente do rio garrafão</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Afluente do rio garrafão</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 09:58:07</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212975, -47.177728</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.177728,-1.212975,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio garrafão</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rio garrafão</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 11:05:50</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.210372, -47.180575</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.180575,-1.210372,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio garrafão</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rio garrafão</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 11:25:16</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.211580, -47.178805</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.178805,-1.211580,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio garrafão</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rio garrafão</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 12:04:21</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212886, -47.174928</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.174928,-1.212886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Área alagada com influência do rio</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Área alagada com influência do rio</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 10:33:19</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212414, -47.178661</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.178661,-1.212414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitário - Base</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Centro Comunitário - Base</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.869137, -57.051793</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051793,-1.869137,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Encontro dos Rios</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Encontro dos Rios</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.117377, -56.470950</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.470950,-9.117377,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fazenda Lago Tauari - Sr. Cavalinho</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Fazenda Lago Tauari - Sr. Cavalinho</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Lagos</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.879415, -57.034730</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.034730,-1.879415,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lago Da Coca Cola</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Lago Da Coca Cola</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Lagos</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.598543, -47.306413</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.306413,-0.598543,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laguinho área Militar</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Laguinho área Militar</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Lagos</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.052915, -56.548467</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.548467,-9.052915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rancho Rio Azul</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rancho Rio Azul</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.255303, -56.240425</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.240425,-9.255303,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio Azul</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rio Azul</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.135622, -56.470641</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.470641,-9.135622,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio São Benedito</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rio São Benedito</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.130223, -56.452061</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.452061,-9.130223,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romário Alfaia Brito</name>
+        <styleUrl>#hidroStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Romário Alfaia Brito</h3>
+                <p><b>Categoria:</b> Hidrografia</p>
+                <p><b>Subcategoria:</b> Rios</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.868393, -57.051537</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051537,-1.868393,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ilhas e Praias (3)</name>
+      <open>0</open>
+      <Placemark>
+        <name>Trilha</name>
+        <styleUrl>#ilhaStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Trilha</h3>
+                <p><b>Categoria:</b> Ilhas e Praias</p>
+                <p><b>Subcategoria:</b> Ilhas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.609295, -47.289347</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.289347,-0.609295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trilha 1</name>
+        <styleUrl>#ilhaStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Trilha 1</h3>
+                <p><b>Categoria:</b> Ilhas e Praias</p>
+                <p><b>Subcategoria:</b> Ilhas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.232825, -56.293153</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.293153,-9.232825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>trilha Fulin</name>
+        <styleUrl>#ilhaStyle</styleUrl>
+        <description><![CDATA[
+                <h3>trilha Fulin</h3>
+                <p><b>Categoria:</b> Ilhas e Praias</p>
+                <p><b>Subcategoria:</b> Ilhas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.204423, -56.355820</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.355820,-9.204423,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Infraestrutura e Equipamentos Públicos (3)</name>
+      <open>0</open>
+      <Placemark>
+        <name>Porteira Acesso para o Barbicha</name>
+        <styleUrl>#infraStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Porteira Acesso para o Barbicha</h3>
+                <p><b>Categoria:</b> Infraestrutura e Equipamentos Públicos</p>
+                <p><b>Subcategoria:</b> Estruturas e Equipamentos</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.132779, -56.849776</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.849776,-9.132779,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto Velho, Final Da Estrada</name>
+        <styleUrl>#infraStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Porto Velho, Final Da Estrada</h3>
+                <p><b>Categoria:</b> Infraestrutura e Equipamentos Públicos</p>
+                <p><b>Subcategoria:</b> Estruturas e Equipamentos</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.613805, -47.290853</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.290853,-0.613805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Posto Samuca Alta Floresta</name>
+        <styleUrl>#infraStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Posto Samuca Alta Floresta</h3>
+                <p><b>Categoria:</b> Infraestrutura e Equipamentos Públicos</p>
+                <p><b>Subcategoria:</b> Equipamento Público / Comunitário</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.885926, -56.087949</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.087949,-9.885926,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Infraestrutura e Turismo (5)</name>
+      <open>0</open>
+      <Placemark>
+        <name>Pousada Amazônia fishing lodge</name>
+        <styleUrl>#defaultStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Pousada Amazônia fishing lodge</h3>
+                <p><b>Categoria:</b> Infraestrutura e Turismo</p>
+                <p><b>Subcategoria:</b> Pousadas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.137943, -57.055413</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.055413,-9.137943,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pousada Jundiá Flávio</name>
+        <styleUrl>#defaultStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Pousada Jundiá Flávio</h3>
+                <p><b>Categoria:</b> Infraestrutura e Turismo</p>
+                <p><b>Subcategoria:</b> Pousadas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.095313, -56.533639</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.533639,-9.095313,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pousada Jundía</name>
+        <styleUrl>#defaultStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Pousada Jundía</h3>
+                <p><b>Categoria:</b> Infraestrutura e Turismo</p>
+                <p><b>Subcategoria:</b> Pousadas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.096307, -56.535558</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.535558,-9.096307,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pousada São Benedito</name>
+        <styleUrl>#defaultStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Pousada São Benedito</h3>
+                <p><b>Categoria:</b> Infraestrutura e Turismo</p>
+                <p><b>Subcategoria:</b> Pousadas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.028080, -56.674606</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.674606,-9.028080,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pousada Thaimaçu</name>
+        <styleUrl>#defaultStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Pousada Thaimaçu</h3>
+                <p><b>Categoria:</b> Infraestrutura e Turismo</p>
+                <p><b>Subcategoria:</b> Pousadas</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.054352, -56.584993</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.584993,-9.054352,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Moradores e Comunidades (89)</name>
+      <open>0</open>
+      <Placemark>
+        <name>Antigo Porto</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Antigo Porto</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 28/02/2025, 16:03:53</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.608370, -47.288780</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288780,-0.608370,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bairro São Cristóvão</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Bairro São Cristóvão</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 11:22:10</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.211339, -47.178392</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.178392,-1.211339,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CETRAS</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>CETRAS</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.452850, -48.435080</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.435080,-1.452850,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Construção irregular</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Construção irregular</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 11:34:35</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.211556, -47.178397</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.178397,-1.211556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estrada velha</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Estrada velha</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 28/02/2025, 15:44:43</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.608360, -47.288700</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288700,-0.608360,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estrada velha 2</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Estrada velha 2</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 28/02/2025, 15:53:36</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.608370, -47.288780</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288780,-0.608370,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Limpeza irregular</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Limpeza irregular</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 10:51:08</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212417, -47.179453</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.179453,-1.212417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minha Foto</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Minha Foto</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 28/02/2025, 10:42:25</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.608360, -47.288759</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288759,-0.608360,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minha Foto</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Minha Foto</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 28/02/2025, 10:45:16</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.608173, -47.288772</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288772,-0.608173,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minha Foto</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Minha Foto</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 28/02/2025, 10:46:45</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.607980, -47.288826</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288826,-0.607980,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minha Foto</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Minha Foto</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 28/02/2025, 11:03:25</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.607866, -47.288738</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288738,-0.607866,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 1</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Ponto 1</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.452772, -48.436629</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.436629,-1.452772,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 2</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Ponto 2</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.452152, -48.436309</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.436309,-1.452152,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 3</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Ponto 3</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.452252, -48.435036</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.435036,-1.452252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ponto 4</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Ponto 4</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.452840, -48.435077</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.435077,-1.452840,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Residência</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Residência</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 09:59:11</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212905, -47.177928</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.177928,-1.212905,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Residência</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Residência</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 10:01:18</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212936, -47.178103</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.178103,-1.212936,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vila do entorno</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Vila do entorno</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 10:31:57</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212547, -47.179056</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.179056,-1.212547,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>construção</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>construção</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.600683, -47.294600</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.294600,-0.600683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Área pra PRADA</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Área pra PRADA</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                <p><b>Data da Coleta:</b> 15/10/2025, 09:54:57</p>
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.213317, -47.177457</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.177457,-1.213317,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acesso 2 para a pousada</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Acesso 2 para a pousada</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.126326, -56.884190</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.884190,-9.126326,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acesso Pousadas Thaimaçu e São Benedito</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Acesso Pousadas Thaimaçu e São Benedito</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.129625, -56.647717</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.647717,-9.129625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aldair Nogueira De Andrade -Redondo</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Aldair Nogueira De Andrade -Redondo</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.867233, -57.050001</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.050001,-1.867233,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alojamento 1 Administrativo Jacareacanga</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Alojamento 1 Administrativo Jacareacanga</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.242985, -56.587556</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.587556,-9.242985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alojamento dos Médicos Gleba São Benedito</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Alojamento dos Médicos Gleba São Benedito</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.246477, -56.583736</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.583736,-9.246477,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alojamento-Complexo Administrativo Jacareacanga</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Alojamento-Complexo Administrativo Jacareacanga</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.246558, -56.584160</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.584160,-9.246558,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Areolino Batista Andrade-Tico</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Areolino Batista Andrade-Tico</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.867627, -57.051308</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051308,-1.867627,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balsa do Cajueiro - MT</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Balsa do Cajueiro - MT</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.449520, -56.491215</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.491215,-9.449520,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Socorro Balheira Fulter</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Casa Socorro Balheira Fulter</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.869518, -57.051521</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051521,-1.869518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caso de Apóio da TBC</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Caso de Apóio da TBC</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.823408, -57.062553</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.062553,-1.823408,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deunir Não Estava</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Deunir Não Estava</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.824201, -57.063127</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.063127,-1.824201,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dilciele Fulter Guerreiro</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Dilciele Fulter Guerreiro</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.824293, -57.062565</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.062565,-1.824293,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eliane Maciel Lopes</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Eliane Maciel Lopes</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.823918, -57.062675</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.062675,-1.823918,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entrada 3 para a pousada</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Entrada 3 para a pousada</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.167176, -56.901201</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.901201,-9.167176,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entrada Faz.Fortuna, Pous Am.Fis.L e Porto do Meio</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Entrada Faz.Fortuna, Pous Am.Fis.L e Porto do Meio</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.130846, -56.855930</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.855930,-9.130846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entrada Pousada Jundiá</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Entrada Pousada Jundiá</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.195265, -56.606380</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.606380,-9.195265,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entrada Pousada São Benedito</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Entrada Pousada São Benedito</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.103871, -56.694104</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.694104,-9.103871,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entrada da pousada Jundiaí</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Entrada da pousada Jundiaí</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.194384, -56.613059</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.613059,-9.194384,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entrada do Porto do Pioneiro - vital</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Entrada do Porto do Pioneiro - vital</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.139884, -56.827126</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.827126,-9.139884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estrada Velha</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Estrada Velha</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.609322, -47.289110</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.289110,-0.609322,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estrada para as gleba e pousadas</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Estrada para as gleba e pousadas</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.431299, -56.477742</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.477742,-9.431299,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Idriely Machado Andrade</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Idriely Machado Andrade</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.866840, -57.050085</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.050085,-1.866840,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeiel Gomes da Silva</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Jeiel Gomes da Silva</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.867275, -57.050490</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.050490,-1.867275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeiele Furth Guerreiro - Gê</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Jeiele Furth Guerreiro - Gê</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.824373, -57.063306</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.063306,-1.824373,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Josenildo Nogueira Machado</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Josenildo Nogueira Machado</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.868596, -57.051873</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051873,-1.868596,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Josinei Batista Trovão - ACS</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Josinei Batista Trovão - ACS</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.867153, -57.051376</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051376,-1.867153,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Késia Castro Coelho</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Késia Castro Coelho</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.824018, -57.062740</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.062740,-1.824018,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MT 206 Estrada de Paranaita</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>MT 206 Estrada de Paranaita</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.563753, -56.503164</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.503164,-9.563753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador 1</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador 1</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.246528, -56.584168</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.584168,-9.246528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador 1</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador 1</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.722336, -56.846529</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.846529,-9.722336,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador 1Confresa</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador 1Confresa</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -10.654802, -51.577605</p>
+            ]]></description>
+        <Point>
+          <coordinates>-51.577605,-10.654802,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 1</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 1</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.498692, -48.492563</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.492563,-1.498692,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 1</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 1</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.609946, -47.288211</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.288211,-0.609946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 2</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 2</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.508012, -48.487830</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.487830,-1.508012,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 2</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 2</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.602543, -47.301765</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.301765,-0.602543,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 3</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 3</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.514508, -48.480165</p>
+            ]]></description>
+        <Point>
+          <coordinates>-48.480165,-1.514508,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 3</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 3</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.602303, -47.302100</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.302100,-0.602303,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 4</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 4</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -2.032427, -57.057594</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.057594,-2.032427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcador de local 4</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marcador de local 4</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.603322, -47.300978</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.300978,-0.603322,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marciele De Oliveira de Sousa</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Marciele De Oliveira de Sousa</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.866872, -57.051334</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051334,-1.866872,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mecedes Pereira de Oliveira - Moza Não Estava</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Mecedes Pereira de Oliveira - Moza Não Estava</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.866897, -57.051472</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051472,-1.866897,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meliane Almeida de Oliveira (Ivan Cabaça)</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Meliane Almeida de Oliveira (Ivan Cabaça)</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.867260, -57.051633</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051633,-1.867260,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mineradora</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Mineradora</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.136327, -56.470687</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.470687,-9.136327,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Márcio José Rosas Xavier</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Márcio José Rosas Xavier</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.867278, -57.050860</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.050860,-1.867278,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paulo Sarafim Fazenda Soja</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Paulo Sarafim Fazenda Soja</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.174025, -56.403326</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.403326,-9.174025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 1</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Placemark 1</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                <p><b>Observações:</b> Ponto no meio de uma pequena montanha proximo a uma estrada</p>
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -6.667889, -52.009806</p>
+            ]]></description>
+        <Point>
+          <coordinates>-52.009806,-6.667889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porteira Pousada Thaimaçu</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Porteira Pousada Thaimaçu</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.081139, -56.613467</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.613467,-9.081139,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto do Barbicha</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Porto do Barbicha</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.080067, -56.868520</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.868520,-9.080067,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto do Pioneiro - Vidal</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Porto do Pioneiro - Vidal</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.033138, -56.840865</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.840865,-9.033138,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto do meio</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Porto do meio</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.112509, -56.941977</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.941977,-9.112509,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primeiro Acesso as pousadas</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Primeiro Acesso as pousadas</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.180176, -56.666209</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.666209,-9.180176,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proposta De Mirante</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Proposta De Mirante</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                <p><b>Observações:</b> Ponto proximo de varias casa na beira da praia</p>
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.609323, -47.289287</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.289287,-0.609323,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Renata Não Estava Em Casa</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Renata Não Estava Em Casa</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.824608, -57.062932</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.062932,-1.824608,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Restaurante marissol</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Restaurante marissol</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.596389, -47.305194</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.305194,-0.596389,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Revis</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Revis</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.079811, -56.608354</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.608354,-9.079811,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roberta Não Está</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Roberta Não Está</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.823920, -57.062598</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.062598,-1.823920,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosely Marinho Printes</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rosely Marinho Printes</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.868398, -57.051660</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.051660,-1.868398,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosilvado, Não Presente, Vila Português</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rosilvado, Não Presente, Vila Português</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.875810, -57.030571</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.030571,-1.875810,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rotatória</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rotatória</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.860969, -56.194369</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.194369,-9.860969,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rotatória 2 Paranaíta- MT</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rotatória 2 Paranaíta- MT</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.695730, -56.464069</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.464069,-9.695730,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rotatória 3 Paranaíta- MT</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Rotatória 3 Paranaíta- MT</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.693030, -56.476745</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.476745,-9.693030,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Savana</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Savana</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.611888, -47.289895</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.289895,-0.611888,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São Benedito com Azul</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>São Benedito com Azul</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                <p><b>Observações:</b> Rio são Benedito (não entendi o "com azul")</p>
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.117513, -56.470880</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.470880,-9.117513,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vicinal Zé Coelho</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Vicinal Zé Coelho</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                <p><b>Observações:</b> Ponto no meio do mato, com uma contrução proxima</p>
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -6.185842, -52.579746</p>
+            ]]></description>
+        <Point>
+          <coordinates>-52.579746,-6.185842,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vila Barro Branco</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Vila Barro Branco</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -6.349976, -52.608473</p>
+            ]]></description>
+        <Point>
+          <coordinates>-52.608473,-6.349976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zé Antônio Não Estava</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Zé Antônio Não Estava</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -1.823970, -57.062827</p>
+            ]]></description>
+        <Point>
+          <coordinates>-57.062827,-1.823970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>casa do ex-prefeito de Paranaita</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>casa do ex-prefeito de Paranaita</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.257321, -56.233350</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.233350,-9.257321,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>novo Canal</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>novo Canal</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -0.598038, -47.300308</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.300308,-0.598038,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Revis</name>
+        <styleUrl>#moradorStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Revis</h3>
+                <p><b>Categoria:</b> Moradores e Comunidades</p>
+                <p><b>Subcategoria:</b> Residência Ribeirinha</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                <p><b>Observações:</b> Ponto no meio da estrada que vai em direção a  pousada jundiá</p>
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.104648, -56.539848</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.539848,-9.104648,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Trajetos e Acessos (2)</name>
+      <open>0</open>
+      <Placemark>
+        <name>quarta-feira Morning Activity</name>
+        <styleUrl>#defaultStyle</styleUrl>
+        <description><![CDATA[
+                <h3>quarta-feira Morning Activity</h3>
+                <p><b>Categoria:</b> Trajetos e Acessos</p>
+                <p><b>Subcategoria:</b> Trajetos e Monitoramento</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -1.212617, -47.175057</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.175057,-1.212617,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>terça-feira Bom dia Caminhando</name>
+        <styleUrl>#defaultStyle</styleUrl>
+        <description><![CDATA[
+                <h3>terça-feira Bom dia Caminhando</h3>
+                <p><b>Categoria:</b> Trajetos e Acessos</p>
+                <p><b>Subcategoria:</b> Trajetos e Monitoramento</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Lorena (Coordenadas.2)</p>
+                <p><b>Coordenadas:</b> -0.600603, -47.294386</p>
+            ]]></description>
+        <Point>
+          <coordinates>-47.294386,-0.600603,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Vegetação e Flora (1)</name>
+      <open>0</open>
+      <Placemark>
+        <name>Área desmatada em zona de amortecimento</name>
+        <styleUrl>#floraStyle</styleUrl>
+        <description><![CDATA[
+                <h3>Área desmatada em zona de amortecimento</h3>
+                <p><b>Categoria:</b> Vegetação e Flora</p>
+                <p><b>Subcategoria:</b> Flora / Árvore Matriz</p>
+                <p><b>UC:</b> Outra Região</p>
+                
+                
+                
+                <p><b>Fonte:</b> Kelly (Coordenadas.1)</p>
+                <p><b>Coordenadas:</b> -9.110187, -56.863833</p>
+            ]]></description>
+        <Point>
+          <coordinates>-56.863833,-9.110187,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,74 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="294" height="501" viewBox="0 0 294 501" xml:space="preserve">
+            <title>High uncertainty</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>High uncertainty</ian_image_library:title>
+                <ian_image_library:descr>Illustration of high uncertainty question mark</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>modifier, high, uncertainty, question, mark, unknown</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4976a950cb9089e489eeae2727d6aa8e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>High uncertainty</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/high-uncertainty/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/high-uncertainty/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>modifier, high, uncertainty, question, mark, unknown</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of high uncertainty question mark</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m103.1 377.11c-8.796 0-16.521-3.387-23.163-10.159-6.675-6.772-9.986-14.443-9.986-23.044 0-14.8 13.708-33.051 41.144-54.754l77.517-57.988c27.912-23.791 41.89-45.547 41.89-65.27 0-24.873-11.771-47.809-35.28-68.829-22.665-20.361-46.737-30.552-72.193-30.552-13.626 0-30.898 6.88-51.822 20.642-20.934 13.762-33.884 20.642-38.829 20.642-8.855 0-16.466-3.548-22.828-10.646-6.391-7.098-9.561-15.072-9.561-23.889 0-16.986 16.466-33.885 49.42-50.664 29.487-15.06 53.92-22.601 73.31-22.601 43.275 0 82.568 16.877 117.88 50.621 35.308 33.755 52.964 72.118 52.964 115.09 0 31.396-10.029 59.222-30.098 83.499-12.085 14.605-34.512 33.506-67.304 56.701-33.003 23.845-55.993 43.178-68.932 57.978-7.53 8.82-15.57 13.22-24.14 13.22zm-17.848 122.89c-9.456 0-18.002-3.191-25.641-9.553-7.627-6.394-11.446-14.097-11.446-23.163 0-13.394 3.543-25.488 10.646-36.286 7.952-12.095 18.165-18.153 30.639-18.153 20.642 0 30.963 12.755 30.963 38.233 0 11.89-2.791 22.578-8.384 32.077-6.88 11.22-15.808 16.84-26.778 16.84z" fill="#ED1C24"/>
+</svg>

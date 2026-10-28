@@ -1,0 +1,92 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="334" height="501" viewBox="0 0 334 501" xml:space="preserve">
+            <title>Seagrass: shallow water</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass: shallow water</ian_image_library:title>
+                <ian_image_library:descr>Illustration of shallow water seagrass</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, shallow, water, depth</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-034f6b4fada815c401f3353c4f82654b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass: shallow water</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-shallow-water/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-shallow-water/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, shallow, water, depth</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of shallow water seagrass</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="2.8076" d="m234.47 434.73c3.839 19.313 15.42-219.96 0-219.96-34.75-7.77-19.29 165.93 0 219.96z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.8076" d="m230.6 461.76c0 42.464 61.757-312.65 88.779-351.25 23.152-42.464 11.582-100.36-11.604-65.617-19.29 34.759-81.06 247.04-77.18 416.87z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.8076" d="m234.47 461.76s-42.487-355.1-42.487-401.42c0-46.314-34.722-88.79-34.722-30.873v7.7c-3.882 54.09 15.442 204.59 42.465 312.66 15.46 61.75 34.75 111.93 34.75 111.93z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="2.8076" d="m98.012 411.21c3.872 3.86 30.905 50.153 30.905 88.79" fill="none"/>
+ <path stroke="#231F20" stroke-width="2.8076" d="m152.02 422.77s-15.387 38.594-23.108 69.5" fill="none"/>
+ <linearGradient id="ian_symbols_91d0c03a03a5ce947978b41a64ceb85f" y2="-3442.9" gradientUnits="userSpaceOnUse" x2="-3644.8" gradientTransform="matrix(5.1361 0 0 5.1361 18778 17962)" y1="-3409.3" x1="-3644.8">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="2.8076" d="m101.88 322.41c19.269 34.766 15.441 77.23-7.71 88.801-23.141 15.453-57.907-3.871-77.22-42.465-23.13-34.733-19.302-77.198 3.85-88.757 23.187-15.46 57.932 3.84 81.08 42.43z" fill="url(#ian_symbols_91d0c03a03a5ce947978b41a64ceb85f)"/>
+ <linearGradient id="ian_symbols_65ba95e6644b7b041996629bb3af0f76" y2="-3442.7" gradientUnits="userSpaceOnUse" x2="-3620.6" gradientTransform="matrix(5.1361 0 0 5.1361 18778 17962)" y1="-3409.6" x1="-3620.6">
+  <stop stop-color="#54A275" offset="0"/>
+  <stop stop-color="#A6CE39" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="2.8076" d="m225.41 376.44c-19.324 34.776-57.896 57.939-81.059 42.509-23.196-11.604-23.196-54.025-3.872-88.802 19.313-38.593 54.046-57.896 77.166-46.325 23.18 15.45 27.04 54.02 7.76 92.62z" fill="url(#ian_symbols_65ba95e6644b7b041996629bb3af0f76)"/>
+ <path stroke="#231F20" stroke-width="2.8076" d="m206.08 310.83s-46.292 38.616-50.186 84.929" fill="none"/>
+ <path stroke="#231F20" stroke-width="2.8076" d="m36.267 299.27s50.142 50.175 54.024 84.93" fill="none"/>
+</svg>

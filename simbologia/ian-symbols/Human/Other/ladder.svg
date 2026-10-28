@@ -1,0 +1,93 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="142" height="502" viewBox="0 0 142 502" xml:space="preserve">
+            <title>Ladder</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Ladder</ian_image_library:title>
+                <ian_image_library:descr>Illustration of ladder</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>ladder, steps, height, reach, tall</ian_image_library:contains>
+                    <ian_image_library:when>2008-08-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4e0be9891ec297547d97fcd799f7ae7e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Ladder</dc:title>
+                <dc:date>2008-08-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/ladder/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/ladder/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>ladder, steps, height, reach, tall</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of ladder</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="4.694 499.83 13.997 11.607 38.782 3.079 34.13 3.079 9.353 11.607 .05 499.83"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="38.782 477.32 4.694 499.83 13.997 11.607 38.782 3.079"/>
+ <line stroke-linejoin="round" x1="9.522" y2="11.662" x2="14.099" stroke="#412E17" stroke-linecap="round" y1="11.662" stroke-width=".1" fill="none"/>
+ <rect stroke-linejoin="round" height="5.677" width="99.431" stroke="#412E17" stroke-linecap="round" y="42.951" x="18.648" stroke-width=".1" fill="#75583B"/>
+ <rect stroke-linejoin="round" height="5.677" width="99.444" stroke="#412E17" stroke-linecap="round" y="111.19" x="17.229" stroke-width=".1" fill="#75583B"/>
+ <rect stroke-linejoin="round" height="5.663" width="99.444" stroke="#412E17" stroke-linecap="round" y="179.44" x="15.396" stroke-width=".1" fill="#75583B"/>
+ <rect stroke-linejoin="round" height="5.663" width="99.438" stroke="#412E17" stroke-linecap="round" y="247.67" x="13.99" stroke-width=".1" fill="#75583B"/>
+ <rect stroke-linejoin="round" height="5.677" width="99.424" stroke="#412E17" stroke-linecap="round" y="315.9" x="12.591" stroke-width=".1" fill="#75583B"/>
+ <rect stroke-linejoin="round" height="5.664" width="99.445" stroke="#412E17" stroke-linecap="round" y="452.38" x="9.76" stroke-width=".1" fill="#75583B"/>
+ <rect stroke-linejoin="round" height="5.649" width="99.444" stroke="#412E17" stroke-linecap="round" y="384.15" x="11.172" stroke-width=".1" fill="#75583B"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="138.06 433.17 38.625 433.17 38.863 433.17 9.773 452.37 9.76 452.38 109.2 452.38"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="134.23 364.84 38.856 364.84 39.074 364.84 11.192 384.03 11.172 384.04 106.55 384.04"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="129.62 298.16 38.904 298.16 39.114 298.16 12.605 315.77 12.591 315.79 103.28 315.79"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="124.81 230.77 38.917 230.77 39.114 230.77 14.004 247.52 13.99 247.53 99.875 247.53"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="120.44 162.23 39.02 162.23 39.216 162.23 15.416 179.25 15.396 179.26 101.47 179.26"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="115 96.161 39.23 96.161 39.4 96.161 17.256 110.99 17.229 110.99 102.31 110.99"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="110.43 28.529 39.271 28.529 39.454 28.529 18.655 42.951 18.648 42.951 99.086 42.951"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="107.05 500.05 100.56 8.592 125.34 .05 120.69 .05 95.909 8.592 102.4 500.05"/>
+ <polygon stroke-linejoin="round" fill="#75583B" stroke="#412E17" stroke-linecap="round" stroke-width=".1" points="141.13 477.55 107.05 500.05 100.56 8.592 125.34 .05"/>
+ <line stroke-linejoin="round" x1="96.079" y2="8.646" x2="100.66" stroke="#412E17" stroke-linecap="round" y1="8.646" stroke-width=".1" fill="none"/>
+</svg>

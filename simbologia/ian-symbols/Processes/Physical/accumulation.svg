@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="215" height="516" viewBox="0 0 215 516" xml:space="preserve">
+            <title>Accumulation</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Accumulation</ian_image_library:title>
+                <ian_image_library:descr>Illustration of accumulation process</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, accumulation, sediment</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0822a37c723b74f421b29b3d8b5a4cf4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Accumulation</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/accumulation/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/accumulation/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, accumulation, sediment</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of accumulation process</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon fill-rule="evenodd" stroke="#9D5A44" points="102.41 294.65 153.9 269.06 106.38 394.1 52.88 268.86 102.41 294.65" clip-rule="evenodd" stroke-width="10.577" fill="#9D5A44"/>
+ <path d="m102.61 314.03s1.054 6.348-1.065-280.3c-.22-29.622-69.812-25.383-101.54-25.383" fill-rule="evenodd" stroke="#9D5A44" clip-rule="evenodd" stroke-width="16.274" fill="none"/>
+ <line y2="421.89" x1="3.207" fill-rule="evenodd" x2="214.75" stroke="#9D5A44" clip-rule="evenodd" y1="421.89" stroke-width="12.693" fill="none"/>
+ <line y2="508.14" x1="3.207" fill-rule="evenodd" x2="214.75" stroke="#9D5A44" clip-rule="evenodd" y1="508.14" stroke-width="12.693" fill="none"/>
+ <line y2="464.19" x1="3.207" fill-rule="evenodd" x2="214.75" stroke="#9D5A44" clip-rule="evenodd" y1="464.19" stroke-width="12.693" fill="none"/>
+</svg>

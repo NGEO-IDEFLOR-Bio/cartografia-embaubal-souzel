@@ -1,0 +1,170 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="328" height="501" viewBox="0 0 328 501" xml:space="preserve">
+            <title>Energy: solar panel</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Energy: solar panel</ian_image_library:title>
+                <ian_image_library:descr>Illustration of solar panel</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, solar, panelsvoltaic, cells, array, power, energy, renewable, sun</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-161bcd694301fdd41115aa1bfdc0e4de">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Energy: solar panel</dc:title>
+                <dc:date>2008-12-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/energy-solar-panel/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/energy-solar-panel/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, solar, panelsvoltaic, cells, array, power, energy, renewable, sun</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of solar panel</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_ad5479efa0cc99d4954d5c3ad53c5439" y2="399.55" gradientUnits="userSpaceOnUse" x2="199.41" y1="399.55" x1="175.22">
+  <stop stop-color="#1C2F2B" offset=".0618"/>
+  <stop stop-color="#3E4630" offset=".3371"/>
+  <stop stop-color="#575941" offset=".6685"/>
+  <stop stop-color="#4E523B" offset=".8212"/>
+  <stop stop-color="#3E4630" offset="1"/>
+ </linearGradient>
+ <path d="m175.57 299.1s-.793 197.03 0 197.03c11.127 8.728 23.839 0 23.839 0v-195.04l-23.84-1.99z" fill="url(#ian_symbols_ad5479efa0cc99d4954d5c3ad53c5439)"/>
+ <polygon points="324.94 319.36 324.94 314.2 109.64 298.31 4.765 2.779 0 7.55 11.919 40.118 11.126 44.884 15.1 46.474 37.343 108.44 35.748 113.99 40.524 117.98 62.757 182.32 61.172 187.88 65.949 190.26 90.57 258.59 89.777 264.94 93.75 268.92 106.46 305.46" fill="#08201E"/>
+ <linearGradient id="ian_symbols_c868415f63e7d0e4cdb1b6a5ffa36712" y2="68.726" gradientUnits="userSpaceOnUse" x2="241.57" y1="268.41" x1="74.012">
+  <stop stop-color="#4D5660" offset="0"/>
+  <stop stop-color="#4E5964" offset=".0165"/>
+  <stop stop-color="#526C83" offset=".1612"/>
+  <stop stop-color="#557995" offset=".2844"/>
+  <stop stop-color="#567D9C" offset=".3708"/>
+  <stop stop-color="#567B97" offset=".4781"/>
+  <stop stop-color="#567489" offset=".6021"/>
+  <stop stop-color="#576972" offset=".734"/>
+  <stop stop-color="#57666D" offset=".7584"/>
+  <stop stop-color="#283434" offset="1"/>
+ </linearGradient>
+ <polygon points="109.64 298.31 5.558 5.162 201.8 35.357 324.94 314.2" fill="url(#ian_symbols_c868415f63e7d0e4cdb1b6a5ffa36712)"/>
+ <line y2="11.518" x1="202.58" x2="9.542" stroke="#6B85A2" y1="41.704" stroke-width=".7439" fill="none"/>
+ <line y2="16.279" x1="206.55" x2="13.515" stroke="#6B85A2" y1="46.474" stroke-width=".7439" fill="none"/>
+ <line y2="21.05" x1="208.94" x2="15.893" stroke="#6B85A2" y1="51.246" stroke-width=".7439" fill="none"/>
+ <line y2="25.029" x1="209.73" x2="16.695" stroke="#6B85A2" y1="55.213" stroke-width=".7439" fill="none"/>
+ <line y2="28.991" x1="209.73" x2="16.695" stroke="#6B85A2" y1="59.187" stroke-width=".7439" fill="none"/>
+ <line y2="33.762" x1="213.3" x2="18.27" stroke="#6B85A2" y1="63.953" stroke-width=".7439" fill="none"/>
+ <line y2="38.533" x1="215.29" x2="22.254" stroke="#6B85A2" y1="68.723" stroke-width=".7439" fill="none"/>
+ <line y2="43.299" x1="217.68" x2="22.254" stroke="#6B85A2" y1="73.885" stroke-width=".7439" fill="none"/>
+ <line y2="48.07" x1="218.47" x2="25.423" stroke="#6B85A2" y1="78.255" stroke-width=".7439" fill="none"/>
+ <line y2="52.83" x1="221.65" x2="26.228" stroke="#6B85A2" y1="83.417" stroke-width=".7439" fill="none"/>
+ <line y2="58.394" x1="224.03" x2="25.82" stroke="#6B85A2" y1="87.78" stroke-width=".7439" fill="none"/>
+ <line y2="64.948" x1="224.3" x2="30.725" stroke="#6B85A2" y1="91.556" stroke-width=".7439" fill="none"/>
+ <line y2="79.444" x1="230.63" x2="34.163" stroke="#6B85A2" y1="106.81" stroke-width=".7439" fill="none"/>
+ <line y2="85.001" x1="233.81" x2="36.551" stroke="#6B85A2" y1="112.36" stroke-width=".7439" fill="none"/>
+ <line y2="90.169" x1="234.59" x2="38.136" stroke="#6B85A2" y1="117.14" stroke-width=".7439" fill="none"/>
+ <line y2="95.775" x1="238.34" x2="41.07" stroke="#6B85A2" y1="122.74" stroke-width=".7439" fill="none"/>
+ <line y2="100.55" x1="241.91" x2="43.459" stroke="#6B85A2" y1="127.91" stroke-width=".7439" fill="none"/>
+ <line y2="106.1" x1="243.1" x2="45.055" stroke="#6B85A2" y1="133.07" stroke-width=".7439" fill="none"/>
+ <line y2="111.62" x1="245.09" x2="45.687" stroke="#6B85A2" y1="138.63" stroke-width=".7439" fill="none"/>
+ <line y2="116.78" x1="247.86" x2="47.678" stroke="#6B85A2" y1="143.4" stroke-width=".7439" fill="none"/>
+ <line y2="123.14" x1="251.05" x2="50.848" stroke="#6B85A2" y1="149.35" stroke-width=".7439" fill="none"/>
+ <line y2="128.3" x1="252.23" x2="52.84" stroke="#6B85A2" y1="154.91" stroke-width=".7439" fill="none"/>
+ <line y2="135.85" x1="255.02" x2="54.425" stroke="#6B85A2" y1="160.48" stroke-width=".7439" fill="none"/>
+ <line y2="152.93" x1="260.57" x2="59.983" stroke="#6B85A2" y1="174.38" stroke-width=".7439" fill="none"/>
+ <line y2="158.48" x1="262.8" x2="62.372" stroke="#6B85A2" y1="179.03" stroke-width=".7439" fill="none"/>
+ <line y2="164.84" x1="266.54" x2="64.738" stroke="#6B85A2" y1="183.91" stroke-width=".7439" fill="none"/>
+ <line y2="170.8" x1="268.12" x2="66.73" stroke="#6B85A2" y1="189.47" stroke-width=".7439" fill="none"/>
+ <line y2="176.36" x1="270.04" x2="69.119" stroke="#6B85A2" y1="194.9" stroke-width=".7439" fill="none"/>
+ <line y2="182.32" x1="274.87" x2="72.289" stroke="#6B85A2" y1="201.78" stroke-width=".7439" fill="none"/>
+ <line y2="187.1" x1="275.67" x2="73.488" stroke="#6B85A2" y1="206.54" stroke-width=".7439" fill="none"/>
+ <line y2="192.65" x1="278.46" x2="74.677" stroke="#6B85A2" y1="211.71" stroke-width=".7439" fill="none"/>
+ <line y2="197.42" x1="280.82" x2="77.065" stroke="#6B85A2" y1="217.67" stroke-width=".7439" fill="none"/>
+ <line y2="203.77" x1="283.62" x2="80.246" stroke="#6B85A2" y1="224.42" stroke-width=".7439" fill="none"/>
+ <line y2="210.13" x1="285.99" x2="80.642" stroke="#6B85A2" y1="229.99" stroke-width=".7439" fill="none"/>
+ <line y2="228.4" x1="293.14" x2="89.381" stroke="#6B85A2" y1="246.67" stroke-width=".7439" fill="none"/>
+ <line y2="233.96" x1="295.13" x2="90.57" stroke="#6B85A2" y1="252.23" stroke-width=".7439" fill="none"/>
+ <line y2="240.32" x1="298.7" x2="93.354" stroke="#6B85A2" y1="259.38" stroke-width=".7439" fill="none"/>
+ <line y2="247.46" x1="301.49" x2="95.731" stroke="#6B85A2" y1="265.73" stroke-width=".7439" fill="none"/>
+ <line y2="252.63" x1="304.74" x2="96.931" stroke="#6B85A2" y1="271.26" stroke-width=".7439" fill="none"/>
+ <line y2="258.98" x1="307.06" x2="97.317" stroke="#6B85A2" y1="277.66" stroke-width=".7439" fill="none"/>
+ <line y2="265.73" x1="309.84" x2="100.5" stroke="#6B85A2" y1="284" stroke-width=".7439" fill="none"/>
+ <line y2="271.3" x1="313.01" x2="104.08" stroke="#6B85A2" y1="289.97" stroke-width=".7439" fill="none"/>
+ <line y2="277.26" x1="314.6" x2="104.47" stroke="#6B85A2" y1="294.73" stroke-width=".7439" fill="none"/>
+ <line y2="283.21" x1="316.99" x2="108.44" stroke="#6B85A2" y1="300.69" stroke-width=".7439" fill="none"/>
+ <line y2="289.97" x1="320.16" x2="109.64" stroke="#6B85A2" y1="306.65" stroke-width=".7439" fill="none"/>
+ <line y2="299.89" x1="13.515" x2="117.98" stroke="#6B85A2" y1="9.135" stroke-width=".7439" fill="none"/>
+ <line y2="300.69" x1="19.866" x2="125.52" stroke="#6B85A2" y1="9.934" stroke-width=".7439" fill="none"/>
+ <line y2="300.69" x1="26.228" x2="131.88" stroke="#6B85A2" y1="11.518" stroke-width=".7439" fill="none"/>
+ <line y2="301.09" x1="32.578" x2="139.43" stroke="#6B85A2" y1="12.316" stroke-width=".7439" fill="none"/>
+ <line y2="299.89" x1="38.94" x2="146.17" stroke="#6B85A2" y1="12.316" stroke-width=".7439" fill="none"/>
+ <line y2="299.89" x1="55.614" x2="163.66" stroke="#6B85A2" y1="14.704" stroke-width=".7439" fill="none"/>
+ <line y2="299.89" x1="62.757" x2="170" stroke="#6B85A2" y1="17.077" stroke-width=".7439" fill="none"/>
+ <line y2="302.28" x1="68.315" x2="177.96" stroke="#6B85A2" y1="17.875" stroke-width=".7439" fill="none"/>
+ <line y2="300.69" x1="73.884" x2="182.71" stroke="#6B85A2" y1="18.667" stroke-width=".7439" fill="none"/>
+ <line y2="303.08" x1="79.442" x2="191.07" stroke="#6B85A2" y1="18.667" stroke-width=".7439" fill="none"/>
+ <line y2="305.06" x1="95.335" x2="206.96" stroke="#6B85A2" y1="21.05" stroke-width=".7439" fill="none"/>
+ <line y2="303.08" x1="100.1" x2="212.12" stroke="#6B85A2" y1="21.848" stroke-width=".7439" fill="none"/>
+ <line y2="303.87" x1="106.46" x2="220.07" stroke="#6B85A2" y1="23.432" stroke-width=".7439" fill="none"/>
+ <line y2="305.06" x1="110.42" x2="226.82" stroke="#6B85A2" y1="21.446" stroke-width=".7439" fill="none"/>
+ <line y2="305.46" x1="116.79" x2="232.78" stroke="#6B85A2" y1="25.029" stroke-width=".7439" fill="none"/>
+ <line y2="307.84" x1="135.85" x2="252.64" stroke="#6B85A2" y1="28.204" stroke-width=".7439" fill="none"/>
+ <line y2="307.04" x1="142.21" x2="258.2" stroke="#6B85A2" y1="28.991" stroke-width=".7439" fill="none"/>
+ <line y2="307.84" x1="148.56" x2="265.35" stroke="#6B85A2" y1="30.587" stroke-width=".7439" fill="none"/>
+ <line y2="309.83" x1="154.12" x2="272.1" stroke="#6B85A2" y1="31.379" stroke-width=".7439" fill="none"/>
+ <line y2="311.02" x1="160.48" x2="279.25" stroke="#6B85A2" y1="32.177" stroke-width=".7439" fill="none"/>
+ <line y2="311.81" x1="173.99" x2="293.56" stroke="#6B85A2" y1="33.762" stroke-width=".7439" fill="none"/>
+ <line y2="312.2" x1="181.14" x2="299.51" stroke="#6B85A2" y1="35.357" stroke-width=".7439" fill="none"/>
+ <line y2="312.2" x1="185.1" x2="305.46" stroke="#6B85A2" y1="35.357" stroke-width=".7439" fill="none"/>
+ <line y2="313" x1="190.66" x2="311.02" stroke="#6B85A2" y1="36.943" stroke-width=".7439" fill="none"/>
+ <line y2="314.2" x1="196.22" x2="319.37" stroke="#6B85A2" y1="36.943" stroke-width=".7439" fill="none"/>
+ <linearGradient id="ian_symbols_a092e23fc6857db4bde35632610e7ccb" y2="109.56" gradientUnits="userSpaceOnUse" x2="248.62" y1="218.16" x1="60.51">
+  <stop stop-color="#C4CEBB" offset="0"/>
+  <stop stop-color="#7F8C7A" offset="1"/>
+ </linearGradient>
+ <path d="m204.16 32.568l-200.98-32.568 105.66 301.87 218.47 13.511-123.15-282.81zm83.42 202.58l-31.765-2.388-28.605-65.146 30.19 2.388 30.17 65.15zm-108.83-79.44l-35.749-3.968-24.632-63.561 33.36 3.978 27.02 63.553zm-19.07-61.964l31.786 4.76 27.01 61.173-33.371-3.175-25.43-62.754zm-22.24 57.194l-37.344-5.563-23.828-63.549 34.956 4.766 26.21 64.343zm.80 5.56l27.802 67.523-36.541-3.175-26.228-68.327 34.97 3.99zm7.15 1.59l34.152 3.968 27.813 65.943-34.175-2.383-27.79-67.53zm41.31 4.76l33.371 3.181 28.594 65.933-33.37-3.17-28.59-65.94zm68.32 1.6l-29.388-3.973-27.813-61.971 30.982 3.979 26.22 61.96zm-53.22-124.73l23.828 57.205-30.2-3.979-24.621-58.789 30.99 5.563zm-36.55-5.563l24.621 58.789-34.152-5.558-22.254-59.583 31.78 6.352zm-38.94-7.947l23.85 60.385-34.174-5.563-21.44-59.587 31.76 4.765zm-40.495-5.559l23.025 59.582-34.956-4.771-22.243-60.37 34.174 5.559zm-73.896-11.914l33.371 5.558 22.243 59.588-34.955-4.765-20.659-60.381zm22.244 66.726l34.956 3.979 26.217 65.14-38.137-4.771-23.036-64.345zm25.424 71.505l36.541 3.979 26.217 67.523-37.344-2.383-25.409-69.12zm54.023 150.94l-25.428-74.67 35.759 2.383 28.595 73.879-38.93-1.59zm46.07 1.59l-26.998-71.497 34.956 2.378 28.583 71.491-36.54-2.37zm43.69 3.17l-27.802-71.491 34.163 3.175 30.19 71.502-36.55-3.19zm42.91 3.98l-29.397-70.693 34.174 3.17 31.764 69.906-36.53-2.39zm11.92-66.73l31.775 2.383 31.774 69.907-30.983-1.58-32.57-70.71z" fill="url(#ian_symbols_a092e23fc6857db4bde35632610e7ccb)"/>
+</svg>

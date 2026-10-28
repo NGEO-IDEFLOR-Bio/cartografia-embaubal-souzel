@@ -1,0 +1,72 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="https://creativecommons.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/" x="0px" y="0px" width="268.09px" height="500px" viewBox="0 0 268.09 500" xml:space="preserve">
+            <title>Balloon</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Balloon</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of a balloon</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>balloon, red, helium</ian_image_library:contains>
+                    <ian_image_library:when>2024-06-03</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-17835a1a58d26264ad858883c5b1df0c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="https://dublincore.org/specifications/dublin-core/dcmi-terms/#StillImage" />
+                <cc:license
+                rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+                <dc:title>Balloon</dc:title>
+                <dc:date>2024-06-03</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/balloon/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/balloon/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>balloon, red, helium</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of a balloon</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+             <path d="M266.01,168.5s-11.68,93.49-116.58,151.33c-17.88,9.86-30.52,9.4-35.53,8.9-14.37-1.42-25.07-8.94-33.63-16.17C8.9,252.3.88,158.55.88,158.55c-.64-7.46-1.24-14.79-.62-24.81.78-12.77,3.79-61.71,44.41-98.7C88.12-4.54,141.43-.22,148.53.48c8.73.85,52.09,5.97,85.15,42.05,42.3,46.17,34.71,106.95,32.33,125.97Z" fill="#c1282d"></path><path d="M130.51,323.77c.02,4.93.44,11.67,2.13,19.34,1.62,7.32,3.88,13.12,5.79,17.23-17.56-1.52-35.12-3.05-52.68-4.57,2.44-3.65,5.65-9.32,8.1-17.06,1.98-6.27,2.84-11.94,3.23-16.21,11.14.43,22.28.85,33.42,1.28Z" fill="#c1282d"></path><path d="M124.17,351.41c-2.33-6.6-5.07-12.76-9.17-17.28-4.4-4.8-13.15-2.65-19.23-4.28-.36-.02-.99-.2-1.34-.27-1.75-.32-1.8-3.11-1.61-2.48.14-.98,1.84-2.07,2.84-1.79,10.21.56,22.7,1.59,32.9,2.5.89.16,2.67.19,3.71.47,3.15,1.19,2.03,4.75-.58,4.74-18.44-2.46-43.98,5.06-47.79,25.46-.93,5.88,3.15,10.23,8.7,14.24,15.54,9.56,18.74,23.71,9.06,38.89-6.85,11.45-19.28,19.81-19.83,33.4-.37,5.98,1.66,14.16-2.81,21.8-4.51,7.41-11.82,10.35-17.52,13.67l-36.45,19.5-3.53-7.01,36.46-18.93c6.08-3.27,12.23-6.15,14.94-10.83,3.02-4.56,1.82-11.05,2.09-18.54.54-15.39,13.98-25.04,21.27-36.38,3.34-5.39,5.7-11.68,4.51-17.24-1.72-9.27-14.25-13.4-19.7-21.56-13.47-28,28.22-45.92,50.69-41.26.28.13-.04-.36-1.57.62-1.38,1.82-.87,3.32.54,3.93.56.15-.21,0-.21,0l-2.48-.3c-10.08-1.02-22.46-2.2-32.56-2.88,1.04-.01,2.87-2.33.31-4.11,0,0-.19-.07-.19-.07h.04s.25.06.25.06c6.01,1.51,11.47.44,17.65,1.66,9.17,3.63,11.7,15.87,10.6,24.24h0Z" fill="#333"></path><path d="M22.4,196.11c3.67-1.55,7.42-3.09,11.23-4.59,3.82-1.5,7.58-2.93,11.29-4.29-2.06-2.2-4.06-4.56-5.9-7.13-.19-.27-2.62-3.8-4.91-8.42-9.84-19.88-14.03-44.59-14.03-44.59-1.03-6.1-2.2-14.79-2.6-25.47-1.44,6.58-3.12,15.99-3.94,27.53-.61,8.62-1.45,21.47,1,37.54,1.09,7.17,3.25,17.67,7.85,29.42Z" fill="#e6e6e5" opacity=".71"></path></svg> 

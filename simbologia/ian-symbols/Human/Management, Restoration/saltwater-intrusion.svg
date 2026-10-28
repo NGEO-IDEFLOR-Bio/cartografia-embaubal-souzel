@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="370" viewBox="0 0 500 370" xml:space="preserve">
+            <title>Saltwater intrusion</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Saltwater intrusion</ian_image_library:title>
+                <ian_image_library:descr>Saltwater intrudes into freshwater, a problem often affiliated with excess coastal groundwater extraction.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>icon, water, climate change, input, flow, physical, environmental degradation, salinity, brackish</ian_image_library:contains>
+                    <ian_image_library:when>2016-08-31</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a04aa73f8c566af4ed46a91acd072ff4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Saltwater intrusion</dc:title>
+                <dc:date>2016-08-31</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/saltwater-intrusion/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/saltwater-intrusion/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>icon, water, climate change, input, flow, physical, environmental degradation, salinity, brackish</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Saltwater intrudes into freshwater, a problem often affiliated with excess coastal groundwater extraction.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<path fill="#00AEEF" d="M275.4,156.4l1.5-1.6c0,0,44.5-48.3,64.5-86.5C355.8,46.4,369,0,369,0s16.9,50.1,26.3,67.1
+		c15.7,32,70.2,91.5,70.2,91.5l0.2,0.5c21.3,23.2,34.3,54.2,34.3,88.2c0,72.1-58.5,123.2-130.7,123.2c-72.1,0-130.7-51-130.7-123.2
+		C238.6,212,252.6,179.9,275.4,156.4z"/>
+	<path fill="#0576BD" d="M36.7,156.4l1.5-1.6c0,0,44.5-48.3,64.5-86.5C117.2,46.4,130.4,0,130.4,0s16.9,50.1,26.3,67.1
+		c15.7,32,70.2,91.5,70.2,91.5l0.2,0.5c21.3,23.2,34.3,54.2,34.3,88.2c0,72.1-58.5,123.2-130.7,123.2C58.5,370.4,0,319.4,0,247.3
+		C0,212,14,179.9,36.7,156.4z"/>
+	<g>
+		<rect x="304.1" y="215.7" fill="#FFFFFF" width="13.9" height="55.5"/>
+		<path fill="#FFFFFF" d="M143.6,215.7h26.8v55.5h-26.8V215.7z M197.1,215.7h26.7v55.5h-26.7V215.7z M250.6,215.7h26.7v55.5h-26.7
+			V215.7z"/>
+		<rect x="103" y="215.7" fill="#FFFFFF" width="13.9" height="55.5"/>
+		<g>
+			<polygon fill="#FFFFFF" points="301.7,298.8 397.6,243.5 301.7,188.1 			"/>
+		</g>
+	</g>
+</g>
+</svg>

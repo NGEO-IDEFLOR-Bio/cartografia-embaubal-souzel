@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="518" height="518" viewBox="0 0 518 518" xml:space="preserve">
+            <title>Residence time: long</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Residence time: long</ian_image_library:title>
+                <ian_image_library:descr>Illustration of long residence time</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, residence, time, long</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-cc72601c716ac5b4f5d53ba81300df7b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Residence time: long</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/residence-time-long/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/residence-time-long/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, residence, time, long</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of long residence time</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="16.7" d="m508.35 258.32c0 138.1-111.91 250-249.96 250-138.13-.01-250.04-111.91-250.04-250 0-138.02 111.91-249.97 250.04-249.97 138.05 0 249.96 111.95 249.96 249.97z" fill="none"/>
+ <line y2="90.676" x1="258.39" x2="256.5" stroke="#231F20" stroke-linecap="round" y1="283.3" stroke-width="11.133" fill="none"/>
+ <path d="m255.96 36.172c11.215 25.496 30.258 57.222 50.285 76.77l-49.665-15.102-49.426 15.896c19.68-19.945 38.07-51.855 48.81-77.558z" fill="#231F20"/>
+ <line y2="330.05" x1="258.39" x2="136.68" stroke="#231F20" y1="283.3" stroke-width="11.133" fill="none"/>
+ <path d="m77.999 352.65c23.691-20.82 51.198-51.514 65.332-78.194l1.022 52.698 34.509 39.733c-28.36-10.27-69.34-14.65-100.86-14.24z" fill="#231F20"/>
+</svg>

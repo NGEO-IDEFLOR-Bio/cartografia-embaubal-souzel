@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="501" viewBox="0 0 501 501" xml:space="preserve">
+            <title>Government 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Government 1</ian_image_library:title>
+                <ian_image_library:descr>Government 1</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>government, management, bureaucracy</ian_image_library:contains>
+                    <ian_image_library:when>2010-04-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-87248cc316f15b84fd96f7cda4ab54ad">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Government 1</dc:title>
+                <dc:date>2010-04-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/government-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/government-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>government, management, bureaucracy</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Government 1</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#939598" points="249.995,0 475.445,103.384 475.445,119.294 24.55,119.294 24.55,103.384 "/>
+<rect x="68.983" y="134.544" fill="#939598" width="362.028" height="30.865"/>
+<polygon fill="#939598" points="476.088,469.13 476.088,439.887 452.184,439.887 452.184,410.64 47.811,410.64 47.811,439.887 
+	23.907,439.887 23.907,469.13 0,469.13 0,500 499.995,500 499.995,469.13 "/>
+<path fill="#939598" d="M134.115,287.245c0.759,28.912,0,108.149,0,108.149H79.617c0,0-1.271-83.374,0-108.149
+	c1.27-24.771,7.441-106.595,7.441-106.595h39.619C126.677,180.65,133.364,258.332,134.115,287.245z"/>
+<path fill="#939598" d="M229.614,287.245c0.75,28.912,0,108.149,0,108.149h-54.502c0,0-1.271-83.374,0-108.149
+	c1.275-24.771,7.446-106.595,7.446-106.595h39.614C222.172,180.65,228.863,258.332,229.614,287.245z"/>
+<path fill="#939598" d="M325.104,287.245c0.76,28.912,0,108.149,0,108.149h-54.493c0,0-1.271-83.374,0-108.149
+	c1.266-24.771,7.438-106.595,7.438-106.595h39.618C317.667,180.65,324.354,258.332,325.104,287.245z"/>
+<path fill="#939598" d="M420.604,287.245c0.759,28.912,0,108.149,0,108.149H366.11c0,0-1.27-83.374,0-108.149
+	c1.267-24.771,7.438-106.595,7.438-106.595h39.618C413.167,180.65,419.854,258.332,420.604,287.245z"/>
+</svg>

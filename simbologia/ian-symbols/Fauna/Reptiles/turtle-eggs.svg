@@ -1,0 +1,200 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="383" viewBox="0 0 501 383" xml:space="preserve">
+            <title>Turtle eggs</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Turtle eggs</ian_image_library:title>
+                <ian_image_library:descr>Illustration of turtle eggs</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>reptile, turtle, eggs, reproduction</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6adf232f5a617c04195d7bbb283e9ecd">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Turtle eggs</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/turtle-eggs/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/turtle-eggs/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>reptile, turtle, eggs, reproduction</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of turtle eggs</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_3fcb780bd82c0004c52dc03f8887491a" fx="-1601.7" fy="1252.8" gradientUnits="userSpaceOnUse" cy="1298.8" cx="-1606.6" gradientTransform="matrix(-.9347 -.3555 .3555 -.9347 -1543.1 865.19)" r="90.677">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FAF4F1" offset=".0202"/>
+  <stop stop-color="#F3E4DB" offset=".0608"/>
+  <stop stop-color="#EED7CA" offset=".1089"/>
+  <stop stop-color="#EACEBF" offset=".1683"/>
+  <stop stop-color="#E8C8B8" offset=".2517"/>
+  <stop stop-color="#E7C7B6" offset=".4831"/>
+  <stop stop-color="#CEB29C" offset=".8258"/>
+  <stop stop-color="#CAAF9A" offset=".8655"/>
+  <stop stop-color="#BDA793" offset=".9066"/>
+  <stop stop-color="#A99A87" offset=".9483"/>
+  <stop stop-color="#8C8777" offset=".9902"/>
+  <stop stop-color="#848273" offset="1"/>
+ </radialGradient>
+ <path d="m336.82 198.75c16.571-43.539 65.275-65.395 108.8-48.834 43.538 16.56 65.405 65.275 48.845 108.8-16.57 43.528-65.275 65.395-108.8 48.835-43.53-16.56-65.4-65.27-48.84-108.81z" fill="url(#ian_symbols_3fcb780bd82c0004c52dc03f8887491a)"/>
+ <radialGradient id="ian_symbols_2d79ea1364c7e534694265bb6bfa755e" fx="-1508" fy="1197" gradientUnits="userSpaceOnUse" cy="1185.9" cx="-1504.4" gradientTransform="matrix(-.9347 -.3555 .3555 -.9347 -1543.1 865.19)" r="90.675">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FAF4F1" offset=".0202"/>
+  <stop stop-color="#F3E4DB" offset=".0608"/>
+  <stop stop-color="#EED7CA" offset=".1089"/>
+  <stop stop-color="#EACEBF" offset=".1683"/>
+  <stop stop-color="#E8C8B8" offset=".2517"/>
+  <stop stop-color="#E7C7B6" offset=".4831"/>
+  <stop stop-color="#CEB29C" offset=".8258"/>
+  <stop stop-color="#CAAF9A" offset=".8655"/>
+  <stop stop-color="#BDA793" offset=".9066"/>
+  <stop stop-color="#A99A87" offset=".9483"/>
+  <stop stop-color="#8C8777" offset=".9902"/>
+  <stop stop-color="#848273" offset="1"/>
+ </radialGradient>
+ <path d="m201.16 267.94c16.549-43.539 65.265-65.395 108.8-48.834 43.539 16.56 65.395 65.275 48.835 108.8-16.56 43.528-65.275 65.395-108.8 48.835-43.54-16.56-65.41-65.28-48.84-108.8z" fill="url(#ian_symbols_2d79ea1364c7e534694265bb6bfa755e)"/>
+ <radialGradient id="ian_symbols_26509645e9945614515de1b47810ae8a" fx="-1348.9" fy="1185.2" gradientUnits="userSpaceOnUse" cy="1171.8" cx="-1343.8" gradientTransform="matrix(-.9347 -.3555 .3555 -.9347 -1543.1 865.19)" r="90.676">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FAF4F1" offset=".0202"/>
+  <stop stop-color="#F3E4DB" offset=".0608"/>
+  <stop stop-color="#EED7CA" offset=".1089"/>
+  <stop stop-color="#EACEBF" offset=".1683"/>
+  <stop stop-color="#E8C8B8" offset=".2517"/>
+  <stop stop-color="#E7C7B6" offset=".4831"/>
+  <stop stop-color="#CEB29C" offset=".8258"/>
+  <stop stop-color="#CAAF9A" offset=".8655"/>
+  <stop stop-color="#BDA793" offset=".9066"/>
+  <stop stop-color="#A99A87" offset=".9483"/>
+  <stop stop-color="#8C8777" offset=".9902"/>
+  <stop stop-color="#848273" offset="1"/>
+ </radialGradient>
+ <path d="m46.031 224.07c16.56-43.528 65.275-65.405 108.81-48.835 43.528 16.549 65.395 65.275 48.824 108.8-16.549 43.528-65.265 65.395-108.8 48.834-43.522-16.55-65.388-65.27-48.829-108.8z" fill="url(#ian_symbols_26509645e9945614515de1b47810ae8a)"/>
+ <radialGradient id="ian_symbols_192e3c62c19c044405ed1b1623b1bf3d" fx="-1369.2" fy="1303" gradientUnits="userSpaceOnUse" cy="1322.8" cx="-1416.1" gradientTransform="matrix(-.9347 -.3555 .3555 -.9347 -1543.1 865.19)" r="90.684">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FAF4F1" offset=".0202"/>
+  <stop stop-color="#F3E4DB" offset=".0608"/>
+  <stop stop-color="#EED7CA" offset=".1089"/>
+  <stop stop-color="#EACEBF" offset=".1683"/>
+  <stop stop-color="#E8C8B8" offset=".2517"/>
+  <stop stop-color="#E7C7B6" offset=".4831"/>
+  <stop stop-color="#CEB29C" offset=".8258"/>
+  <stop stop-color="#CAAF9A" offset=".8655"/>
+  <stop stop-color="#BDA793" offset=".9066"/>
+  <stop stop-color="#A99A87" offset=".9483"/>
+  <stop stop-color="#8C8777" offset=".9902"/>
+  <stop stop-color="#848273" offset="1"/>
+ </radialGradient>
+ <path d="m167.3 108.58c16.571-43.528 65.286-65.384 108.81-48.835 43.527 16.571 65.384 65.275 48.834 108.81-16.56 43.528-65.275 65.395-108.8 48.845-43.53-16.57-65.4-65.28-48.84-108.82z" fill="url(#ian_symbols_192e3c62c19c044405ed1b1623b1bf3d)"/>
+ <radialGradient id="ian_symbols_cec250c796df6fb4e5c6d97fddadb01a" fx="-521.03" fy="-436.84" gradientUnits="userSpaceOnUse" cy="-476.11" cx="-528.47" gradientTransform="matrix(.5836 .812 -.812 .5836 157.88 922.3)" r="72.177">
+  <stop stop-color="#FEF6FA" offset="0"/>
+  <stop stop-color="#F9EFF2" offset=".052"/>
+  <stop stop-color="#EFE1E2" offset=".1839"/>
+  <stop stop-color="#E9D9D9" offset=".3356"/>
+  <stop stop-color="#E7D7D6" offset=".5506"/>
+  <stop stop-color="#E5D5D3" offset=".7168"/>
+  <stop stop-color="#E0CDCA" offset=".8354"/>
+  <stop stop-color="#D6C1BA" offset=".9388"/>
+  <stop stop-color="#CEB6AD" offset="1"/>
+ </radialGradient>
+ <path d="m276.73 271.92c-33.434 24.033-78.76 18.184-101.22-13.073-22.474-31.256-13.56-76.084 19.874-100.12 33.455-24.033 78.77-18.185 101.23 13.072 22.47 31.26 13.57 76.09-19.88 100.12z" fill="url(#ian_symbols_cec250c796df6fb4e5c6d97fddadb01a)"/>
+ <radialGradient id="ian_symbols_a4371cdd83036de45199e2e8c64b5f11" fx="-695.05" fy="-496.32" gradientUnits="userSpaceOnUse" cy="-480.29" cx="-702.71" gradientTransform="matrix(.5836 .812 -.812 .5836 157.88 922.3)" r="72.173">
+  <stop stop-color="#FEF6FA" offset="0"/>
+  <stop stop-color="#F4E9EB" offset=".0671"/>
+  <stop stop-color="#EDDFDF" offset=".156"/>
+  <stop stop-color="#E8D9D8" offset=".2804"/>
+  <stop stop-color="#E7D7D6" offset=".618"/>
+  <stop stop-color="#E5D5D3" offset=".7593"/>
+  <stop stop-color="#E0CDCA" offset=".8601"/>
+  <stop stop-color="#D6C1BA" offset=".9479"/>
+  <stop stop-color="#CEB6AD" offset="1"/>
+ </radialGradient>
+ <path d="m178.43 128c-33.43 24.03-78.755 18.18-101.22-13.09-22.46-31.243-13.568-76.06 19.887-100.1 33.444-24.044 78.76-18.185 101.22 13.072 22.46 31.254 13.57 76.078-19.89 100.12z" fill="url(#ian_symbols_a4371cdd83036de45199e2e8c64b5f11)"/>
+ <radialGradient id="ian_symbols_1b89e944627d28344d9d9fe494ab1d37" gradientUnits="userSpaceOnUse" cy="-584.61" cx="-509.88" gradientTransform="matrix(.5836 .812 -.812 .5836 157.88 922.3)" r="110.9">
+  <stop stop-color="#FEF6FA" offset="0"/>
+  <stop stop-color="#FDF4F8" offset=".0244"/>
+  <stop stop-color="#EDDFDF" offset=".3513"/>
+  <stop stop-color="#E7D7D6" offset=".5506"/>
+  <stop stop-color="#E6D6D4" offset=".566"/>
+  <stop stop-color="#D4C3BF" offset=".8292"/>
+  <stop stop-color="#CEBCB7" offset="1"/>
+ </radialGradient>
+ <path d="m398.94 223.01c-32.816 23.589-77.395 17.697-99.554-13.137-22.181-30.845-13.538-74.958 19.278-98.547 32.816-23.588 77.395-17.718 99.564 13.127 22.16 30.85 13.53 74.96-19.29 98.56z" fill="url(#ian_symbols_1b89e944627d28344d9d9fe494ab1d37)"/>
+ <radialGradient id="ian_symbols_701d30c5a67319944d114dd214143951" fx="-664.3" fy="-505.65" gradientUnits="userSpaceOnUse" cy="-452.45" cx="-670.11" gradientTransform="matrix(.5836 .812 -.754 .5419 121.86 948.07)" r="110.9">
+  <stop stop-color="#FEF6FA" offset="0"/>
+  <stop stop-color="#F7ECEF" offset=".0705"/>
+  <stop stop-color="#EEE0E1" offset=".1999"/>
+  <stop stop-color="#E9D9D8" offset=".3592"/>
+  <stop stop-color="#E7D7D6" offset=".6348"/>
+  <stop stop-color="#E1D0CE" offset=".7723"/>
+  <stop stop-color="#D0BEB9" offset=".9814"/>
+  <stop stop-color="#CEBCB7" offset="1"/>
+ </radialGradient>
+ <path d="m134.74 215.47c-30.478 21.899-73.149 14.654-95.309-16.181-22.17-30.834-15.423-73.604 15.043-95.503 30.467-21.899 73.149-14.654 95.319 16.191 22.17 30.85 15.43 73.6-15.05 95.49z" fill="url(#ian_symbols_701d30c5a67319944d114dd214143951)"/>
+ <radialGradient id="ian_symbols_f487e0af1a92b6e4d99653c7f9a6a94a" gradientUnits="userSpaceOnUse" cy="-558.58" cx="-617.68" gradientTransform="matrix(.5836 .812 -.812 .5836 157.88 922.3)" r="84.984">
+  <stop stop-color="#FEF6FA" offset="0"/>
+  <stop stop-color="#E7D7D6" offset=".5506"/>
+  <stop stop-color="#E5D5D3" offset=".7168"/>
+  <stop stop-color="#E0CDCA" offset=".8354"/>
+  <stop stop-color="#D6C1BA" offset=".9388"/>
+  <stop stop-color="#CEB6AD" offset="1"/>
+ </radialGradient>
+ <path d="m304.14 130.92c-30.737 22.094-72.034 17.199-92.266-10.938-20.209-28.127-11.686-68.85 19.04-90.933 30.737-22.083 72.045-17.188 92.276 10.938 20.21 28.129 11.69 68.845-19.05 90.935z" fill="url(#ian_symbols_f487e0af1a92b6e4d99653c7f9a6a94a)"/>
+ <radialGradient id="ian_symbols_9fdc4678b702551441ad8e9d0b97a033" gradientUnits="userSpaceOnUse" cy="-316.04" cx="-601.88" gradientTransform="matrix(.5836 .812 -.812 .5836 157.88 922.3)" r="74.92">
+  <stop stop-color="#FEF6FA" offset="0"/>
+  <stop stop-color="#E8E3DC" offset=".5506"/>
+  <stop stop-color="#E6E0D9" offset=".7085"/>
+  <stop stop-color="#E1D7D0" offset=".8212"/>
+  <stop stop-color="#D9C8C0" offset=".9194"/>
+  <stop stop-color="#CEB6AD" offset="1"/>
+ </radialGradient>
+ <path d="m101.04 291.77c-29.285 21.044-69.401 15.293-89.611-12.834-20.231-28.138-12.889-67.994 16.397-89.038 29.274-21.043 69.401-15.292 89.611 12.834 20.22 28.15 12.87 68-16.4 89.04z" fill="url(#ian_symbols_9fdc4678b702551441ad8e9d0b97a033)"/>
+</svg>

@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="353" height="505" viewBox="0 0 353 505" xml:space="preserve">
+            <title>Directional arrow</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Directional arrow</ian_image_library:title>
+                <ian_image_library:descr>Illustration of directional arrow</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, directional, arrow</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-14a0ed616e745d043db3271841e2de9f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Directional arrow</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/directional-arrow/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/directional-arrow/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, directional, arrow</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of directional arrow</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_dc52c46195497e143944a0d711d7e5f7" y2="-145.02" gradientUnits="userSpaceOnUse" x2="-284.41" gradientTransform="matrix(.7066 .7076 -.7076 .7066 215.17 733.02)" y1="-566.62" x1="-465.59">
+  <stop stop-color="#0076BE" offset=".0056"/>
+  <stop stop-color="#2585C6" offset=".297"/>
+  <stop stop-color="#82ABD9" offset=".9434"/>
+  <stop stop-color="#8AAEDB" offset="1"/>
+ </linearGradient>
+ <path d="m284.68 2.218l64.774 152.69-53.426-15.294s-8.055 97.384-24.882 143.07c-16.837 45.676-89.416 172.56-89.416 172.56l-150.61-119.15s96.374-88.254 127.5-127.91c31.121-39.653 49.676-99.178 49.676-99.178l-61.046-19.12 137.44-87.672z" fill-rule="evenodd" stroke="#0076BE" clip-rule="evenodd" stroke-width="3" fill="url(#ian_symbols_dc52c46195497e143944a0d711d7e5f7)"/>
+ <path d="m136.95 494.33c-49.306 21.153-106.42-1.674-127.56-51.002-21.153-49.301 1.674-106.4 50.969-127.55 49.317-21.153 106.43 1.674 127.57 50.97 21.16 49.31-1.68 106.44-50.98 127.58z" fill-rule="evenodd" stroke="#0076BE" clip-rule="evenodd" stroke-width="3" fill="#89ADDB"/>
+ <line y2="485.38" x1="132.12" x2="65.907" stroke="#fff" stroke-linecap="round" y1="326.33" stroke-width="3" fill="none"/>
+ <line y2="435.06" x1="17.867" x2="178.77" stroke="#fff" stroke-linecap="round" y1="373.42" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="236" height="506" viewBox="0 0 236 506" xml:space="preserve">
+            <title>Buoy: starboard, lighted</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Buoy: starboard, lighted</ian_image_library:title>
+                <ian_image_library:descr>Illustration of starboard, lighted buoy</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, nautical, coastal, buoy, starboard, red, lighted</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1822b4f738c8e37471c3aa7712f45ed8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Buoy: starboard, lighted</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/buoy-starboard-lighted/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/buoy-starboard-lighted/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, nautical, coastal, buoy, starboard, red, lighted</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of starboard, lighted buoy</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="86.941" width="131.16" stroke="#231F20" y="350.1" x="51.584" stroke-width="5.5311" fill="none"/>
+ <line y2="351.77" x1="182.74" x2="56.15" stroke="#231F20" y1="437.04" stroke-width="5.5311" fill="#C4161C"/>
+ <line y2="350.1" x1="51.584" x2="182.74" stroke="#231F20" y1="437.04" stroke-width="5.5311" fill="#C4161C"/>
+ <path stroke="#231F20" stroke-width="5.5311" d="m231.55 469.97c0-18.11-10.148-32.793-22.656-32.793h-183.46c-12.508 0-22.667 14.683-22.667 32.793 0 18.123 10.159 32.793 22.667 32.793h183.46c12.51.01 22.66-14.66 22.66-32.79z" fill="#C4161C"/>
+ <rect height="25.212" width="2.615" stroke="#231F20" y="2.766" x="113.88" stroke-width="5.5311" fill="#fff"/>
+ <rect height="19.422" width="28.085" stroke="#231F20" y="13.067" x="101.14" stroke-width="5.5311" fill="#C4161C"/>
+ <rect height="260.82" width="155.58" stroke="#231F20" y="89.434" x="39.371" stroke-width="5.5311" fill="#C4161C"/>
+ <rect height="82.605" width="43.313" stroke="#000" y="111" x="53.583" stroke-width="5.5311" fill="#DC664B"/>
+ <line y2="347.06" x1="113.6" x2="113.6" stroke="#fff" y1="92.581" stroke-width="5.5311" fill="none"/>
+ <line y2="216.13" x1="191.82" x2="42.364" stroke="#fff" y1="216.13" stroke-width="5.5311" fill="none"/>
+ <path stroke="#231F20" stroke-width="5.5311" d="m149.95 62.386c0 14.835-8.827 26.841-19.708 26.841h-30.094c-10.88 0-19.707-12.006-19.707-26.841v-2.785c0-14.824 8.827-26.839 19.707-26.839h30.094c10.881 0 19.708 12.016 19.708 26.839v2.785z" fill="#fff"/>
+ <path d="m162.52 186.36v-16.484h-27.539v-7.69l29.222-44.591h6.183v44.591h8.619v7.69h-8.619v16.484h-7.86zm0-24.17v-30.608l-19.849 30.608h19.85z" fill="#fff"/>
+</svg>

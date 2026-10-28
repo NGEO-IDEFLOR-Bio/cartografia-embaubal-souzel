@@ -1,0 +1,99 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="129" viewBox="0 0 501 129" xml:space="preserve">
+            <title>Jetty 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Jetty 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a jetty</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, dock, jetty, pier</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-18ea9b880d3e50f47d0664262ff4160d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Jetty 3</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/jetty-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/jetty-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, dock, jetty, pier</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a jetty</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".0719" d="m47.406 3.699c-1.016-1.206-4.602-1.523-5.935-1.513-1.307 0-4.221.413-4.957 1.661 1.65 9.532.857 34.796 1.333 50.93 3.422.18 5.898.159 11.299.159 0 0-.989-42.763-1.74-51.237z" fill="#75583C"/>
+ <rect height="37.06" width="10.998" stroke="#000" y="53.973" x="37.942" stroke-width=".0785" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0764" d="m498.24 1.604c-1.11-1.259-5.036-1.576-6.496-1.566-1.438 0-4.623.423-5.427 1.714 1.809 9.808.931 35.843 1.46 52.474 3.745.169 6.453.148 12.367.148 0 .001-1.08-44.052-1.9-52.77z" fill="#75583C"/>
+ <rect height="38.181" width="12.051" stroke="#000" y="53.391" x="487.87" stroke-width=".0833" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0748" d="m410.56 3.149c-1.1-1.195-5.024-1.513-6.495-1.502-1.429 0-4.618.413-5.428 1.64 1.81 9.416.941 34.373 1.466 50.316 3.739.18 6.458.159 12.372.159 0-.001-1.08-42.255-1.91-50.613z" fill="#75583C"/>
+ <rect height="36.615" width="12.05" stroke="#000" y="52.809" x="400.2" stroke-width=".0816" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0741" d="m315.76 2.641c-1.063-1.227-4.818-1.544-6.221-1.523-1.364 0-4.417.413-5.184 1.672 1.725 9.648.894 35.219 1.396 51.543 3.581.19 6.179.169 11.833.169-.01-.001-1.04-43.281-1.83-51.861z" fill="#75583C"/>
+ <rect height="37.504" width="11.521" stroke="#000" y="53.528" x="305.84" stroke-width=".0808" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0747" d="m234.68 1.604c-1.058-1.259-4.809-1.576-6.21-1.566-1.37 0-4.417.423-5.194 1.714 1.73 9.808.899 35.843 1.396 52.474 3.581.169 6.178.148 11.838.148-.01.001-1.05-44.052-1.84-52.77z" fill="#75583C"/>
+ <rect height="38.181" width="11.521" stroke="#000" y="53.391" x="224.78" stroke-width=".0815" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0721" d="m136.28 2.641c-1.01-1.227-4.597-1.544-5.93-1.523-1.317 0-4.221.413-4.957 1.661 1.645 9.596.846 35.018 1.333 51.236 3.417.19 5.893.169 11.299.169.01 0-.99-43.026-1.74-51.543z" fill="#75583C"/>
+ <rect height="37.271" width="10.998" stroke="#000" y="53.222" x="126.82" stroke-width=".0787" fill="#302D2A"/>
+ <polygon stroke="#000" stroke-width=".0905" points=".147 68.551 453.15 78.951 493.82 53.422 37.979 43.954" fill="#CAAC7E"/>
+ <polygon stroke="#000" stroke-width=".0905" points="1.02 73.513 .147 68.551 453.15 78.951 493.82 53.422 493.47 57.887 453.22 83.711" fill="#594A42"/>
+ <path stroke="#000" stroke-width=".0766" d="m17.122 25.567c-1.153-1.217-5.248-1.523-6.771-1.513-1.502 0-4.824.423-5.66 1.65 1.883 9.469.973 34.584 1.518 50.612 3.909.169 6.744.148 12.912.148.001.001-1.131-42.486-1.999-50.897z" fill="#75583C"/>
+ <rect height="36.816" width="12.563" stroke="#000" y="75.513" x="6.32" stroke-width=".0836" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0766" d="m106 27.101c-1.159-1.206-5.253-1.513-6.776-1.502-1.497 0-4.824.413-5.665 1.65 1.883 9.458.979 34.574 1.529 50.591 3.904.19 6.739.169 12.907.169 0 0-1.13-42.487-2-50.908z" fill="#75583C"/>
+ <rect height="36.827" width="12.574" stroke="#000" y="77.046" x="95.193" stroke-width=".0836" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0766" d="m193.08 30.169c-1.158-1.206-5.258-1.513-6.776-1.502-1.502 0-4.824.413-5.666 1.65 1.883 9.469.979 34.563 1.523 50.602 3.904.18 6.739.159 12.912.159.02-.001-1.12-42.498-1.98-50.909z" fill="#75583C"/>
+ <rect height="36.816" width="12.568" stroke="#000" y="80.125" x="182.27" stroke-width=".0836" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0766" d="m276.56 34.274c-1.158-1.217-5.253-1.523-6.776-1.513-1.496 0-4.824.412-5.665 1.65 1.884 9.458.979 34.573 1.529 50.601 3.909.19 6.733.159 12.906.159-.01 0-1.14-42.486-2-50.897z" fill="#75583C"/>
+ <rect height="36.806" width="12.573" stroke="#000" y="84.219" x="265.74" stroke-width=".0836" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0766" d="m364.84 38.368c-1.158-1.206-5.253-1.523-6.781-1.513-1.492 0-4.819.413-5.66 1.65 1.883 9.469.974 34.574 1.519 50.602 3.909.19 6.744.159 12.917.159-.01 0-1.14-42.487-2-50.898z" fill="#75583C"/>
+ <rect height="36.816" width="12.563" stroke="#000" y="88.313" x="354.02" stroke-width=".0836" fill="#302D2A"/>
+ <path stroke="#000" stroke-width=".0766" d="m457.32 41.436c-1.164-1.217-5.248-1.513-6.781-1.502-1.492 0-4.824.412-5.671 1.65 1.894 9.458.983 34.563 1.534 50.601 3.914.18 6.739.159 12.906.159-.01 0-1.14-42.487-1.99-50.908z" fill="#75583C"/>
+ <rect height="36.816" width="12.558" stroke="#000" y="91.382" x="446.52" stroke-width=".0836" fill="#302D2A"/>
+</svg>

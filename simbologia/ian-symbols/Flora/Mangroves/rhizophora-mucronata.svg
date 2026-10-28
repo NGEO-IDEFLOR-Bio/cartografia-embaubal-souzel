@@ -1,0 +1,128 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="336" height="501" viewBox="0 0 336 501" xml:space="preserve">
+            <title>Rhizophora mucronata</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Rhizophora mucronata</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Rhizophora mucronata</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, mangrove, pneumatophore, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Rhizophora, mucronata</ian_image_library:contains>
+                    <ian_image_library:when>2007-10-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-dbe98c77c5038534f1e0dad58c788836">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Rhizophora mucronata</dc:title>
+                <dc:date>2007-10-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/rhizophora-mucronata/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/rhizophora-mucronata/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, mangrove, pneumatophore, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Malpighiales, Rhizophoraceae, Rhizophora, mucronata</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Rhizophora mucronata</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_dd5a455d68e5ac24a1e149590a2370c9" y2="387.84" gradientUnits="userSpaceOnUse" x2="65.541" y1="387.84" x1="138">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m134.92 294.27c-34.597 44.342-57.495 133.88-68.324 184.92-.461 2.089 4.833 3.21 5.113 1.015 5.127-42.652 39.711-145.85 63.967-179.8 1.68-2.38-.76-6.13-.76-6.13z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_dd5a455d68e5ac24a1e149590a2370c9)"/>
+ <linearGradient id="ian_symbols_c1e2ee99708b1bb4f55d9555e28b8ce7" y2="340.54" gradientUnits="userSpaceOnUse" x2="47.928" y1="340.54" x1="112.07">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m109.15 202.53c-34.597 44.332-49.469 222.77-60.286 273.83-.462 2.045 4.833 3.21 5.121.961 5.114-42.632 31.719-234.79 55.961-268.68 1.7-2.41-.80-6.11-.80-6.11z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_c1e2ee99708b1bb4f55d9555e28b8ce7)"/>
+ <linearGradient id="ian_symbols_9cbd4ebbff3518a4b9fabd59ce8a192f" y2="327.03" gradientUnits="userSpaceOnUse" x2="3.1155" y1="327.03" x1="82.212">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m79.124 175.04c-34.597 44.34-73.504 213.07-74.89 301.32 0 2.132 4.873 3.21 5.134.961 1.734-14.611 4.184-54.991 12.269-96.673.24-1.238 21.157 54.88 20.313 97.965-.04 1.084 4.224-.165 4.297-1.704 2.155-37.559-22.576-111.95-22.302-113.41 15.421-77.563 35.447-140.71 55.935-182.33 1.332-2.64-.756-6.14-.756-6.14z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_9cbd4ebbff3518a4b9fabd59ce8a192f)"/>
+ <linearGradient id="ian_symbols_f858e1d3509570e4cd72b7f2a16dde59" y2="351.24" gradientUnits="userSpaceOnUse" x2="161.38" y1="351.24" x1="317.06">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m164.36 213.77c38.908 35.34 76.583 234.66 81.75 277.29.248 2.219 5.495 1.088 5.074-.99-4.739-22.476-11.285-70.027-21.854-120.57-.302-1.526 77.936 112.32 79.475 124.98.134 1.368 4.404-1.506 4.538-3.424.535-8.354-86.717-134.18-87.005-135.58-13.326-60.038-32.469-121.41-61.162-147.84 0 0-2.96 4.17-.82 6.13z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_f858e1d3509570e4cd72b7f2a16dde59)"/>
+ <linearGradient id="ian_symbols_c02159fc3037457419c1623f49bd0cd1" y2="395.24" gradientUnits="userSpaceOnUse" x2="161.79" y1="395.24" x1="274.51">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m164.98 292.32c-3.507-3.497-3.059 2.962-2.295 9.12.208 1.7 24.022 13.651 50.459 66.571.944 1.95-17.583 61.028-23.606 110.82-.382 3.206-1.841 14.016-1.801 14.189.884 1.667 3.842.967 4.792-4.491 14.411-78.982 27.182-111.49 28.734-109.23 24.563 36.17 43.218 117.77 43.218 117.77 0 4.531 9.431.86 8.065-3.424-24.09-75.52-45.84-139.59-107.56-201.33z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_c02159fc3037457419c1623f49bd0cd1)"/>
+ <linearGradient id="ian_symbols_78d6a5b2db9d1394fd5d5b283f9dec73" y2="424.4" gradientUnits="userSpaceOnUse" x2="145.07" y1="424.4" x1="223.84">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m147.28 352.46c-2.417-2.409-2.122 2.092-1.593 6.419.194 1.205 16.833 9.538 35.267 46.505.663 1.335-12.275 42.628-16.472 77.39-.314 2.295-1.305 9.829-1.258 9.916.623 1.161 2.657.699 3.367-3.123 9.993-55.172 18.948-77.854 20.079-76.315 17.108 25.267 30.133 82.303 30.133 82.303 0 3.163 6.606.579 5.663-2.413-16.87-52.75-32.01-97.5-75.19-140.69z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_78d6a5b2db9d1394fd5d5b283f9dec73)"/>
+ <linearGradient id="ian_symbols_32409844752142e4a5ffa3b8ae0756b4" y2="319.01" gradientUnits="userSpaceOnUse" x2="64.994" y1="319.01" x1="209.61">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m135.59 485.18c-5.87 2.777-9.839-2.864-13.319-3.735.348 0 10.896-146.58 10.896-149.29 2.082-30.625 1.292-90.244-3.581-99.112-10.154-18.323-53.86-47.324-63.893-74.689 2.871-6.911 9.484-7.405 13.232-4.865 10.194 7.201 58.11 61.567 71.436 60.349 3.38-2.229 4.484-12.563 14.852-27.924 15.535-17.399 32.696-40.423 42.89-19.939-30.614 30.056-46.129 70.644-43.72 73.766l-11.13 243.04s-11.79-.38-17.66 2.4z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_32409844752142e4a5ffa3b8ae0756b4)"/>
+ <linearGradient id="ian_symbols_102e5664699e1724d9aef1b15c6537c4" y2="394.5" gradientUnits="userSpaceOnUse" x2="253" y1="366.82" x1="133.14">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m162.55 271.92c26.345 26.967 57.421 182.63 65.74 217.77.489 2.074-1.954.505-5.207-.379 0 0-30.447-156.4-60.747-208.44-1.83-3.16-4.89-12.49.22-8.95z" fill-rule="evenodd" stroke="#231F20" stroke-linecap="round" clip-rule="evenodd" stroke-miterlimit="1" stroke-width="1.7135" fill="url(#ian_symbols_102e5664699e1724d9aef1b15c6537c4)"/>
+ <radialGradient id="ian_symbols_0c250d288c7fb164c5b49cc6ea844433" gradientUnits="userSpaceOnUse" cy="127.15" cx="167.87" r="211.71">
+  <stop stop-color="#7EBB45" offset="0"/>
+  <stop stop-color="#496E6E" offset="1"/>
+ </radialGradient>
+ <path d="m176.67 213.59l-6.7-13.195c-4.411-8.711-17.569 6.78-15.08-21.857 3.059-12.981-1.151-5.337-9.645-1.506-1.887 0-14.457 3.424-15.2-4.026-.461-4.458-2.168-15.739 3.527-19.119 9.786-12.315 14.169 1.462 21.157-5.739.91-9.374-21.907-32.931-4.069-27.19 13.433 2.087 10.234-15.525-.301-20.853-7.001-5.706-12.697-2.948-14.899.408h-.248c-2.55 5.127-9.257 15.535-3.661 15.997 11.646 1.034 6.813 22.727 1.271 22.931l-7.282-6.362c-2.088-4.253-11.874-4.705-10.99 8.494 5.556 13.145 12.122 23.359 1.807 32.25-2.557 0-8.219-3.574-11.432-.622-3.982 3.617-2.035 16.17-4.531 23.155-5.984 16.827-32.877 11.077-20.595-35.256.241-1.054-.763-6.382-3.246-5.295-9.511 4.046-2.47 24.855-12.082 21.228-1.626-.625-1.626-5.706-3.702-10.819-5.254-13.607-7.75 7.61-6.405 11.66 1.432 4.501-1.004 14.069-8.032 9.989-3.949-2.326-4.264-16.977-10.368-12.938-6.004 4.24 3.614 17.643-6.352 26.341-9.731 8.708-14.136-15.481-8.848-20.605 5.401-5.328 3.661-11.486-6.76-8.279-10.194 3.166-7.028-24.233-.689-21.689 6.405 2.57 16.947 3.196 13.976-9.538-1.285-5.739-12.115 1.453-13.976-.207-9.504-9.16 10.066-31.692 10.066-31.692s.884-4.648-.281-7.188c-1.044-2.583-1.753-3.617-3.507-5.953-2.195-3.209-10.702 2.744-13.493.839-10.038.214-2.876-14.859-1.296-27.841 1.593-12.985 12.75-28.258 23.988-23.597 11.238 4.692 21.646 10.612 23.219-5.739 1.606-16.361 11.96-30.38 36.645-31.659 24.731-1.271 23.111 17.653 37.548 19.979 14.524 2.336 9.698-19.979 24.149-25.708 14.491-5.75 34.35 5.953 40.808 15.297 6.405 9.357 9.022 8.711 24.223-5.123 12.864-11.646 24.122-4.662 40.039 1.302 11.706 4.243 13.908 19.119 14.617 20.391 1.634 3.413 2.919 6.6 2.617 10.204-1.98 24.44 4.538 27.204 9.21 21.662 1.339-1.476 1.66-4.458 5.462-7.837 0 0 4.939-3.618 8.674 1.054 2.685 3.166 2.249 11.907 2.249 11.907 0 4.434-7.891 19.765 2.062 19.765v.408c10.308-.214 6.392-1.505 15.14-3.166 7.336 0 9.833 5.75 9.572 14.651-.322 3.822-2.236 9.527-5.308 9.527l-3.221.258c-22.066-7.038-30.387 13.156-11.987 21.445 12.162 2.53 26.773-18.687 29.229 9.99-1.466 10.605-2.911 10.4-15.02 17.191-2.223 4.705-.636 6.191 2.443 7.871 2.952 0 7.489 2.326 7.489 5.318 1.627 3.842 1.747 9.956-4.076 15.535-12.456 5.07-11.586-7.872-19.905-16.569-10.24-5.124-5.535 13.986-.161 21.435 1.613 10.408-4.952 10.408-10.608 5.09-1.211-3.424-8.373-9.13-8.373-9.13-3.206-1.074-8.333.432-8.333 6.158-.287 10.164 1.292 15.083 7.912 17.205 2.75.83 19.878 5.75 19.878 15.521.662 11.455-4.967 26.98-16.083 21.896-1.922 2.336-10.663-18.299-15.201-24.437-1.325-1.958-5.113-.86-5.113-.86-2.965 0-6.131 10.194-10.669 15.264-4.069 4.715-8.902 5.793-11.693-3.789-2.623-22.767 4.09-12.573-2.951-24.223-3.333-3.618-8.038 2.583-8.038 4.458-3.374 3.196-10.776 30.38-24.813 3.413-14.04-27.02-20.01.63-33.76-7.87z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_0c250d288c7fb164c5b49cc6ea844433)"/>
+ <linearGradient id="ian_symbols_1f17dbf8eaf5c52499078682cb27020d" y2="409.45" gradientUnits="userSpaceOnUse" x2="89.569" y1="409.45" x1="141.22">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m138.63 338.06c-34.624 44.353-37.475 89.524-48.298 140.55-.462 2.128 4.839 3.205 5.127 1.001 5.126-42.589 19.691-101.5 43.92-135.46 1.73-2.37-.75-6.09-.75-6.09z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_1f17dbf8eaf5c52499078682cb27020d)"/>
+ <linearGradient id="ian_symbols_99ffc9f7517a0a145919c2d074d85710" y2="378.93" gradientUnits="userSpaceOnUse" x2="24.525" y1="378.93" x1="137.27">
+  <stop stop-color="#7C766B" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path d="m25.01 477.41c-1.339 4.199 8.072 7.914 8.072 3.336 0 0 18.654-81.6 43.211-117.77 1.525-2.259 14.37 30.304 28.68 109.22 1.011 5.502 3.929 6.181 4.886 4.501.04-.117-1.506-10.95-1.827-14.146-5.997-49.83-24.57-108.91-23.621-110.86 26.438-52.879 50.293-64.83 50.507-66.53.756-6.211 1.151-12.66-2.303-9.16-61.775 61.77-83.508 125.81-107.61 201.41z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7135" fill="url(#ian_symbols_99ffc9f7517a0a145919c2d074d85710)"/>
+</svg>

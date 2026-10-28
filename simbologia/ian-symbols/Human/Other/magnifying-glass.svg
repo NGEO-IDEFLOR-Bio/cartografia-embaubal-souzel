@@ -1,0 +1,156 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="481" viewBox="0 0 500 481" xml:space="preserve">
+            <title>Magnifying glass</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Magnifying glass</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a magnifying glass</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>lens, magnify, image, education, reading</ian_image_library:contains>
+                    <ian_image_library:when>2012-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-653c282cfb650334198c3ed4131d006c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Magnifying glass</dc:title>
+                <dc:date>2012-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/magnifying-glass-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/magnifying-glass-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>lens, magnify, image, education, reading</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a magnifying glass</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<linearGradient id="ian_symbols_4288c24459554684c10fd495c7388419" gradientUnits="userSpaceOnUse" x1="343.7759" y1="385.9648" x2="407.9339" y2="320.8586">
+	<stop  offset="0.0368" style="stop-color:#000000"/>
+	<stop  offset="0.5031" style="stop-color:#414042"/>
+	<stop  offset="0.5402" style="stop-color:#454546"/>
+	<stop  offset="0.5798" style="stop-color:#515153"/>
+	<stop  offset="0.6205" style="stop-color:#636466"/>
+	<stop  offset="0.6619" style="stop-color:#7A7C7E"/>
+	<stop  offset="0.7036" style="stop-color:#96989B"/>
+	<stop  offset="0.7239" style="stop-color:#A7A9AC"/>
+	<stop  offset="0.7677" style="stop-color:#858789"/>
+	<stop  offset="0.8128" style="stop-color:#68696B"/>
+	<stop  offset="0.8576" style="stop-color:#4E4E50"/>
+	<stop  offset="0.9013" style="stop-color:#323233"/>
+	<stop  offset="0.9435" style="stop-color:#121212"/>
+	<stop  offset="0.9823" style="stop-color:#000000"/>
+</linearGradient>
+<path fill="url(#ian_symbols_4288c24459554684c10fd495c7388419)" d="M245.128,266.969c0,0,194.342,207.046,203.965,212.597c9.621,5.551,29.895-3.25,42.027-18.417
+	c12.134-15.166,9.343-27.974,6.066-40.038c-3.275-12.063-209.062-198.979-209.062-198.979l-23.888,19.413L245.128,266.969z"/>
+<linearGradient id="ian_symbols_27580d55f0e4a6a4a902093ef5153e76" gradientUnits="userSpaceOnUse" x1="235.8599" y1="270.6836" x2="292.0686" y2="213.6441">
+	<stop  offset="0.0368" style="stop-color:#BCBEC0"/>
+	<stop  offset="0.4049" style="stop-color:#D1D3D4"/>
+	<stop  offset="0.5653" style="stop-color:#D3D4D6"/>
+	<stop  offset="0.6257" style="stop-color:#D8DADB"/>
+	<stop  offset="0.6692" style="stop-color:#E2E3E4"/>
+	<stop  offset="0.7044" style="stop-color:#F1F1F2"/>
+	<stop  offset="0.7239" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.7349" style="stop-color:#F6F7F7"/>
+	<stop  offset="0.776" style="stop-color:#E6E6E7"/>
+	<stop  offset="0.8231" style="stop-color:#DADBDD"/>
+	<stop  offset="0.8812" style="stop-color:#D3D5D6"/>
+	<stop  offset="0.9823" style="stop-color:#D1D3D4"/>
+</linearGradient>
+<path fill="url(#ian_symbols_27580d55f0e4a6a4a902093ef5153e76)" d="M234.351,257.277l43.838-42.236c0,0-1.819-5.952,7.336,0.72c3.878,2.828,2.6,6.371,2.6,6.371
+	s-2.352,12.74-16.306,26.997c-13.952,14.255-27.458,21.479-31.241,17.84C236.793,263.328,234.351,257.277,234.351,257.277z"/>
+<linearGradient id="ian_symbols_ca0ce05f5a02ec44d12491405a44f53c" gradientUnits="userSpaceOnUse" x1="147.585" y1="-15.4629" x2="148.7204" y2="353.532">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="0.2818" style="stop-color:#080809"/>
+	<stop  offset="0.4021" style="stop-color:#202021"/>
+	<stop  offset="0.4916" style="stop-color:#3B3A3C"/>
+	<stop  offset="0.5658" style="stop-color:#4E4E50"/>
+	<stop  offset="0.6299" style="stop-color:#626365"/>
+	<stop  offset="0.6614" style="stop-color:#6D6E71"/>
+	<stop  offset="0.6705" style="stop-color:#67686A"/>
+	<stop  offset="0.7049" style="stop-color:#525254"/>
+	<stop  offset="0.7434" style="stop-color:#3F3E40"/>
+	<stop  offset="0.7878" style="stop-color:#232323"/>
+	<stop  offset="0.8433" style="stop-color:#0A0A0A"/>
+	<stop  offset="0.9444" style="stop-color:#000000"/>
+</linearGradient>
+<ellipse fill="url(#ian_symbols_ca0ce05f5a02ec44d12491405a44f53c)" cx="148.093" cy="149.807" rx="148.093" ry="142.996"/>
+<linearGradient id="ian_symbols_1246f309552c80f4756c3ffb4c8bd89f" gradientUnits="userSpaceOnUse" x1="35.8052" y1="233.1401" x2="325.617" y2="20.5448">
+	<stop  offset="0.0177" style="stop-color:#D1D3D4"/>
+	<stop  offset="0.0224" style="stop-color:#C4C6C8"/>
+	<stop  offset="0.0321" style="stop-color:#AEB0B2"/>
+	<stop  offset="0.0433" style="stop-color:#9C9EA1"/>
+	<stop  offset="0.0563" style="stop-color:#8F9294"/>
+	<stop  offset="0.0725" style="stop-color:#87898B"/>
+	<stop  offset="0.0951" style="stop-color:#828486"/>
+	<stop  offset="0.1579" style="stop-color:#808285"/>
+	<stop  offset="0.1937" style="stop-color:#747578"/>
+	<stop  offset="0.2553" style="stop-color:#636466"/>
+	<stop  offset="0.3278" style="stop-color:#545557"/>
+	<stop  offset="0.4169" style="stop-color:#49494B"/>
+	<stop  offset="0.5405" style="stop-color:#434244"/>
+	<stop  offset="0.8686" style="stop-color:#414042"/>
+</linearGradient>
+<ellipse fill="url(#ian_symbols_1246f309552c80f4756c3ffb4c8bd89f)" cx="158.69" cy="142.996" rx="148.093" ry="142.995"/>
+<radialGradient id="ian_symbols_64e82d5d96e71214a12817979b79ec83" cx="171.0176" cy="65.8794" r="138.9763" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.1963" style="stop-color:#DFF3FD"/>
+	<stop  offset="0.4049" style="stop-color:#C8EAF5"/>
+	<stop  offset="0.6751" style="stop-color:#C5E1ED"/>
+	<stop  offset="0.9632" style="stop-color:#C4D6E5"/>
+</radialGradient>
+<ellipse fill="url(#ian_symbols_64e82d5d96e71214a12817979b79ec83)" cx="158.041" cy="142.656" rx="141.388" ry="136.522"/>
+<linearGradient id="ian_symbols_4c3400cc43959d9411f1a68b1c33ab6a" gradientUnits="userSpaceOnUse" x1="82.0215" y1="310.8516" x2="352.1238" y2="152.7426" gradientTransform="matrix(0.9949 -0.1005 0.1005 0.9949 -5.395 -22.6004)">
+	<stop  offset="0" style="stop-color:#C4D6E5"/>
+	<stop  offset="0.3433" style="stop-color:#C9DBEA"/>
+	<stop  offset="0.7293" style="stop-color:#DBEEF9"/>
+	<stop  offset="0.7772" style="stop-color:#DFF3FD"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_4c3400cc43959d9411f1a68b1c33ab6a)" d="M78.992,236.615c0,0,57.966,8.979,112.962-11.412c54.997-20.391,100.113-93.419,100.113-93.419
+	s3.152,98.961-82.905,128.196C123.106,289.217,78.992,236.615,78.992,236.615z"/>
+</svg>

@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="179" viewBox="0 0 502 179" xml:space="preserve">
+            <title>Coastline 3D: river to ocean</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 3D: river to ocean</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with river to ocean gradient</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline river, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8012e3b10912750469124ec2fd10c3ec">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 3D: river to ocean</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-3d-river-to-ocean/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-3d-river-to-ocean/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline river, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with river to ocean gradient</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polyline stroke="#2563AF" stroke-width=".5" points="109.48 53.275 408.48 62.42 496.09 14.309 500.24 .4 166.4 .341 75.396 51.555 110.09 51.555" fill="#52BFEE"/>
+ <path stroke="#41AD49" stroke-width=".5" d="m.239 41.635l72.33-41.294h94.329s-11.831 6.225-18.964 18.632c-7.13 12.407-54.922 29.415-54.922 29.415" fill="#B4D99F"/>
+ <path stroke="#2563AF" stroke-width=".5" d="m68.954 48.776c5.497-.443 15.705-3.624 15.705-3.624s3.402 4.098 14.701 1.19c6.076 2.928 9.418-.421 9.418-.421s2.811 2.706 8.934 2.403c6.154-.326 10.685-3.5 10.685-3.5s6.592 4.2 12.027 3.5c5.467-.745 10.279-3.57 10.279-3.57s4.437 3.781 11.121 3.642c6.687-.142 10.716-3.502 10.716-3.502s5.998 3.804 11.685 3.572c5.685-.212 10.558-3.572 10.558-3.572s6.594 4.062 11.498 3.431c4.937-.653 10.466-3.5 10.466-3.5s4.936 3.943 11.371 3.5c6.403-.488 10.559-3.57 10.559-3.57s5.561 4.084 11.465 3.642c5.874-.468 10.686-3.642 10.686-3.642s5.905 4.271 11.591 3.642c5.653-.654 10.496-3.502 10.496-3.502s6.778 4.365 12.746 3.36c6.028-1.072 9.404-3.5 9.404-3.5s6.871 4.271 11.65 3.642c4.812-.654 10.5-3.571 10.5-3.571s4.403 3.711 11.37 3.5c6.967-.256 10.467-3.687 10.467-3.687s6.154 4.06 11.371 3.758c5.249-.327 10.778-3.431 10.778-3.431s3.874 3.104 10.842 3.289c6.966.142 11.278-3.616 11.278-3.616s4.965 3.828 11.307 3.431c6.344-.397 7.496-5.197 7.496-4.753v115.3l-342.77-.562c-.102-.01-.436-109.28-.436-109.28z" fill="#52BFEE"/>
+ <path stroke="#231F20" stroke-width=".5" d="m.25 41.635s54.331.333 74.238.223c25.731-.145 33.541 10.623 46.775 20.84 6.701 5.172 13.404 14.563 31.313 26.449 11.788 7.822 29.625 29.522 55.488 35.351 23.577 5.31 125.42 15.827 148.76 17.152 26.217 1.49 33.563 1.044 55.301 3.706v32.616l-411.81-.28-.06-136.06z" fill="#EDDFD2"/>
+ <path stroke="#2563AF" stroke-width=".5" d="m412.12 148.36l88.115-56.103v-91.857c-.15.073.116 8.075-9.717 6.351 0-.088-1.531 7.516-11.316 5.694.049-.097-2.48 8.553-12.416 6.803-.101.02-3.627 7.625-13.513 5.866-.104-.023-2.63 8.626-12.463 6.855-.052-.032-3.581 8.573-13.417 6.803 0-.027-4.852 4.609-7.004 4.873-2.15.264-6.057-.599-8.27-.268v104.98z" fill="#4DBEEE"/>
+ <polygon stroke="#231F20" stroke-width=".5" stroke-miterlimit="3.8637" points="500.24 119.47 412.12 177.97 412.12 145.36 500.24 89.772" fill="#EDDFD2"/>
+ <path d="m130.5 32.969s-2.816-11.498-16.569-11.498c-13.749 0-11.564 7.965-32.322 8.554-12.017.343-30.344-9.896-34.398-15.135l5.635-3s17.047 10.435 25.799 11.056c8.75.622 16.233-2.293 25.204-5.9 8.864-3.564 17.939-7.137 26.689-2.785 8.75 4.354 14.921 11.131 14.921 11.131" fill="#52BFEE"/>
+</svg>

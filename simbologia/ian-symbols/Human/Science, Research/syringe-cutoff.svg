@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="357" height="502" viewBox="0 0 357 502" xml:space="preserve">
+            <title>Syringe cutoff</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Syringe cutoff</ian_image_library:title>
+                <ian_image_library:descr>Illustration of syringe cutoff</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, samples, syringe, cutoff, medical, supply, tube, injection</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-eef8d658c03aa29415a11b5784750b90">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Syringe cutoff</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/syringe-cutoff/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/syringe-cutoff/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, samples, syringe, cutoff, medical, supply, tube, injection</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of syringe cutoff</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="141.3 215.39 220.92 263.37 81.57 496.98 65.324 500.34 4.284 463.38 .268 447.15" fill="#E6E7E8"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="199.73 145.58 220.54 158.18 288.77 44.314 282.51 40.577 280.09 43.564 277.1 45.717 272.71 48.137 268.71 50.183 264.51 50.558 260.69 50.375 257.31 50.097" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="231.93 164.99 300.52 51.318 292.32 46.178 223.72 159.96" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="255.91 179.56 235.12 166.94 303.52 53.17 309.77 56.908 308.29 60.56 307.9 64.19 307.72 67.746 307.72 72.511 309.5 77.726 311.36 80.896 313.5 84.162" fill="#fff"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="4.284 463.38 .268 447.15 89.505 299.95 172.76 161.35 170.14 154.71 125.9 128.13 137.76 108.52 195.72 142.96 255.07 43.747 260.77 44.786 266.56 44.122 270.57 42.172 275.7 39.549 279.17 35.715 248.36 17.156 257.87 2.121 353.56 59.146 344.77 75.113 316.29 58.3 313.5 65.775 313.5 70.53 314.9 75.948 319.94 83.98 260.69 182.35 315.27 215.3 303.52 234.99 260.5 209.14 254.52 210.16 81.57 496.98 64.768 499.97" fill="none"/>
+ <line y2="499.97" x1="4.284" x2="64.768" stroke="#231F20" y1="463.38" stroke-width=".5" fill="none"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="345.33 76.698 355.33 59.896 256.48 .343 246.5 16.953" fill="#E6E7E8"/>
+ <line y2="209.99" x1="170.14" x2="262.08" stroke="#231F20" y1="154.71" stroke-width=".5" fill="none"/>
+ <line y2="182.35" x1="187.51" x2="260.69" stroke="#231F20" y1="138.1" stroke-width=".5" fill="none"/>
+ <line y2="210.16" x1="172.57" x2="254.52" stroke="#231F20" y1="160.8" stroke-width=".5" fill="none"/>
+ <path d="m277.75 36.379l38.381 23.142-38.38-23.142z" fill="#fff"/>
+ <line y2="59.521" x1="277.75" x2="316.13" stroke="#231F20" y1="36.379" stroke-width=".5" fill="none"/>
+</svg>

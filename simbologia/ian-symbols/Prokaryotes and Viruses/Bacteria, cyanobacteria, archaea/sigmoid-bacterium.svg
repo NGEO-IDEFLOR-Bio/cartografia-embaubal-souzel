@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="170" viewBox="0 0 502 170" xml:space="preserve">
+            <title>sigmoid bacterium</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>sigmoid bacterium</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a sigmoid bacterium</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>sigmoid, bacterium, Bacteria</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-51f9972053fe3c147925767f9c35ac54">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>sigmoid bacterium</dc:title>
+                <dc:date>2003-11-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/sigmoid-bacterium/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/sigmoid-bacterium/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>sigmoid, bacterium, Bacteria</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a sigmoid bacterium</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".5097" d="m379.46 84.688c21.917 1.587 35.081-10.122 36.679-21.381 1.575-11.259-29.293-16.041-42.784-25.539-27.882-19.598.711-30.649 24.751-28.953 19.729 1.4 33.822-7.354 52.61-7.518 19.412-.186 33.101 10.559 49.536 18.481" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5097" d="m.806 70.879c-7.408-30.091 61.473-64.526 113.12-70.271 51.664-5.745 129.16 60.27 163.59 74.626 34.446 14.345 83.73-5.438 103.89 2.856 20.15 8.305-20.647 66.015-80.918 86.116-60.27 20.079-130.29-24.511-164.17-55.302-33.86-30.82-128.11-7.93-135.51-38.031z" fill="#F9EC85"/>
+ <path stroke="#EA2B91" stroke-width=".6797" d="m161.54 50.768c25.211 6.598 67.646 29.632 70.25 45.257 2.593 15.625-22.738 16.49-44.557 7.813-21.808-8.688-61.55-23.548-64.538-51.243-2.97-27.686 13.63-8.395 38.85-1.829z" fill="none"/>
+</svg>

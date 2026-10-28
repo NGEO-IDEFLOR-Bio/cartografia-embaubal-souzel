@@ -1,0 +1,123 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="180" viewBox="0 0 502 180" xml:space="preserve">
+            <title>Petri dish</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Petri dish</ian_image_library:title>
+                <ian_image_library:descr>Illustration of petri dish</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, petri, dish, samples, tissue, culture</ian_image_library:contains>
+                    <ian_image_library:when>2004-08-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-afae5e781188210499bb3b646a00d614">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Petri dish</dc:title>
+                <dc:date>2004-08-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/petri-dish/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/petri-dish/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, petri, dish, samples, tissue, culture</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of petri dish</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_c051bef11920b074750b8a133bd3b375" y2="111.7" gradientUnits="userSpaceOnUse" x2="499.5" y1="111.7" x1=".25">
+  <stop stop-color="#D1D3D4" offset="0"/>
+  <stop stop-color="#D4D6D6" offset=".101"/>
+  <stop stop-color="#DCDEDF" offset=".1667"/>
+  <stop stop-color="#EBECED" offset=".2222"/>
+  <stop stop-color="#fff" offset=".2697"/>
+  <stop stop-color="#F3F4F4" offset=".3039"/>
+  <stop stop-color="#E0E2E2" offset=".3781"/>
+  <stop stop-color="#D5D7D8" offset=".4541"/>
+  <stop stop-color="#D1D3D4" offset=".5337"/>
+  <stop stop-color="#CDCFD0" offset=".6333"/>
+  <stop stop-color="#C2C4C6" offset=".7247"/>
+  <stop stop-color="#B0B2B3" offset=".8128"/>
+  <stop stop-color="#96989A" offset=".8984"/>
+  <stop stop-color="#808285" offset=".9551"/>
+ </linearGradient>
+ <path opacity=".5" d="m249.91 178.76c137.89 0 249.59-30.009 249.59-67.018 0-37.065-111.7-67.107-249.59-67.107-137.86.004-249.66 30.046-249.66 67.107 0 37.01 111.8 67.02 249.66 67.02z" fill="url(#ian_symbols_c051bef11920b074750b8a133bd3b375)"/>
+ <linearGradient id="ian_symbols_b7fa38222bad36e4e5fd7f3bd7a946a7" y2="57.594" gradientUnits="userSpaceOnUse" x2=".2505" y1="57.594" x1="500.25">
+  <stop stop-color="#D1D3D4" offset="0"/>
+  <stop stop-color="#D4D6D6" offset=".101"/>
+  <stop stop-color="#DCDEDF" offset=".1667"/>
+  <stop stop-color="#EBECED" offset=".2222"/>
+  <stop stop-color="#fff" offset=".2697"/>
+  <stop stop-color="#F3F4F4" offset=".312"/>
+  <stop stop-color="#E0E2E2" offset=".4035"/>
+  <stop stop-color="#D5D7D8" offset=".4973"/>
+  <stop stop-color="#D1D3D4" offset=".5955"/>
+  <stop stop-color="#CDCFD0" offset=".6725"/>
+  <stop stop-color="#C2C4C6" offset=".7432"/>
+  <stop stop-color="#B0B2B3" offset=".8113"/>
+  <stop stop-color="#96989A" offset=".8775"/>
+  <stop stop-color="#808285" offset=".9213"/>
+ </linearGradient>
+ <path opacity=".5" d="m499.5 114.94c0-37.053-114.86-69.691-251.64-69.691-136.73-.002-247.61 30.029-247.61 67.081v-45.006c0-37.032 111.97-67.074 250.03-67.074 138.08 0 249.97 30.042 249.97 67.074l-.75 47.616z" fill="url(#ian_symbols_b7fa38222bad36e4e5fd7f3bd7a946a7)"/>
+ <linearGradient id="ian_symbols_856bd3f75615b2647514960a3ec6c25f" y2="122.74" gradientUnits="userSpaceOnUse" x2="500.25" y1="122.74" x1=".25">
+  <stop stop-color="#D1D3D4" offset="0"/>
+  <stop stop-color="#D4D6D6" offset=".101"/>
+  <stop stop-color="#DCDEDF" offset=".1667"/>
+  <stop stop-color="#EBECED" offset=".2222"/>
+  <stop stop-color="#fff" offset=".2697"/>
+  <stop stop-color="#F6F7F7" offset=".3083"/>
+  <stop stop-color="#E3E5E5" offset=".4192"/>
+  <stop stop-color="#D8DADB" offset=".5327"/>
+  <stop stop-color="#D4D6D7" offset=".6517"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path opacity=".5" d="m500.25 66.725c0 37.032-111.88 67.041-249.97 67.041-138.06-.01-250.03-30.01-250.03-67.045v45.019c0 37.009 110.88 67.018 247.6 67.018 136.78 0 251.64-30.253 251.64-67.251l.76-44.785z" fill="url(#ian_symbols_856bd3f75615b2647514960a3ec6c25f)"/>
+ <path stroke="#58595B" stroke-width=".5" d="m499.5 111.51c0-37.053-114.86-66.264-251.64-66.264-136.73.001-247.61 30.032-247.61 67.084v-45.006c0-37.032 111.97-67.074 250.03-67.074 138.08 0 249.97 30.042 249.97 67.074l-.75 44.186z" fill="none"/>
+ <path stroke="#58595B" stroke-width=".5" d="m249.91 178.76c137.89 0 249.59-30.009 249.59-67.018 0-37.065-111.7-67.107-249.59-67.107-137.86.004-249.66 30.046-249.66 67.107 0 37.01 111.8 67.02 249.66 67.02z" fill="none"/>
+ <path stroke="#58595B" stroke-width=".5" d="m500.25 66.725c0 37.032-111.88 67.041-249.97 67.041-138.06-.01-250.03-30.01-250.03-67.045v45.019c0 37.009 110.88 67.018 247.6 67.018 136.78 0 251.64-30.253 251.64-67.251l.76-44.785z" fill="none"/>
+</svg>

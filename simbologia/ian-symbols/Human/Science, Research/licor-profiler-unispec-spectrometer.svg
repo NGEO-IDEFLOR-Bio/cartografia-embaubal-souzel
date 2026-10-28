@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="321" viewBox="0 0 502 321" xml:space="preserve">
+            <title>Licor profiler unispec spectrometer</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Licor profiler unispec spectrometer</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Licor profiler unispec spectrometer</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, licor, profiler, unispec, spectrometer, measure, gas, exchange</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-10efa0cfa83519b4d586a1e9b0710837">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Licor profiler unispec spectrometer</dc:title>
+                <dc:date>2003-11-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/licor-profiler-unispec-spectrometer/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/licor-profiler-unispec-spectrometer/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, licor, profiler, unispec, spectrometer, measure, gas, exchange</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Licor profiler unispec spectrometer</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m194.98 262.51c0 31.317-43.535 56.724-97.241 56.724-53.711 0-97.241-25.407-97.241-56.724 0-31.337 43.529-56.724 97.241-56.724 53.711 0 97.241 25.38 97.241 56.72z" fill="#231F20"/>
+ <rect y="68.028" x=".5" height="194.48" width="194.48" fill="#231F20"/>
+ <path stroke="#999B9E" d="m194.98 57.224c0 31.316-43.535 56.724-97.241 56.724-53.71 0-97.239-25.41-97.239-56.726 0-31.337 43.529-56.724 97.241-56.724 53.709 0 97.239 25.387 97.239 56.724z" fill="#231F20"/>
+ <path d="m57.814 50.471c0 4.706-7.639 8.525-17.051 8.525-9.391 0-17.035-3.82-17.035-8.525 0-4.706 7.645-8.504 17.035-8.504 9.412 0 17.051 3.798 17.051 8.504z" fill="#fff"/>
+ <rect y="46.82" x="195.29" height="159.41" width="285.97" fill="#D1D3D4"/>
+ <path d="m500.5 67.691c0 3.439-4.802 6.246-10.71 6.246-5.936 0-10.741-2.807-10.741-6.246 0-3.461 4.806-6.268 10.741-6.268 5.9 0 10.71 2.807 10.71 6.268z" fill="#231F20"/>
+ <rect y="46.229" x="479.04" height="21.461" width="21.451" fill="#231F20"/>
+ <path d="m500.5 45.048c0 3.439-4.802 6.246-10.71 6.246-5.936 0-10.741-2.807-10.741-6.246 0-3.461 4.806-6.268 10.741-6.268 5.9 0 10.71 2.807 10.71 6.268z" fill="#231F20"/>
+ <line y2="46.82" x2="480.26" stroke="#ABADB0" y1="46.82" x1="195.29" fill="none"/>
+</svg>

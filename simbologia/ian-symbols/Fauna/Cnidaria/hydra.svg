@@ -1,0 +1,126 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="399" viewBox="0 0 500 399" xml:space="preserve">
+            <title>Hydra</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Hydra</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Hydra</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Hydra, Cnidaria, polyp, Medusozoa, Hydrazoa, Leptolinae, Anthomedusae, Capitata, Hydridae</ian_image_library:contains>
+                    <ian_image_library:when>2005-05-03</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c6a2c6cf78d96ad4f19f2e9e42e7fe6e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Hydra</dc:title>
+                <dc:date>2005-05-03</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/hydra/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/hydra/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Hydra, Cnidaria, polyp, Medusozoa, Hydrazoa, Leptolinae, Anthomedusae, Capitata, Hydridae</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Hydra</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_8b216a5c704e49047d06cb56b9757755">
+	<g>
+			<linearGradient id="ian_symbols_997f9d3181e63374ddba65566efb3bc2" gradientUnits="userSpaceOnUse" x1="2033.067" y1="2378.9753" x2="2033.067" y2="1588.6942" gradientTransform="matrix(0.1977 -0.0245 -0.0245 -0.1977 -126.9479 571.7511)">
+			<stop  offset="0.1732" style="stop-color:#D7BA9C"/>
+			<stop  offset="0.905" style="stop-color:#D8C0A3"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_997f9d3181e63374ddba65566efb3bc2)" d="M225.894,209.117c0,0-43.058-26.825-50.357-62.831c-7.285-35.982,22.437-70.88,32.354-82.527
+			c9.908-11.628,21.795-14.991,36.001-14.864c14.213,0.133,26.074,4.344,26.54,8.059c0.473,3.721-18.505-4.324-25.966-3.392
+			c-7.473,0.907-18.052-0.608-29.129,9.285c-11.069,9.878-43.124,48.865-35.028,83.807c8.126,34.943,48.734,57.34,48.734,57.34
+			l-3.14,5.118L225.894,209.117z"/>
+			<linearGradient id="ian_symbols_3bb14444647b31846da8c7f682856c88" gradientUnits="userSpaceOnUse" x1="887.795" y1="1733.1444" x2="1854.9606" y2="1733.1444" gradientTransform="matrix(0.199 -0.009 -0.009 -0.199 -134.6716 560.0416)">
+			<stop  offset="0.0169" style="stop-color:#B4A393"/>
+			<stop  offset="0.5475" style="stop-color:#D7BA9C"/>
+			<stop  offset="0.905" style="stop-color:#D8C0A3"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_3bb14444647b31846da8c7f682856c88)" d="M219.923,221.906c0,0-92.216-43.761-117.744-47.305c-25.54-3.544-80.228,13.025-76.402,14.736
+			c3.839,1.701,47.37-12.476,73.787-9.908c26.438,2.554,119.715,49.085,119.715,49.085l0.65-6.613L219.923,221.906z"/>
+			<linearGradient id="ian_symbols_82e488df4e391344cd56466c59f7f027" gradientUnits="userSpaceOnUse" x1="695.3565" y1="1777.7572" x2="3205.3967" y2="1777.7572" gradientTransform="matrix(0.1992 0 0 -0.1992 -138.515 553.645)">
+			<stop  offset="0.0169" style="stop-color:#B4A393"/>
+			<stop  offset="0.3073" style="stop-color:#D7BA9C"/>
+			<stop  offset="0.7039" style="stop-color:#D8C0A3"/>
+			<stop  offset="1" style="stop-color:#B29673"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_82e488df4e391344cd56466c59f7f027)" d="M483.711,386.358c3.284-0.118,14.802-2.554,15.971-4.221c1.177-1.696-1.318-5.28-0.939-7.525
+			c0.385-2.24-1.973-1.78-2.811-3.755c-0.841-1.956,0.547-9.177-7.518-19.716c-8.057-10.54-22.28-22.256-43.198-32.864
+			c-20.883-10.603-62.026-36.629-86.351-47.874c-24.356-11.25-86.189-39.747-93.9-43.183c-7.703-3.436-14.833-3.5-22.537-14.083
+			c-7.696-10.589-17.003-21.207-22.52-30.04c-5.542-8.858-55.593-62.841-44.131-97.655c10.294-58.472,69.164-76.713,73.213-78.865
+			c4.081-2.142,1.731-6.373,0-6.569c-1.696-0.196-2.311,3.819-3.738,4.696c-1.419,0.887-57.45,13.025-72.292,68.537
+			c-10.01,34.585,0.897,50.943,4.684,60.095c3.812,9.157,30.607,46.463,35.683,53.507c5.096,7.054,15.863,21.712,12.212,21.594
+			c-3.655-0.098-104.134-76.605-112.673-80.743c-8.53-4.118-17.19-10.603-26.283-13.138c-9.106-2.54-38.489-1.882-38.489-1.882
+			s-7.441,0.51-7.515,1.882c-0.069,1.363,10.907,2.51,10.907,2.51s20.342,0.971,32.925,2.309
+			c16.167,1.74,116.916,80.223,121.406,83.434c4.515,3.206,10.226,9.064,9.395,12.207c-0.845,3.127-3.954,7.98-14.086,7.51
+			c-10.145-0.48-91.856-9.348-107.974-5.642c-16.113,3.721-32.874,6.701-52.58,14.089c-19.724,7.393-34.491,26.712-36.626,33.8
+			c-2.164,7.093-5.792,12.839-2.826,13.143c2.973,0.304,6.564,0.275,5.63-4.706c-0.912-4.961,8.907-27.481,37.55-37.541
+			c13.515-6.118,21.199-6.897,48.835-12.216c27.648-5.314,110.166,7.353,114.536,9.392c4.353,2.05,7.922,4.167,4.696,6.574
+			c-3.223,2.407-59.203,8.005-75.112,12.211c-15.896,4.206-59.946,24.54-68.542,31.918c-8.589,7.383-23.614,16.613-24.418,46.011
+			c-1.939,18.54-4.534,70.145-1.873,69.468c2.677-0.667,4.407-51.791,5.645-66.649c1.223-14.878,9.042-36.428,24.41-44.139
+			c15.368-7.711,39.673-23.638,68.537-30.966c28.851-7.353,77.752-10.3,84.498-12.216c6.731-1.932,3.52,1.064,17.841,1.872
+			c14.309,0.819,70.49,30.687,89.189,39.438c18.694,8.745,46.6,22.177,54.445,27.226c7.86,5.054,17.145,17.05,23.471,19.711
+			c6.334,2.672,8.422,4.402,14.092,9.398c5.684,4.966,12.53,10.476,18.755,13.143c6.27,2.672,14.726,8.461,16.922,11.26
+			c2.203,2.789,8.78,7.157,9.395,9.392c0.603,2.231-3.074,4.549-0.954,6.569c2.14,2.024,11.741,3.432,15.03,3.294H483.711z"/>
+			<linearGradient id="ian_symbols_4aee1cee5a1c9cf4cd32a0005268262b" gradientUnits="userSpaceOnUse" x1="1931.116" y1="1285.2" x2="3173.4822" y2="1285.2" gradientTransform="matrix(0.1992 0 0 -0.1992 -138.515 553.645)">
+			<stop  offset="0.0169" style="stop-color:#B4A393"/>
+			<stop  offset="0.905" style="stop-color:#A4988D"/>
+		</linearGradient>
+		<path opacity="0.6" fill="url(#ian_symbols_4aee1cee5a1c9cf4cd32a0005268262b)" enable-background="new    " d="M493.111,370.862c-1-0.108-7.412-10.305-18.065-18.77
+			c-10.914-8.672-20.005-16.476-24.655-19.952c-15.523-11.603-32.337-15.726-48.585-26.045
+			c-15.915-10.108-32.643-21.295-49.019-30.579c-15.557-8.804-31.548-13.554-47.22-22.471c-9.731-5.53-25.56-11.56-38.97-16.908
+			c-12.108-4.829-21.044-10.77-20.402-11.505c1.326-1.544,11.395,5.191,17.356,7.049c7.061,2.191,13.042,4.878,19.957,7.049
+			c11.15,3.49,22.851,10.02,33.332,15.486c12.099,6.314,23.094,10.28,35.44,16.191c10.437,5,19.586,10.108,29.332,16.668
+			c18.868,12.667,40.382,22.054,61.041,33.785c10.253,5.839,17.699,12.143,27.214,18.31c10.856,7.02,22.79,22.814,23.155,28.633
+			c0.36,1.961,1.15,2.422,0.081,3.049L493.111,370.862z"/>
+	</g>
+</g>
+</svg>

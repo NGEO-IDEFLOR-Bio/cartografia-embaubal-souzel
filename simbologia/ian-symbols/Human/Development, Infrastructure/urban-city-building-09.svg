@@ -1,0 +1,103 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="461" viewBox="0 0 501 461" xml:space="preserve">
+            <title>Urban: city building 09</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: city building 09</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a city building.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, city building, apartment, office, hotel, high rise, multi-storey, tower block, residential</ian_image_library:contains>
+                    <ian_image_library:when>2012-07-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-13dbf0acb7fd31141d6dbbfa1d0f11f1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: city building 09</dc:title>
+                <dc:date>2012-07-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-city-building-09/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-city-building-09/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, city building, apartment, office, hotel, high rise, multi-storey, tower block, residential</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a city building.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#628985" points="214.243,459.931 214.243,248.652 13.428,153.386 13.428,364.601 "/>
+<path fill="#8E959F" d="M13.428,153.386v211.215l11.024,5.233v-51.688l38.574,16.126v53.879l10.153,4.822V338.52l53.813,22.493v57.5
+	l13.198,6.268v-58.238l61.94,25.904v61.739l12.112,5.745V248.652L13.428,153.386z M126.992,221.663v31.745l-53.813-23.269v-32.716
+	L126.992,221.663z M63.026,192.85v32.896l-38.574-16.688v-33.604L63.026,192.85z M24.452,279.311V245.28l38.574,16.618v33.587
+	L24.452,279.311z M73.179,299.748v-33.486l53.813,23.168v32.879L73.179,299.748z M202.13,353.823l-61.94-25.966v-32.735l61.94,26.66
+	V353.823z M202.13,285.894L140.19,259.1v-31.479l61.94,27.91V285.894z"/>
+<polygon fill="#85B6B0" points="214.243,248.652 214.243,459.931 481.635,307.234 481.635,100.827 "/>
+<path fill="#B7BFCA" d="M214.243,248.652v211.279l15.303-8.74v-56.477l59.902-32.549v54.832l12.175-6.961V355.55l53.813-29.225
+	v52.985l13.198-7.534V319.15l46.704-25.358v51.311l11.17-6.372v-51.014l44.666-24.272v49.765l10.462-5.975V100.827L214.243,248.652z
+	 M415.337,155.149v32.879l-46.704,25.261v-33.111L415.337,155.149z M355.435,187.252v33.192l-53.813,29.111v-33.472L355.435,187.252
+	z M229.545,254.708l59.902-32.09v33.534l-59.902,32.405V254.708z M229.545,357.985v-33.897l59.902-32.616v33.668L229.545,357.985z
+	 M301.623,318.457v-33.62l53.813-29.271v33.386L301.623,318.457z M368.633,281.712V248.37l46.704-25.423v33.145L368.633,281.712z
+	 M471.173,225.482l-44.666,24.485v-33.094l44.666-24.304V225.482z M471.173,157.814l-44.666,24.157v-32.797l44.666-23.943V157.814z"
+	/>
+<polygon fill="#4D4E4E" points="500,98.095 217.467,254.278 132.01,144.814 405.526,3.373 "/>
+<polygon fill="#6B6B6D" points="217.467,254.278 132.01,144.814 0,154.786 "/>
+<polygon fill="#5D5E5F" points="405.526,3.373 132.01,144.814 0,154.786 294.925,0 "/>
+<polygon fill="#709D96" points="222.387,222.585 232.672,179.847 258.311,166.847 280.775,190.365 "/>
+<polyline fill="#3A3B3B" points="258.311,166.847 281.516,191.04 278.996,191.383 256.534,167.786 258.311,166.847 "/>
+<polygon fill="#6B6B6D" points="206.507,166.996 232.672,179.847 222.619,224.147 "/>
+<polygon fill="#5D5E5F" points="206.507,166.996 232.672,179.847 258.311,166.847 231.504,153.848 "/>
+<polygon fill="#709D96" points="313.161,175.602 325.915,122.433 357.836,106.24 385.778,135.516 "/>
+<polyline fill="#3A3B3B" points="357.836,106.24 386.721,136.356 383.573,136.782 355.665,107.426 357.836,106.24 "/>
+<polygon fill="#6B6B6D" points="293.395,106.469 325.915,122.433 313.438,177.544 "/>
+<polygon fill="#5D5E5F" points="293.395,106.469 325.915,122.433 357.836,106.24 324.532,90.064 "/>
+<polygon fill="#709D96" points="410.778,118.632 420.7,77.409 445.451,64.853 467.107,87.562 "/>
+<polyline fill="#3A3B3B" points="445.451,64.853 467.848,88.206 465.38,88.516 443.752,65.757 445.451,64.853 "/>
+<polygon fill="#6B6B6D" points="395.475,65.001 420.7,77.409 411.008,120.146 "/>
+<polygon fill="#5D5E5F" points="395.475,65.001 420.7,77.409 445.451,64.853 419.599,52.282 "/>
+</svg>

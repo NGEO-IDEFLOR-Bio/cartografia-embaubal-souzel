@@ -1,0 +1,117 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="489" viewBox="0 0 501 489" xml:space="preserve">
+            <title>Chaos diffluens (Amoeba)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Chaos diffluens (Amoeba)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Chaos diffluens (Amoeba)</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Amoebozoa, Sarcodina, Tubulinea, Tubulinida, Amoebidae, Chaos, diffluens, giant, amoebae, multinucleate, heterotroph, pseudopodia</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d7a85eabefb3c7a429e17491ac8f8364">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Chaos diffluens (Amoeba)</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/chaos-diffluens-amoeba/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/chaos-diffluens-amoeba/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Amoebozoa, Sarcodina, Tubulinea, Tubulinida, Amoebidae, Chaos, diffluens, giant, amoebae, multinucleate, heterotroph, pseudopodia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Chaos diffluens (Amoeba)</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_add813f0e7ca8a84859c6639757571d5" fx="194.74" fy="-5.5427" gradientUnits="userSpaceOnUse" cy="211.65" cx="254.82" r="248.88">
+  <stop stop-color="#747664" offset="0"/>
+  <stop stop-color="#7F7E6C" offset=".1526"/>
+  <stop stop-color="#9D9586" offset=".4179"/>
+  <stop stop-color="#ACA193" offset=".5112"/>
+  <stop stop-color="#AEAEAE" offset="1"/>
+ </radialGradient>
+ <path d="m326.44 485.06c31.583 9.242 20.024-6.18 39.283-11.544 19.244-5.405 24.636 3.076 41.564-1.541 16.97-4.625 15.415-20.032 27.747-16.195 30.809 10.79 35.426 22.341 59.302 3.863 23.882-18.491-35.433-51.602-36.193-60.083 16.935-59.309-74.71-108.57-97.825-160.19-.917-14.634 5.405-24.66 4.631-45.436-.781-20.813-21.573-43.13.774-72.381 22.327-29.277-2.322-23.893 16.942-40.071 19.237-16.175 18.477 18.498 40.037-12.308 67.023 19.252 7.714-23.118-10.009-30.822-17.717-7.693-49.293-30.031-76.245-23.872-171.74-48.511-204.85 40.042-242.59 44.672-107.05 4.625-103.2 23.89-81.636 60.851 0 89.354 112.44 56.997 133.24 113.97 16.949 37.749-46.984 30.822-46.984 57.774 0 26.972 53.917 38.502 41.586 86.261-52.37 48.518 20.799 35.419 30.048 53.136 9.242 17.73 40.811-22.348 60.836-12.318 37.735 3.076 26.945-6.939 23.115-13.866 37.72-19.24 40.8 70.86 72.38 80.11z" fill="url(#ian_symbols_add813f0e7ca8a84859c6639757571d5)"/>
+ <path d="m333.75 84.57c0 22.11-16.704 40.058-37.348 40.058-20.643 0-37.348-17.947-37.348-40.058 0-22.127 16.705-40.054 37.348-40.054 20.64-.002 37.35 17.925 37.35 40.052z" fill="#BDBAB5"/>
+ <radialGradient id="ian_symbols_e292c7a9c4fa50e4e9e0656fc39aba9f" gradientUnits="userSpaceOnUse" cy="319.47" cx="330.29" r="35.483">
+  <stop stop-color="#7B5229" offset="0"/>
+  <stop stop-color="#835B30" offset=".1403"/>
+  <stop stop-color="#997447" offset=".3851"/>
+  <stop stop-color="#B59A6A" offset=".6404"/>
+ </radialGradient>
+ <path d="m342.61 300.98c-5.548-.237-13.064 3.823-16.223 7.885-.979 1.249-1.053 4.909-2.228 6.79-1.562 2.418-4.706 4.027-6.403 6.729-10.063 15.944 6.702 24.188 21.764 21.777 4.577-.74 11.123-3.952 12.332-7.748 2.139-6.79-4.536-10.063 1.718-15.401 5.412-4.638 13.989-3.449 6.838-12.317-4-4.971-11.144-7.463-17.03-7.715h-.77z" fill="url(#ian_symbols_e292c7a9c4fa50e4e9e0656fc39aba9f)"/>
+ <radialGradient id="ian_symbols_9f9f746283c5b184110d976d322419da" gradientUnits="userSpaceOnUse" cy="114.61" cx="169.32" r="69.658">
+  <stop stop-color="#7B5229" offset="0"/>
+  <stop stop-color="#835B30" offset=".1403"/>
+  <stop stop-color="#997447" offset=".3851"/>
+  <stop stop-color="#B59A6A" offset=".6404"/>
+ </radialGradient>
+ <path d="m163.93 139.25c-9.236-3.702-12.135-9.579-6.16-15.993 7.477-7.989 13.84-8.841 24.127-5.327 7.823 2.645 13.642 5.911 15.156 14.399 1.419 8.078-4.23 9.972-5.385 16.165-1.555 8.274 6.723 13.639-3.823 17.72-3.605 1.369-6.824.374-10.607 2.475-4.285 2.408-4.352 5.898-7.34 8.482-8.937 7.789-30.972-15.259-32.792-26.072-2.893-17.268 17.445-1.576 21.445-12.617l5.37.76z" fill="url(#ian_symbols_9f9f746283c5b184110d976d322419da)"/>
+ <radialGradient id="ian_symbols_b0221094a5d691d41d660ee250c8f884" gradientUnits="userSpaceOnUse" cy="270.18" cx="302.56" r="37.043">
+  <stop stop-color="#7B5229" offset="0"/>
+  <stop stop-color="#835B30" offset=".1403"/>
+  <stop stop-color="#997447" offset=".3851"/>
+  <stop stop-color="#B59A6A" offset=".6404"/>
+ </radialGradient>
+ <path d="m325.67 267.1c-3.912-11.585-30.578-5.243-28.541 8.468.855 5.602 6.152 8.665 7.748 13.859 1.697 5.337-.306 11.653 1.664 16.814 5.018-.673 17.879-2.818 20.534-8.292 1.487-3.07 1.236-24.406.129-26.232l-1.53-4.62z" fill="url(#ian_symbols_b0221094a5d691d41d660ee250c8f884)"/>
+ <radialGradient id="ian_symbols_0927f4b9fcfb45041592169b9873905f" gradientUnits="userSpaceOnUse" cy="225.51" cx="252.5" r="13.882">
+  <stop stop-color="#7B5229" offset="0"/>
+  <stop stop-color="#835B30" offset=".1403"/>
+  <stop stop-color="#997447" offset=".3851"/>
+  <stop stop-color="#B59A6A" offset=".6404"/>
+ </radialGradient>
+ <path d="m263.28 220.12c-7.741-5.571-20.603-1.976-14.518 9.456 4.781 8.977 21.675 4.917 14.518-6.366v-3.09z" fill="url(#ian_symbols_0927f4b9fcfb45041592169b9873905f)"/>
+ <radialGradient id="ian_symbols_f2bb23dde2925d94f1de44523e97e488" gradientUnits="userSpaceOnUse" cy="247.08" cx="290.24" r="20.354">
+  <stop stop-color="#7B5229" offset="0"/>
+  <stop stop-color="#835B30" offset=".1403"/>
+  <stop stop-color="#997447" offset=".3851"/>
+  <stop stop-color="#B59A6A" offset=".6404"/>
+ </radialGradient>
+ <path d="m301.02 237.07c-3.069.455-10.695-.475-12.548 2.275-2.805 4.163 3.246 7.731 6.383 9.266 8.563 4.189 16.711-4.363 8.495-10.013l-2.32-1.53z" fill="url(#ian_symbols_f2bb23dde2925d94f1de44523e97e488)"/>
+</svg>

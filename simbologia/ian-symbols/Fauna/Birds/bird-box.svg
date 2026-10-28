@@ -1,0 +1,102 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="162" height="500" viewBox="0 0 162 500" xml:space="preserve">
+            <title>Bird box</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Bird box</ian_image_library:title>
+                <ian_image_library:descr>Illustration of bird box</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>bird, box</ian_image_library:contains>
+                    <ian_image_library:when>2006-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2036c928191151346dba3d39b34e46d0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Bird box</dc:title>
+                <dc:date>2006-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/bird-box/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/bird-box/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>bird, box</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of bird box</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_026796b1aa3b1ef4b9cb2c9c197aae1e">
+	<g id="ian_symbols_d7970696f342052475f4bb2c7290edce">
+		<g>
+			<rect x="55.3" fill="#967D5F" width="95.7" height="500"/>
+			<rect x="18.8" y="104.5" fill="#D8BB7E" width="95.7" height="177.6"/>
+			<polygon fill="#D8BB7E" points="116.9,92.2 6.1,92.2 37.8,43.1 151.1,43.1 			"/>
+			<polygon fill="#B69F6A" points="152.5,263.1 113.8,282.1 113.8,104.5 152.5,60.2 			"/>
+			<linearGradient id="ian_symbols_3402a14b417c8614e5f0b0ba1e757401" gradientUnits="userSpaceOnUse" x1="151.0712" y1="250" x2="162.4208" y2="250">
+				<stop  offset="0" style="stop-color:#967D5F"/>
+				<stop  offset="0.2183" style="stop-color:#8A7458"/>
+				<stop  offset="0.5368" style="stop-color:#7A674F"/>
+				<stop  offset="0.8087" style="stop-color:#705F49"/>
+				<stop  offset="1" style="stop-color:#6D5C47"/>
+			</linearGradient>
+			<polygon fill="url(#ian_symbols_3402a14b417c8614e5f0b0ba1e757401)" points="162.4,493.7 151.1,500 151.1,0 162.4,19 			"/>
+			<rect x="6.1" y="92.2" fill="#C2A972" width="110.9" height="13.6"/>
+			<polygon fill="#A99463" points="150.7,43.8 117,91.9 117,105.8 150.7,64 			"/>
+			<path fill="#7D6E49" d="M85.9,152.8c0,13.1-10.6,23.7-23.7,23.7c-13.1,0-23.7-10.6-23.7-23.7c0-13.1,10.6-23.7,23.7-23.7
+				C75.3,129,85.9,139.7,85.9,152.8L85.9,152.8z"/>
+			<path fill="#C2A972" d="M45.4,156.2c0-6.7,2-15.7,7.4-20.1c5.2-4.2,13.6-4,20-4c0.5,0,0.9,0.1,1.3,0.1c-3.5-2.1-7.5-3.3-11.9-3.3
+				c-13.1,0-23.7,10.6-23.7,23.7c0,12.6,9.9,22.9,22.4,23.6C53.8,172.3,45.4,165,45.4,156.2L45.4,156.2z"/>
+				<linearGradient id="ian_symbols_e25d09afacebd9a469a020d812e902ab" gradientUnits="userSpaceOnUse" x1="428.0655" y1="1385.4474" x2="419.5089" y2="1483.2869" gradientTransform="matrix(0.1996 0 0 -0.1996 -50.6269 504.339)">
+				<stop  offset="0" style="stop-color:#A89362"/>
+				<stop  offset="1" style="stop-color:#D8BB7E"/>
+			</linearGradient>
+			<path fill="url(#ian_symbols_e25d09afacebd9a469a020d812e902ab)" d="M60.3,206.1c5,1.2,6.2,0.8,7.3,4c1.1,3.2-2.1,6.3-2.1,6.3L7.4,230.1c0,0-2.9,1.2-5.3-2.1
+				c-2.4-3.3-3.2-7.7,0-8.4C5.3,218.7,55.3,204.9,60.3,206.1L60.3,206.1z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="140" height="507" viewBox="0 0 140 507" xml:space="preserve">
+            <title>Tide: meteorological</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Tide: meteorological</ian_image_library:title>
+                <ian_image_library:descr>Illustration of meteorological tide</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, tide, meteorological</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b22f932cb5ad88f4b5dca18c96ac7417">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Tide: meteorological</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/tide-meteorological/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/tide-meteorological/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, tide, meteorological</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of meteorological tide</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polyline stroke="#231F20" stroke-width="6.5152" points="36.261 320.8 36.261 242.22 6.262 242.22 64.959 155.04 127.57 242.22 127.57 242.22 96.269 242.22 96.269 320.8" fill="none"/>
+ <polyline stroke="#231F20" stroke-width="6.5152" points="36.25 320.48 36.25 410.65 6.251 410.65 64.949 497.82 127.57 410.65 127.57 410.65 96.257 410.65 96.257 320.48" fill="none"/>
+ <polyline stroke="#3D6AB3" stroke-width="6.5152" points="41.567 323.44 41.567 244.87 11.558 244.87 70.255 157.69 132.86 244.87 132.86 244.87 101.56 244.87 101.56 323.44" fill="none"/>
+ <polyline stroke="#3D6AB3" stroke-width="6.5152" points="41.545 323.13 41.545 413.31 11.558 413.31 70.245 500.47 132.86 413.31 132.86 413.31 101.55 413.31 101.55 323.13" fill="none"/>
+ <path stroke="#B1B3B6" stroke-width="3.7239" d="m30.304 56.477c0 21.757 17.652 39.41 39.42 39.41 21.757 0 39.399-17.652 39.399-39.41 0-21.768-17.642-39.41-39.399-39.41-21.764 0-39.417 17.642-39.417 39.41z" fill="#939598"/>
+ <path stroke="#B1B3B6" stroke-width=".9304" d="m43.268 85.1s32.543 43.287 95.697 21.129c0 0-47.981 2.329-51.446-16.168-.527-2.882-19.836 10.818-44.246-4.962z" fill="#939598"/>
+ <path stroke="#B1B3B6" stroke-width=".9304" d="m95.846 27.897s-32.544-43.276-95.692-21.118c0 0 47.976-2.328 51.442 16.169.530 2.87 19.84-10.819 44.25 4.949z" fill="#939598"/>
+</svg>

@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="508" height="305" viewBox="0 0 508 305" xml:space="preserve">
+            <title>Irrigation</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Irrigation</ian_image_library:title>
+                <ian_image_library:descr>Illustration of irrigation system</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, irrigation, system, water, distribution, usage, landscape, diversion, sprinklers</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e9883f61a1bc4cc4299d51d21a8f9af1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Irrigation</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/irrigation/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/irrigation/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, irrigation, system, water, distribution, usage, landscape, diversion, sprinklers</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of irrigation system</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polyline stroke="#231F20" stroke-width="10" points="5.819 303.67 5.059 238.29 191.98 238.29" fill="none"/>
+ <polyline stroke="#231F20" stroke-width="10" points="192.74 295.97 195.03 88.314 185.88 86.409 185.12 53.718 200.37 57.528 200.37 82.545 191.98 96.011" fill="#231F20"/>
+ <path stroke="#0071BB" stroke-width="4" stroke-dasharray="20.8367" d="m202.66 60.823s148.93-161.56 302.4 50.822" fill="none"/>
+ <path stroke="#0071BB" stroke-width="4" stroke-dasharray="20.8367" d="m197.63 63.375s180.72-87.991 286.27 83.853" fill="none"/>
+ <path stroke="#0079C1" stroke-width="4" stroke-dasharray="20.8367" d="m471.81 276.77s-162.4-224.5-276.2-198.15" fill="none"/>
+ <path stroke="#0071BB" stroke-width="4" stroke-dasharray="20.8367" d="m469.79 182.8c-91.73-157.46-272.16-119.42-272.16-119.42" fill="none"/>
+ <path stroke="#0071BB" stroke-width="4" stroke-dasharray="20.8367" d="m193.58 68.433c8.08 0 185.64 5.332 277.2 152.46" fill="none"/>
+</svg>

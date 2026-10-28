@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="238" viewBox="0 0 501 238" xml:space="preserve">
+            <title>Water: septic system 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water: septic system 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a cylindrical tank with pipes leaving it</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, catch, basin, septic, system, sewage-disposal, tank, sewer, sump</ian_image_library:contains>
+                    <ian_image_library:when>2007-10-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-cb0e0957b8755dd439378849f3ec68cd">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water: septic system 2</dc:title>
+                <dc:date>2007-10-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-septic-system-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-septic-system-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, catch, basin, septic, system, sewage-disposal, tank, sewer, sump</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a cylindrical tank with pipes leaving it</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_c985a56b5cabf88431196d808647c50d" y2="161.03" gradientUnits="userSpaceOnUse" x2="41.063" y1="161.03" x1="120.56">
+  <stop stop-color="#ABA9A9" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".1" d="m27.887 92.187v110.85h.332c2.549 19.004 27.065 33.92 56.723 33.92 29.239 0 53.706-14.916 56.304-33.92h.326v-117.94c-31.83 15.77-102.62 4.336-113.69 7.087z" fill="url(#ian_symbols_c985a56b5cabf88431196d808647c50d)"/>
+ <polygon stroke="#231F20" stroke-width=".1" points="178.92 .05 30.295 .05 .066 105.86 148.69 105.86" fill="#4C8D62"/>
+ <radialGradient id="ian_symbols_0aba10243884f894551941cb30590e9c" fx="53.844" fy="45.971" gradientUnits="userSpaceOnUse" cy="52.794" cx="84.726" r="47.169">
+  <stop stop-color="#CACCCE" offset=".0056"/>
+  <stop stop-color="#919395" offset="1"/>
+ </radialGradient>
+ <path stroke="#231F20" stroke-width=".1" d="m84.941 17.868c-31.533 0-57.049 15.481-57.049 34.876 0 19.46 25.516 34.974 57.049 34.974 31.082 0 56.619-15.514 56.619-34.974 0-19.394-25.54-34.876-56.619-34.876z" fill="url(#ian_symbols_0aba10243884f894551941cb30590e9c)"/>
+ <linearGradient id="ian_symbols_66a53424e8e7abc43d608100aaf1b713" y2="178.68" gradientUnits="userSpaceOnUse" x2="95.699" y1="178.68" x1="500.07">
+  <stop stop-color="#58595B" offset="0"/>
+  <stop stop-color="#BCBEC0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".1" d="m491.34 122.93h-127.4l-17.313 46.552h-104.73c-4.375-5.327-30.598-37.159-30.598-37.159h-106.86c-4.838 0-8.741 3.914-8.741 8.762 0 4.827 3.903 8.73 8.741 8.73h98.616c4.37 5.316 30.587 37.148 30.587 37.148h106.48l-17.655 47.455h133.88c4.859 0 8.757-3.902 8.757-8.752 0-4.826-3.897-8.74-8.757-8.74h-108.72c2.387-6.414 6.61-17.83 11.144-29.962h115.08c4.821 0 8.729-3.903 8.729-8.752 0-4.827-3.908-8.729-8.729-8.729h-108.57c5.001-13.448 9.398-25.288 10.817-29.071h115.24c4.832 0 8.725-3.903 8.725-8.751-.01-4.84-3.91-8.74-8.74-8.74z" fill="url(#ian_symbols_66a53424e8e7abc43d608100aaf1b713)"/>
+</svg>

@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="497" height="501" viewBox="0 0 497 501" xml:space="preserve">
+            <title>Energy: power line</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Energy: power line</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a power line</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, energy, hydro, power, line, pole, electricity, electric, wire</ian_image_library:contains>
+                    <ian_image_library:when>2010-01-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b3899dbfd8188cb405a03ad9ceeac9be">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Energy: power line</dc:title>
+                <dc:date>2010-01-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/energy-power-line/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/energy-power-line/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, energy, hydro, power, line, pole, electricity, electric, wire</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a power line</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#526053" points="132.375,16.666 0.007,35.742 0.007,37.259 132.329,18.18 "/>
+<polygon fill="#526053" points="69.895,9.848 0.007,18.136 0.007,19.65 69.848,11.362 "/>
+<path fill="#3E4B40" d="M158.909,10.604h-40.042l-0.084-6.751c0,0-0.255-3.495-4.08-3.834c-3.825-0.336-6.485,3.834-6.485,3.834
+	l0.02,6.751H69.871V4.964h-7.467v5.641v7.508v0.588h21.289l24.636,21.938l1.396,455.367c0,0,2.765,3.815,7.468,3.99
+	c4.706,0.178,7.632-3.99,7.632-3.99L119.241,41.07l23.395-22.369h23.745v-0.588v-7.508V4.964h-7.471V10.604z M89.209,18.701h19.056
+	l0.047,16.385L89.209,18.701z M119.169,35.591l-0.205-16.89h19.899L119.169,35.591z"/>
+<path fill="#526053" d="M112.856,14.459l-0.198,1.437c3.845,0.538,359.434,48.235,383.347,51.354v-1.456
+	C286.922,38.534,117.199,15.069,112.856,14.459z"/>
+<path fill="#526053" d="M161.089,12.448l-0.195,1.439c3.556,0.484,310.912,40.842,335.111,43.951v-1.457
+	C308.262,32.264,165.169,13.003,161.089,12.448z"/>
+<path fill="#526053" d="M67.086,17.124l-0.111-0.017L0,25.762v1.531l66.972-8.658c6.391,0.965,404.612,59,429.033,62.451v-1.521
+	C265.29,46.957,71.802,17.833,67.086,17.124z"/>
+</svg>

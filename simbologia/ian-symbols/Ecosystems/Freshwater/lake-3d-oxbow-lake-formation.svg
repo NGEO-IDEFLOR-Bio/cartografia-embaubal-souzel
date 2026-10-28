@@ -1,0 +1,108 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="150" viewBox="0 0 502 150" xml:space="preserve">
+            <title>Lake 3D: oxbow lake formation</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lake 3D: oxbow lake formation</ian_image_library:title>
+                <ian_image_library:descr>Illustration of lake base with oxbow lake formation</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, lake river, stream, oxbow, lake, formation</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5ec7258f3dd8c604d14f99ea178742c2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lake 3D: oxbow lake formation</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lake-3d-oxbow-lake-formation/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lake-3d-oxbow-lake-formation/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, lake river, stream, oxbow, lake, formation</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of lake base with oxbow lake formation</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_af222c68ff080aa48d7af80beda6b29b" y2="57.454" gradientUnits="userSpaceOnUse" x2="500.25" y1="57.454" x1="387.73">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#59B3DA" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_af222c68ff080aa48d7af80beda6b29b)" stroke="#231F20" stroke-linecap="round" stroke-width=".5" points="387.73 114.66 500.25 .25 482.44 44.559"/>
+ <linearGradient id="ian_symbols_517872ebfd139ff4f5907d66a25ffbc7" y2="131.24" gradientUnits="userSpaceOnUse" x2="387.73" y1="131.24" x1=".25">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#AA8D6B" offset="1"/>
+ </linearGradient>
+ <rect stroke-linejoin="round" height="33.161" width="387.48" stroke="#231F20" stroke-linecap="round" y="114.66" x=".25" stroke-width=".5" fill="url(#ian_symbols_517872ebfd139ff4f5907d66a25ffbc7)"/>
+ <linearGradient id="ian_symbols_0ca37f17ff5e76746d803bb7a5d672fd" y2="57.454" gradientUnits="userSpaceOnUse" x2="500.25" y1="57.454" x1=".25">
+  <stop stop-color="#94CDE9" offset=".0056"/>
+  <stop stop-color="#59B3DA" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_0ca37f17ff5e76746d803bb7a5d672fd)" stroke="#231F20" stroke-linecap="round" stroke-width=".5" points="500.25 .25 112.77 .25 .25 114.66 387.73 114.66"/>
+ <linearGradient id="ian_symbols_78ebc798b27e666431447a00c1d1536c" y2="8.9478" gradientUnits="userSpaceOnUse" x2="500.25" y1="8.9478" x1="101.06">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#AA8D6B" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m500.25.25h-387.48l-11.715 11.911s128.27-6.082 203.79-7.151c75.52-1.07 178.29 12.636 178.29 12.636l17.11-17.396z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_78ebc798b27e666431447a00c1d1536c)"/>
+ <linearGradient id="ian_symbols_268e27e6913ab514659ab45728dc7dad" y2="74.151" gradientUnits="userSpaceOnUse" x2="500.25" y1="74.151" x1="387.73">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#AA8D6B" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m387.73 114.89l72-73.204s5.862 10.177 16.519.924c5.284-4.895 7.012-24.85 7.012-24.85l16.99-17.276v32.926l-112.52 114.41v-32.93z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_268e27e6913ab514659ab45728dc7dad)"/>
+ <linearGradient id="ian_symbols_1fe1227925f23fa4713f9da25d01b080" y2="58.272" gradientUnits="userSpaceOnUse" x2="317.57" y1="58.272" x1="181.04">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#AA8D6B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m303.73 25.903c-2.382-1.924-27.129-.162-41.745.12-10.691.341-29.281.008-33.054 1.334-3.77 1.326-8.458 13.674-19.004 19.371-6.156 3.326-14.212 6.741-19.729 9.549-5.517 2.809-6.021 9.173-8.475 14.093-2.453 4.921 1.225 13.532 17.779 17.838 16.555 4.305 39.697 3.501 48.994 2.624 11.09-1.046 42.971-1.394 57.738-14.926 10.584-9.696 12.207-13.263 10.98-20.912-1.224-7.649-6.13-10.109-12.874-15.646-6.74-5.536 1.77-11.521-.61-13.445z" fill="url(#ian_symbols_1fe1227925f23fa4713f9da25d01b080)"/>
+ <linearGradient id="ian_symbols_775ad87a68e1f544253a8157c5f60aed" y2="70.514" gradientUnits="userSpaceOnUse" x2="459.61" y1="70.514" x1=".25">
+  <stop stop-color="#D7C39A" offset="0"/>
+  <stop stop-color="#AA8D6B" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m332.57 26.648c7.946-2.678 127.04 14.918 127.04 14.918l-71.888 73.091h-387.47l75.539-76.805s116.32-10.944 120.02-8.722c3.699 2.222-10.402 4.79-20.211 10.941-9.81 6.15-14.715 10.378-20.846 14.415-6.13 4.036-11.757 15.215-9.918 26.286s19.114 18.614 32.604 22.92c13.488 4.307 28.202 3.185 52.113 5.03s63.148-5.991 79.09-12.41c15.939-6.42 23.298-21.875 27.588-28.909 4.293-7.035-1.893-19.335-5.572-23.642-3.679-4.306-3.625-9.335-3.625-9.335s-2.4-5.107 5.55-7.786z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_775ad87a68e1f544253a8157c5f60aed)"/>
+</svg>

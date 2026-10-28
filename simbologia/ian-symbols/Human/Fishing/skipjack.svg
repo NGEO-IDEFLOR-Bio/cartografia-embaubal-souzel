@@ -1,0 +1,127 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="466" viewBox="0 0 502 466" xml:space="preserve">
+            <title>Skipjack</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Skipjack</ian_image_library:title>
+                <ian_image_library:descr>Illustration of skipjack</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>fishing, industry, skipjack, sailboat, ship, vessel, oyster, dredge, dredging, harvest, catch, collection, shellfish, fishery, Chesapeake Bay, MarylandVirginia</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-676b7d12723a4a646174a58938f8730d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Skipjack</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/skipjack-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/skipjack-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>fishing, industry, skipjack, sailboat, ship, vessel, oyster, dredge, dredging, harvest, catch, collection, shellfish, fishery, Chesapeake Bay, MarylandVirginia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of skipjack</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <line y2="22.578" x1="5.933" x2="208.99" stroke="#231F20" y1="403.68" stroke-width="1.0892" fill="none"/>
+ <line y2="429.5" x1="500.56" x2="404.22" stroke="#231F20" y1="393.22" stroke-width="1.0892" fill="none"/>
+ <polyline stroke="#231F20" stroke-width="1.0892" points="116.72 461.79 8.013 410.54 116.72 457.97" fill="none"/>
+ <linearGradient id="ian_symbols_3f61b47684607ca429d496e1b26b291d" y2="410.54" gradientUnits="userSpaceOnUse" x2="48.899" y1="410.54" x1=".5552">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#D5D4C9" offset=".1126"/>
+  <stop stop-color="#AFAE9A" offset=".228"/>
+  <stop stop-color="#8F8D71" offset=".3472"/>
+  <stop stop-color="#757350" offset=".4684"/>
+  <stop stop-color="#615E36" offset=".592"/>
+  <stop stop-color="#525023" offset=".7191"/>
+  <stop stop-color="#4A4719" offset=".852"/>
+  <stop stop-color="#474415" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.0892" d="m44.461 409.95s-34.944-6.412-38.528-6.273c-3.574.14-5.378 3.586-5.378 3.586s.161 2.079 3.586 3.584c1.493.651 9.388.172 17.625 1.365 9.059 1.313 18.822 3.869 23.943 5.202l3.19-6.679-4.438-.79z" fill="url(#ian_symbols_3f61b47684607ca429d496e1b26b291d)"/>
+ <linearGradient id="ian_symbols_1695607e6ad557a4addf05be43afdbe3" y2="418.41" gradientUnits="userSpaceOnUse" x2="284.9" y1="453.95" x1="284.9">
+  <stop stop-color="#3C3A0C" offset="0"/>
+  <stop stop-color="#4F4B1A" offset=".1798"/>
+  <stop stop-color="#474415" offset=".3596"/>
+  <stop stop-color="#706124" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.0892" d="m152.06 433.71s15.087-13.699 24.039-15.173c8.952-1.481 56.847 10.158 65.778 8.856 8.931-1.312 8.866-5.335 17.712-6.327 8.845-1.003 83.489 2.528 83.489 2.528s23.868-2.059 35.424 0c11.565 2.061 25.905 2.859 31.624 6.327 5.73 3.468 7.598 10.115 7.598 10.115l-126.51 13.913-126.5-1.259-12.65-18.98z" fill="url(#ian_symbols_1695607e6ad557a4addf05be43afdbe3)"/>
+ <linearGradient id="ian_symbols_791c0e4b829682345d3c3da3a2ca97b4" y2="361.6" gradientUnits="userSpaceOnUse" x2="158.26" y1="208.35" x1="369.19">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#E2E3E4" offset=".7818"/>
+  <stop stop-color="#C2C4C6" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.0892" d="m359.01 194.34s-64.722-79.637-137.37-159.1c1.813 140.2-47.181 349.04-31.945 369.64 15.226 20.603 310.86-11.65 310.86-11.65l-141.55-198.89z" fill="url(#ian_symbols_791c0e4b829682345d3c3da3a2ca97b4)"/>
+ <polygon stroke="#231F20" stroke-width="1.0892" points="211 18.994 212.93 .055 213.41 18.866" fill="#fff"/>
+ <linearGradient id="ian_symbols_0c4548d7a63d2ec45181f74646cdf2a1" y2="228.36" gradientUnits="userSpaceOnUse" x2="216.16" y1="228.36" x1="154.59">
+  <stop stop-color="#474415" offset="0"/>
+  <stop stop-color="#544C19" offset=".1163"/>
+  <stop stop-color="#62561E" offset=".3026"/>
+  <stop stop-color="#675920" offset=".4607"/>
+  <stop stop-color="#937429" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.0892" d="m200.13 141.08s9.261-110.93 9.272-113.86c.032-2.922-4.428-7.874 2.539-9.271 0 0 4.311 1.717 4.215 4.214-.085 2.497-2.198 3.873-2.529 6.743-.331 2.859-13.497 165.29-13.497 165.29l-32.041 244.58-13.497-3.372 41.323-267.35 4.22-26.98z" fill="url(#ian_symbols_0c4548d7a63d2ec45181f74646cdf2a1)"/>
+ <linearGradient id="ian_symbols_e947f3059a9417d4cd92f2c3710c25f3" y2="261.18" gradientUnits="userSpaceOnUse" x2="16.528" y1="261.18" x1="211.38">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#E2E3E4" offset=".7818"/>
+  <stop stop-color="#C2C4C6" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.0892" d="m131.2 405.66c-41.259 2.314-65.404-6.274-114.68-2.689 30.469-18.81 181.87-286.67 181.87-286.67s15.022 116.9 11.822 153.18c-2.518 28.573 5.196 116.47-1.963 124.54-5.38 2.68-34.97 9.26-77.05 11.64z" fill="url(#ian_symbols_e947f3059a9417d4cd92f2c3710c25f3)"/>
+ <line y2="27.219" x1="198.39" x2="209.4" stroke="#231F20" y1="116.3" stroke-width="1.0892" fill="none"/>
+ <line y2="35.232" x1="216.16" x2="221.64" stroke="#231F20" y1="22.163" stroke-width="1.0892" fill="none"/>
+ <linearGradient id="ian_symbols_c36dbbce491615c421e0ae58c31980d4" y2="358.36" gradientUnits="userSpaceOnUse" x2="231.56" y1="504.19" x1="273.38">
+  <stop stop-color="#CBD9EF" offset="0"/>
+  <stop stop-color="#D7E2F3" offset=".1356"/>
+  <stop stop-color="#EAEFF8" offset=".4042"/>
+  <stop stop-color="#F4F7FC" offset=".686"/>
+  <stop stop-color="#F8FAFD" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.0892" d="m458.35 442.2c-1.322-3.052-18.533-5.357-26.876-7.171-8.354-1.814-50.298 4.396-61.819 6.273-11.524 1.878-35.424 1.836-48.377 2.688-12.942.844-58.267-.884-71.667-1.791-13.401-.918-55.535-8.067-55.535-8.067l-25.959-3.895-45.719-6.86-47.479-8.056-26.013-4.593-3.19 6.679c.918.245 1.739.459 2.326.604 6.808 1.686 17.029 6.272 17.029 6.272s24.177 9.283 33.14 14.329c8.973 5.037 18.235 12.985 18.822 16.122.587 3.148-2.689 8.963-2.689 8.963l93.167-1.792 70.771-2.688 70.772-.897 68.083-4.48 41.216-2.688c.01.02 1.32-5.9.01-8.94z" fill="url(#ian_symbols_c36dbbce491615c421e0ae58c31980d4)"/>
+ <path stroke="#231F20" stroke-width="1.0892" d="m57.265 421.07s46.732 8.855 68.232 12.644c21.51 3.799 48.077 8.856 67.677 11.385 19.61 2.539 89.187 7.597 104.99 7.597 15.823 0 52.516.63 76.545-1.898 24.037-2.529 46.807-4.429 59.461-6.327 12.653-1.899 24.038-1.26 24.038-1.26" fill="none"/>
+</svg>

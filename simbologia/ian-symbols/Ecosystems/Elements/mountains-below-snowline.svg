@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="314" viewBox="0 0 502 314" xml:space="preserve">
+            <title>Mountains: below snowline</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mountains: below snowline</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a mountain below snowline</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, terrestrial, landform, landscape, feature, mountains, foothills, below, snowline, alp, craig, elevation, peak, pike, palisade, range, ridge</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0b4aae120a86dc24e99733f00d14e17d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mountains: below snowline</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mountains-below-snowline/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mountains-below-snowline/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, terrestrial, landform, landscape, feature, mountains, foothills, below, snowline, alp, craig, elevation, peak, pike, palisade, range, ridge</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a mountain below snowline</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_2a30b7ba92de23d485ff8f128ac4dc0f" y2="219.39" gradientUnits="userSpaceOnUse" x2="1051.5" gradientTransform="matrix(-1 0 0 1 1184.1 0)" y1="2.1377" x1="1051.5">
+  <stop stop-color="#A98F6E" offset="0"/>
+  <stop stop-color="#D4BB9A" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m223.18 2.5c-8.721 3.344-36.619 24.474-44.726 38.079-8.086 13.584-26.183 21.644-36.984 37.964-4.343 6.6-40.477 34.37-62.188 39.848-31.952 8.079-75.792 51.71-75.792 56.561 0 3.06 43.354.202 68.024 11.854 15.334 7.275 53.527-13.571 74.482-6.079 35.646 12.727 69.834 38.666 69.834 38.666l45.8-85.776s-11.233-111.11-19.354-112.48c-8.06-1.357-10.38-21.954-19.1-18.63z" fill="url(#ian_symbols_2a30b7ba92de23d485ff8f128ac4dc0f)"/>
+ <linearGradient id="ian_symbols_6b8be7504a23bc4485d04a48310874df" y2="308.71" gradientUnits="userSpaceOnUse" x2="1048.8" gradientTransform="matrix(-1 0 0 1 1184.1 0)" y1="86.804" x1="1048.8">
+  <stop stop-color="#A98F6E" offset="0"/>
+  <stop stop-color="#D4BB9A" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m220.14 91.6c-8.721 3.33-26.115 16.104-34.222 29.688-8.065 13.591-53.561 12.727-64.342 29.027-10.801 16.327-121.45 17.333-121.45 25.487 0 .845 41.936-.783 57.108 9.957 6.843 4.844 16.509 2.635 24.062 5.641 9.16 3.628 15.888 12.018 19.86 12.781 3.675.723 14.098 4.025 24.116 4.979 6.269.554 14.503-1.676 20.63-.312 8.64 1.892 13.166 4.884 16.888 9.66 6.978 9.024-18.327 20.016-6.661 25.98 13.308 6.755 31.607.783 44.543 15.145 12.922 14.348 6.613 26.814 14.976 31.691 27.378 16.084 46.117 18.267 50.414 17.138 13.084-3.357-7.465-108.79-7.465-108.79s-11.24-111.14-19.33-112.49c-8.12-1.366-10.42 1.08-19.13 4.41z" fill="url(#ian_symbols_6b8be7504a23bc4485d04a48310874df)"/>
+ <linearGradient id="ian_symbols_9a4fc6a09ab34744a932660c0816ea54" y2="-8144.3" gradientUnits="userSpaceOnUse" x2="-8559.7" gradientTransform="matrix(1 0 0 1 8921.3 8457.5)" y1="-8457.3" x1="-8559.7">
+  <stop stop-color="#988265" offset=".2584"/>
+  <stop stop-color="#BEA584" offset=".7528"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m261.04 306.94c1.898 1.412 14.463 3.202 21.34.034 5.586-2.567 14.794-6.506 16.645-6.985 3.77-1.087 16.381-.188 27.602-1.749 7.45-.979 17.495-6.62 27.121-8.451 10.14-1.932 19.988.014 32.654 2.351 5.911 1.122 12.133 8.924 16.084 10.822 15.422 7.471 17.922 12.511 37.146 9.038 26.581-4.789 60.492-48.451 60.492-48.451s-68.396-84.357-86.857-101.29c-10.078-10.16-8.031 12.464-20.157 1.675-14.273-12.706-24.339-44.043-34.431-57.601-11.646-7.295-19.279-38.707-31.054-55.919-9.605-14.01-17.678-11.862-31.087-17.793-13.429-8.451-31.641-6.917-36.099-12.707-6.911-8.95-16.482-16.077-20.941-17.833-7.856-3.033-14.226-2.243-16.32.425-2.087 2.695 10.7 4.512 3.614 20.029-7.08 15.517 14.537 42.686 4.931 65.052-8.187 19.022 12.902 75.502 6.356 93.815-9.464 26.372 22.198 91.809 20.691 91.673.02.01-5.88 27.68 2.29 33.88z" fill="url(#ian_symbols_9a4fc6a09ab34744a932660c0816ea54)"/>
+</svg>

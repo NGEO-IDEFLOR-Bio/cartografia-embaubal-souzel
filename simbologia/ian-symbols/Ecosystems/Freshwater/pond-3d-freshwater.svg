@@ -1,0 +1,105 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="340" viewBox="0 0 502 340" xml:space="preserve">
+            <title>Pond 3D: freshwater</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pond 3D: freshwater</ian_image_library:title>
+                <ian_image_library:descr>Illustration of freshwater pond base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, lake, pond, waterbody</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c68fc95980171c7439dfc57870867739">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pond 3D: freshwater</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pond-3d-freshwater/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pond-3d-freshwater/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, lake, pond, waterbody</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of freshwater pond base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_81a759bafe84edd439c29c52998ec6f1" y2="81.152" gradientUnits="userSpaceOnUse" x2="162.87" y1="324.65" x1="141.57">
+  <stop stop-color="#0996C2" offset=".0056"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="303.53 338.82 .905 210.24 .905 66.981 303.53 159.98" fill="url(#ian_symbols_81a759bafe84edd439c29c52998ec6f1)"/>
+ <linearGradient id="ian_symbols_f248509b13a606945d0457e6840d227e" y2="163.59" gradientUnits="userSpaceOnUse" x2="259.98" y1="6.5044" x1="246.24">
+  <stop stop-color="#67ABCC" offset="0"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="303.53 159.78 .905 66.78 215.98 9.152 500.83 52.109" fill="url(#ian_symbols_f248509b13a606945d0457e6840d227e)"/>
+ <linearGradient id="ian_symbols_72d9c1abfabc9644754984f3d1de3b66" y2="78.596" gradientUnits="userSpaceOnUse" x2="250.9" y1=".2549" x1="250.9">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m463.55 71.451c-21.573 1.576-33.355-37.124-81.591-22.803-48.234 14.332-77.797-22.369-120.82-21.271-43.024 1.096-54.201 13.846-70.051 14.372-15.846.529-29.18-3.731-37.428-4.108-8.25-.381-14.791 3.685-19.012 7.037-8.451 6.713-24.176 13.127-41.805 8.563-24.417-6.317-55.042 25.355-55.042 25.355l-36.898-20.713 207.08-57.628s19.508 2.654 30.182 3.702c10.679 1.047 262.74 38.42 262.74 38.42s-12.17 27.236-37.35 29.074z" fill="url(#ian_symbols_72d9c1abfabc9644754984f3d1de3b66)"/>
+ <linearGradient id="ian_symbols_f03485e28ac7441461dc15cfad90ed18" y2="114.98" gradientUnits="userSpaceOnUse" x2="364.66" y1="275.32" x1="439.43">
+  <stop stop-color="#0083B7" offset="0"/>
+  <stop stop-color="#4BA1C6" offset=".4561"/>
+  <stop stop-color="#80B7D1" offset=".8224"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="500.83 201.41 303.26 338.82 303.26 159.98 500.83 51.482" fill="url(#ian_symbols_f03485e28ac7441461dc15cfad90ed18)"/>
+ <linearGradient id="ian_symbols_b3231e9c08735a9495c7fe8cfb3cca3c" y2="105.89" gradientUnits="userSpaceOnUse" x2="362.75" y1="274.43" x1="441.34">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m500.83 201.41l-197.57 137.41v-29.826s20.344-14.412 38.51-23.529c18.166-9.118 42.649-56.548 53.957-61.607 11.307-5.056 18.038-64.666 38.227-75.307 20.188-10.638 23.509-75.954 35.347-85.271 11.837-9.312 31.533-21.771 31.533-21.771v159.91z" fill="url(#ian_symbols_b3231e9c08735a9495c7fe8cfb3cca3c)"/>
+ <linearGradient id="ian_symbols_9f08a8780ac2b9e4f9e20cc45e258d12" y2="58.083" gradientUnits="userSpaceOnUse" x2="152.22" y1="338.82" x1="152.22">
+  <stop stop-color="#AA8D6B" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m303.53 338.82l-302.62-128.58v-152.16s14.676 4.482 26.873 12.396c12.203 7.92 9.559 11.162 17.548 17.882 5.498 4.624 16.86 20.395 31.533 28.892 12.451 7.216 33.619 14.797 39.822 21.012 11.288 11.306 9.101 35.498 22.193 50.094 13.093 14.594 33.757 21.201 55.421 36.246 21.661 15.043 23.82 43.08 43.178 52.97 19.364 9.891 66.056 31.419 66.056 31.419v29.83z" fill="url(#ian_symbols_9f08a8780ac2b9e4f9e20cc45e258d12)"/>
+</svg>

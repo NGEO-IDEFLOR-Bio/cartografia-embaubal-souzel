@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="218" height="506" viewBox="0 0 218 506" xml:space="preserve">
+            <title>Buoy: midchannel, safe</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Buoy: midchannel, safe</ian_image_library:title>
+                <ian_image_library:descr>Illustration of midchannel, safe buoy</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, nautical, coastal, buoy, midchannel, safe, passage</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d10beddf09dbb0c4b517229a03417555">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Buoy: midchannel, safe</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/buoy-midchannel-safe/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/buoy-midchannel-safe/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, nautical, coastal, buoy, midchannel, safe, passage</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of midchannel, safe buoy</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="36.819" width="66.571" stroke="#231F20" y="83.493" x="75.696" stroke-width="5.5062" fill="#fff"/>
+ <rect height="41.082" width="4.251" stroke="#231F20" y="40.997" x="106.86" stroke-width="5.5062" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="5.5062" d="m130.95 26.121c0 12.918-9.841 23.379-21.966 23.379s-21.955-10.46-21.955-23.379c0-12.896 9.83-23.368 21.955-23.368 12.13 0 21.97 10.472 21.97 23.368z" fill="#231F20"/>
+ <rect height="242.21" width="144.47" stroke="#231F20" y="118.9" x="36.745" stroke-width="5.5062" fill="#C4161C"/>
+ <rect height="80.729" width="121.8" stroke="#231F20" y="360.98" x="48.087" stroke-width="5.5062" fill="none"/>
+ <rect height="242.21" width="72.242" stroke="#231F20" y="118.9" x="36.745" stroke-width="5.5062" fill="#fff"/>
+ <rect height="72.237" width="72.242" stroke="#231F20" y="118.9" x="36.745" stroke-width="5.5062" fill="#fff"/>
+ <rect height="72.237" width="72.247" stroke="#231F20" y="118.9" x="108.85" stroke-width="5.5062" fill="#C4161C"/>
+ <line y2="362.52" x1="169.89" x2="52.328" stroke="#231F20" y1="441.71" stroke-width="5.5062" fill="#C4161C"/>
+ <line y2="360.98" x1="48.087" x2="169.89" stroke="#231F20" y1="441.71" stroke-width="5.5062" fill="#C4161C"/>
+ <path stroke="#231F20" stroke-width="5.5062" d="m215.21 472.3c0-16.822-9.428-30.459-21.041-30.459h-170.38c-11.614 0-21.042 13.637-21.042 30.459 0 16.821 9.428 30.458 21.042 30.458h170.38c11.61-.01 21.04-13.64 21.04-30.46z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width="5.5062" d="m194.17 441.84h-85.188v60.917h85.188c11.613 0 21.041-13.637 21.041-30.458 0-16.83-9.43-30.46-21.04-30.46z" fill="#C4161C"/>
+</svg>

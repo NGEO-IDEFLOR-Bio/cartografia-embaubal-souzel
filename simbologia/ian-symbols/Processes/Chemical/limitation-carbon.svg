@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="537" height="511" viewBox="0 0 537 511" xml:space="preserve">
+            <title>Limitation: carbon</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Limitation: carbon</ian_image_library:title>
+                <ian_image_library:descr>Illustration of carbon limitation</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, limitation, nutrient, carbon</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-af2fbd1d030fcc94e9f31349010c842c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Limitation: carbon</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/limitation-carbon/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/limitation-carbon/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, limitation, nutrient, carbon</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of carbon limitation</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width="16.837" points="268.1 19.023 345.34 175.55 518.09 200.66 393.09 322.51 422.61 494.57 268.1 413.33 113.58 494.57 143.08 322.51 18.089 200.66 190.84 175.55" fill="#B9DA95"/>
+ <path d="m285.12 276.17l11.837 3.419c-2.616 12.291-7.198 21.455-13.733 27.501s-14.478 9.058-23.85 9.058c-8.244 0-15.291-2-21.129-6.023-5.866-4.012-10.64-10.454-14.361-19.326-3.733-8.873-5.582-19.35-5.582-31.42 0-11.931 1.849-22.013 5.582-30.269 3.721-8.256 8.756-14.501 15.117-18.71 6.373-4.209 13.466-6.314 21.315-6.314 8.57 0 15.942 2.651 22.117 7.942 6.163 5.314 10.471 13.094 12.937 23.362l-11.564 3.418c-3.954-14.907-11.861-22.361-23.745-22.361-5.919 0-11.047 1.512-15.385 4.535-4.349 3.035-7.803 7.745-10.396 14.128-2.593 6.396-3.89 14.489-3.89 24.28 0 14.792 2.623 25.896 7.855 33.292 5.233 7.407 12.198 11.105 20.874 11.105 6.43 0 11.959-2.279 16.628-6.849 4.66-4.56 7.78-11.48 9.36-20.76z" fill="#D2232A"/>
+</svg>

@@ -1,0 +1,96 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="490" viewBox="0 0 501 490" xml:space="preserve">
+            <title>Jannaschia spp</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Jannaschia spp</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Jannaschia spp.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Jannaschia spp. (Alphaproteobacteria)</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6844d072a52e02745533ccb1bb0db28c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Jannaschia spp</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/jannaschia-spp/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/jannaschia-spp/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Jannaschia spp. (Alphaproteobacteria)</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Jannaschia spp.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_5d17f96151858384a9425ef41455aba3" gradientUnits="userSpaceOnUse" cy="276.6" cx="-109.18" r="443.93">
+  <stop stop-color="#A57D94" offset="0"/>
+  <stop stop-color="#987387" offset=".3845"/>
+  <stop stop-color="#7B5E6B" offset="1"/>
+ </radialGradient>
+ <path d="m24.354 10.13c25.996-34.138 108.88 27.611 125.12 43.873 16.25 16.234 64.005 57.539 64.005 164.78-14.63 1.626-68.878 51.33-78.624 61.07-4.873-4.878 4.873-12.993-3.252-16.239-105.62-48.76-128.37-144.61-131.61-222.62 16.25-19.482-9.757 4.871 24.354-30.86z" fill="url(#ian_symbols_5d17f96151858384a9425ef41455aba3)"/>
+ <radialGradient id="ian_symbols_c118a05f22db1bd4a5a2a6d3b92f9e9c" gradientUnits="userSpaceOnUse" cy="520.32" cx="194.97" r="334.71">
+  <stop stop-color="#A57D94" offset="0"/>
+  <stop stop-color="#987387" offset=".3845"/>
+  <stop stop-color="#7B5E6B" offset="1"/>
+ </radialGradient>
+ <path d="m263.23 265.22c-3.252-4.862-3.252-30.858-45.51-48.74-50.361 12.993-81.23 47.131-82.861 63.37-3.252 13.009 11.377 38.994 22.744 50.366-16.24 29.249 95.87 198.24 147.87 146.24 40.615 38.994 50.361-19.491 34.11-37.385 24.38-84.49-64.99-173.86-76.35-173.86z" fill="url(#ian_symbols_c118a05f22db1bd4a5a2a6d3b92f9e9c)"/>
+ <radialGradient id="ian_symbols_b34240426df8b4c4013be835a13b7f0e" gradientUnits="userSpaceOnUse" cy="208.36" cx="383.46" r="137.11">
+  <stop stop-color="#7B5E6B" offset=".191"/>
+  <stop stop-color="#7E606E" offset=".5022"/>
+  <stop stop-color="#866676" offset=".7063"/>
+  <stop stop-color="#957185" offset=".8791"/>
+  <stop stop-color="#A57D94" offset="1"/>
+ </radialGradient>
+ <path d="m479.33 117.37c63.359 56.854-37.385 199.85-56.876 193.35-52.004 45.499-81.241 27.639-86.114 12.998-14.63 27.622-66.622-61.744-66.622-61.744s0-21.118 14.63-25.985c3.23-82.88 131.6-175.51 194.98-118.63z" fill="url(#ian_symbols_b34240426df8b4c4013be835a13b7f0e)"/>
+ <path stroke="#A57D94" stroke-width=".4131" d="m290.85 232.72s58.486 79.631 126.72 74.747" fill="none"/>
+ <path stroke="#A57D94" stroke-width=".4131" d="m157.6 330.22s58.497-53.607 105.63-64.996" fill="none"/>
+ <path stroke="#A57D94" stroke-width=".4131" d="m4.862 57.255s30.88-45.51 58.508-52.009" fill="none"/>
+</svg>

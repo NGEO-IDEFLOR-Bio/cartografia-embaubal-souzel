@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="335" viewBox="0 0 501 335" xml:space="preserve">
+            <title>Seagrass loss</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass loss</ian_image_library:title>
+                <ian_image_library:descr>Illustration of seagrass loss</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, loss, population, community, destruction, habitat, reduction</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-28bcb2b3379cb0842530162b0a7b3fee">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass loss</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-loss/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-loss/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, loss, population, community, destruction, habitat, reduction</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of seagrass loss</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="1.9942" d="m41.127 234.08c1.996 9.966 7.971-113.64 0-113.64-17.948-4-9.977 85.72 0 113.64z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m39.131 248.04c0 21.938 31.906-161.52 45.863-181.44 11.972-21.938 5.975-51.848-5.987-33.889-9.966 17.931-41.871 127.6-39.876 215.33z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m41.127 248.04s-21.927-183.44-21.927-207.36c0-23.934-17.948-45.873-17.948-15.962v3.991c-1.996 27.925 7.97 105.69 21.927 161.51 7.971 31.91 17.948 57.82 17.948 57.82z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m230.56 246.05c-1.996-3.98-3.991-41.882-9.977-69.796-5.986-31.894-9.966-71.78-11.962-81.747-1.995-17.959-3.991-45.874-19.943-21.928-17.937 23.934 35.896 241.26 45.873 251.24 9.97 9.96-3.99-77.77-3.99-77.77z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m236.54 331.79c7.982 9.967 7.982-61.814 17.948-125.62 3.991-29.91 7.982-53.833 11.973-71.77 3.98-19.943 0-29.92 0-33.9 0-9.966-11.973-23.945-19.954-2.006-9.966 23.934-17.937 139.57-17.937 163.52 0 23.93 1.99 59.82 7.97 69.78z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m138.84 198.2c1.985-3.991 3.991-39.887 9.966-67.812 5.976-33.878 9.966-73.765 9.966-81.758 1.995-19.932 3.991-47.846 21.938-23.922 15.953 23.922-37.88 241.28-47.857 251.25-9.99 9.98 5.98-77.76 5.98-77.76z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m130.86 283.93c-5.976 9.967-5.976-61.803-15.942-125.61-5.997-27.925-7.992-53.843-11.972-71.802-5.976-17.937-1.995-27.903-1.995-31.894 0-9.966 11.961-25.919 21.927-1.996 7.982 23.923 15.964 137.58 15.964 161.51-.01 23.92-2.01 59.82-7.99 69.79z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m271.91 224.84c2.006 9.977 7.981-113.64 0-113.64-17.95-4-9.97 85.74 0 113.64z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m269.92 238.8c0 21.949 31.904-161.51 45.861-181.43 11.962-21.95 5.976-51.86-5.985-33.901-9.98 17.937-41.87 127.62-39.88 215.33z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m271.91 238.8s-21.938-183.44-21.938-207.36c0-23.923-17.938-45.862-17.938-15.952v3.979c-1.995 27.925 7.971 105.69 21.928 161.51 7.98 31.91 17.95 57.82 17.95 57.82z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m461.34 236.82c-1.995-3.98-3.979-41.882-9.977-69.786-5.976-31.905-9.966-71.781-11.961-81.758-1.996-17.958-3.981-45.861-19.944-21.917-17.948 23.923 35.896 241.26 45.862 251.23 9.98 9.97-3.98-77.76-3.98-77.76z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m467.33 322.55c7.971 9.966 7.971-61.804 17.948-125.61 3.979-29.91 7.96-53.844 11.951-71.781 3.99-19.943 0-29.91 0-33.9 0-9.966-11.951-23.945-19.934-1.996-9.966 23.923-17.947 139.57-17.947 163.52 0 23.92 1.99 59.82 7.98 69.77z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m369.62 188.97c1.995-3.991 3.979-39.886 9.965-67.812 5.987-33.878 9.978-73.765 9.978-81.746 1.984-19.944 3.99-47.858 21.929-23.923 15.952 23.923-37.893 241.27-47.858 251.25-9.96 9.96 5.99-77.77 5.99-77.77z" fill="#37A54F"/>
+ <path stroke="#231F20" stroke-width="1.9942" d="m361.65 274.7c-5.986 9.978-5.986-61.804-15.963-125.61-5.976-27.925-7.971-53.833-11.951-71.792-5.986-17.937-2.006-27.915-2.006-31.894 0-9.978 11.972-25.93 21.938-2.006 7.981 23.923 15.953 137.59 15.953 161.52 0 23.91-2 59.81-7.97 69.78z" fill="#37A54F"/>
+ <line y2="309.95" x1="108.61" x2="387.17" stroke="#ED1C24" stroke-linecap="round" y1="23.338" stroke-width="30.364" fill="none"/>
+ <line y2="23.338" x1="104.5" x2="383.06" stroke="#ED1C24" stroke-linecap="round" y1="309.96" stroke-width="30.364" fill="none"/>
+</svg>

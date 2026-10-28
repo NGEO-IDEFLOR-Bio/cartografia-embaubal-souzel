@@ -1,0 +1,148 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="205" height="502" viewBox="0 0 205 502" xml:space="preserve">
+            <title>Urban: city building 05</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: city building 05</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a skyscraper</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, city, building, 5, skyscraper, office, tower</ian_image_library:contains>
+                    <ian_image_library:when>2003-06-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-23fb17205314f1d4018372d0dcb43b65">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: city building 05</dc:title>
+                <dc:date>2003-06-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-city-building-05/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-city-building-05/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, city, building, 5, skyscraper, office, tower</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a skyscraper</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_74731f26904cecf4f54321b2131c78ca" y2="44.2" gradientUnits="userSpaceOnUse" x2="229.04" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="500.28" x1="229.04">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="76.667 500.28 204.18 456.13 204.18 44.199 76.667 88.343" fill="url(#ian_symbols_74731f26904cecf4f54321b2131c78ca)"/>
+ <linearGradient id="ian_symbols_05f26cd810ed35c48124b728898c1d6e" y2="51.579" gradientUnits="userSpaceOnUse" x2="330.81" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="500.28" x1="330.81">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points=".652 463.48 76.667 500.28 76.667 88.343 .652 51.578" fill="url(#ian_symbols_05f26cd810ed35c48124b728898c1d6e)"/>
+ <linearGradient id="ian_symbols_ced8453fb9ba8204455c75596461fc62" y2="6.7998" gradientUnits="userSpaceOnUse" x2="267.05" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="88.343" x1="267.05">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points=".652 51.578 129.42 6.8 204.18 44.199 76.667 88.343" fill="url(#ian_symbols_ced8453fb9ba8204455c75596461fc62)"/>
+ <linearGradient id="ian_symbols_646d06f3165043b445ac9932fc5e35ed" y2="23.827" gradientUnits="userSpaceOnUse" x2="245.69" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="68.712" x1="245.69">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="89.972 68.712 157.57 45.21 157.57 23.827 89.972 47.329" fill="url(#ian_symbols_646d06f3165043b445ac9932fc5e35ed)"/>
+ <linearGradient id="ian_symbols_3c42e5e4050eca544d956d3624823b49" y2="27.753" gradientUnits="userSpaceOnUse" x2="299.63" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="68.712" x1="299.63">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="49.701 49.136 89.972 68.712 89.972 47.329 49.701 27.753" fill="url(#ian_symbols_3c42e5e4050eca544d956d3624823b49)"/>
+ <linearGradient id="ian_symbols_ba0e8c0d1c59a9248d7f55b31a0f5088" y2="3.896" gradientUnits="userSpaceOnUse" x2="265.83" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="47.329" x1="265.83">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="49.701 27.753 117.96 3.896 157.57 23.827 89.972 47.329" fill="url(#ian_symbols_ba0e8c0d1c59a9248d7f55b31a0f5088)"/>
+ <linearGradient id="ian_symbols_3ba156707d17f6f41d72cf76e714eb36" y2="11.458" gradientUnits="userSpaceOnUse" x2="260.66" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="36.648" x1="260.66">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="89.843 36.648 127.77 23.461 127.77 11.458 89.843 24.645" fill="url(#ian_symbols_3ba156707d17f6f41d72cf76e714eb36)"/>
+ <linearGradient id="ian_symbols_41f905717b8f55f4a5c34f7906b4c9e5" y2="13.641" gradientUnits="userSpaceOnUse" x2="290.92" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="36.648" x1="290.92">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="67.244 25.645 89.843 36.648 89.843 24.645 67.244 13.641" fill="url(#ian_symbols_41f905717b8f55f4a5c34f7906b4c9e5)"/>
+ <linearGradient id="ian_symbols_75a16a7b9a9168046951c325273bd694" y2=".271" gradientUnits="userSpaceOnUse" x2="271.96" gradientTransform="matrix(-1 0 0 1 369.47 0)" y1="24.644" x1="271.96">
+  <stop stop-color="#849DAA" offset="0"/>
+  <stop stop-color="#89A2B0" offset=".2219"/>
+  <stop stop-color="#99AFC2" offset=".5304"/>
+  <stop stop-color="#B1C5E0" offset=".8882"/>
+  <stop stop-color="#BACDEA" offset=".9944"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="67.244 13.641 105.54 .271 127.77 11.458 89.843 24.645" fill="url(#ian_symbols_75a16a7b9a9168046951c325273bd694)"/>
+ <line y2="489.91" x1="107.46" x2="107.46" stroke="#231F20" y1="79.049" stroke-width=".5" fill="none"/>
+ <line y2="477.47" x1="142.05" x2="142.05" stroke="#231F20" y1="65.744" stroke-width=".5" fill="none"/>
+ <line y2="465.95" x1="174.89" x2="174.89" stroke="#231F20" y1="54.203" stroke-width=".5" fill="none"/>
+</svg>

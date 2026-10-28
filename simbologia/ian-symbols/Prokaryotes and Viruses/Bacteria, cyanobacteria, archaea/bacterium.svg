@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="304" viewBox="0 0 502 304" xml:space="preserve">
+            <title>Bacterium</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Bacterium</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a bacterium</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>bacterium, Bacteria</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-87a3880394517114e9b221ddfdb221e3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Bacterium</dc:title>
+                <dc:date>2003-11-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/bacterium/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/bacterium/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>bacterium, Bacteria</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a bacterium</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".4717" d="m434.54 90.603c6.784 14.071-84.853 72.303-204.7 130.08-119.82 57.79-222.47 93.23-229.25 79.17-6.773-14.071 84.875-72.303 204.71-130.08 119.83-57.79 222.45-93.227 229.24-79.167z" fill="#F9EC85"/>
+ <path stroke="#231F20" stroke-width=".4717" d="m433.87 89.531c16.697-6.346 22.321-19.356 19.553-28.077-2.735-8.709-27.113-1.608-40.353-3.873-27.333-4.661-10.121-22.485 8.151-29.488 15.012-5.745 22.354-16.916 36.129-23.492 14.214-6.784 28.021-3.666 42.892-3.556" fill="none"/>
+ <path stroke="#EA2B91" stroke-width=".629" d="m174.75 195.48c20.888-12.386 65.661-26.818 79.874-20.066 14.225 6.729-.7 23.174-21.172 32.289-20.472 9.114-56.973 26.216-81.176 13.271-24.2-12.95 1.62-13.09 22.48-25.49z" fill="none"/>
+</svg>

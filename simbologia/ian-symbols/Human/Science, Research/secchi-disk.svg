@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="395" height="501" viewBox="0 0 395 501" xml:space="preserve">
+            <title>Secchi disk</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Secchi disk</ian_image_library:title>
+                <ian_image_library:descr>Illustration of secchi disk</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, field, gear, data, collection, secchi, disk, water, clarity, turbidity</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-641287d24a5f4bf4e12eb7d8a812eac0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Secchi disk</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/secchi-disk/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/secchi-disk/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, field, gear, data, collection, secchi, disk, water, clarity, turbidity</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of secchi disk</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke-linejoin="round" stroke="#231F20" stroke-width="2" d="m197.64 377.66c107.75 0 195.62 27.192 195.62 60.663s-87.86 60.68-195.62 60.68c-107.74 0-196.64-27.2-196.64-60.67s88.902-60.67 196.64-60.67z" fill="#fff"/>
+ <path stroke-linejoin="round" stroke="#231F20" stroke-width="2" d="m48.067 399.62l151.67 39.75-151.67 38.71c-.003 0-102.51-38.7-.003-78.46z" fill="#231F20"/>
+ <path stroke-linejoin="round" stroke="#231F20" stroke-width="2" d="m346.18 399.62l-152.72 39.75 152.72 38.702c0 .01 102.51-38.69 0-78.45z" fill="#231F20"/>
+ <line y2="437.66" x1="196.92" x2="196.92" stroke="#231F20" stroke-width="4" fill="none"/>
+</svg>

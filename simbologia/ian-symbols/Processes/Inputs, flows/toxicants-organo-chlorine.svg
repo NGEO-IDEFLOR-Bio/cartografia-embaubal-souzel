@@ -1,0 +1,97 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="495" height="495" viewBox="0 0 495 495" xml:space="preserve">
+            <title>Toxicants; organo-chlorine</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Toxicants; organo-chlorine</ian_image_library:title>
+                <ian_image_library:descr>Illustration of organo-chlorine toxicants</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>inputs, flows, organo-chlorine, toxicants, PCB</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d97e4aecbacec2a43d7b743da458fa3d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Toxicants; organo-chlorine</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/toxicants-organo-chlorine/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/toxicants-organo-chlorine/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>inputs, flows, organo-chlorine, toxicants, PCB</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of organo-chlorine toxicants</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#FFF200" stroke="#000000" stroke-width="20" stroke-miterlimit="3.8637" points="14.143,247.099 247.115,14.142 
+	480.077,247.099 247.115,480.056 14.143,247.099 "/>
+<path d="M136.472,296.638v-90.502h34.13c5.999,0,10.583,0.296,13.753,0.877c4.453,0.735,8.17,2.15,11.176,4.233
+	c3.005,2.073,5.417,4.99,7.249,8.741c1.832,3.762,2.753,7.886,2.753,12.371c0,7.721-2.457,14.247-7.348,19.588
+	c-4.897,5.341-13.72,8.006-26.486,8.006h-23.185v36.686H136.472z M148.514,249.227h23.306c7.721,0,13.183-1.448,16.429-4.311
+	c3.235-2.896,4.859-6.942,4.859-12.174c0-3.783-0.954-7.03-2.852-9.728c-1.919-2.709-4.437-4.486-7.545-5.353
+	c-2.007-0.526-5.714-0.801-11.121-0.801h-23.075V249.227z"/>
+<path d="M282.534,264.932l12.042,3.026c-2.511,9.827-7.03,17.296-13.555,22.462c-6.515,5.154-14.488,7.731-23.909,7.731
+	c-9.739,0-17.668-1.996-23.788-5.955c-6.098-3.959-10.748-9.717-13.928-17.24c-3.197-7.524-4.793-15.606-4.793-24.249
+	c0-9.421,1.799-17.625,5.396-24.633c3.619-7.008,8.73-12.338,15.387-15.979c6.646-3.641,13.961-5.462,21.946-5.462
+	c9.048,0,16.659,2.293,22.834,6.91c6.174,4.584,10.468,11.044,12.897,19.39l-11.845,2.786c-2.095-6.603-5.133-11.396-9.114-14.411
+	c-3.992-3.005-9.004-4.508-15.036-4.508c-6.932,0-12.733,1.667-17.395,5.001c-4.65,3.346-7.929,7.82-9.815,13.446
+	c-1.897,5.626-2.83,11.428-2.83,17.405c0,7.71,1.107,14.443,3.345,20.18c2.231,5.747,5.714,10.046,10.43,12.887
+	c4.716,2.84,9.837,4.266,15.321,4.266c6.701,0,12.349-1.94,16.988-5.802C277.752,278.312,280.9,272.554,282.534,264.932z"/>
+<path d="M306.3,296.638v-90.502h33.955c6.92,0,12.47,0.921,16.648,2.742c4.168,1.831,7.447,4.661,9.815,8.467
+	c2.358,3.806,3.554,7.786,3.554,11.943c0,3.86-1.063,7.513-3.169,10.923c-2.117,3.411-5.286,6.164-9.548,8.259
+	c5.468,1.612,9.679,4.343,12.612,8.226c2.956,3.86,4.426,8.434,4.426,13.698c0,4.244-0.889,8.182-2.676,11.833
+	c-1.8,3.642-4.014,6.449-6.636,8.435c-2.632,1.974-5.934,3.466-9.903,4.464c-3.971,1.009-8.84,1.513-14.587,1.513H306.3z
+	 M318.343,244.148h19.511c5.287,0,9.081-0.34,11.395-1.053c3.027-0.899,5.308-2.391,6.854-4.485
+	c1.535-2.095,2.314-4.728,2.314-7.896c0-2.994-0.725-5.627-2.149-7.908c-1.448-2.27-3.499-3.838-6.164-4.683
+	c-2.676-0.834-7.249-1.262-13.731-1.262h-18.03V244.148z M318.343,285.923h22.472c3.85,0,6.558-0.143,8.126-0.438
+	c2.753-0.494,5.046-1.306,6.888-2.457c1.843-1.151,3.378-2.829,4.563-5.022c1.185-2.205,1.788-4.728,1.788-7.611
+	c0-3.367-0.867-6.296-2.589-8.774c-1.732-2.479-4.123-4.233-7.188-5.231c-3.055-1.009-7.452-1.514-13.199-1.514h-20.86V285.923z"/>
+</svg>

@@ -1,0 +1,84 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="395" viewBox="0 0 501 395" xml:space="preserve">
+            <title>Civil Engineering: mosquito ditches</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Civil Engineering: mosquito ditches</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mosquito ditches</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, mosquito, ditch, drain, drainage, ditches, open, water, marsh, management, water, flow</ian_image_library:contains>
+                    <ian_image_library:when>2010-07-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9dd8988fb9fbd324b10cd5e0d8d64200">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Civil Engineering: mosquito ditches</dc:title>
+                <dc:date>2010-07-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/civil-engineering-mosquito-ditches/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/civil-engineering-mosquito-ditches/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, mosquito, ditch, drain, drainage, ditches, open, water, marsh, management, water, flow</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mosquito ditches</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#999965" d="M220.718,3.821L198.69,14.358l33.471,14.703L67.984,109.768L15.907,83.006L0,92.031l63.288,188.412h28.49
+	L35.663,119.495l61.497,26.88l55.062,178.178h21.952l-48.817-165.796l78.407,34.308l57.631,182.961h21.083l-49.734-170.33
+	l61.507,26.945l49.087,161.499h21.213l-45.653-152.518l45.545,16.323l6.17-13.105c-17.678-8.615-76.27-36.899-76.27-36.899
+	l165.731-79.108l28.834,12.264l8.286-17.467L220.718,3.821z M90.298,121.535l166.385-80.307l78.692,34.47l-167.501,79.778
+	L90.298,121.535z M262.096,196.239l-66.656-29.158l167.755-79.163l70.845,28.997L262.096,196.239z"/>
+<path fill="#9FC9EB" d="M228.707,0l-16.565,7.946l30.303,13.138l-179.89,81.764L15.907,83.006L82.65,280.443h13.127L38.999,107.9
+	l72.718,30.929l55.78,185.724h13.268l-52.412-178.643l92.97,39.533l55.1,190.582h13.305l-51.92-183.576l63.882,27.172
+	l54.549,174.519h13.213l-50.953-167.394l51.326,19.756l5.091-10.839L280.6,195.57l179.333-80.102l34.119,14.812L500,117.735
+	L228.707,0z M79.87,110.2l179.717-81.678l84.744,36.77L168.08,147.714L79.87,110.2z M263.187,188.165L185.223,155l176.1-82.326
+	l81.364,35.323L263.187,188.165z"/>
+</svg>

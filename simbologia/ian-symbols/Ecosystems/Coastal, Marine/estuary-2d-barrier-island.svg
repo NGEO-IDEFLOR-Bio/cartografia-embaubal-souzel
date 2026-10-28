@@ -1,0 +1,109 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="122" viewBox="0 0 501 122" xml:space="preserve">
+            <title>Estuary 2D: barrier island</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: barrier island</ian_image_library:title>
+                <ian_image_library:descr>Illustration of estuary base with barrier island</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, barrier, isloffshore</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-593eb523735af044d9c682f493b27205">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: barrier island</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-barrier-island/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-barrier-island/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, barrier, isloffshore</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of estuary base with barrier island</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_4ccafaeb54ad432409b17805da577c08" height="49.852" viewBox="0 -49.852 49.852 49.852" width="49.852" patternUnits="userSpaceOnUse" y="508.132" x="-57.466" overflow="visible">
+   <polygon points="0 0 0 -49.853 49.853 -49.853 49.853 0" fill="none"/>
+   <polygon points="49.853 0 0 0 0 -49.853 49.853 -49.853" fill="#fff"/>
+   <path d="m17.779-37.738c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m29.616-20.762c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m31.796-32.131c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.336 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m7.954-17.181c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m16.237-25.745c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m21.05-7.992c0 .336-.272.609-.609.609-.335 0-.607-.273-.607-.609 0-.335.272-.608.607-.608.336-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m38.337-16.245c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.336-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m46.28-44.435c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m28.215-45.665c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m44.878-27.614c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336-.001.609.271.609.608z" fill="#231F20"/>
+   <path d="m3.296-3.164c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.336 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m8.411-43.344c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.337 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m42.698-6.59c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+  </pattern>
+ </defs>
+ <linearGradient id="ian_symbols_5500bb6dede7a54469886b4b5aa1f82e" y2="73.289" gradientUnits="userSpaceOnUse" x2="500.25" y1="73.289" x1="163.39">
+  <stop stop-color="#AD9768" offset="0"/>
+  <stop stop-color="#9C946F" offset=".0379"/>
+  <stop stop-color="#738E80" offset=".1439"/>
+  <stop stop-color="#4F898F" offset=".2562"/>
+  <stop stop-color="#32859B" offset=".3738"/>
+  <stop stop-color="#1C81A4" offset=".4987"/>
+  <stop stop-color="#0C7FAB" offset=".6342"/>
+  <stop stop-color="#037DAF" offset=".7881"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m496.1 38.825c-1.813 2.942-5.188 4.704-9.682 4.704-4.49 0-7.87-1.762-9.683-4.704-1.811 2.942-5.188 4.704-9.681 4.704-4.49 0-7.872-1.762-9.683-4.704-1.665 1.415-4.769 4.704-8.896 4.704-4.135 0-7.242-.85-8.909-2.262-1.669 1.413-4.778 2.262-8.91 2.262s-7.243-.85-8.909-2.262c-1.667 1.413-4.774 2.262-8.908 2.262s-7.245-.85-8.908-2.262c-1.665 1.413-4.776 2.262-8.909 2.262s-7.243-.85-8.908-2.262c-1.67 1.413-4.777 2.262-8.911 2.262-4.13 0-7.237-.85-8.905-2.262-1.669 1.413-4.776 2.262-8.909 2.262-4.136 0-7.242-.85-8.911-2.262-1.666 1.413-4.774 2.262-8.908 2.262-4.133 0-7.243-.85-8.906-2.262-1.67 1.413-4.776 2.262-8.908 2.262-4.136 0-7.245-.85-8.911-2.262-1.665 1.413-4.776 2.262-8.909 2.262-4.131 0-7.242-.85-8.908-2.262-1.668 1.413-4.777 2.262-8.909 2.262s-7.241-.85-8.91-2.262c-1.665 1.413-4.774 2.262-8.909 2.262-4.13 0-7.242-.85-8.906-2.262-1.668 1.413-4.777 2.262-8.91 2.262-4.131 0-7.241-.85-8.908-2.262-1.667 1.413-4.778 2.262-8.91 2.262-4.129 0-7.241-.85-8.908-2.262-1.663 1.413-4.776 2.262-8.907 2.262-4.133 0-7.244-.85-8.909-2.262-1.667 1.413-4.775 2.262-8.91 2.262-4.129 0-7.239-.85-8.907-2.262-1.665 1.413-4.777 2.262-8.908 2.262-4.134 0-7.243-.85-8.91-2.262-1.667 1.413-4.777 2.262-8.909 2.262v64.225h336.88v-65.338c-1.78-.810-3.19-2.028-4.15-3.587z" fill="url(#ian_symbols_5500bb6dede7a54469886b4b5aa1f82e)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m471.83 98.166c-6.176-15.912-6.543-46.357-10.17-54.805-4.916-11.438-13.525-16.24-23.546-8.599-9.44 7.193-12.63 21.762-15.42 33.548-2.396 10.131-3.216 19.764-8.122 28.658" fill="url(#ian_symbols_4ccafaeb54ad432409b17805da577c08)"/>
+ <path opacity=".5" stroke="#231F20" stroke-width=".5" d="m145.57 99.554h148.75c.507-.893 1.027-1.779 1.527-2.687 10.267-18.663 15.406-21.607 26.448-30.326 7.54-5.955 14.296-14.552 18.761-23.027-3.876-.066-6.805-.896-8.404-2.249-1.666 1.413-4.774 2.262-8.908 2.262-4.133 0-7.243-.85-8.907-2.262-1.669 1.413-4.775 2.262-8.909 2.262-4.133 0-7.243-.85-8.91-2.262-1.664 1.413-4.775 2.262-8.908 2.262-4.131 0-7.242-.85-8.909-2.262-1.669 1.413-4.776 2.262-8.908 2.262-4.133 0-7.242-.85-8.91-2.262-1.665 1.413-4.777 2.262-8.909 2.262-4.13 0-7.241-.85-8.906-2.262-1.669 1.413-4.777 2.262-8.911 2.262-4.131 0-7.24-.85-8.907-2.262-1.667 1.413-4.778 2.262-8.908 2.262-4.131 0-7.244-.85-8.909-2.262-1.665 1.413-4.777 2.262-8.907 2.262-4.134 0-7.244-.85-8.911-2.262-1.666 1.413-4.776 2.262-8.909 2.262-4.129 0-7.24-.85-8.906-2.262-1.667 1.413-4.779 2.262-8.909 2.262-4.134 0-7.244-.85-8.911-2.262-1.665 1.413-4.775 2.262-8.908 2.262v56.027z" fill="#AD9768"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 96.376c-4.235.068-8.687.493-12.095.5-11.43.025-22.802-.737-34.294-.737-21.086 0-22.913.1-43.895-.897-12.052-.574-25.765-1.272-36.894-4.789-10.945-3.459-20.895-10.537-32.166-12.698-11.508-2.209-18.522 4.628-28.781 7.18-11.859 2.949-44.675 6.279-57.315 4.745-10.547-1.282-25.278-5.402-33.923-12.127-9.318-7.249-12.692-17.239-19.295-26.302-14.661-20.119-39.025-17.763-61.495-19.938-13.719-1.33-25.625-4.414-37.888-7.611-10.743-2.8-27.269-14.593-38.251-16.874-14.088-2.93-20.354-3.495-34.741-4.186-9.593-.462-19.342-1.656-28.968-2.372v120.17h500v-24.064z" fill="#DFCAAB"/>
+ <path stroke="#231F20" stroke-width=".5" d="m234.05 88.791c9.985 3.721 22.646 5.415 33.714 3.789 2.972-.434 5.807-1.58 8.57-3.018-8.62.569-16.611.712-21.54.117-10.546-1.282-25.278-5.402-33.921-12.127-.731-.567-1.414-1.16-2.076-1.759.98 2.046 1.937 4.123 3.34 5.806 3.11 3.721 7.55 5.565 11.92 7.192z" fill="#9D5A44"/>
+</svg>

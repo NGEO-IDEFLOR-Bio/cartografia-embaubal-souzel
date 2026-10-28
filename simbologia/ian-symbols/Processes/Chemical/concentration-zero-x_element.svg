@@ -1,0 +1,77 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="509" height="504" viewBox="0 0 509 504" xml:space="preserve">
+            <title>Concentration: zero (x=element)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: zero (x=element)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of zero concentration of element, x</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, zero, none, element</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-70c6041c985a05f44514718160b9fd83">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: zero (x=element)</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-zero-x-element/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-zero-x-element/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, zero, none, element</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of zero concentration of element, x</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width="3.0861" stroke-dasharray="9.2595,9.2595,9.2595,9.2595,9.2595" d="m487.56 246.54c0 133.03-107.86 240.9-240.91 240.9s-240.92-107.87-240.92-240.9c0-133.05 107.87-240.91 240.92-240.91s240.91 107.86 240.91 240.91z" fill="#B9DA95"/>
+ <line y2="494.52" x1="13.94" x2="504.23" stroke="#000" y1="4.23" stroke-width="11.966" fill="#B9DA95"/>
+ <line y2="18.812" x1="4.23" x2="484.82" stroke="#000" y1="499.37" stroke-width="11.966" fill="#B9DA95"/>
+ <path d="m189.27 330.46l46.173-85.152-41.681-77.504h31.342l26.2 48.266 26.167-48.266h31.462l-41.692 77.623 46.184 85.033h-32.188l-29.845-55.503-29.824 55.503h-32.29z" fill="#D2232A"/>
+</svg>

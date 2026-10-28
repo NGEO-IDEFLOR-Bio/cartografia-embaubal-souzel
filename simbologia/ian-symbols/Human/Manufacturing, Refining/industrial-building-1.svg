@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="276" viewBox="0 0 501 276" xml:space="preserve">
+            <title>Industrial building 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Industrial building 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an industrial building</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, industry, manufacturing, refining, industrial park, industrial estate, building, warehouse, storage</ian_image_library:contains>
+                    <ian_image_library:when>2011-01-18</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-94a87ab929115344cd48844bacabcd43">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Industrial building 1</dc:title>
+                <dc:date>2011-01-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Department of Water Western Australia</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Department of Water Western Australia</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/industrial-building-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/industrial-building-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, industry, manufacturing, refining, industrial park, industrial estate, building, warehouse, storage</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an industrial building</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#D5D5D0" points="231.636,189.738 484.173,67.39 484.173,144.851 231.636,274.185 "/>
+<polygon fill="#A6A7A4" points="127.037,121.163 0,149.614 17.397,152.775 17.397,235.224 231.636,274.185 231.636,191.725 
+	248.244,194.769 "/>
+<polygon fill="#858980" points="56.124,167.577 56.924,185.53 87.747,191.96 87.747,174.114 "/>
+<polygon fill="#858980" points="104.887,176.891 105.7,194.833 136.506,201.251 136.506,183.405 "/>
+<polygon fill="#858980" points="151.729,186.183 152.541,204.124 183.353,210.543 183.353,192.708 "/>
+<polygon fill="#858980" points="59.925,199.959 60.736,217.912 91.548,224.33 91.548,206.474 "/>
+<polygon fill="#858980" points="107.729,209.282 108.54,227.192 139.352,233.622 139.352,215.786 "/>
+<polygon fill="#858980" points="152.702,216.662 153.513,234.604 184.325,241.023 184.325,223.177 "/>
+<polygon fill="#949593" points="385.277,0 127.037,121.163 0,149.614 265.026,26.924 "/>
+<polygon fill="#E4E4DD" points="500.001,69.665 385.277,0 127.037,121.163 248.244,194.769 "/>
+</svg>

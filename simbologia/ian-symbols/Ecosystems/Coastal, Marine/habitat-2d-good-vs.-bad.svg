@@ -1,0 +1,92 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="151" viewBox="0 0 501 151" xml:space="preserve">
+            <title>Habitat 2D: good vs. bad</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Habitat 2D: good vs. bad</ian_image_library:title>
+                <ian_image_library:descr>Illustration of habitat base with good vs. bad comparison</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, habitat, water, quality, good, bad, positive, negative, comparison, compare, contrast</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c8bc676b0af83144fd283efeacfaee1c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Habitat 2D: good vs. bad</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/habitat-2d-good-vs-bad/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/habitat-2d-good-vs-bad/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, habitat, water, quality, good, bad, positive, negative, comparison, compare, contrast</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of habitat base with good vs. bad comparison</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_b36918bdf26af494d59088df3c340d99" y2="149.24" gradientUnits="userSpaceOnUse" x2="125.95" y1=".3818" x1="125.95">
+  <stop stop-color="#C3C4AF" offset="0"/>
+  <stop stop-color="#9CB8A8" offset=".286"/>
+  <stop stop-color="#7AAEA2" offset=".5876"/>
+  <stop stop-color="#65A79E" offset=".8365"/>
+  <stop stop-color="#5DA59D" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m251.65 2.821c-6.296-.413-13.534-2.439-13.534-2.439s-5.712 2.628-15.155 2.514c-9.438-.116-15.151-2.514-15.151-2.514s-4.422 2.428-9.739 2.514c-5.322.086-14.072-2.514-14.072-2.514s-1.332 2.028-9.742 2.514c-8.406.486-10.821-2.514-10.821-2.514s-4.085 2.83-11.907 2.514c-7.819-.314-15.15-2.514-15.15-2.514s-5.785 2.83-12.988 2.514c-7.205-.314-16.236-2.514-16.236-2.514s-6.869 2.628-12.986 2.514c-6.12-.116-12.99-2.514-12.99-2.514s-3.948 2.628-10.82 2.514c-6.873-.116-11.903-2.514-11.903-2.514s-6.612 2.628-12.989 2.514c-6.379-.116-12.986-2.514-12.986-2.514s-6.285 2.428-11.909 2.514c-5.623.086-10.824-2.514-10.824-2.514s-4.628 1.704-9.493 2.307v146.55h251.4v-146.42z" fill="url(#ian_symbols_b36918bdf26af494d59088df3c340d99)"/>
+ <linearGradient id="ian_symbols_0adbe1ee22664764f5569d40b8bfcaef" y2="149.24" gradientUnits="userSpaceOnUse" x2="375.95" y1=".3818" x1="375.95">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m490.3.382s-3.498 2.628-12.99 2.514c-9.493-.116-9.74-2.514-9.74-2.514s-5.381 2.628-11.907 2.514c-6.526-.116-14.067-2.514-14.067-2.514s-5.567 2.428-11.908 2.514c-6.338.086-10.824-2.514-10.824-2.514s-4.6 3.029-10.821 2.514c-6.224-.516-11.906-2.514-11.906-2.514s-4.669 2.428-11.904 2.514c-7.239.086-14.071-2.514-14.071-2.514s-5.376 2.628-12.987 2.514c-7.614-.116-10.823-2.514-10.823-2.514s-5.916 2.628-12.986 2.514c-7.071-.116-11.907-2.514-11.907-2.514s-5.892 2.628-14.069 2.514c-8.179-.116-12.989-2.514-12.989-2.514s-7.331 3.029-15.153 2.514c-7.82-.516-15.152-2.514-15.152-2.514s-4.227 2.628-10.82 2.514c-.529-.01-1.07-.04-1.619-.075v146.42h248.6v-146.36c-6.15-.132-9.95-2.498-9.95-2.498z" fill="url(#ian_symbols_0adbe1ee22664764f5569d40b8bfcaef)"/>
+ <linearGradient id="ian_symbols_b7356926ad8cf02425fe58e0252910e8" y2="110.45" gradientUnits="userSpaceOnUse" x2="250.25" y1="149.24" x1="250.25">
+  <stop stop-color="#967D5F" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" d="m369.42 113.15c-35.568 6.042-70.358-3.532-110.09 3.327-39.737 6.86-56.648-5.086-148.97-.814-22.489 1.041-91.479 4.18-110.1-5.151v38.726h500v-38.794c-38.98 10.25-96.38-3.16-130.84 2.69z" fill="url(#ian_symbols_b7356926ad8cf02425fe58e0252910e8)"/>
+</svg>

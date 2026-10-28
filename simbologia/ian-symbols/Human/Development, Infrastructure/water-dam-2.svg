@@ -1,0 +1,104 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="504" height="315" viewBox="0 0 504 315" xml:space="preserve">
+            <title>Water: dam 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water: dam 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a rounded dam</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, dam, 2, barrier, dike</ian_image_library:contains>
+                    <ian_image_library:when>2003-06-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-95aa42124cf66ca4a1e123b2b29ce6bd">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water: dam 2</dc:title>
+                <dc:date>2003-06-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-dam-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-dam-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, dam, 2, barrier, dike</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a rounded dam</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#95BFD5" stroke="#0083B7" stroke-width="2.8011" stroke-linecap="round" stroke-linejoin="round" d="M501.401,69.137
+	c0,38.481-111.912,82.708-249.984,82.708C113.321,151.844,1.4,107.618,1.4,69.137C1.4,30.633,113.321,1.4,251.417,1.4
+	C389.489,1.4,501.401,30.633,501.401,69.137z"/>
+<linearGradient id="ian_symbols_055d93926e1492c40585aba79564977a" gradientUnits="userSpaceOnUse" x1="248.8999" y1="48.6323" x2="248.8999" y2="291.5796">
+	<stop  offset="0" style="stop-color:#95BFD5"/>
+	<stop  offset="0.3261" style="stop-color:#62A9CB"/>
+	<stop  offset="1" style="stop-color:#0083B7"/>
+</linearGradient>
+<path fill="url(#ian_symbols_055d93926e1492c40585aba79564977a)" d="M1.4,80.428v153.74c0,31.698,109.471,57.411,246.624,57.411c137.165,0,248.376-25.713,248.376-57.411
+	V80.428c0-9.628-7.835-18.776-21.818-27.025c-8.097-1.39-11.729-4.771-11.729-4.771s-9.848,5.667-21.643,5.416
+	c-11.794-0.24-19.859-5.416-19.859-5.416s-9.813,5.667-23.458,5.416c-13.645-0.24-21.67-5.416-21.67-5.416
+	s-12.216,6.542-25.271,5.416c-13.053-1.116-25.252-5.416-25.252-5.416s-7.058,5.667-18.055,5.416
+	c-11.018-0.24-25.274-5.416-25.274-5.416s-9.509,5.667-25.266,5.416c-15.733-0.24-25.274-5.416-25.274-5.416
+	s-7.363,5.229-16.237,5.416c-8.874,0.186-23.458-5.416-23.458-5.416s-2.221,4.365-16.249,5.416
+	c-14.016,1.05-18.054-5.416-18.054-5.416s-6.806,6.083-19.837,5.416c-13.043-0.678-25.276-5.416-25.276-5.416
+	s-9.65,6.083-21.642,5.416c-12.036-0.678-27.092-5.416-27.092-5.416S52.52,54.3,42.344,54.048
+	c-5.733-0.142-11.839-1.816-16.106-3.282C9.284,59.694,1.4,69.738,1.4,80.428z"/>
+<linearGradient id="ian_symbols_390c506ddeeee684adc979d942946050" gradientUnits="userSpaceOnUse" x1="1.4004" y1="189.0894" x2="501.4009" y2="189.0894">
+	<stop  offset="0" style="stop-color:#BACDEA"/>
+	<stop  offset="0.6629" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.9944" style="stop-color:#8F9194"/>
+</linearGradient>
+<path fill="url(#ian_symbols_390c506ddeeee684adc979d942946050)" stroke="#000000" stroke-width="2.8011" stroke-linecap="round" stroke-linejoin="round" d="
+	M501.401,65.887c0,38.482-111.912,58.483-249.984,58.483C113.321,124.37,1.4,104.369,1.4,65.887v176.718l0,0
+	c0,38.481,111.921,69.688,250.016,69.688c138.072,0,249.984-31.206,249.984-69.688l0,0V65.887L501.401,65.887z"/>
+<line fill="none" stroke="#000000" stroke-width="2.8011" stroke-linecap="round" stroke-linejoin="round" x1="445.915" y1="105.912" x2="445.915" y2="285.967"/>
+<line fill="none" stroke="#000000" stroke-width="2.8011" stroke-linecap="round" stroke-linejoin="round" x1="350.329" y1="120.485" x2="350.329" y2="306.582"/>
+<line fill="none" stroke="#000000" stroke-width="2.8011" stroke-linecap="round" stroke-linejoin="round" x1="263.419" y1="124.577" x2="263.419" y2="311.953"/>
+<line fill="none" stroke="#000000" stroke-width="2.8011" stroke-linecap="round" stroke-linejoin="round" x1="66.35" y1="108.69" x2="66.35" y2="288.691"/>
+<line fill="none" stroke="#000000" stroke-width="2.8011" stroke-linecap="round" stroke-linejoin="round" x1="159.129" y1="121.929" x2="159.129" y2="306.351"/>
+</svg>

@@ -1,0 +1,95 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="449" height="506" viewBox="0 0 449 506" xml:space="preserve">
+            <title>Warning buoy</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Warning buoy</ian_image_library:title>
+                <ian_image_library:descr>Illustration of warning buoy</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, warning, buoy, floating, device, danger</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-30d99332d4945a1455f7fdb9f7886abc">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Warning buoy</dc:title>
+                <dc:date>2008-12-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/warning-buoy/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/warning-buoy/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, warning, buoy, floating, device, danger</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of warning buoy</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#206AB4" stroke-width="9.6958" points="169.12 228.65 171.22 133.04 173.84 32.172 173.31 16.402 180.15 9.582 189.6 7.477 200.11 6.952 211.14 5.902 225.33 4.848 237.94 4.848 247.92 5.377 261.58 6.426 271.02 8.525 281.01 11.156 288.9 14.31 295.72 17.462 295.72 20.086 294.68 54.764 293.1 104.67 291.52 160.88 292.05 201.87 290.47 227.6 405.52 393.09 407.1 398.34 407.62 403.6 406.05 407.28 404.48 413.58 403.42 422.52 401.84 428.82 396.59 437.23 389.77 444.05 381.88 451.93 373.48 457.71 366.11 461.92 355.1 467.16 342.48 471.9 334.6 475.05 324.1 479.25 312.01 482.93 298.34 485.03 286.26 487.14 272.09 488.71 260.52 489.23 253.69 490.81 246.34 490.81 242.66 493.97 238.46 498.16 232.15 499.22 225.33 499.22 220.07 497.12 214.82 490.28 202.21 490.81 187.5 489.23 169.64 486.08 150.73 481.35 139.17 479.25 123.92 475.57 112.38 469.27 95.041 461.92 80.851 453.51 67.722 446.16 58.266 428.29 53.006 415.16 53.006 400.45 52.481 390.99" fill="#FFF200"/>
+ <path stroke="#206AB4" stroke-width="3.2319" d="m175.94 20.617c25.311-12.705 103.15-7.279 116.11 2.624l.525 8.407c-28.815-11.12-97.02-11.466-116.64-1.58v-9.451z" fill="#ED1C24"/>
+ <path stroke="#206AB4" stroke-width="3.2319" d="m172.27 216.58s57.005 6.034 115.23 2.45c0 0-2.456 5.074 1.217 11.907-58.044 3.148-116.12-3.517-116.12-3.517l-.33-10.84z" fill="#ED1C24"/>
+ <polygon stroke="#206AB4" stroke-width="3.2319" points="178.57 93.99 233.9 26.741 285.04 97.144 230.05 159.83" fill="#ED1C24"/>
+ <polygon stroke="#206AB4" stroke-width="3.2319" points="188.02 93.287 232.86 44.956 274.53 95.385 230.41 142.33" fill="#fff"/>
+ <polygon points="291.57 114.44 193.74 107.75 196.56 66.524 294.4 73.211" fill="none"/>
+ <path d="m198.21 98.614l-2.875-11.333h1.547l1.345 5.733c.336 1.413.639 2.825.841 3.918h.034c.185-1.127.538-2.472.925-3.935l1.513-5.717h1.53l1.379 5.75c.319 1.346.622 2.69.79 3.885h.034c.235-1.244.555-2.506.908-3.918l1.497-5.717h1.497l-3.212 11.333h-1.53l-1.429-5.902c-.353-1.446-.588-2.556-.74-3.699h-.034c-.185 1.127-.454 2.236-.875 3.699l-1.614 5.902h-1.56z"/>
+ <path d="m211.46 95.049l-1.177 3.564h-1.513l3.868-11.333h1.749l3.868 11.333h-1.564l-1.211-3.564h-4.03zm3.73-1.143l-1.126-3.263c-.252-.739-.42-1.412-.589-2.068h-.033c-.168.656-.336 1.362-.572 2.052l-1.11 3.279h3.43z"/>
+ <path d="m219.92 87.432c.74-.135 1.816-.236 2.808-.236 1.564 0 2.59.303 3.279.926.555.504.892 1.277.892 2.169 0 1.479-.942 2.472-2.119 2.875v.051c.858.303 1.379 1.109 1.648 2.287.37 1.58.639 2.673.874 3.11h-1.514c-.185-.336-.437-1.295-.739-2.707-.336-1.564-.958-2.152-2.287-2.203h-1.379v4.91h-1.463v-11.182zm1.46 5.162h1.497c1.564 0 2.556-.857 2.556-2.152 0-1.463-1.06-2.103-2.606-2.103-.706 0-1.194.051-1.446.118v4.137z"/>
+ <path d="m228.96 98.614v-11.333h1.615l3.615 5.733c.824 1.328 1.496 2.522 2.018 3.683l.051-.017c-.135-1.514-.168-2.893-.168-4.658v-4.741h1.379v11.333h-1.48l-3.599-5.751c-.79-1.261-1.547-2.556-2.102-3.783l-.051.017c.085 1.43.101 2.791.101 4.675v4.843h-1.39z"/>
+ <path d="m241.49 87.281v11.333h-1.48v-11.333h1.48z"/>
+ <path d="m244.04 98.614v-11.333h1.614l3.615 5.733c.824 1.328 1.497 2.522 2.019 3.683l.05-.017c-.134-1.514-.168-2.893-.168-4.658v-4.741h1.379v11.333h-1.479l-3.599-5.751c-.79-1.261-1.548-2.556-2.103-3.783l-.05.017c.084 1.43.101 2.791.101 4.675v4.843h-1.37z"/>
+ <path d="m263.75 98.109c-.656.253-1.967.623-3.498.623-1.715 0-3.127-.438-4.236-1.497-.976-.941-1.581-2.455-1.581-4.221 0-3.38 2.337-5.852 6.138-5.852 1.312 0 2.354.286 2.842.521l-.37 1.193c-.605-.285-1.362-.487-2.505-.487-2.758 0-4.558 1.715-4.558 4.557 0 2.876 1.716 4.574 4.372 4.574.959 0 1.614-.135 1.95-.303v-3.38h-2.286v-1.177h3.732v5.449z"/>
+ <radialGradient id="ian_symbols_b9da5d2336ade2b4c1d899c5c13b7b39" gradientUnits="userSpaceOnUse" cy="43.074" cx="220.15" gradientTransform="matrix(1 0 0 -1 4 500)" r="161.8">
+  <stop stop-color="#008FD5" offset=".0899"/>
+  <stop stop-color="#00AEEF" offset=".4719"/>
+  <stop stop-color="#00ABE9" offset=".5909"/>
+  <stop stop-color="#00A2D7" offset=".755"/>
+  <stop stop-color="#0093BA" offset=".9445"/>
+  <stop stop-color="#008EB0" offset="1"/>
+ </radialGradient>
+ <path stroke="#231F20" stroke-width=".808" d="m.434 464.48c-1.887 3.566 87.474-25.901 97.164-54.5-10.26 11.829 54.427 40.936 54.427 40.936s72.948-31.729 71.676-41.911c1.272 13.86 62.855 42.354 62.855 42.354s70.815-26.394 70.146-39.243c-.904 14.955 68.604 56.291 91.203 59.964-5.26 6.827-23.646 19.438-33.616 31.518-19.472-.876-45.708.53-56.235.53-10.494-.006-58.926-.437-65.134 0-19.604 1.373-83.778.341-59.372.53 22.172.155-77.75-.53-77.75-.53s-63.582-.212-55.688-.53c7.904-.317-64.084 0-64.084 0s-33.704-42.69-35.602-39.12z" fill="url(#ian_symbols_b9da5d2336ade2b4c1d899c5c13b7b39)"/>
+</svg>

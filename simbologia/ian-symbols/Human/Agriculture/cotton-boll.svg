@@ -1,0 +1,156 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="452" viewBox="0 0 501 452" xml:space="preserve">
+            <title>Cotton boll</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Cotton boll</ian_image_library:title>
+                <ian_image_library:descr>Illustration of cotton boll</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, cotton, boll, fiber, fibre, fabric, clothing, plant, vascular, Magnoliophyta, angiosperm, flowering, Magnoliopsida, dicot, Dilleniidae, Malvales, Malvaceae, Gossypium, sp.</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-09</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-10c77590b7b85534655161fecc1f18c5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Cotton boll</dc:title>
+                <dc:date>2005-03-09</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/cotton-boll/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/cotton-boll/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, cotton, boll, fiber, fibre, fabric, clothing, plant, vascular, Magnoliophyta, angiosperm, flowering, Magnoliopsida, dicot, Dilleniidae, Malvales, Malvaceae, Gossypium, sp.</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of cotton boll</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<radialGradient id="ian_symbols_8e2499fb0549cba421443f34e0a4c807" cx="171.1729" cy="338.6733" r="143.9875" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.0056" style="stop-color:#7B5A48"/>
+	<stop  offset="1" style="stop-color:#6B6151"/>
+</radialGradient>
+<path fill="url(#ian_symbols_8e2499fb0549cba421443f34e0a4c807)" stroke="#58595B" stroke-width="1.673" d="M305.522,450.254c0,0-34.92-25.88-45.028-36.619
+	c-10.107-10.74-17.493-27.144-29.485-34.094c-11.993-6.948-91.135-45.463-121.437-63.763C79.258,297.459,18.208,253.258,8.1,246.941
+	c-10.107-6.317-8.844-24.007-1.252-18.952c7.57,5.054,56.629,43.612,83.14,58.774c26.533,15.162,141.021,73.195,147.328,73.195
+	c6.318,0,3.159-28.407,1.264-39.778c-1.895-11.372-5.054-27.144-5.054-27.144l12.635-1.895c0,0,3.79,13.898,4.422,27.774
+	c0.632,13.898,4.423,16.86,12.004,47.163c7.559,30.324,78.924,83.564,78.924,83.564L305.522,450.254z"/>
+<radialGradient id="ian_symbols_503960c01677f6e43199cec04e30051f" cx="420.1821" cy="337.7485" r="69.4344" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.0056" style="stop-color:#7B5A48"/>
+	<stop  offset="1" style="stop-color:#6B6151"/>
+</radialGradient>
+<path fill="url(#ian_symbols_503960c01677f6e43199cec04e30051f)" stroke="#58595B" stroke-width="1.673" d="M346.585,279.399c0,0,34.126,8.976,50.278,17.973
+	c16.164,8.975,19.759,8.975,30.52,14.334c10.773,5.402,32.317,16.164,41.293,25.161c17.96,1.786,23.342-7.189,28.733-5.402
+	c5.392,1.808-1.798,14.378-19.747,14.378c-17.962,0-43.09-19.759-53.873-25.14c-10.762-5.381-32.307-16.164-32.307-16.164
+	s23.331,28.733,30.52,39.495c7.188,10.782,0,26.947,7.188,34.113c7.168,7.19,12.548,17.951,12.548,17.951s-17.949,0-23.33-10.761
+	c-5.381-10.763-8.975-30.521-12.569-41.304c-3.595-10.762-16.153-23.331-16.153-23.331l-1.798,28.712c0,0-3.594-17.95-7.177-28.712
+	c-3.606-10.783-8.987-10.783-21.556-14.356c-12.57-3.616-17.951-12.569-17.951-12.569L346.585,279.399z"/>
+<linearGradient id="ian_symbols_82a41a7ae37798341d532d4484f9c542" gradientUnits="userSpaceOnUse" x1="213.0581" y1="244.9614" x2="428.647" y2="244.9614">
+	<stop  offset="0.0056" style="stop-color:#A5B93B"/>
+	<stop  offset="1" style="stop-color:#888D4D"/>
+</linearGradient>
+<path fill="url(#ian_symbols_82a41a7ae37798341d532d4484f9c542)" stroke="#58595B" stroke-width="1.673" d="M428.647,178.059c0,0-19.213,83.39-21.011,90.579
+	c-1.797,7.167,10.772,26.925,10.772,26.925s-10.772-16.164-17.95-14.355c-7.189,1.786-26.938,23.331-35.911,28.712
+	c-8.986,5.402-19.748-1.786-37.709-5.381c-17.939-3.594-26.937-12.569-39.506-19.736c-12.57-7.188-74.274-56.204-74.274-56.204
+	L428.647,178.059z"/>
+<radialGradient id="ian_symbols_e0a1d575cf8085046980bd4718491aee" cx="87.6538" cy="176.1001" r="33.0681" gradientTransform="matrix(1.0109 0.0477 0.0477 1.2083 -1.5842 -7.7753)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.0056" style="stop-color:#7B5A48"/>
+	<stop  offset="1" style="stop-color:#6B6151"/>
+</radialGradient>
+<path fill="url(#ian_symbols_e0a1d575cf8085046980bd4718491aee)" stroke="#58595B" stroke-width="1.673" d="M76.59,157.756c24.235-5.359,35.182,2.679,34.179,33.09
+	c-0.327,9.868-5.707,20.738-5.25,29.779c0.676,12.939,7.179,27.731,8.758,40.432c-2.854,1.416-5.055,1.612-7.93,1.307
+	c-7.254-26.402-4.607-53.611-13.985-80.842c-1.525,0.437-3.082,0.349-4.64-0.261c-1.166-3.791-2.386-7.93-2.941-11.917
+	L76.59,157.756z"/>
+<linearGradient id="ian_symbols_f9d0ac3773d686d43103c277f7e3e644" gradientUnits="userSpaceOnUse" x1="31.0039" y1="261.563" x2="264.5142" y2="261.563">
+	<stop  offset="0.0056" style="stop-color:#A5B93B"/>
+	<stop  offset="1" style="stop-color:#8A784A"/>
+</linearGradient>
+<path fill="url(#ian_symbols_f9d0ac3773d686d43103c277f7e3e644)" stroke="#58595B" stroke-width="1.673" d="M105.999,254.26c-11.089-14.421-17.384,10.544-25.989,14.856
+	c-12.461,6.209-31.064-1.895-43.079,6.253c-27.329,18.561,48.438,4.575,53.176,16.687c-18.702,0.305-15.914,10.107,2.517,9.89
+	c13.048-0.174,20.869,1.351,34.919,4.488c13.038,2.896,29.714-0.502,43.133-0.132c6.383,0.153,12.069,3.291,19.301,1.111
+	c6.579-1.982,9.585-10.107,16.328-11.676c-3.54,6.928-14.236,7.102-12.058,17.515c9.498,2.025,8.681-4.161,15.445-5.947
+	c5.86-1.547,12.134-2.832,20.238-2.767c18.963,0.131,22.285-0.392,27.296-18.909c6.023-22.307,17.481-63.871-12.221-76.157
+	c-9.65,24.376-19.715,37.991-46.989,48.774c-23.592,9.346-55.953,15.162-77.661,1.416L105.999,254.26z"/>
+<radialGradient id="ian_symbols_8ad0012eb87b830409b68f8e4f49d9a2" cx="338.3032" cy="91.7817" r="90.1153" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.1862" style="stop-color:#E7E8E9"/>
+	<stop  offset="0.6172" style="stop-color:#D8DADB"/>
+	<stop  offset="1" style="stop-color:#CBCDCF"/>
+</radialGradient>
+<path fill="url(#ian_symbols_8ad0012eb87b830409b68f8e4f49d9a2)" stroke="#ADADAD" stroke-width="1.673" d="M239.102,22.692c11.317-8.496,22.623-0.85,33.972-1.415
+	c12.712-0.654,25.106-3.922,38.385-2.854c11.229,0.915,25.193,3.006,33.994,10.457c5.533,4.684,7.951,7.559,15.358,9.389
+	c11.643,2.853,23.287,2.069,34.549,6.535c13.071,5.207,28.069,13.964,34.846,26.011c5.021,8.931,6.502,22.525,7.112,32.567
+	c0.37,5.794-0.904,11.698,0.021,16.948c1.078,6.034,5.772,11.175,4.923,17.754c-1.438,11.088-21.588,14.377-31.151,17.144
+	c-42.654,12.352-99.108,15.881-140.16-3.703c-23.462-11.197-37.382-44.31-31.152-67.249
+	C239.799,84.277,227.773,31.188,239.102,22.692z"/>
+<radialGradient id="ian_symbols_813068fa4c4307c4359439474cbddb61" cx="190.4409" cy="80.9043" r="204.3949" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.1517" style="stop-color:#E7E8E9"/>
+	<stop  offset="1" style="stop-color:#CACBCD"/>
+</radialGradient>
+<path fill="url(#ian_symbols_813068fa4c4307c4359439474cbddb61)" stroke="#ADADAD" stroke-width="1.673" d="M127.239,2.15c-24.398,0-48.252,9.019-64.602,27.47
+	c-7.723,8.735-8.692,17.34-13.953,26.359c-5.99,10.261-17.057,16.73-24.942,25.422c-7.451,8.191-13.594,18.756-17.373,29.061
+	c-2.103,5.751-4.662,11.001-0.861,16.142c4.008,5.446,10.348,6.187,12.024,13.593c2.833,12.504-8.942,24.987,4.968,33.809
+	c10.935,6.928,18.037,8.431,18.386,23.527c0.304,13.507-2.777,24.639,6.535,36.141c9.281,11.415,28.887,11.24,42.458,10.587
+	c23.353-1.133,44.309-13.637,66.573-19.649c20.183-5.446,43.449-3.485,64.275-3.703c26.032-0.283,43.928-14.247,64.383-28.167
+	c24.649-16.796,47.446-39.104,65.136-63.131c11.676-15.815,9.846-30.781-9.76-36.837c-18.212-5.642-27.144-13.354-37.164-28.341
+	c-7.059-10.565-18.614-12.962-26.708-21.916c-9.64-10.695-21.326-20.063-34.016-26.75c-11.665-6.144-24.475-8.212-37.501-9.367
+	c-11.851-1.024-23.712-3.639-35.356-4.946c-6.013-0.675-15.62-1.198-21.262,0.697H127.239z"/>
+<radialGradient id="ian_symbols_db8d0b7dc2f23d64f96cc11e9ea4ddac" cx="268.7397" cy="124.229" r="257.7655" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.6241" style="stop-color:#E7E8E9"/>
+	<stop  offset="1" style="stop-color:#D6D7D8"/>
+</radialGradient>
+<path fill="url(#ian_symbols_db8d0b7dc2f23d64f96cc11e9ea4ddac)" stroke="#ADADAD" stroke-width="1.673" d="M247.586,77.894c-8.496-3.529-24.878-5.751-33.254-4.923
+	c-12.221,1.198-20.957,5.424-31.871,11.502c-11.938,6.623-24.431,11.763-36.793,16.97c-13.659,5.751-23.527,14.53-34.038,24.398
+	c-11.993,11.263-23.539,20.717-31.294,35.596c-6.11,11.677-13.245,22.961-11.862,36.838c1.34,13.31,8.801,24.551,15.413,36.074
+	c6.666,11.59,13.8,24.791,23.505,33.983c23.135,21.937,61.475,17.58,83.575-2.135c24.104-21.479,47.49-17.885,76.442-12.177
+	c32.164,6.317,57.129-0.632,85.122-18.233c15.031-9.477,26.664-22.329,41.739-31.174c15.183-8.888,32.894-11.72,47.293-21.414
+	c10.544-7.08,20.086-13.659,20.521-27.426c0.392-12.504-8.17-19.301-17.722-25.51c-12.265-7.973-16.415-13.768-17.83-28.298
+	c-1.373-14.029-5.382-19.126-19.672-20.564c-5.151-0.523-12.417-0.152-17.145-1.895c-6.84-2.527-8.659-9.738-13.288-14.509
+	c-8.234-8.496-20.706-9.171-31.151-4.988c-11.786,4.727-22.481,9.433-35.4,10.108c-6.818,0.349-10.456,0.458-16.414,3.355
+	c-4.411,2.156-10.25,5.816-15.435,4.291c-5.587-1.655-7.079-6.23-13.451-5.511C258.207,72.949,256.083,81.445,247.586,77.894z"/>
+</svg>

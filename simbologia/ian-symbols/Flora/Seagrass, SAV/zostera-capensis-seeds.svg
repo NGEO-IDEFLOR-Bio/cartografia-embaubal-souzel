@@ -1,0 +1,107 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="261" viewBox="0 0 501 261" xml:space="preserve">
+            <title>Zostera capensis seeds</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Zostera capensis seeds</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Zostera capensis seeds</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Liliopsida, monocot, Alismatidae, Najadales, Zosteraceae, eel-grass, family, Zostera, capensis, seeds</ian_image_library:contains>
+                    <ian_image_library:when>2008-08-26</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9c11fe177e663c747db0eee81154f24f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Zostera capensis seeds</dc:title>
+                <dc:date>2008-08-26</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+James Cook University</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+James Cook University</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/zostera-capensis-seeds/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/zostera-capensis-seeds/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Liliopsida, monocot, Alismatidae, Najadales, Zosteraceae, eel-grass, family, Zostera, capensis, seeds</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Zostera capensis seeds</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_b92adde9faf13c741de4dd7ce80f60ae" y2="144.22" gradientUnits="userSpaceOnUse" x2="158.58" y1="90.748" x1="38.482">
+  <stop stop-color="#9D2123" offset=".1966"/>
+  <stop stop-color="#A12B26" offset=".2217"/>
+  <stop stop-color="#B25335" offset=".3599"/>
+  <stop stop-color="#C17142" offset=".4974"/>
+  <stop stop-color="#CD8A4E" offset=".6318"/>
+  <stop stop-color="#D69C57" offset=".7623"/>
+  <stop stop-color="#DBA85C" offset=".8871"/>
+  <stop stop-color="#DDAC5E" offset="1"/>
+ </linearGradient>
+ <path stroke="#964B36" stroke-width=".25" d="m152.3 2.932s-36.89-23.142-92.174 63.472c-55.288 86.606-72.96 130.01-50.547 141.18 28.947 14.373 35.699 25.963 44.804 28.681 9.051 2.718 76.567-49.403 102.61-92.718 27.54-45.663 36.944-99.459 26.952-116.57-10-17.048-24.15-15.123-31.64-24.038z" fill="url(#ian_symbols_b92adde9faf13c741de4dd7ce80f60ae)"/>
+ <path stroke="#964B36" stroke-width=".25" d="m173.05 13.814s4.262 55.166-20.114 91.185c-24.354 35.998-60.982 81.639-74.828 94.806-13.818 13.231-36.231 29.518-36.231 29.518" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m152.3 2.932s-29.377 20.505-47.218 43.76c-20.603 26.724-34.138 44.674-42.863 62.319-6.632 13.449-44.32 87.924-46.718 101.81" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m164.81 9.879s-6.501 36.672-12.829 49.577c-6.35 12.959-17.874 42.369-33.378 64.472-15.482 22.038-35.226 47.544-49.039 60.743-13.846 13.177-35.4 37.433-35.4 37.433" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m159.66 8.052s-36.661 45.718-48.838 68.299c-12.193 22.582-84.879 123.45-84.977 138.06" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m172.85 14.456c-.707 1.457-7.013.065-14.145-3.175-7.132-3.229-12.351-7.121-11.676-8.567.685-1.566 7.034-.131 14.145 3.12 7.16 3.251 12.38 7.122 11.69 8.622z" fill="#964B36"/>
+ <linearGradient id="ian_symbols_00cb272fde74c4d43d8358a401938f54" y2="4290.5" gradientUnits="userSpaceOnUse" x2="3249.2" gradientTransform="matrix(.0708 -.0735 .0735 .0708 -103.66 30.168)" y1="4290.5" x1="2074.7">
+  <stop stop-color="#9D0236" offset=".1966"/>
+  <stop stop-color="#A62E3D" offset=".2684"/>
+  <stop stop-color="#B65748" offset=".3983"/>
+  <stop stop-color="#C37451" offset=".5275"/>
+  <stop stop-color="#CE8C57" offset=".6539"/>
+  <stop stop-color="#D69F5B" offset=".7766"/>
+  <stop stop-color="#DCAA5E" offset=".8939"/>
+  <stop stop-color="#DDAE5E" offset="1"/>
+ </linearGradient>
+ <path stroke="#964B36" stroke-width=".25" d="m284.49 79.744s-28.54 32.845 48.436 100.89c77.018 68.038 117.16 92.186 131.63 71.789 18.679-26.354 31.235-31.258 35.291-39.814 4.088-8.556-36.933-83.28-75.735-115.72-40.836-34.258-92.544-51.915-110.95-44.652-18.44 7.185-18.75 21.493-28.68 27.506z" fill="url(#ian_symbols_00cb272fde74c4d43d8358a401938f54)"/>
+ <path stroke="#964B36" stroke-width=".25" d="m298.44 60.967s55.209 4.294 86.978 33.986c31.79 29.616 71.245 72.876 82.118 88.543 10.883 15.732 23.516 40.39 23.516 40.39" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m284.49 79.744s15.765 32.17 35.933 53.404c23.189 24.528 38.846 40.662 54.958 51.991 12.199 8.687 79.976 57.416 93.306 61.938" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m293.29 68.469s35.193 12.09 46.99 20.363c11.796 8.252 39.074 24.212 58.492 42.923 19.406 18.754 41.553 42.173 52.469 57.883 10.883 15.711 31.464 40.76 31.464 40.76" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m290.7 73.296s39.498 43.25 59.895 58.786c20.429 15.525 108.87 102.96 123.21 105.36" fill="none"/>
+ <path stroke="#964B36" stroke-width=".25" d="m299.01 61.25c1.381.935-.989 6.937-5.272 13.449-4.306 6.556-8.97 11.122-10.285 10.198-1.436-.892.935-6.937 5.272-13.449 4.3-6.545 8.92-11.133 10.28-10.198z" fill="#964B36"/>
+</svg>

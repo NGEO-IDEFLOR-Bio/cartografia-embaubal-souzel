@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="212" viewBox="0 0 501 212" xml:space="preserve">
+            <title>Aegiceras corniculatum leaf</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Aegiceras corniculatum leaf</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Aegiceras corniculatum leaf</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, black, mangrove river, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Asteridae, Ericales, Myrsinaceae, Aegiceras, corniculatum, estuarine, Australia</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0fde85fb26ec51e445ebedf2e1ece2b3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Aegiceras corniculatum leaf</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/aegiceras-corniculatum-leaf/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/aegiceras-corniculatum-leaf/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, black, mangrove river, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Asteridae, Ericales, Myrsinaceae, Aegiceras, corniculatum, estuarine, Australia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Aegiceras corniculatum leaf</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_fe42880122dc1ad4f9c6744ff77c842d" y2="128.91" gradientUnits="userSpaceOnUse" x2="278.95" gradientTransform="matrix(.576 0 0 .576 152.12 -78.65)" y1="473.41" x1="186.64">
+  <stop stop-color="#34AC4C" offset="0"/>
+  <stop stop-color="#6FB947" offset=".3389"/>
+  <stop stop-color="#A1CB3D" offset=".7793"/>
+  <stop stop-color="#B5D338" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="1.7302" d="m60.797 112.9s154.76-83.076 218.83-105.37c30.633-10.665 75.043-6.948 102.56.166 57.428 14.845 99.82 63.473 113.74 92.558 13.916 29.099-13.723 109.43-155.33 109.43-136.68 0-268.42-80.332-268.42-80.332l-11.383-16.45z" fill="url(#ian_symbols_fe42880122dc1ad4f9c6744ff77c842d)"/>
+ <path stroke="#000" stroke-width="1.7302" d="m7.252 90.498s78.426 16.45 93.596 17.714c15.19 1.257 120.18 0 123.97-1.264 2.18-.737 27.224-.196 49.385.135 16.501.26 31.396.398 34.097-.135 3.302-.669 53.717-2.7 101.21-4.491 43.603-1.656 84.738-3.095 84.738-3.095s-323.81 24.023-328.88 24.023-92.338 8.854-104.99 5.062c-12.651-3.78-59.45-13.9-59.45-13.9s2.23-24.894 6.322-24.042z" fill="#41AD49"/>
+</svg>

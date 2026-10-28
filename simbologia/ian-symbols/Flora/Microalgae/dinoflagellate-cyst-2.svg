@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="477" height="501" viewBox="0 0 477 501" xml:space="preserve">
+            <title>Dinoflagellate cyst 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Dinoflagellate cyst 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a second type of Dinoflagellate cyst</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, Dinoflagellates, ProtozoaÂ Dinophyta, DinophyceaeÂ EbriophyceaeÂ </ian_image_library:contains>
+                    <ian_image_library:when>2004-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8e71f25f34147394b9e12152a1dbf45f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Dinoflagellate cyst 2</dc:title>
+                <dc:date>2004-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/dinoflagellate-cyst-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/dinoflagellate-cyst-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, Dinoflagellates, ProtozoaÂ Dinophyta, DinophyceaeÂ EbriophyceaeÂ </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a second type of Dinoflagellate cyst</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_14cd9f1344e29c9405d7c30dfd232b5b" gradientUnits="userSpaceOnUse" cy="250.13" cx="238.47" r="244.24">
+  <stop stop-color="#D4A060" offset=".2135"/>
+  <stop stop-color="#B57658" offset=".8876"/>
+ </radialGradient>
+ <path stroke="#000" stroke-width=".25" d="m248.77.125c198.27 13.947 229.02 226.22 220.65 243.01-5.915 12.583-11.098 8.418-13.316 11.132-2.245 2.768.854 33.586 3.704 36.347 2.809 2.721 6.797-2.802 15.175 11.139 8.378 13.981-2.802 195.53-237.44 198.33-234.58 2.8-237.38-120.12-237.38-136.88-.726-10.413 9.904-7.991 12.712-11.18 2.761-3.141 5.813-29.333 4.959-33.498-.882-4.206-9.3-30.724-9.3-30.724s-30.737-265.37 240.24-287.68z" fill="url(#ian_symbols_14cd9f1344e29c9405d7c30dfd232b5b)"/>
+ <path stroke="#000" stroke-width=".25" d="m277.93 103.72l-47.94-52.336s-26.145 7.279-37.752 11.648c-11.647 4.341-69.743 88.582-69.743 88.582l29.068 63.889s53.728-30.479 66.826-40.675c13.03-10.11 59.53-71.1 59.53-71.1s65.327 4.328 85.658-1.493c20.344-5.786 46.488-17.434 46.488-17.434" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m71.647 302.64s-2.89-161.19 7.279-162.68c10.203-1.445 43.565 11.647 43.565 11.647" fill="none"/>
+ <polyline stroke="#000" stroke-width=".25" points="229.99 51.383 250.3 33.963 261.95 20.87 302.58 26.698 363.58 102.23" fill="none"/>
+ <line y2="20.87" x1="248.77" x2="261.95" stroke="#000" y1=".125" stroke-width=".25" fill="none"/>
+ <line y2="23.808" x1="192.23" x2="148.67" stroke="#000" y1="63.031" stroke-width=".25" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m322.94 76.083s-49.386-47.94-108.9-46.462c-59.548 1.452-46.503-1.479-74.085 13.052-27.623 14.544-65.375 74.084-65.375 74.084s-15.263 0-32.684 8.724c-33.423 42.079-3.616 164.11-3.616 164.11l13.045 34.848s-10.155 13.093-5.773 30.486c13.038 36.334 104.56 90.061 104.56 90.061l2.896-56.65v-66.82l-1.452-106.02" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m12.873 352.03s63.156 10.162 89.294 17.42c26.145 7.279 84.254 24.7 111.88 27.638 27.548 2.896 117.61-2.938 140.86-8.751 23.214-5.787 49.358-27.597 58.068-31.925 8.71-4.382 24.699-10.169 31.965-18.879 7.266-8.758 14.877-46.923 14.877-46.923l-9.063 7.692-60.985 15.976-46.509-4.368-185.92 11.606-49.345-5.786-100.24-33.42" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m456.11 254.26s-6.79-6.804-21.335 1.92c-14.537 8.71-27.575 49.385-27.575 49.385s4.328 17.435 0 30.473c-4.383 13.1-23.269 39.244-23.269 39.244s-49.338 72.592-110.37 78.419c-61.006 5.82-123.44-8.717-123.44-8.717" fill="none"/>
+ <line y2="116.76" x1="78.926" x2="74.584" stroke="#000" y1="139.96" stroke-width=".25" fill="none"/>
+</svg>

@@ -1,0 +1,77 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="502" viewBox="0 0 502 502" xml:space="preserve">
+            <title>Coccoid bacterium</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coccoid bacterium</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a coccoid bacterium</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>coccoid, bacterium, Bacteria</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-528d0496a5b52ed4e194aa6204b0e0ce">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coccoid bacterium</dc:title>
+                <dc:date>2003-11-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coccoid-bacterium/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coccoid-bacterium/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>coccoid, bacterium, Bacteria</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a coccoid bacterium</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="1.1305" d="m500.56 250.55c0 138.08-111.94 250.01-250.02 250.01-138.05 0-249.98-111.94-249.98-250.01 0-138.06 111.92-249.99 249.98-249.99 138.09.005 250.02 111.93 250.02 249.99z" fill="#F9EC85"/>
+ <path stroke="#EA2B91" stroke-width="1.5074" d="m196.55 259.6c51.978-30.836 163.44-66.754 198.85-49.977 35.395 16.776-1.784 57.717-52.739 80.404s-141.83 65.276-202.09 33.03c-60.248-32.24 4.03-32.61 55.98-63.45z" fill="none"/>
+</svg>

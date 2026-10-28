@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="299" viewBox="0 0 502 299" xml:space="preserve">
+            <title>Monument 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Monument 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a generic monument</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, monument</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e91fef748188d814a128122391b8771d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Monument 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/monument-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/monument-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, monument</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a generic monument</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".25" d="m443.77 218.76l-386.22-1.55s-6.99-196.53 6.946-208.93c13.898-12.356 365.36-9.272 374.06 0 8.68 9.291 5.21 210.48 5.21 210.48z" fill="#B2B2B2"/>
+ <path stroke="#000" stroke-width=".25" d="m457.62 57.811l-415.61-.260s-7.471-33.791 7.466-35.912c14.997-2.131 393.17-1.569 402.52 0 9.4 1.591 5.62 36.172 5.62 36.172z" fill="#D7D7D7"/>
+ <path stroke="#000" stroke-width=".25" d="m455.9 71.747l-415.64-.13s-7.465-12.887 7.488-13.698c14.997-.822 393.16-.617 402.54 0 9.35.606 5.61 13.828 5.61 13.828z" fill="#D7D7D7"/>
+ <path stroke="#000" stroke-width=".25" d="m455.9 91.417l-415.64.120s-7.465 12.887 7.488 13.709c14.997.812 393.16.627 402.54 0 9.35-.61 5.61-13.833 5.61-13.833z" fill="#D7D7D7"/>
+ <rect height="77.384" width="62.615" stroke="#000" y="118.15" x="69.722" stroke-width=".25" fill="#D7D7D7"/>
+ <rect height="77.374" width="62.615" stroke="#000" y="119.71" x="365.49" stroke-width=".25" fill="#D7D7D7"/>
+ <rect height="77.384" width="173.98" stroke="#000" y="118.15" x="161.91" stroke-width=".25" fill="#D7D7D7"/>
+ <path stroke="#000" stroke-width=".25" d="m469.77 262.08l-436.37-.347s-7.855-43.507 7.845-46.244c15.743-2.738 412.79-2.067 422.62 0 9.84 2.07 5.91 46.59 5.91 46.59z" fill="#D7D7D7"/>
+ <path stroke="#000" stroke-width=".25" d="m481.91 276.02l-462.31-.098s-8.32-12.919 8.31-13.73c16.663-.812 437.34-.605 447.74 0 10.45.61 6.26 13.83 6.26 13.83z" fill="#D7D7D7"/>
+ <path stroke="#000" stroke-width=".25" d="m499.23 298.75l-496.87-.19s-8.937-21.759 8.959-23.133c17.907-1.363 470.02-1.018 481.22 0 11.19 1.02 6.69 23.32 6.69 23.32z" fill="#D7D7D7"/>
+</svg>

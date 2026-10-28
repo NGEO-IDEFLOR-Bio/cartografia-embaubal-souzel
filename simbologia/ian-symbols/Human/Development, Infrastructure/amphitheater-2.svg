@@ -1,0 +1,72 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="https://creativecommons.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/" x="0px" y="0px" width="500px" height="108px" viewBox="0 0 500 108" xml:space="preserve">
+            <title>Amphitheater 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Amphitheater 2</ian_image_library:title>
+                <ian_image_library:descr><p>Front view (2d) illustration of an amphitheater.</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>amphitheater, music, human, artist, concert, venue</ian_image_library:contains>
+                    <ian_image_library:when>2020-10-23</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8cc563eb33ea49f431f62936bf5d1ba0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="https://dublincore.org/specifications/dublin-core/dcmi-terms/#StillImage" />
+                <cc:license
+                rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+                <dc:title>Amphitheater 2</dc:title>
+                <dc:date>2020-10-23</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/amphitheater-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/amphitheater-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>amphitheater, music, human, artist, concert, venue</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Front view (2d) illustration of an amphitheater.</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+               <g> <polygon fill="#645640" points="0,0 500,0 500,27.1 0,26.4 "></polygon> <polygon fill="#B2B1B3" points="180.9,102.5 202.4,97.3 293.1,97.3 311.9,102.5 312.6,26.7 293.1,26.7 203,26.7 180.9,26.6 180.9,73.5 "></polygon> <polygon fill="#757473" points="180.9,72.6 202.9,69.8 293,69.8 293,97.4 202.5,97.4 180.9,102.5 "></polygon> <polygon fill="#514239" points="180.9,102.5 180.9,108 311.8,108 311.9,102.5 293.1,97.4 202.4,97.4 "></polygon> <rect x="298.3" y="26.7" fill="#252932" width="2.6" height="73.3"></rect> <rect x="190.8" y="26.6" fill="#252932" width="2.6" height="73.9"></rect> <g> <g> <g> <g> <g> <path fill="#231F20" d="M210.5,41.2L204,28.5h12.5L210.5,41.2z M204.7,28.9l5.8,11.4l5.4-11.4H204.7z"></path> <polygon fill="#231F20" points="210.2,40.8 210.2,28.7 210.6,28.7 210.7,40.8 "></polygon> </g> <g> <path fill="#231F20" d="M198.3,41.2l-6.5-12.7h12.5L198.3,41.2z M192.5,28.9l5.8,11.4l5.4-11.4H192.5z"></path> <polygon fill="#231F20" points="198.1,40.8 198,28.7 198.4,28.7 198.5,40.8 "></polygon> </g> <g> <path fill="#231F20" d="M222.3,41.2l-6.5-12.7h12.5L222.3,41.2z M216.5,28.9l5.8,11.4l5.4-11.4H216.5z"></path> <polygon fill="#231F20" points="222.1,40.8 222,28.7 222.4,28.7 222.5,40.8 "></polygon> </g> </g> <g> <g> <path fill="#231F20" d="M234.1,41.2l-6.5-12.7h12.5L234.1,41.2z M228.3,28.9l5.8,11.4l5.4-11.4H228.3z"></path> <polygon fill="#231F20" points="233.9,40.8 233.8,28.7 234.3,28.7 234.3,40.8 "></polygon> </g> <g> <path fill="#231F20" d="M246,41.2l-6.5-12.7H252L246,41.2z M240.2,28.9l5.8,11.4l5.4-11.4H240.2z"></path> <polygon fill="#231F20" points="245.7,40.8 245.7,28.7 246.1,28.7 246.2,40.8 "></polygon> </g> </g> </g> <g> <g> <g> <path fill="#231F20" d="M257.8,41.2l-6.5-12.7h12.5L257.8,41.2z M252,28.9l5.8,11.4l5.4-11.4H252z"></path> <polygon fill="#231F20" points="257.5,40.8 257.5,28.7 257.9,28.7 258,40.8 "></polygon> </g> <g> <path fill="#231F20" d="M269.6,41.2l-6.5-12.7h12.5L269.6,41.2z M263.8,28.9l5.8,11.4l5.4-11.4H263.8z"></path> <polygon fill="#231F20" points="269.4,40.8 269.3,28.7 269.7,28.7 269.8,40.8 "></polygon> </g> </g> <g> <g> <path fill="#231F20" d="M281.4,41.2l-6.5-12.7h12.5L281.4,41.2z M275.6,28.9l5.8,11.4l5.4-11.4H275.6z"></path> <polygon fill="#231F20" points="281.2,40.8 281.1,28.7 281.6,28.7 281.6,40.8 "></polygon> </g> <g> <path fill="#231F20" d="M293.3,41.2l-6.5-12.7h12.5L293.3,41.2z M287.5,28.9l5.8,11.4l5.4-11.4H287.5z"></path> <polygon fill="#231F20" points="293,40.8 293,28.7 293.4,28.7 293.5,40.8 "></polygon> </g> </g> </g> </g> <path fill="#231F20" d="M313.2,41.4H180.3V28.1h132.9V41.4z M181.5,40.1h130.4V29.3H181.5V40.1z"></path> </g> <polygon fill="#131415" points="500,27.1 312.6,26.7 312.4,41.6 "></polygon> <polygon fill="#131415" points="0,26.4 180.9,26.6 180.9,41.5 "></polygon> <rect x="182.7" y="26.6" fill="#273644" width="4" height="81.4"></rect> <rect x="304.8" y="26.7" fill="#273644" width="4" height="81.3"></rect> <polygon fill="#514239" points="162.2,39.9 180.9,41.2 180.9,108 162.2,108 "></polygon> <polygon fill="#514239" points="331.1,40.1 312.4,41.6 311.8,108 331.1,108 "></polygon> <rect x="60.4" y="105.6" fill="#5C6070" width="9" height="2.5"></rect> <ellipse fill="#65666C" cx="64.9" cy="105.6" rx="4.5" ry="0.8"></ellipse> <rect x="62.9" y="31.3" fill="#131415" width="4.2" height="74.1"></rect> <g> <rect x="425.2" y="105.6" fill="#5C6070" width="9" height="2.5"></rect> <ellipse fill="#65666C" cx="429.7" cy="105.6" rx="4.5" ry="0.8"></ellipse> <rect x="427.7" y="31.8" fill="#131415" width="4.2" height="74.1"></rect> </g> </g> </svg> 

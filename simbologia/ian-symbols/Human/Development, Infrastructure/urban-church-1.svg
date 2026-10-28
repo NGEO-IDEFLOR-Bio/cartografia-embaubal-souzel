@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="266" height="517" viewBox="0 0 266 517" xml:space="preserve">
+            <title>Urban: church 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: church 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a church with tower and cross</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>building, church, christian, catholic, tower, cross, religious, establishment</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a027c4fd7c06487445aa5014d4c99ff5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: church 1</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-church-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-church-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>building, church, christian, catholic, tower, cross, religious, establishment</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a church with tower and cross</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="109.75 185.21 101.21 365.72 164.61 346.17 182.89 166.94 109.75 185.21" fill="#E2C97C"/>
+ <polygon points="109.75 185.21 115.84 54.714 182.89 166.94 109.75 185.21" fill="#AC3731"/>
+ <polygon points="115.84 54.714 32.91 148.62 109.75 185.21 115.84 54.714" fill="#C17050"/>
+ <polygon points="32.91 148.62 51.217 344.95 1.233 385.19 0 451.08 135.34 515.7 136.55 420.57 101.21 365.72 109.75 185.21 32.91 148.62" fill="#EFE0B8"/>
+ <polygon points="167.06 310.83 218.26 302.27 264.6 364.48 136.55 420.57 101.21 365.72 164.61 346.17 167.06 310.83" fill="#AC3731"/>
+ <polygon points="136.55 420.57 135.34 515.7 251.2 444.95 251.2 369.37 136.55 420.57" fill="#E2C97C"/>
+ <path d="m63.399 245.58c0-12.456 6.279-22.549 14.02-22.549s14.009 10.093 14.009 22.549c0 12.467-6.268 22.56-14.009 22.56s-14.02-10.09-14.02-22.56z" fill="#fff"/>
+ <line stroke-linejoin="round" x1="115.84" y2="15.702" x2="115.84" stroke="#D1D3D4" stroke-linecap="round" stroke-miterlimit="3.8637" y1="54.714" stroke-width="31.405" fill="none"/>
+ <line stroke-linejoin="round" x1="98.781" y2="38.879" x2="131.68" stroke="#D1D3D4" stroke-linecap="round" stroke-miterlimit="3.8637" y1="27.918" stroke-width="31.405" fill="none"/>
+ <polygon points="157.3 440.09 157.3 458.39 173.15 451.08 171.92 436.41 157.3 440.09" fill="#A8965D"/>
+ <polygon points="213.4 419.35 214.61 433.99 229.24 426.66 229.24 412.05 213.4 419.35" fill="#A8965D"/>
+ <polygon points="47.844 415.73 64.004 422.28 68.132 484.33 50.635 475.36 47.844 415.73" fill="#A8965D"/>
+</svg>

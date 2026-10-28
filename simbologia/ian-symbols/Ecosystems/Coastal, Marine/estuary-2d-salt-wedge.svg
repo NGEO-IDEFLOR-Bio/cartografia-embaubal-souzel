@@ -1,0 +1,84 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="106" viewBox="0 0 501 106" xml:space="preserve">
+            <title>Estuary 2D: salt wedge</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: salt wedge</ian_image_library:title>
+                <ian_image_library:descr>Illustration of estuary base with salt wedge</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, salt, wedge, salinity</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-150dda30e6fecb84edcde767e587317f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: salt wedge</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-salt-wedge/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-salt-wedge/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, salt, wedge, salinity</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of estuary base with salt wedge</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".5" d="m493.48 31.457c-1.657 1.409-4.75 2.252-8.859 2.252-4.106 0-7.199-.843-8.856-2.252-1.655 1.409-4.748 2.252-8.854 2.252-4.108 0-7.202-.843-8.858-2.252-1.654 1.409-4.747 2.252-8.859 2.252-4.105 0-7.198-.843-8.856-2.252-1.657 1.409-4.75 2.252-8.856 2.252-4.107 0-7.201-.843-8.857-2.252-1.654 1.409-4.749 2.252-8.855 2.252-4.11 0-7.205-.843-8.858-2.252-1.658 1.409-4.748 2.252-8.859 2.252-4.107 0-7.197-.843-8.855-2.252-1.656 1.409-4.752 2.252-8.857 2.252-4.109 0-7.201-.843-8.857-2.252-1.658 1.409-4.752 2.252-8.859 2.252s-7.203-.843-8.859-2.252c-1.653 1.409-4.748 2.252-8.855 2.252-4.108 0-7.2-.843-8.856-2.252-1.657 1.409-4.749 2.252-8.861 2.252-4.106 0-7.195-.843-8.853-2.252-1.657 1.409-4.753 2.252-8.86 2.252-4.109 0-7.202-.843-8.856-2.252-1.658 1.409-4.747 2.252-8.859 2.252-4.108 0-7.201-.843-8.854-2.252-1.659 1.409-4.751 2.252-8.859 2.252s-7.2-.843-8.857-2.252c-1.654 1.409-4.748 2.252-8.854 2.252-4.111 0-7.203-.843-8.86-2.252-1.657 1.409-4.747 2.252-8.858 2.252-4.105 0-7.196-.843-8.854-2.252-1.659 1.409-4.752 2.252-8.858 2.252-4.109 0-7.201-.843-8.857-2.252-1.657 1.409-4.75 2.252-8.86 2.252-4.106 0-7.2-.843-8.856-2.252-1.655 1.409-4.749 2.252-8.856 2.252-4.11 0-7.202-.843-8.857-2.252-1.658 1.409-4.748 2.252-8.86 2.252-4.106 0-7.196-.843-8.854-2.252-1.656 1.409-4.751 2.252-8.858 2.252-4.109 0-7.2-.843-8.857-2.252-1.657 1.409-4.749 2.252-8.859 2.252v63.926h369.96v-64.015c-3.06-.240-5.41-1.006-6.77-2.163z" fill="#007DB0"/>
+ <linearGradient id="ian_symbols_72de625c4a9b7714bd8f46af03725210" y2="60.465" gradientUnits="userSpaceOnUse" x2="413.26" y1="60.465" x1="148.04">
+  <stop stop-color="#92907A" offset=".0056"/>
+  <stop stop-color="#AD9768" offset=".573"/>
+  <stop stop-color="#92907A" offset="1"/>
+ </linearGradient>
+ <path opacity=".85" stroke="#000" stroke-width=".5" d="m148.04 89.475h218.76c.504-.894 1.02-1.774 1.52-2.677 10.204-18.575 15.316-21.506 26.294-30.184 7.497-5.926 14.216-14.483 18.651-22.919-3.853-.068-6.765-.89-8.355-2.238-1.655 1.407-4.745 2.252-8.856 2.252-4.107 0-7.2-.845-8.855-2.252-1.658 1.407-4.748 2.252-8.855 2.252-4.108 0-7.203-.845-8.859-2.252-1.656 1.407-4.75 2.252-8.858 2.252-4.105 0-7.202-.845-8.857-2.252-1.659 1.407-4.749 2.252-8.856 2.252-4.109 0-7.2-.845-8.858-2.252-1.655 1.407-4.749 2.252-8.858 2.252s-7.2-.845-8.855-2.252c-1.657 1.407-4.748 2.252-8.86 2.252-4.106 0-7.2-.845-8.854-2.252-1.659 1.407-4.749 2.252-8.859 2.252-4.107 0-7.201-.845-8.856-2.252-1.657 1.407-4.749 2.252-8.854 2.252-4.113 0-7.203-.845-8.859-2.252-1.657 1.407-4.749 2.252-8.857 2.252-4.107 0-7.201-.845-8.859-2.252-1.654 1.407-4.749 2.252-8.855 2.252-4.109 0-7.203-.845-8.861-2.252-1.656 1.407-4.747 2.252-8.855 2.252-4.107 0-7.201-.845-8.856-2.252-1.656 1.407-4.75 2.252-8.856 2.252-4.11 0-7.201-.845-8.859-2.252-1.656 1.407-4.749 2.252-8.857 2.252-4.106 0-7.199-.845-8.856-2.252-1.656 1.407-4.75 2.252-8.858 2.252-4.109 0-7.2-.845-8.858-2.252-1.656 1.407-4.747 2.252-8.856 2.252v55.766z" fill="url(#ian_symbols_72de625c4a9b7714bd8f46af03725210)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 85.189c-24.521-1.587-58.501-1.419-81.021-5.72-8.982-1.712-40.704-3.357-55.197-2.235-16.666 1.286-52.075 1.643-67.938-2.616-14.621-3.929-32.518-6.96-43.743-17.748-13.437-12.915-20.825-23.33-40.025-25.487-21.377-2.396-43.355 1.63-64.518-3.093-17.922-4-34.771-10.433-51.599-17.567-17.36-7.367-36.005-8.534-54.779-9.387-8.067-.365-27.13-1.025-41.172-1.085v104.4h500v-19.461z" fill="#DFCAAB"/>
+ <path stroke="#000" stroke-width=".5" d="m273.98 73.302c8.255 4.477 17.862 8.884 27.025 10.677 19.157 3.746 41.101.805 59.116-2.827 5.2-1.049 10.266-2.612 15.273-4.283-4.317.011-8.238.125-11.357.366-16.666 1.286-52.077 1.646-67.94-2.616-10.611-2.851-22.935-5.245-33.192-10.458 3.3 3.525 6.75 6.8 11.08 9.141z" fill="#9D5A44"/>
+</svg>

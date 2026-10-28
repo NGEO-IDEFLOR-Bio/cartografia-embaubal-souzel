@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="252" viewBox="0 0 502 252" xml:space="preserve">
+            <title>Rocks 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Rocks 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of rocks</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>ecosystem, elements, terrestrial, landform, rocks, geological, formation, geology, solid, mineral, aggregate, boulder, cobble, gravel, pebble, rubble</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b8e44778fd2e14b4f5f00dff32a26883">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Rocks 3</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/rocks-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/rocks-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>ecosystem, elements, terrestrial, landform, rocks, geological, formation, geology, solid, mineral, aggregate, boulder, cobble, gravel, pebble, rubble</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of rocks</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#565759" stroke-width="2.7577" d="m225.69 29.95s-61.057 75.104-4.675 75.104c56.317 0 136.14-9.394 136.14-9.394l-23.462-61.036s-53.354-29.559-70.439-32.834c-17.096-3.275-37.563 14.069-37.563 14.069v14.095z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m116.58 41.347s-60.982 75.147-4.665 75.147c56.35 0 136.17-9.393 136.17-9.393l-23.47-61.035s-55.262-37.724-70.483-32.877c-15.21 4.847-37.552 14.068-37.552 14.068v14.091z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m352.9 49.232s-61.046 75.147-4.696 75.147c56.349 0 97.511-2.09 112.76-9.394 15.242-7.282-.065-61.036-.065-61.036l-70.438-32.877-37.563 14.112v14.043z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m31.053 100.81c-5.106 5.688-61.079 75.104-4.697 75.104 56.317 0 136.17-9.394 136.17-9.394l-23.495-61.035s-53.01-30.518-70.418-32.855c-17.408-2.338-39.189 10.266-37.562 14.068 1.619 3.807 5.099 8.429-.007 14.117z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m266.86 81.139s-61.025 75.126-4.707 75.126c56.382 0 136.19-9.372 136.19-9.372l-23.49-61.054-70.407-32.898-37.585 14.069v14.132z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m149.87 104s-61.025 75.125-4.696 75.125c56.307 0 136.12-9.371 136.12-9.371l-23.43-61.036s-59.667-34.951-70.439-32.898c-10.772 2.052-37.552 14.112-37.552 14.112v14.076z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m367.04 110.46s-61.09 75.147-4.74 75.147c56.317 0 136.13-9.394 136.13-9.394s-7.099-47.7-23.429-61.036c-16.331-13.314-70.452-32.877-70.452-32.877s-35.72 6.555-37.508 14.112c-1.79 7.555 0 14.045 0 14.045z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m282.9 141.87s-61.046 75.083-4.696 75.083 128.91-6.981 136.16-9.394c7.261-2.37-23.463-60.993-23.463-60.993s-54.55-34.989-70.406-32.899c-15.857 2.09-37.596 14.09-37.596 14.09v14.11z" fill="#676767"/>
+ <path stroke="#565759" stroke-width="2.7577" d="m165.23 173.84s-61.09 75.083-4.729 75.083c56.35 0 136.19-9.372 136.19-9.372s-8.069-46.773-23.452-61.035c-15.394-14.263-70.45-32.877-70.45-32.877l-37.563 14.09v14.11z" fill="#676767"/>
+</svg>

@@ -1,0 +1,100 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="258" viewBox="0 0 500 258" xml:space="preserve">
+            <title>Coastline 3D: river mouths</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 3D: river mouths</ian_image_library:title>
+                <ian_image_library:descr>Illustration of river base with river mouths</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, freshwater river, ocean, mouths, tributary</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b57cb68249c3dff4d99262a75649a655">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 3D: river mouths</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-3d-river-mouths/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-3d-river-mouths/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, freshwater river, ocean, mouths, tributary</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of river base with river mouths</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="499.95 256.92 .261 256.92 0 175.13 499.95 175.02" fill="#D3C5AD"/>
+ <linearGradient id="ian_symbols_35198cabb3113fd47d12680e2946db61" y2="-35.28" gradientUnits="userSpaceOnUse" x2="173.71" y1="255.05" x1="279.38">
+  <stop stop-color="#72A75C" offset="0"/>
+  <stop stop-color="#72A75C" offset=".6292"/>
+  <stop stop-color="#A09163" offset="1"/>
+ </linearGradient>
+ <polygon points="76.784 0 40.721 82.41 39.769 84.59 .313 174.75 500 174.75 424.57 1.435" fill="url(#ian_symbols_35198cabb3113fd47d12680e2946db61)"/>
+ <linearGradient id="ian_symbols_bac5ae6fc6fd0a641d4c43f51125f42f" y2="165.57" gradientUnits="userSpaceOnUse" x2="114.67" y1="244.69" x1="114.67">
+  <stop stop-color="#87D6F8" offset="0"/>
+  <stop stop-color="#A9E1FA" offset=".32"/>
+  <stop stop-color="#C7EAFB" offset=".5787"/>
+  <stop stop-color="#C7EAFB" offset="1"/>
+ </linearGradient>
+ <path d="m213.16 170.06c9.524.277 12.048-2.022 15.798 1.791 5.154 25.484-44.622 30.925-88.783 56.509-21.376 12.388-57.342 14.648-87.444 15.572-26.531.815-49.296.998-52.729.432l.255-69.349 8.541-9.447c-.001.01 154.87 3.07 204.36 4.5z" fill="url(#ian_symbols_bac5ae6fc6fd0a641d4c43f51125f42f)"/>
+ <linearGradient id="ian_symbols_9351ff50363d1da481fe6469ec454716" y2="106.87" gradientUnits="userSpaceOnUse" x2="444.82" y1="106.87" x1=".2607">
+  <stop stop-color="#C7EAFB" offset=".0056"/>
+  <stop stop-color="#C7EAFB" offset=".5787"/>
+  <stop stop-color="#87D6F8" offset="1"/>
+ </linearGradient>
+ <path d="m.261 175.02c6.532-1.079 10.524-3.786 10.524-3.786s8.187 6.139 14.938 5.115c6.791-1.092 12.766-5.218 12.766-5.218s5.512 5.524 13.813 5.32c8.304-.204 13.309-5.116 13.309-5.116s7.449 5.559 14.511 5.22c7.062-.308 13.114-5.22 13.114-5.22s8.188 5.937 14.279 5.014c6.131-.955 12.999-5.115 12.999-5.115s6.13 5.764 14.123 5.115c7.954-.715 13.115-5.218 13.115-5.218s6.906 5.97 14.238 5.32c7.296-.682 13.271-5.32 13.271-5.32s7.334 6.241 14.396 5.32c7.021-.955 13.034-5.116 13.034-5.116s8.42 6.379 15.833 4.912c2.521-.529 4.669-1.28 6.409-2.049 0 0 4.351-1.248 2.85-4.487-1.5-3.241-3.84-5.768-.465-7.863 4.82-2.989 18.709-3.33 24.714-3.33 13.597 0 31.126-10.903 53.034-12.412s38.152-10.099 49.57-25.541c9.745-13.177 13.271-21.261 12.373-38.523-.526-10.142-1.386-23.576 10.13-28.237 7.002-2.833 67.683-5.458 67.683-5.458l-4.864-11.176s-63.554 3.098-77.563 7.619c-8.176 2.638-8.621 10.549-8.835 30.138-.16 14.467-2.769 22.396-10.73 37.505-6.768 12.847-48.656 13.215-77.364 16.99-28.707 3.772-46.76 9.648-66.534 13.585 0 0-23.271-23.399-64.764-27.955-41.495-4.555-91.286-5.066-105.45-5.212l-28.469 65.19z" fill="url(#ian_symbols_9351ff50363d1da481fe6469ec454716)"/>
+ <linearGradient id="ian_symbols_d32541db0de5329481deb655f008702f" y2=".5508" gradientUnits="userSpaceOnUse" x2="185.65" y1="153.15" x1="185.65">
+  <stop stop-color="#C7EAFB" offset=".0056"/>
+  <stop stop-color="#C7EAFB" offset=".2472"/>
+  <stop stop-color="#D8C384" offset="1"/>
+ </linearGradient>
+ <path d="m192.73 143.12c.269 18.018-50.806 5.665-60.765 8.585-19.15 5.616-116.69-20.111-103.66-40.522 6.02-9.439 60.368 1.232 87.128-12.024 26.761-13.257 10.571-.848 33.898-27.364 21.908-24.901 20.344-29.183-1.165-71.239l27.562.039c.018 4.608 3.109 33.9 21.898 38.999 16.105 4.371 55.826 4.387 67.513 3.339 46.188-4.141 52.82-41.665 52.82-41.665l26.234.021c-32.395 8.844-20.326 45.996-45.211 56.082-24.458 9.913-39.239 2.945-59.805 1.844-18.853-1.012-41.366 7.345-57.937 24.495-11.573 11.979-28.49 18.627-26.698 29.77 1.82 11.13 37.96 12.44 38.21 29.64z" fill="url(#ian_symbols_d32541db0de5329481deb655f008702f)"/>
+ <path stroke="#0086CC" stroke-width=".5" d="m.261 175.02c6.671-1.079 10.746-3.786 10.746-3.786s8.359 6.139 15.253 5.115c6.933-1.092 13.035-5.218 13.035-5.218s5.625 5.524 14.103 5.32c8.479-.204 13.59-5.116 13.59-5.116s7.604 5.559 14.816 5.22c7.21-.308 13.391-5.22 13.391-5.22s8.359 5.937 14.58 5.014c6.259-.955 13.271-5.115 13.271-5.115s6.26 5.764 14.42 5.115c8.122-.715 13.392-5.218 13.392-5.218s7.051 5.97 14.54 5.32c7.448-.682 13.55-5.32 13.55-5.32s7.488 6.241 14.698 5.32c7.169-.955 13.31-5.116 13.31-5.116s8.598 6.379 16.166 4.912c2.575-.529 4.769-1.28 6.544-2.049" fill="none"/>
+</svg>

@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="106" viewBox="0 0 501 106" xml:space="preserve">
+            <title>Salinity gradient</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Salinity gradient</ian_image_library:title>
+                <ian_image_library:descr>Illustration of salinity gradient</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, salinity, gradient, transition</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-11ea9aafb8ea3b543dd5a786aba6deef">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Salinity gradient</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/salinity-gradient/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/salinity-gradient/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, salinity, gradient, transition</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of salinity gradient</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_91142ed23bf96a8431ae16fdde8d83ea" y2="445.54" gradientUnits="userSpaceOnUse" x2="1325.5" gradientTransform="matrix(.148 .17 -.17 .148 396.06 -210.03)" y1="2079.5" x1="-308.5">
+  <stop stop-color="#EFF9FE" offset="0"/>
+  <stop stop-color="#EDF8FD" offset=".0038"/>
+  <stop stop-color="#B6D7EA" offset=".1174"/>
+  <stop stop-color="#86BADA" offset=".2346"/>
+  <stop stop-color="#5CA1CC" offset=".3535"/>
+  <stop stop-color="#3B8DC0" offset=".4741"/>
+  <stop stop-color="#217EB7" offset=".5971"/>
+  <stop stop-color="#0F73B1" offset=".7233"/>
+  <stop stop-color="#046CAD" offset=".8547"/>
+  <stop stop-color="#006AAC" offset="1"/>
+ </linearGradient>
+ <polygon points="0 51.591 102.78 105.24 104.21 80.126 500 52.875 104.21 30.602 102.78 0" fill="url(#ian_symbols_91142ed23bf96a8431ae16fdde8d83ea)"/>
+</svg>

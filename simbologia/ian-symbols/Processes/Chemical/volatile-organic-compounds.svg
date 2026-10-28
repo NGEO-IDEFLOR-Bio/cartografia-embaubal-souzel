@@ -1,0 +1,118 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="497" height="498" viewBox="0 0 497 498" xml:space="preserve">
+            <title>Volatile organic compounds</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Volatile organic compounds</ian_image_library:title>
+                <ian_image_library:descr>Illustration of volatile organic compounds</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>processes, organic, compounds, Shenandoah National Park, ozone</ian_image_library:contains>
+                    <ian_image_library:when>2010-12-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4b771bd5d33efee4fd66f6556f8bccd8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Volatile organic compounds</dc:title>
+                <dc:date>2010-12-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/volatile-organic-compounds/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/volatile-organic-compounds/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>processes, organic, compounds, Shenandoah National Park, ozone</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of volatile organic compounds</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<radialGradient id="ian_symbols_0c58ab7233346084a96248f5a92c5928" cx="43.6582" cy="4.0664" r="69.6436" gradientTransform="matrix(0.687 0.7267 -0.7267 0.687 230.3303 35.1216)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#8DC63F"/>
+	<stop  offset="0.228" style="stop-color:#7BBA40"/>
+	<stop  offset="0.6661" style="stop-color:#4BA443"/>
+	<stop  offset="1" style="stop-color:#009444"/>
+</radialGradient>
+<path fill="url(#ian_symbols_0c58ab7233346084a96248f5a92c5928)" d="M305.208,120.26c-27.958,26.428-72.023,25.178-98.451-2.78
+	c-26.428-27.944-25.192-72.009,2.766-98.451c27.945-26.414,72.038-25.178,98.452,2.766C334.416,49.753,333.18,93.833,305.208,120.26
+	z"/>
+<radialGradient id="ian_symbols_730fba10e085555421ba8b23a4fe7ffe" cx="43.6562" cy="262.3716" r="69.6436" gradientTransform="matrix(0.687 0.7267 -0.7267 0.687 230.3303 35.1216)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#8DC63F"/>
+	<stop  offset="0.228" style="stop-color:#7BBA40"/>
+	<stop  offset="0.6661" style="stop-color:#4BA443"/>
+	<stop  offset="1" style="stop-color:#009444"/>
+</radialGradient>
+<path fill="url(#ian_symbols_730fba10e085555421ba8b23a4fe7ffe)" d="M117.503,297.7c-27.958,26.456-72.038,25.22-98.465-2.767c-26.428-27.958-25.192-72.023,2.781-98.451
+	c27.944-26.428,72.009-25.192,98.451,2.767C146.683,227.193,145.447,271.286,117.503,297.7z"/>
+<radialGradient id="ian_symbols_07bf7d216d610f04595aa08a01ad2c01" cx="306.1636" cy="19.4316" r="69.6536" gradientTransform="matrix(0.687 0.7267 -0.7267 0.687 230.3303 35.1216)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#8DC63F"/>
+	<stop  offset="0.228" style="stop-color:#7BBA40"/>
+	<stop  offset="0.6661" style="stop-color:#4BA443"/>
+	<stop  offset="1" style="stop-color:#009444"/>
+</radialGradient>
+<path fill="url(#ian_symbols_07bf7d216d610f04595aa08a01ad2c01)" d="M474.39,321.572c-27.944,26.427-72.037,25.192-98.465-2.752
+	c-26.428-27.973-25.192-72.038,2.78-98.479c27.944-26.414,72.009-25.178,98.465,2.767
+	C503.571,251.079,502.334,295.158,474.39,321.572z"/>
+<radialGradient id="ian_symbols_e019bb3e96c03bd4e5fc06c111f7125f" cx="290.811" cy="262.3896" r="69.6406" gradientTransform="matrix(0.687 0.7267 -0.7267 0.687 230.3303 35.1216)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#8DC63F"/>
+	<stop  offset="0.228" style="stop-color:#7BBA40"/>
+	<stop  offset="0.6661" style="stop-color:#4BA443"/>
+	<stop  offset="1" style="stop-color:#009444"/>
+</radialGradient>
+<path fill="url(#ian_symbols_e019bb3e96c03bd4e5fc06c111f7125f)" d="M287.275,477.33c-27.943,26.399-72.023,25.164-98.451-2.78
+	c-26.414-27.973-25.192-72.037,2.767-98.437c27.944-26.456,72.038-25.22,98.451,2.752
+	C316.484,406.81,315.248,450.874,287.275,477.33z"/>
+<radialGradient id="ian_symbols_653f294ab6395514e168be2e8c4f0f2f" cx="172.6338" cy="134.0195" r="169.9602" gradientTransform="matrix(0.687 0.7267 -0.7267 0.687 230.3303 35.1216)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#92278F"/>
+	<stop  offset="0.3019" style="stop-color:#882890"/>
+	<stop  offset="0.8826" style="stop-color:#6C2C91"/>
+	<stop  offset="1" style="stop-color:#662D91"/>
+</radialGradient>
+<path fill="url(#ian_symbols_653f294ab6395514e168be2e8c4f0f2f)" d="M368.286,376.169c-68.218,64.482-175.782,61.449-240.265-6.769
+	c-64.497-68.218-61.464-175.769,6.754-240.265c68.204-64.469,175.769-61.45,240.279,6.754
+	C439.537,204.107,436.504,311.686,368.286,376.169z"/>
+</svg>

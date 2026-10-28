@@ -1,0 +1,112 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="501" viewBox="0 0 501 501" xml:space="preserve">
+            <title>Avalanche control</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Avalanche control</ian_image_library:title>
+                <ian_image_library:descr>Illustration of avalanche control</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>management, avalanche, control, snowfall, mountain, hazard, danger, skiing, tourism, travel</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8c1fb68536223a74f9ec40e264aca40e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Avalanche control</dc:title>
+                <dc:date>2005-02-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/avalanche-control/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/avalanche-control/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>management, avalanche, control, snowfall, mountain, hazard, danger, skiing, tourism, travel</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of avalanche control</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_83951f6641423824b130d1b269ee93a2" gradientUnits="userSpaceOnUse" x1="250.0005" y1="496.3057" x2="250.0005" y2="3.6953">
+	<stop  offset="0" style="stop-color:#7AB5D7"/>
+	<stop  offset="0.1866" style="stop-color:#75B3D6"/>
+	<stop  offset="0.4128" style="stop-color:#65ADD4"/>
+	<stop  offset="0.6596" style="stop-color:#45A3D0"/>
+	<stop  offset="0.9194" style="stop-color:#0097CC"/>
+	<stop  offset="1" style="stop-color:#0093CA"/>
+</linearGradient>
+<path fill="url(#ian_symbols_83951f6641423824b130d1b269ee93a2)" stroke="#000000" stroke-width="6.9435" d="M3.695,250.063c0,135.935,110.323,246.243,246.334,246.243
+	c135.978,0,246.277-110.309,246.277-246.243c0-136.06-110.299-246.368-246.277-246.368C114.018,3.695,3.695,114.003,3.695,250.063z"
+	/>
+<linearGradient id="ian_symbols_2385effeb6d1f2a41de416b649e02dfa" gradientUnits="userSpaceOnUse" x1="18.2422" y1="338.0898" x2="417.7861" y2="338.0898">
+	<stop  offset="0" style="stop-color:#3E4546"/>
+	<stop  offset="0.1202" style="stop-color:#464D4E"/>
+	<stop  offset="0.7045" style="stop-color:#727678"/>
+	<stop  offset="1" style="stop-color:#86898B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_2385effeb6d1f2a41de416b649e02dfa)" stroke="#58595B" stroke-width="5.2602" d="M250.029,496.306c64.819,0,123.778-25.111,167.757-66.089
+	L252.146,179.875l-123.027,3.791L95.083,196.25L18.242,333.503C52.46,428.398,143.324,496.306,250.029,496.306z"/>
+<linearGradient id="ian_symbols_70d8d7c509ade2f4b14802e4cb121027" gradientUnits="userSpaceOnUse" x1="92.1675" y1="269.708" x2="483.1523" y2="269.708">
+	<stop  offset="0" style="stop-color:#C7EAFB"/>
+	<stop  offset="0.6359" style="stop-color:#EEF9FE"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_70d8d7c509ade2f4b14802e4cb121027)" stroke="#AEE2FA" stroke-width="5.2602" d="M483.152,329.361c-4.589-3.666-4.349-12.729-13.258-21.513
+	c-8.899-8.784-28.17-1.953-28.17-1.953s0.038-16.274-13.605-23.159c-13.662-6.865-21.657,2.752-29.383,3.964
+	c-7.717,1.231-8.256-27.166-33.936-13.47c-2.424,1.304-64.452-90.243-66.53-89.276c-3.705,1.727,58.295,95.616,56.11,97.599
+	c-4.781,4.406-6.195,19.088-6.195,19.088L215.363,65.506l-34.204,57.623l-25.063-35.82l-30.798,54.991l-33.131,59.647
+	c8.342,11.589,20.012,32.024,29.566,28.657c9.563-3.382,17.698-33.949,27.002-32.429c9.309,1.53,19.17,48.453,27.021,48.641
+	c7.846,0.164,19.416-20.614,27.007-21.619s21.788,30.052,32.414,27.002c10.617-3.04,19.969-29.898,32.419-27.002
+	c7.995,1.852,55.063,105.911,48.597,108.047c-4.753,1.583-56.188-74.531-59.401-70.235c-3.224,4.296,37.494,64.79,32.404,70.235
+	c-5.08,5.47-46.586-51.719-48.617-48.616c-1.414,2.179,15.308,27.565,27.036,56.106c1.886,4.585-13.807,8.79-11.237,24.693
+	c2.569,15.904,22.418,26.29,21.966,29.519c-0.452,3.224-23.554,8.495-23.582,26.372c-0.02,17.886,15.75,23.148,19.964,26.305
+	c4.205,3.155,1.059,19.993,19.983,25.256c18.944,5.263,20.445-11.324,30.49-11.181c19.771,0.27,37.234,7.418,37.234,7.418
+	C418.796,440.136,462.496,390.087,483.152,329.361z"/>
+<path fill="none" stroke="#000000" stroke-width="7.3892" d="M3.695,250.063c0,135.935,110.323,246.243,246.334,246.243
+	c135.978,0,246.277-110.309,246.277-246.243c0-136.06-110.299-246.368-246.277-246.368C114.018,3.695,3.695,114.003,3.695,250.063z"
+	/>
+</svg>

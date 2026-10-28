@@ -1,0 +1,95 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="203" viewBox="0 0 501 203" xml:space="preserve">
+            <title>Tractor 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Tractor 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of tractor</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, machinery, tractor, crop, plow, harvest</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a222103c8d58acc425773e4d363e34b7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Tractor 2</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/tractor-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/tractor-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, machinery, tractor, crop, plow, harvest</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of tractor</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_494059066dcffc44458c91b63c305d18" y2="556.5" gradientUnits="userSpaceOnUse" x2="55.207" gradientTransform="matrix(2.8051 0 0 2.8051 343.84 -1488.1)" y1="556.5" x1="-43.037">
+  <stop stop-color="#044C7F" offset="0"/>
+  <stop stop-color="#2062AF" offset="1"/>
+ </linearGradient>
+ <path d="m253.37 6.892l131.99-6.892 9.733 75.05 96.1-1.346 3.451 62.645-124.4 9.51c-57.752-89.261-117.6-15.995-132.21-12.801l-19.158 1.016c-4.541-43.071 53.766-57.944 64.023-58.479l-2.201-41.949-25.023-.32-2.3-26.44z" fill="url(#ian_symbols_494059066dcffc44458c91b63c305d18)"/>
+ <polygon points="307.56 25.291 355.7 22.791 357.78 63.094 309.65 65.626 307.56 25.291" fill="#FFF9AE"/>
+ <path d="m303.34 108.01c28.122-1.475 51.96 18.506 53.327 44.182 1.336 25.654-20.344 47.601-48.423 49.075-28.091 1.464-51.929-18.11-53.265-43.786-1.35-25.64 20.28-47.99 48.36-49.46z" fill="#414042"/>
+ <path stroke="#231F20" stroke-width=".0834" d="m303.34 108.01c28.122-1.475 51.96 18.506 53.327 44.182 1.336 25.654-20.344 47.601-48.423 49.075-28.091 1.464-51.929-18.11-53.265-43.786-1.35-25.64 20.28-47.99 48.36-49.46z" fill="none"/>
+ <path d="m472.83 141.63c14.254-.737 26.424 9.627 27.14 23.079.737 13.858-10.3 25.451-24.586 26.199-14.254.759-26.894-9.616-27.62-23.464-.72-13.46 10.8-25.09 25.07-25.82z" fill="#414042"/>
+ <path stroke="#231F20" stroke-width=".0834" d="m472.83 141.63c14.254-.737 26.424 9.627 27.14 23.079.737 13.858-10.3 25.451-24.586 26.199-14.254.759-26.894-9.616-27.62-23.464-.72-13.46 10.8-25.09 25.07-25.82z" fill="none"/>
+ <path d="m473.44 153.85c6.699-.342 12.779 4.647 13.11 10.749.32 6.518-5.236 11.7-11.925 12.042-7.127.396-12.704-4.231-13.024-10.749-.37-6.1 4.71-11.68 11.84-12.04z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".0834" d="m473.44 153.85c6.699-.342 12.779 4.647 13.11 10.749.32 6.518-5.236 11.7-11.925 12.042-7.127.396-12.704-4.231-13.024-10.749-.37-6.1 4.71-11.68 11.84-12.04z" fill="none"/>
+ <path d="m439.82 75.563c5.481-6.817 5.888-16.23 3.879-28.795-3.205-1.87-7.714-2.447-9.541-3.58-1.881-1.122-.257-4.894-1.368-8.516 9.392-.064 13.826-.694 22.748-1.186.363 6.539 2.276 34.598 1.261 41.19-4 .610-12.93 1.079-16.98.887z" fill="#1C4C7B"/>
+ <path d="m244.36 151.51l-244.36 13.17 1.977 37.867 9.755-.93-1.047-20.75c7.564-.395 23.154-1.613 32.979-2.147.262 5.3.326 15.108.721 22.438l9.841-.502c-.224-4.082.566-13.912-1.154-22.011 14.713.042 180.09-10.236 192.16-10.846l-.87-16.29z" fill="#1C4C7B"/>
+ <path d="m303.24 131.27c13.826-.716 25.483 8.067 26.071 19.489.608 11.807-10.055 21.754-23.881 22.48-13.858.716-25.483-8.077-26.065-19.884-.61-11.41 10.01-21.34 23.88-22.09z" fill="#E6E7E8"/>
+ <path stroke="#231F20" stroke-width=".0834" d="m303.24 131.27c13.826-.716 25.483 8.067 26.071 19.489.608 11.807-10.055 21.754-23.881 22.48-13.858.716-25.483-8.077-26.065-19.884-.61-11.41 10.01-21.34 23.88-22.09z" fill="none"/>
+ <path d="m90.479 167.71c10.257-.523 19.147 6.753 19.617 16.551.545 9.755-7.522 17.95-17.78 18.495-10.268.534-19.125-6.774-19.67-16.551-.495-9.78 7.604-17.93 17.829-18.5z" fill="#414042"/>
+ <path stroke="#231F20" stroke-width=".0834" d="m90.479 167.71c10.257-.523 19.147 6.753 19.617 16.551.545 9.755-7.522 17.95-17.78 18.495-10.268.534-19.125-6.774-19.67-16.551-.495-9.78 7.604-17.93 17.829-18.5z" fill="none"/>
+ <path d="m90.907 176.29c4.926-.278 9.146 3.173 9.36 7.661.256 4.487-3.558 8.355-8.462 8.601-4.926.268-9.136-3.194-9.365-7.661-.244-4.51 3.57-8.35 8.464-8.6z" fill="#fff"/>
+ <path stroke="#231F20" stroke-width=".0834" d="m90.907 176.29c4.926-.278 9.146 3.173 9.36 7.661.256 4.487-3.558 8.355-8.462 8.601-4.926.268-9.136-3.194-9.365-7.661-.244-4.51 3.57-8.35 8.464-8.6z" fill="none"/>
+</svg>

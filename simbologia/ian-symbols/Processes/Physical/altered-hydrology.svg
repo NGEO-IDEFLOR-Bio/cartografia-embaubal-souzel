@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="503" height="374" viewBox="0 0 503 374" xml:space="preserve">
+            <title>Altered hydrology</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Altered hydrology</ian_image_library:title>
+                <ian_image_library:descr>Illustration of altered hydrology</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, altered, hydrology, hydrologic, water, cycle</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-142caadfa140ea5481d4eb878bc5bef5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Altered hydrology</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/altered-hydrology/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/altered-hydrology/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, altered, hydrology, hydrologic, water, cycle</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of altered hydrology</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="1.9378" d="m188.79 288.39s19.217-2.383 30.319 4.42c11.884 6.965 60.835 40.816 90.884 28.002 29.876-12.023 50.614-23.127 62.265-19.51 10.864 3.5 50.555 15.297 50.555 15.297l-37.058 34.479 13.529 21.178 80.939-66.186 20.689-20.148-14.98-22.229-60.07-83.19-21.059 17.646 28.365 44.142s-24.866-7.594-38.082-11.482c-13.378-3.142-38.368-9.9-52.872-1.787-14.505 8.146-44.564 25.846-65.449 14.07-20.051-11.666-55.093-26.744-68.872-27.48-1.604-.261-9.109-4.02-9.674-.856-1.02 15.37-9.45 73.64-9.45 73.64z" fill="#00B1EB"/>
+ <linearGradient id="ian_symbols_fc0ea194a6adf1d475309b086720a65e" y2="30.406" gradientUnits="userSpaceOnUse" x2="423.63" gradientTransform="matrix(.9862 .1651 -.1651 .9862 -65.148 46.627)" y1="30.406" x1="356.83">
+  <stop stop-color="#333391" offset="0"/>
+  <stop stop-color="#0F63B2" offset=".1289"/>
+  <stop stop-color="#0078C0" offset=".1977"/>
+  <stop stop-color="#8ED8F8" offset=".5989"/>
+  <stop stop-color="#00C2F3" offset="1"/>
+ </linearGradient>
+ <path d="m323.96 92.997s-52.353 57.141-46.59 75.935c5.616 18.317 26.415 23.148 46.85 18.696 11.277-2.48 31.652-15.36 10.346-40.274-12.79-14.94-10.61-54.363-10.61-54.363z" fill="url(#ian_symbols_fc0ea194a6adf1d475309b086720a65e)"/>
+ <polygon fill-rule="evenodd" stroke="#231F20" points="231.07 58.463 231.75 164.22 106.07 164.4 108.33 214.21 .913 107.64 105.38 1.518 107.59 56.914" clip-rule="evenodd" stroke-width="1.2934" fill="#fff"/>
+</svg>

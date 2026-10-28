@@ -1,0 +1,77 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="202" height="517" viewBox="0 0 202 517" xml:space="preserve">
+            <title>Tide</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Tide</ian_image_library:title>
+                <ian_image_library:descr>Illustration of tidal forces</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, tide, tidal, forces</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e208cf1f0a45ec848da74cd2a6c16914">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Tide</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/tide/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/tide/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, tide, tidal, forces</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of tidal forces</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polyline stroke="#000" stroke-width="9.1285" points="52.002 247.93 52.002 134.18 8.576 134.18 93.538 7.993 184.17 134.18 184.17 134.18 138.86 134.18 138.86 247.93" fill="none"/>
+ <polyline stroke="#000" stroke-width="9.1285" points="51.98 247.46 51.98 377.99 8.576 377.99 93.526 504.15 184.17 377.99 184.17 377.99 138.85 377.99 138.85 247.46" fill="none"/>
+ <polyline stroke="#3D6AB3" stroke-width="9.1285" points="59.672 251.76 59.672 138.02 16.245 138.02 101.21 11.82 191.82 138.02 191.82 138.02 146.53 138.02 146.53 251.76" fill="none"/>
+ <polyline stroke="#3D6AB3" stroke-width="9.1285" points="59.649 251.3 59.649 381.82 16.233 381.82 101.2 507.99 191.82 381.82 191.82 381.82 146.52 381.82 146.52 251.3" fill="none"/>
+</svg>

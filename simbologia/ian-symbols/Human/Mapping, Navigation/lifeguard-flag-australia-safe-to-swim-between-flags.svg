@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="126" height="500" viewBox="0 0 126 500" xml:space="preserve">
+            <title>Lifeguard flag: Australia, safe to swim between flags</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lifeguard flag: Australia, safe to swim between flags</ian_image_library:title>
+                <ian_image_library:descr>Illustration of safe to swim between flags lifeguard flag in Australia</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, nautical, coastal, lifeguard, flag, safe, to, swim, between, flags, Australia</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-54e77cb0500bbb74a10b438a711f17f6">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lifeguard flag: Australia, safe to swim between flags</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lifeguard-flag-australia-safe-to-swim-between-flags/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lifeguard-flag-australia-safe-to-swim-between-flags/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, nautical, coastal, lifeguard, flag, safe, to, swim, between, flags, Australia</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of safe to swim between flags lifeguard flag in Australia</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="86.849" width="118.43" stroke="#231F20" y="2.039" x="4.165" stroke-width="3.3317" fill="#F3C823"/>
+ <rect height="43.403" width="118.43" stroke="#231F20" y="2.039" x="4.165" stroke-width="3.3317" fill="#BB322D"/>
+ <path stroke="#231F20" stroke-width="3.3317" d="m4.165 271.18v-174.16s66.634 24.521 65.381 174.15h-65.381z" fill="#BB322D"/>
+ <path stroke="#231F20" stroke-width="3.3317" d="m4.165 269.79v174.13s66.634-24.51 65.381-174.13h-65.381z" fill="#F3C823"/>
+ <line y2="500" x1="4.165" x2="4.165" stroke="#000" stroke-width="8.3292" fill="none"/>
+</svg>

@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="72" height="501" viewBox="0 0 72 501" xml:space="preserve">
+            <title>Piezometer</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Piezometer</ian_image_library:title>
+                <ian_image_library:descr>Illustration of piezometer</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, field, gear, piezometer, hydraulic, head, groundwater, aquifer, measurement, instrument, tool</ian_image_library:contains>
+                    <ian_image_library:when>2005-09-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8800e9ebd154f0a4159d719b55d8dc31">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Piezometer</dc:title>
+                <dc:date>2005-09-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jason C. Fisher
+University of California Los Angeles</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jason C. Fisher
+University of California Los Angeles</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/piezometer/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/piezometer/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, field, gear, piezometer, hydraulic, head, groundwater, aquifer, measurement, instrument, tool</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of piezometer</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect y="14.546" x="3.485" height="142.69" width="16.383" fill="#fff"/>
+ <linearGradient id="ian_symbols_3368ca7b2161a23471ec4f2f4235e0ba" y2="498.24" gradientUnits="userSpaceOnUse" x2="11.677" y1="154.76" x1="11.677">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <rect y="154.76" x="3.485" height="343.48" width="16.383" fill="url(#ian_symbols_3368ca7b2161a23471ec4f2f4235e0ba)"/>
+ <path stroke="#6D6E71" stroke-width=".5" d="m3.313 438.19h3.391v-5.554h-3.391v5.55zm0 8.81h3.391v-5.544h-3.391v5.54zm0-26.46h3.391v-5.544h-3.391v5.54zm0 8.82h3.391v-5.544h-3.391v5.54zm13.347 61.78h3.391v-5.554h-3.391v5.55zm-13.347 0h3.391v-5.554h-3.391v5.55zm0-8.83h3.391v-5.554h-3.391v5.55zm0-26.48h3.391v-5.555h-3.391v5.55zm0 8.83h3.391v-5.543h-3.391v5.54zm0 8.82h3.391v-5.544h-3.391v5.54zm0-105.9h3.391v-5.554h-3.391v5.55zm0-8.82h3.391v-5.555h-3.391v5.56zm0-8.83h3.391v-5.544h-3.391v5.54zm13.347-339.32v330.5h3.391v-330.5h-3.391zm-13.347 365.8h3.391v-5.555h-3.391v5.55zm0 17.64h3.391v-5.543h-3.391v5.54zm0 17.65h3.391v-5.532h-3.391v5.53zm0-26.46h3.391v-5.554h-3.391v5.55zm0 17.64h3.391v-5.544h-3.391v5.54zm13.347-26.47h3.391v-5.555h-3.391v5.55zm0-8.83h3.391v-5.554h-3.391v5.55zm0 17.66h3.391v-5.554h-3.391v5.55zm0-26.48h3.391v-5.555h-3.391v5.56zm-13.347-17.65h3.391v-330.5h-3.391v330.5zm0 159.39h3.391v-6.093h-3.391v6.09zm13.347-150.57h3.391v-5.544h-3.391v5.54zm0 150.57h3.391v-6.093h-3.391v6.09zm0-106.45h3.391v-5.543h-3.391v5.54zm0 70.61h3.391v-5.543h-3.391v5.54zm0 17.65h3.391v-5.554h-3.391v5.55zm0-79.43h3.391v-5.544h-3.391v5.54zm0 44.12h3.391v-5.544h-3.391v5.54zm0 26.48h3.391v-5.544h-3.391v5.54zm0-17.65h3.391v-5.555h-3.391v5.55zm0-17.64h3.391v-5.554h-3.391v5.55zm0-26.49h3.391v-5.532h-3.391v5.53zm0 8.84h3.391v-5.544h-3.391v5.54zm0 8.82h3.391v-5.544h-3.391v5.54z" fill="#231F20"/>
+ <line y2="498.8" x1="4.336" x2="19.028" stroke="#231F20" y1="498.8" stroke-width=".3076" fill="none"/>
+ <polyline stroke="#231F20" stroke-width="4" points="2 18.938 2 8.906 21.364 8.906 21.364 18.938" fill="none"/>
+ <path stroke="#6D6E71" d="m11.677 293.21v-283.1s-.28-9.322 9.612-9.602c6.297-.194 10.592 2.541 12.712 6.781 2.11 4.23 8.181 17.449 10.872 19.914 8.342 7.621 15.112-3.531 20.054-12.723 1.582-2.906 5.661-9.602 5.661-9.602" fill="none"/>
+ <path d="m14.303 305c0 .926-1.173 1.68-2.626 1.68s-2.627-.754-2.627-1.68v-23.681c0-.926 1.174-1.68 2.627-1.68s2.626.754 2.626 1.68v23.68z" fill="#231F20"/>
+</svg>

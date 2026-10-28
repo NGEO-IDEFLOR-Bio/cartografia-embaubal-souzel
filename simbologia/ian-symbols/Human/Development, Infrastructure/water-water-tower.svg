@@ -1,0 +1,112 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="179" height="501" viewBox="0 0 179 501" xml:space="preserve">
+            <title>Water: water tower</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water: water tower</ian_image_library:title>
+                <ian_image_library:descr>3-D Illustration of a water tower</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, water, tower, resevoir, well, tank</ian_image_library:contains>
+                    <ian_image_library:when>2011-01-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-bca6c20da46571440deb2e94536dcfe6">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water: water tower</dc:title>
+                <dc:date>2011-01-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-water-tower/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-water-tower/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, water, tower, resevoir, well, tank</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>3-D Illustration of a water tower</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#78908D" d="M89.131,8.564c-0.313,0-0.566,1.045-0.566,2.314v20.234c0,0.703,0.078,1.299,0.205,1.709v2.305h-4.023
+	V24.365c0.137-0.43,0.244-1.084,0.244-1.826V2.295C84.99,1.045,84.736,0,84.424,0c-0.322,0-0.566,1.045-0.566,2.295v20.244
+	c0,0.635,0.059,1.191,0.166,1.602v13.936l0,0l0,0h4.746v4.18h0.723v-4.18v-2.949v-2.305c0.127-0.41,0.195-1.006,0.195-1.709V10.879
+	C89.688,9.609,89.443,8.564,89.131,8.564z"/>
+<linearGradient id="ian_symbols_462a8e9649884ae451d032c52892c5c3" gradientUnits="userSpaceOnUse" x1="33.7671" y1="468.2593" x2="128.5429" y2="444.629">
+	<stop  offset="0" style="stop-color:#B8D5D9"/>
+	<stop  offset="0.6962" style="stop-color:#B8D6D9"/>
+	<stop  offset="1" style="stop-color:#A2BCBE"/>
+</linearGradient>
+<path fill="url(#ian_symbols_462a8e9649884ae451d032c52892c5c3)" d="M71.855,403.964l-30.752,93.721c0,0,30.752,2.93,51.982,2.197c21.23-0.732,48.32-3.662,48.32-3.662
+	l-32.764-92.256H71.855z"/>
+<linearGradient id="ian_symbols_e8c0383f0fa7f80485ac35896c6d06b5" gradientUnits="userSpaceOnUse" x1="89.2036" y1="35.0391" x2="89.2036" y2="405.8301">
+	<stop  offset="0" style="stop-color:#DDF2F7"/>
+	<stop  offset="0.1139" style="stop-color:#ADCBCF"/>
+	<stop  offset="0.238" style="stop-color:#78908D"/>
+	<stop  offset="0.3797" style="stop-color:#647467"/>
+	<stop  offset="0.4608" style="stop-color:#8CA6A6"/>
+	<stop  offset="1" style="stop-color:#A2BCBE"/>
+</linearGradient>
+<path fill="url(#ian_symbols_e8c0383f0fa7f80485ac35896c6d06b5)" d="M158.964,55.859c-16.348-15.479-41.523-20.82-69.755-20.82c-27.588,0-52.256,4.893-68.613,19.766
+	C7.734,66.494,0,81.514,0,97.91c0,13.311,5.098,25.732,13.906,36.182c0,0,4.219,4.492,8.877,8.447
+	c4.658,3.965,39.258,29.17,41.396,30.977c2.764,2.334,7.041,7.285,7.676,10.879c0.527,3.086,0,25.566,0,25.566v194.707
+	c0.996,0.234,2.451,0.449,4.59,0.635c3.75,0.342,8.711,0.527,13.994,0.527c5.283,0,10.244-0.186,13.994-0.527
+	c1.875-0.166,3.232-0.352,4.209-0.547V207.783c0,0-0.654-19.805,0-23.389c0.986-5.449,4.424-8.496,8.496-11.963
+	c2.842-2.412,33.896-26.904,37.861-29.824c3.965-2.93,9.736-8.789,9.736-8.789c8.672-10.4,13.672-22.715,13.672-35.908
+	C178.408,82.012,171.132,67.393,158.964,55.859z"/>
+<path fill="#647467" d="M90.439,209.961c-5.283,0-10.244-0.195-13.994-0.527c-5.605-0.508-6.592-1.104-6.592-2.158
+	c0,0,0.176-0.605,0.781-1.006c0.596-0.4,1.27-0.4,1.27-0.4c0-0.283,0.068,0.986,0,0.938c0.859,0.566,7.5,1.318,18.535,1.318
+	c11.035,0,17.177-0.684,18.046-1.26c-0.078,0.049,0-1.338,0-1.064c0,0,1.064,0.137,1.729,0.596c0.664,0.469,0.811,0.879,0.811,0.879
+	c0,1.055-0.986,1.65-6.592,2.158C100.683,209.766,95.722,209.961,90.439,209.961z"/>
+<path fill="#647467" d="M90.439,199.893c-5.283,0-10.244-0.195-13.994-0.527c-5.605-0.508-6.592-1.104-6.592-2.158
+	c0,0,0.176-0.605,0.781-1.006c0.596-0.4,1.27-0.4,1.27-0.4c0-0.273,0.068,0.986,0,0.928c0.859,0.586,7.5,1.328,18.535,1.328
+	c11.035,0,17.177-0.684,18.046-1.26c-0.078,0.049,0-1.338,0-1.064c0,0,1.064,0.137,1.729,0.605c0.664,0.459,0.811,0.869,0.811,0.869
+	c0,1.055-0.986,1.65-6.592,2.158C100.683,199.697,95.722,199.893,90.439,199.893z"/>
+<path fill="#647467" d="M90.439,189.824c-5.283,0-10.244-0.195-13.994-0.527c-5.605-0.508-6.592-1.104-6.592-2.168
+	c0,0,0.176-0.596,0.781-0.996c0.596-0.4,1.27-0.4,1.27-0.4c0-0.273,0.068,0.986,0,0.928c0.859,0.586,7.5,1.328,18.535,1.328
+	c11.035,0,17.177-0.684,18.046-1.25c-0.078,0.039,0-1.357,0-1.074c0,0,1.064,0.137,1.729,0.605s0.811,0.859,0.811,0.859
+	c0,1.064-0.986,1.66-6.592,2.168C100.683,189.629,95.722,189.824,90.439,189.824z"/>
+</svg>

@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="441" viewBox="0 0 501 441" xml:space="preserve">
+            <title>Mangrove oil spill effects</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mangrove oil spill effects</ian_image_library:title>
+                <ian_image_library:descr>Illustration of oil spill effects on mangroves</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, mangrove, effects, oil, spill, tree, death, dead</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a2d812459f46bb74e929c7bb4458e3c4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mangrove oil spill effects</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mangrove-oil-spill-effects/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mangrove-oil-spill-effects/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, mangrove, effects, oil, spill, tree, death, dead</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of oil spill effects on mangroves</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_6d421d06f9042fe4114353a5f3aa58d5" y2="209.51" gradientUnits="userSpaceOnUse" x2="-107.59" gradientTransform="matrix(-.9 0 0 .9 340.21 8.9277)" y1="209.51" x1="189.91">
+  <stop stop-color="#6E7169" offset="0"/>
+  <stop stop-color="#A1A37A" offset="1"/>
+ </linearGradient>
+ <path d="m271.2 394.1l-2.618-199.5-.599-71.776c1.979-2.102-3.258-16.952-15.167-36.451-3.849-6.294-75.125 36.216-80.349 29.187-6.883-9.243 73.286-40.45 64.088-49.829-5.965-6.083-33.887-39.804-40.787-45.514 16.85-28.51 18.608.211 70.878 27.715 25.11 13.215 30.827 37.665 36.441 40.709 21.95 1.766 89.3-75.741 106.14-85.837 6.162-3.52 17.111-2.779 21.931 6.808-5.07 11.657-33.054 21.495-29.477 47.044 2.152 15.602 40.317 49.896 32.033 56.66-6.291 5.095-48.209-47.877-54.215-43.044-15.562 12.456-54.216 28.218-56.691 79.976-.697 14.707-6.652 58.544-3.193 101.16.82 13.12.82 100.59.82 108.14 0 3.543 1.871 21.688-2.418 22.712-11.77 2.49-29.68 7.8-46.8 11.84z" fill-rule="evenodd" stroke="#231F20" stroke-miterlimit="1" clip-rule="evenodd" stroke-width="1.7411" fill="url(#ian_symbols_6d421d06f9042fe4114353a5f3aa58d5)"/>
+ <path d="m288.98 257.22c-5.274 0-10.767-.248-16.17-.813-9.147-.949-20.312-3.111-25.406-11.46-2.574-4.22-3.084-9.365-1.367-13.762 2.799-7.175 10.875-10.729 18.047-7.92 2.496.973 4.55 2.584 6.053 4.574 1.2.266 2.989.578 5.561.844 15.554 1.632 30.696-.096 34.991-1.333 2.564-.728 6.533-3.642 8.665-5.209 1.115-.819 2.071-1.51 2.813-1.993 6.431-4.224 15.074-2.418 19.295 4.02 4.221 6.437 2.422 15.075-4.02 19.295-.418.275-.956.68-1.592 1.149-3.795 2.785-10.147 7.447-17.489 9.535-6.02 1.75-17.1 3.08-29.36 3.08z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="1.7411" d="m16.046 380.45c25.873-5.342 11.382-8.668 69.621 16.241 59.381 25.409 59.381 30.728 80.686 25.409 14.514-3.636 9.24-27.049 28.011-33.163 8.773-2.843 22.794-1.938 46.53 6.54 14.052 5.013 27.154 9.083 39.172 12.395 51.736 14.229 83.301 14.229 83.301 14.229s-4.104 5.139 36.818 15.385c40.933 10.208 127.09-19.139 89.803-40.431-37.274-21.317-63.894-9.311-106.48-14.629-42.608-5.329-233.13-22.655-265.09-27.994-31.938-5.328-75.37-16.432-96.444-5.739-21.07 10.68-31.785 37.12-5.92 31.74z" fill="#231F20"/>
+</svg>

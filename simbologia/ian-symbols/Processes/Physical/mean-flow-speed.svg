@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="380" viewBox="0 0 501 380" xml:space="preserve">
+            <title>Mean flow speed</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mean flow speed</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mean flow speed</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, mean, flow, speed, average, velocity, time</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-10</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7d6a5d5c1fbe665495685ec43de8fee3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mean flow speed</dc:title>
+                <dc:date>2005-02-10</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mean-flow-speed/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mean-flow-speed/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, mean, flow, speed, average, velocity, time</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mean flow speed</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <line y2="180.67" x1="405.31" fill-rule="evenodd" x2="59.827" stroke="#ED1C24" stroke-dasharray="18.5158" y1="180.67" clip-rule="evenodd" stroke-width="4.6292" fill="none"/>
+ <path d="m20.939 191.84v-4.721c-2.48 3.611-5.841 5.406-10.083 5.406-1.882 0-3.633-.348-5.243-1.066-1.632-.718-2.839-1.621-3.633-2.708-.794-1.088-1.338-2.415-1.653-3.992-.218-1.05-.327-2.72-.327-5.01v-19.656h5.341v17.567c0 2.795.12 4.688.337 5.667.337 1.403 1.055 2.513 2.154 3.317 1.099.816 2.458 1.208 4.068 1.208 1.631 0 3.154-.402 4.568-1.229 1.425-.827 2.415-1.947 3.013-3.372.587-1.414.881-3.481.881-6.189v-16.969h5.341v31.741h-4.764z" fill="#231F20"/>
+ <path d="m457.25 196.62v-4.721c-2.469 3.611-5.841 5.406-10.083 5.406-1.871 0-3.622-.359-5.243-1.066-1.632-.718-2.839-1.621-3.622-2.708-.794-1.077-1.338-2.415-1.653-3.981-.218-1.055-.338-2.73-.338-5.025v-19.645h5.342v17.567c0 2.807.13 4.699.337 5.667.337 1.414 1.055 2.513 2.176 3.317 1.087.805 2.447 1.218 4.057 1.218 1.632 0 3.144-.413 4.558-1.24s2.426-1.947 3.024-3.361c.587-1.425.881-3.492.881-6.2v-16.969h5.341v31.741h-4.79z" fill="#231F20"/>
+ <line y2="153.03" x1="434.69" x2="464.24" stroke="#231F20" y1="153.03" stroke-width="7.4061" fill="none"/>
+ <polyline stroke="#231F20" stroke-width="8" points="462.76 313.2 52.246 313.2 52.246 37.245" fill="none"/>
+ <path d="m52.246 0c6.494 17.524 17.6 39.268 29.337 52.746l-29.337-10.617-29.349 10.617c11.738-13.478 22.844-35.222 29.349-52.746z" fill="#231F20"/>
+ <path d="m500 313.2c-17.524 6.505-39.269 17.6-52.746 29.348l10.616-29.348-10.616-29.348c13.48 11.75 35.23 22.84 52.75 29.35z" fill="#231F20"/>
+ <path stroke="#0088B6" stroke-width="4.6292" stroke-linecap="round" d="m72.685 191.74s10.17-51.484 12.879-52.158c2.72-.685 18.938 75.186 22.332 73.827 3.383-1.349 11.574-79.254 16.305-80.604 4.754-1.349 12.172 90.741 16.241 89.381 4.057-1.349 20.319-103.62 25.062-103.62 4.742 0 14.228 92.808 21.679 92.808s20.319-82.626 25.062-83.312c4.743-.685 13.542 79.265 19.645 79.94 6.092.674 13.554-75.872 17.622-75.872 4.058 0 6.08 88.065 13.543 88.74 7.451.674 16.229-86.716 21.646-86.031 5.417.674 11.541 73.152 14.924 71.803 3.394-1.349 5.428-48.775 9.496-49.45 4.058-.674 10.802 44.696 14.869 43.347 4.068-1.349 4.102-51.451 10.182-51.451 6.103 0 8.822 58.826 12.879 59.5 4.068.674 13.521-56.825 18.264-58.174 4.732-1.349 7.484 47.394 12.227 46.72 4.721-.686 9.475-48.765 13.532-48.068 4.079.674 8.789 39.247 8.789 39.247" fill="none"/>
+ <path d="m256.68 335.26v10.704h7.614v2.469h-7.614v21.17c0 2.11.305 3.546.914 4.275.599.739 1.37 1.109 2.316 1.109.783 0 1.545-.239 2.273-.729.729-.468 1.306-1.187 1.708-2.122h1.414c-.826 2.339-2.001 4.079-3.524 5.254-1.522 1.175-3.089 1.763-4.699 1.763-1.099 0-2.164-.294-3.209-.914-1.055-.598-1.827-1.468-2.327-2.6-.489-1.12-.74-2.871-.74-5.232v-21.973h-5.123v-1.152c1.295-.533 2.621-1.403 3.971-2.654 1.359-1.24 2.566-2.72 3.622-4.428.544-.892 1.305-2.556 2.273-4.938h1.14z" fill="#231F20"/>
+</svg>

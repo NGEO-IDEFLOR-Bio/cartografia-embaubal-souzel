@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="110" viewBox="0 0 501 110" xml:space="preserve">
+            <title>Estuary 2D: open</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: open</ian_image_library:title>
+                <ian_image_library:descr>Illustration of open estuary base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, open</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-bbfd222b271cc774c9badb3a37bfeb1c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: open</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-open/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-open/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, open</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of open estuary base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_84ce4325013d4294c9bf4acba1b28149" y2="-6.5616" gradientUnits="userSpaceOnUse" x2="496.95" y1="116.11" x1="39.141">
+  <stop stop-color="#568596" offset=".0787"/>
+  <stop stop-color="#8F8F7C" offset=".4438"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m496.09 1.236c-1.913 1.941-5.475 3.106-10.212 3.106-4.734 0-8.297-1.166-10.209-3.106-1.913 1.941-5.476 3.106-10.211 3.106-4.738 0-8.302-1.166-10.217-3.106-1.904 1.941-5.469 3.106-10.21 3.106-4.733 0-8.297-1.166-10.209-3.106-1.908 1.941-5.472 3.106-10.208 3.106-4.734 0-8.3-1.166-10.212-3.106-1.908 1.941-5.476 3.106-10.21 3.106s-8.299-1.166-10.211-3.106c-1.913 1.941-5.475 3.106-10.209 3.106-4.737 0-8.301-1.166-10.216-3.106-1.909 1.941-5.476 3.106-10.209 3.106-4.737 0-8.301-1.166-10.209-3.106-1.912 1.941-5.476 3.106-10.213 3.106-4.735 0-8.299-1.166-10.208-3.106-1.911 1.941-5.478 3.106-10.213 3.106-4.733 0-8.302-1.166-10.215-3.106-1.905 1.941-5.469 3.106-10.206 3.106-4.736 0-8.299-1.166-10.213-3.106-1.91 1.941-5.474 3.106-10.212 3.106-4.735 0-8.299-1.166-10.21-3.106-1.907 1.941-5.477 3.106-10.21 3.106-4.738 0-8.3-1.166-10.211-3.106-1.909 1.941-5.475 3.106-10.214 3.106-4.733 0-8.298-1.166-10.209-3.106-1.91 1.941-5.473 3.106-10.209 3.106-4.739 0-8.3-1.166-10.213-3.106-1.908 1.941-5.472 3.106-10.213 3.106-4.734 0-8.298-1.166-10.208-3.106-1.911 1.941-5.476 3.106-10.209 3.106-4.737 0-8.3-1.166-10.211-3.106-1.911 1.941-5.475 3.106-10.214 3.106-4.731 0-8.3-1.166-10.209-3.106-1.915 1.941-5.476 3.106-10.213 3.106-4.735 0-8.3-1.166-10.212-3.106-1.907 1.941-5.474 3.106-10.209 3.106-4.738 0-8.303-1.166-10.209-3.106-1.91 1.941-5.477 3.106-10.213 3.106-4.735 0-8.302-1.166-10.212-3.106-1.91 1.941-5.475 3.106-10.21 3.106-4.737 0-8.302-1.166-10.212-3.106-1.909 1.941-5.476 3.106-10.211 3.106s-8.301-1.166-10.212-3.106c-1.908 1.941-5.475 3.106-10.209 3.106-.117 0-.223-.01-.338-.01v101.04h463.99v-101.82c-1.77-.539-3.18-1.324-4.16-2.314z" fill="url(#ian_symbols_84ce4325013d4294c9bf4acba1b28149)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m468.21 84.926c-12.552-4.61-20.926-10.107-30.939-18.124-20.667-16.538-36.438-21.644-61.553-24.232-24.063-2.48-41.813-.519-63.938 6.448-20.355 6.41-45.528 4.859-66.576 5.91-46.733 2.334-82.259-15.387-123.52-33.178-17.986-7.753-37.83-19.247-57.434-20.17-21.679-1.022-42.338-1.308-63.996-1.33v109.22h500v-10.77c-10.96-2.993-21.73-9.986-32.04-13.774z" fill="#CEB592"/>
+</svg>

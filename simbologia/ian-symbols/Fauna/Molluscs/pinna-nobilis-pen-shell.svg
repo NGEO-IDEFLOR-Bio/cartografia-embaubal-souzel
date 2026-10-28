@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="194" height="501" viewBox="0 0 194 501" xml:space="preserve">
+            <title>Pinna nobilis (Pen Shell)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pinna nobilis (Pen Shell)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Pinna nobilis (Pen Shell)</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>pen, shell, sea-wings, wing-shell, Mollusca, Bivalvia, bivalve, Pteriomorpha, Pinnidae, Pinna, nobilis</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6adeeea66d9aa2e4351bfea7709198e5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pinna nobilis (Pen Shell)</dc:title>
+                <dc:date>2005-03-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pinna-nobilis-pen-shell/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pinna-nobilis-pen-shell/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>pen, shell, sea-wings, wing-shell, Mollusca, Bivalvia, bivalve, Pteriomorpha, Pinnidae, Pinna, nobilis</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Pinna nobilis (Pen Shell)</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_043a429a5fe569a4f9abe8fb4038750b" y2="320.22" gradientUnits="userSpaceOnUse" x2="195.44" gradientTransform="matrix(1.0238 -.0087 .0085 1 3.1342 -2.5135)" y1="151.59" x1="-45.383">
+  <stop stop-color="#CEB3A4" offset=".0056"/>
+  <stop stop-color="#E2D3AA" offset=".2921"/>
+  <stop stop-color="#6E8C81" offset="1"/>
+ </linearGradient>
+ <path stroke="#002E3C" stroke-width="1.0354" d="m83.569 489.53c-6.37 6.316-5.069 7.436-10.293-2.548-5.224-9.99-42.062-131.11-53.959-172.39-11.925-41.27-21.666-125.19-18.026-149.05 3.667-23.856-1.719-52.646 12.107-86.619 13.838-33.969 39.116-65.401 60.875-73.118 21.752-7.705 34.613-5.373 52.611-3.014 17.991 2.366 28.264 18.442 32.187 25.945 3.91 7.476 1.611 8.884 6.869 23.883 5.265 15.004 2.791 26.242 8.068 42.493 5.278 16.266 13.469 83.841 14.836 92.598 1.355 8.77-1.017 23.903-6.046 35.227-5.049 11.324-31.641 56.683-39.225 69.294-7.596 12.612-20.08 55.402-28.931 70.515-8.851 15.127-12.356 57.734-17.297 79.089-4.967 21.36-7.415 41.37-13.784 47.7z" fill="url(#ian_symbols_043a429a5fe569a4f9abe8fb4038750b)"/>
+ <linearGradient id="ian_symbols_deced934f0124ae40d1d0760a548eee3" y2="322.2" gradientUnits="userSpaceOnUse" x2="207.64" y1="153.56" x1="-33.21">
+  <stop stop-color="#D6C8B5" offset=".0056"/>
+  <stop stop-color="#E1DFC8" offset=".2921"/>
+  <stop stop-color="#DFE7DE" offset=".6742"/>
+  <stop stop-color="#C5D5CB" offset="1"/>
+ </linearGradient>
+ <path stroke="#002E3C" stroke-width="1.0354" d="m86.669 494.67c-6.276 6.276-5.022 7.401-10.037-2.635-5.015-10.04-39.992-131.46-51.269-172.84-11.284-41.38-20.135-125.38-16.374-149.21 3.754-23.829-1.247-52.659 12.538-86.518 13.791-33.852 38.752-65.068 60.06-72.591 21.314-7.529 33.859-5.082 51.412-2.568 17.552 2.508 27.455 18.679 31.203 26.201 3.782 7.523 1.523 8.905 6.539 23.95 5.001 15.045 2.5 26.261 7.509 42.561 5.028 16.306 12.49 83.949 13.737 92.725s-1.192 23.882-6.208 35.173c-5.016 11.277-31.345 56.406-38.867 68.957-7.529 12.538-20.067 55.228-28.83 70.279-8.776 15.039-12.551 57.6-17.566 78.92-5.004 21.33-7.578 41.32-13.841 47.6z" fill="url(#ian_symbols_deced934f0124ae40d1d0760a548eee3)"/>
+</svg>

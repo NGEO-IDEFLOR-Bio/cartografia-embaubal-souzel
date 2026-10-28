@@ -1,0 +1,109 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="448" height="502" viewBox="0 0 448 502" xml:space="preserve">
+            <title>Suburban: house with verandah</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Suburban: house with verandah</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a house, close up</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, house, home, 10</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ed0145e4178fe4c4d1141fc4b7fb10e8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Suburban: house with verandah</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/suburban-house-with-verandah/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/suburban-house-with-verandah/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, house, home, 10</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a house, close up</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F2EDC8" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	0.501,248.783 126.327,267.784 358.911,214.692 358.911,386.366 105.249,464.631 0.501,444.171 0.501,248.783 "/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	184.865,0.501 0.501,0.501 0.501,168.813 362.246,124.803 184.865,0.501 "/>
+<line fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" x1="0.501" y1="0.501" x2="0.501" y2="168.813"/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="0.9823" stroke-miterlimit="2.4142" points="
+	365.03,212.792 365.03,383.28 351.211,386.486 351.078,216.827 365.03,212.792 "/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	243.52,240.73 243.52,383.181 183.484,398.559 183.484,251.788 243.52,240.73 "/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	119.223,271.452 119.223,500.5 105.249,500.5 105.249,260.673 "/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" d="
+	M119.223,271.452L0.501,249.822v-81.008c0,0,43.394,41.984,80.03,69.123C106.292,257.018,118.144,271.994,119.223,271.452
+	L119.223,271.452z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" d="
+	M323.141,223.949v60.085l-44.696,11.157V235.14C278.444,235.14,321.737,225.364,323.141,223.949L323.141,223.949z"/>
+<line fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" x1="302.594" y1="227.031" x2="302.583" y2="289.198"/>
+<line fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" x1="278.516" y1="264.56" x2="323.306" y2="255.34"/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	75.93,268.657 75.93,353.863 105.249,362.248 105.249,274.247 75.93,268.657 "/>
+<line fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" x1="91.28" y1="271.545" x2="91.28" y2="357.959"/>
+<line fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" x1="76.236" y1="308.867" x2="105.249" y2="315.43"/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	436.373,303.739 319.049,340.619 319.049,405.301 436.373,366.417 "/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	284.023,350.338 284.023,415.4 105.249,474.628 0.501,448.094 0.501,375.482 105.249,403.409 284.023,350.338 "/>
+<line fill="none" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" x1="105.249" y1="403.409" x2="105.249" y2="474.628"/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" points="
+	446.039,191.836 446.039,380 434.87,383.181 434.87,193.383 446.039,191.836 "/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#A0B8B0" stroke="#000000" stroke-width="1.0019" stroke-miterlimit="2.4142" d="
+	M362.246,124.803c0,0,9.402,15.477,27.729,30.644c19.509,16.151,49.575,32.125,56.064,34.997
+	c12.56,5.579-326.816,81.008-326.816,81.008s-50.535-31.277-83.973-59.438c-24.182-20.366-34.165-39.102-34.749-43.201
+	C0.49,168.78,362.246,124.803,362.246,124.803L362.246,124.803z"/>
+</svg>

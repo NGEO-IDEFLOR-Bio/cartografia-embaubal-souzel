@@ -1,0 +1,75 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="531" height="412" viewBox="0 0 531 412" xml:space="preserve">
+            <title>Delta: intermittent del 13C</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Delta: intermittent del 13C</ian_image_library:title>
+                <ian_image_library:descr>Illustration of intermittent del 13C delta</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, delta, change, intermittent, nutrient, carbon, 13C</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-437eda0df3626c64f5fdd930023a8dfd">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Delta: intermittent del 13C</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/delta-intermittent-del-13c/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/delta-intermittent-del-13c/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, delta, change, intermittent, nutrient, carbon, 13C</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of intermittent del 13C delta</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width="16.528" stroke-dasharray="99.1665,99.1665,99.1665,99.1665,99.1665,99.1665" points="514.91 402.37 14.909 402.37 256.84 15.235" fill="#B9DA95"/>
+ <path d="m303.51 274.73l15.493 4.478c-3.412 16.09-9.408 28.083-17.961 36-8.554 7.905-18.96 11.869-31.232 11.869-10.775 0-20.01-2.635-27.647-7.883-7.66-5.26-13.924-13.69-18.792-25.303-4.885-11.613-7.314-25.325-7.314-41.125 0-15.61 2.429-28.82 7.303-39.618 4.879-10.809 11.468-18.96 19.798-24.487 8.33-5.516 17.631-8.274 27.893-8.274 11.222 0 20.88 3.473 28.943 10.418 8.067 6.934 13.723 17.129 16.95 30.562l-15.152 4.478c-5.165-19.507-15.521-29.267-31.076-29.267-7.75 0-14.46 1.976-20.144 5.929-5.684 3.964-10.206 10.117-13.6 18.491-3.384 8.375-5.081 18.96-5.081 31.768 0 19.374 3.428 33.912 10.273 43.593 6.856 9.692 15.968 14.527 27.318 14.527 8.414 0 15.661-2.993 21.769-8.956 6.11-5.99 10.19-15.06 12.26-27.21z" fill="#D2232A"/>
+</svg>

@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="295" height="501" viewBox="0 0 295 501" xml:space="preserve">
+            <title>Uncertainty 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Uncertainty 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of uncertainty question mark</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>modifier, uncertainty, question, mark, unknown</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fc7a6022b7a366247905a4549a642aea">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Uncertainty 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/uncertainty-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/uncertainty-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>modifier, uncertainty, question, mark, unknown</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of uncertainty question mark</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m89.45 412.84c-12.472 0-22.682 6.054-30.649 18.15-7.085 10.806-10.636 22.902-10.636 36.289 0 9.063 3.815 16.771 11.446 23.167 7.641 6.362 16.187 9.549 25.648 9.549 10.961 0 19.893-5.623 26.773-16.849 5.574-9.494 8.38-20.189 8.38-32.065 0-25.48-10.32-38.24-30.96-38.24z" fill="#ED1C24"/>
+ <path d="m49.417 22.594c-32.959 16.794-49.417 33.686-49.417 50.678 0 8.811 3.175 16.784 9.549 23.885 6.363 7.09 13.977 10.64 22.826 10.64 4.951 0 17.907-6.88 38.836-20.642 6.461-4.246 12.471-7.62 18.238-10.552l-26.497-60.319c-4.455 2.006-8.821 3.903-13.535 6.307z" fill="#ED1C24"/>
+ <path d="m122.73 0c-5.193 0-10.895.771-16.854 1.896l15.939 64.729c.386-.022.827-.111 1.213-.111 25.097 0 48.827 10.012 71.211 29.784l39.487-51.749c-33.54-29.575-70.51-44.549-111-44.549z" fill="#ED1C24"/>
+ <path d="m262.49 75.202l-47.983 43.292c10.568 14.942 15.994 30.709 15.994 47.393 0 7.675-2.173 15.647-6.374 23.906l61.133 22.021c5.447-14.423 8.314-29.739 8.314-46.103.01-32.88-10.42-63.04-31.08-90.508z" fill="#ED1C24"/>
+ <path d="m111.1 289.16c-27.435 21.69-41.141 39.95-41.141 54.759 0 8.601 3.319 16.265 9.979 23.034 6.644 6.782 14.368 10.167 23.167 10.167 8.568 0 16.618-4.41 24.138-13.232 6.197-7.09 15.129-15.403 26.057-24.633l-39.41-52.201-2.79 2.1z" fill="#ED1C24"/>
+ <path d="m205.03 215.51c-4.852 5.127-10.155 10.321-16.419 15.658l-47.96 35.871 39.983 50.447c5.022-3.804 9.924-7.531 15.526-11.578 31.453-22.241 53.1-40.402 65.504-54.759l-56.63-35.64z" fill="#ED1C24"/>
+</svg>

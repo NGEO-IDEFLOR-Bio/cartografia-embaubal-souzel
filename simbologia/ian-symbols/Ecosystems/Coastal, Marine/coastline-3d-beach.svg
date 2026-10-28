@@ -1,0 +1,101 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="287" viewBox="0 0 501 287" xml:space="preserve">
+            <title>Coastline 3D: beach</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 3D: beach</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with beach</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, beach, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-07d7e61ed0f32de46504190830be7c51">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 3D: beach</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-3d-beach/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-3d-beach/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, beach, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with beach</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points=".356 172.24 0 173.07 .259 285.94 499.95 285.94 499.95 172.12" fill="#E1DCAB"/>
+ <linearGradient id="ian_symbols_d0305eede84542b4357276fbd3978495" y2="-1.2596" gradientUnits="userSpaceOnUse" x2="427.89" y1="98.206" x1="464.09">
+  <stop stop-color="#72A75C" offset="0"/>
+  <stop stop-color="#72A75C" offset=".6292"/>
+  <stop stop-color="#A09163" offset="1"/>
+ </linearGradient>
+ <polygon points="425.55 0 424.43 0 467.55 96.947" fill="url(#ian_symbols_d0305eede84542b4357276fbd3978495)"/>
+ <linearGradient id="ian_symbols_cda0328c4bafd3640d44a8fd8b30da73" y2="-36.171" gradientUnits="userSpaceOnUse" x2="174.55" y1="252.12" x1="279.47">
+  <stop stop-color="#72A75C" offset="0"/>
+  <stop stop-color="#72A75C" offset=".6292"/>
+  <stop stop-color="#589D78" offset="1"/>
+ </linearGradient>
+ <polygon points="467.55 96.947 424.43 0 75.17 0 40.72 79.089 39.767 81.28 12.231 144.49 .523 171.85 500 171.85" fill="url(#ian_symbols_cda0328c4bafd3640d44a8fd8b30da73)"/>
+ <path d="m477.32 117.58s-.237-.06-.664-.17l9.702 21.818-9.04-21.65z" fill="#F7EFB9"/>
+ <path d="m486.35 139.23l-9.702-21.818c-7.673-1.958-81.228-20.612-112.61-23.788-33.13-3.352-93.345 8.974-119.65 10.499-26.298 1.52-121.98-12.958-161.89-9.267-33.274 3.08-56.438 25.7-63.211 33.126l-10.34 24.165h148.75l82.408 31.535 118.15-31.535h133.49l-5.4-12.91z" fill="#F7EFB9"/>
+ <linearGradient id="ian_symbols_bba933ab1c636ca47d899a2bdb3de5d0" y2="136.67" gradientUnits="userSpaceOnUse" x2="249.98" y1="270.5" x1="249.98">
+  <stop stop-color="#49B1DB" offset="0"/>
+  <stop stop-color="#49B1DB" offset=".3315"/>
+  <stop stop-color="#ABE1FA" offset=".8258"/>
+  <stop stop-color="#AEE2FA" offset=".8705"/>
+  <stop stop-color="#B8E6FB" offset=".9051"/>
+  <stop stop-color="#C8EBFC" offset=".9362"/>
+  <stop stop-color="#DFF4FD" offset=".9653"/>
+  <stop stop-color="#FDFEFF" offset=".9929"/>
+  <stop stop-color="#fff" offset=".9944"/>
+ </linearGradient>
+ <path d="m499.94 169.76l-10.979-24.686c-5.313-4.715-13.187-8.239-24.87-8.399-13.645-.186-50.283 6.413-82.133 4.787-31.845-1.626-68.319-1.922-89.63.469-21.314 2.391-37.609 10.618-65.893 12.909-28.283 2.293-50.675-11.751-79.86-15.152-29.184-3.398-34.452 8.132-65.114 4.792-30.664-3.342-42.092-4.202-49.865-4.585-9.893-.488-16.917 4.329-21.797 10.286l-9.788 22.878.252 90.014s39.975-12.369 72.974-10.249c32.995 2.121 88.384 20.346 143.77 17.345 55.389-3.002 89.563-21.832 116.67-20.5 27.104 1.335 22.388 17.586 88.382 14.978 65.993-2.606 77.897-18.918 77.897-18.918v-75.184c-.01-.02-.01-.30-.02-.80z" fill="url(#ian_symbols_bba933ab1c636ca47d899a2bdb3de5d0)"/>
+ <path stroke="#0086CC" stroke-width=".5" d="m1.229 171.32c7.265-1.182 11.703-4.143 11.703-4.143s9.107 6.716 16.614 5.598c7.554-1.195 14.202-5.71 14.202-5.71s6.127 6.045 15.362 5.82c9.236-.224 14.803-5.597 14.803-5.597s8.286 6.085 16.141 5.711c7.856-.338 14.588-5.711 14.588-5.711s9.104 6.493 15.881 5.486c6.817-1.045 14.457-5.598 14.457-5.598s6.819 6.306 15.71 5.598c8.847-.785 14.586-5.71 14.586-5.71s7.685 6.532 15.841 5.82c8.115-.744 14.757-5.82 14.757-5.82s8.16 6.828 16.015 5.82c7.809-1.042 14.499-5.597 14.499-5.597s9.367 6.979 17.607 5.373c2.803-.577 5.193-1.402 7.132-2.239l-2.372.897c7.269-1.182 11.708-4.143 11.708-4.143s9.104 6.716 16.614 5.598c7.555-1.195 14.198-5.71 14.198-5.71s6.127 6.045 15.363 5.82c9.236-.224 14.806-5.597 14.806-5.597s8.282 6.085 16.141 5.711c7.853-.338 14.584-5.711 14.584-5.711s9.107 6.493 15.882 5.486c6.818-1.045 14.456-5.598 14.456-5.598s6.817 6.306 15.713 5.598c8.848-.785 14.585-5.71 14.585-5.71s7.685 6.532 15.837 5.82c8.117-.744 14.763-5.82 14.763-5.82s8.158 6.828 16.011 5.82c7.812-1.042 14.501-5.597 14.501-5.597s9.363 6.979 17.609 5.373c2.804-.577 5.193-1.402 7.128-2.239" fill="none"/>
+</svg>

@@ -1,0 +1,124 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="153" height="501" viewBox="0 0 153 501" xml:space="preserve">
+            <title>Tower receiver</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Tower receiver</ian_image_library:title>
+                <ian_image_library:descr>Illustration of tower receiver</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, tower, receiver, receiving, radio, waves, wavelength, data, communications, broadcasts</ian_image_library:contains>
+                    <ian_image_library:when>2005-09-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4aeacf6cddb934149d61211cc67dc7f1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Tower receiver</dc:title>
+                <dc:date>2005-09-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/tower-receiver/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/tower-receiver/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, tower, receiver, receiving, radio, waves, wavelength, data, communications, broadcasts</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of tower receiver</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_bfa93a2a629c2134f5e57e732af67e3b" y2="469.94" gradientUnits="userSpaceOnUse" x2="90.264" y1="469.94" x1="62.036">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m90.264 469.95c0 5.113-6.294 9.272-14.104 9.272-7.777 0-14.125-4.159-14.125-9.272 0-5.146 6.348-9.305 14.125-9.305 7.81.01 14.104 4.17 14.104 9.31z" fill="url(#ian_symbols_bfa93a2a629c2134f5e57e732af67e3b)"/>
+ <linearGradient id="ian_symbols_37fdce1a68b03f9489329813e106da5d" y2="484.98" gradientUnits="userSpaceOnUse" x2="90.264" y1="484.98" x1="62.036">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m90.264 469.95c0 .672-.119 1.344-.304 1.972-1.396 4.159-7.04 7.301-13.8 7.301-7.777 0-14.125-4.159-14.125-9.272v20.766c0 5.123 6.348 9.283 14.125 9.283 7.81 0 14.104-4.16 14.104-9.283v-20.77z" fill="url(#ian_symbols_37fdce1a68b03f9489329813e106da5d)"/>
+ <linearGradient id="ian_symbols_76fdab0d6c506f3489a42729888618b4" y2="341.28" gradientUnits="userSpaceOnUse" x2="86.548" y1="341.28" x1="65.762">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m86.548 341.27c0 3.78-4.646 6.846-10.409 6.846-5.72 0-10.377-3.065-10.377-6.846 0-3.759 4.657-6.824 10.377-6.824 5.763-.01 10.409 3.06 10.409 6.82z" fill="url(#ian_symbols_76fdab0d6c506f3489a42729888618b4)"/>
+ <linearGradient id="ian_symbols_5215efe3df6d53e4c5c308fb570200b8" y2="408.01" gradientUnits="userSpaceOnUse" x2="86.548" y1="408.01" x1="65.762">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m86.548 341.27c0 .498-.097.997-.249 1.474-1.018 3.065-5.167 5.372-10.16 5.372-5.72 0-10.377-3.065-10.377-6.846v126.67c0 3.77 4.657 6.824 10.377 6.824 5.763 0 10.409-3.055 10.409-6.824v-126.66z" fill="url(#ian_symbols_5215efe3df6d53e4c5c308fb570200b8)"/>
+ <linearGradient id="ian_symbols_947cc3b8a63a1904a152286d9308044e" y2="217.89" gradientUnits="userSpaceOnUse" x2="83.863" y1="217.89" x1="68.46">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m83.863 217.89c0 2.849-3.456 5.156-7.724 5.156-4.246 0-7.68-2.308-7.68-5.156 0-2.849 3.434-5.156 7.68-5.156 4.268 0 7.724 2.31 7.724 5.16z" fill="url(#ian_symbols_947cc3b8a63a1904a152286d9308044e)"/>
+ <linearGradient id="ian_symbols_8541c83e5906d984f518766d3317cd1e" y2="281.51" gradientUnits="userSpaceOnUse" x2="83.863" y1="281.51" x1="68.46">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m83.863 217.89c0 .401-.076.78-.174 1.105-.769 2.329-3.889 4.051-7.55 4.051-4.246 0-7.68-2.308-7.68-5.156v122.07c0 2.859 3.434 5.167 7.68 5.167 4.268 0 7.724-2.308 7.724-5.167v-122.07z" fill="url(#ian_symbols_8541c83e5906d984f518766d3317cd1e)"/>
+ <linearGradient id="ian_symbols_7b0d5cec2e3d18e4198e37bb76833c4b" y2="164.68" gradientUnits="userSpaceOnUse" x2="82.194" y1="164.68" x1="70.106">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m82.194 109.74c0 .26-.043.542-.141.812-.563 1.777-3.011 3.087-5.914 3.087-3.314 0-6.033-1.744-6.033-3.899v105.96c0 2.155 2.719 3.921 6.033 3.921 3.336 0 6.055-1.766 6.055-3.921v-105.96z" fill="url(#ian_symbols_7b0d5cec2e3d18e4198e37bb76833c4b)"/>
+ <linearGradient id="ian_symbols_57bbe94a6c054d64a11c6a13916b515d" y2="102.17" gradientUnits="userSpaceOnUse" x2="90.524" y1="102.17" x1="61.808">
+  <stop stop-color="#989A9C" offset="0"/>
+  <stop stop-color="#BABBBD" offset=".3315"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#405B41" stroke-width=".5" d="m90.524 102.16c0 7.94-6.435 14.363-14.363 14.363-7.918 0-14.353-6.423-14.353-14.363 0-7.908 6.435-14.342 14.353-14.342 7.928-.002 14.363 6.432 14.363 14.342z" fill="url(#ian_symbols_57bbe94a6c054d64a11c6a13916b515d)"/>
+ <polygon points="77.58 42.365 83.028 45.29 71.958 0 73.507 31.857 67.95 29.171 75.099 71.243" fill="#231F20"/>
+ <polygon points="33.926 60.346 39.917 58.548 0 34.349 23.614 55.764 17.84 57.79 52.633 82.465" fill="#231F20"/>
+ <polygon points="118.38 60.346 112.4 58.548 152.31 34.349 128.71 55.764 134.47 57.79 99.688 82.465" fill="#231F20"/>
+</svg>

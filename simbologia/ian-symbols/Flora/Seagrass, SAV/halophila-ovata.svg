@@ -1,0 +1,110 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="471" viewBox="0 0 501 471" xml:space="preserve">
+            <title>Halophila ovata</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Halophila ovata</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Halophila ovata</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Liliopsida, monocot, Alismatidae, Hydrocharitales, Hydrocharitaceae, tape-grass, family, Halophila, ovata</ian_image_library:contains>
+                    <ian_image_library:when>2008-08-26</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-3d71781db0121db43d9365b0a5b6b8fe">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Halophila ovata</dc:title>
+                <dc:date>2008-08-26</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+James Cook University</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+James Cook University</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/halophila-ovata/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/halophila-ovata/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Liliopsida, monocot, Alismatidae, Hydrocharitales, Hydrocharitaceae, tape-grass, family, Halophila, ovata</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Halophila ovata</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_dde7abc33595b4b4adc6c2e6ddeeefcb" y2="258.53" gradientUnits="userSpaceOnUse" x2="296.31" y1="18.821" x1="483.51">
+  <stop stop-color="#E9E739" offset="0"/>
+  <stop stop-color="#54A275" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.1113" d="m317.88 241.25c39.2-3.296 101.89-3.579 145.33-61.023 43.398-57.452 48.673-125.01 11.154-150.79-37.451-25.766-104.19-1.5-148.22 55.433-65.04 84.132-27.03 133.4-21.757 144.11 1.13 2.27 8.87 12.67 13.5 12.27z" fill="url(#ian_symbols_dde7abc33595b4b4adc6c2e6ddeeefcb)"/>
+ <path stroke="#231F20" stroke-width="1.1113" d="m316.47 237.4c37.687-3.088 102.61-2.994 144.34-58.192 18.083-23.916 29.345-49.997 33.375-73.879.282-1.608.518-3.216.726-4.797 3.794-29.25-3.592-54.68-22.967-67.993-35.99-24.767-100.52.319-142.82 55.026-62.51 80.856-27.399 129.42-21.581 139.14 1.12 1.88 7.69 10.8 8.93 10.7z" fill="none"/>
+ <linearGradient id="ian_symbols_406d90188004ecd4b955238037ef1719" y2="34.85" gradientUnits="userSpaceOnUse" x2="357.97" y1="414.9" x1="357.97">
+  <stop stop-color="#F4EFE1" offset="0"/>
+  <stop stop-color="#F2EEDE" offset=".245"/>
+  <stop stop-color="#ECECD5" offset=".4117"/>
+  <stop stop-color="#E2E8C6" offset=".5551"/>
+  <stop stop-color="#D4E2B0" offset=".6853"/>
+  <stop stop-color="#C1DB95" offset=".8066"/>
+  <stop stop-color="#ABD273" offset=".9197"/>
+  <stop stop-color="#99CB58" offset=".9944"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.1113" d="m288.24 302.78c15.164-42.759 27.71-60.721 27.71-60.721s29.097-46.97 69.043-97.459c41.589-52.554 83.991-106.85 83.829-109.59-.208-3.566-42.361 50.912-85.013 104.59-39.759 50.085-70.093 98.488-71.257 100.86-13.084 26.775-11.314 10.407-47.575 118.49-3.075 9.136-13.461 41.979-17.868 55.944 1.924-.229 3.821-.464 5.752-.693 8-25.99 20.83-70.41 35.38-111.42z" fill="url(#ian_symbols_406d90188004ecd4b955238037ef1719)"/>
+ <linearGradient id="ian_symbols_71a3e013af4412d44130aa3868a48b52" y2="175.06" gradientUnits="userSpaceOnUse" x2="-125.7" gradientTransform="matrix(.9921 -.1257 .1257 .9921 239.36 46.635)" y1="-58.62" x1="-96.087">
+  <stop stop-color="#E9E739" offset="0"/>
+  <stop stop-color="#54A275" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.1113" d="m199.04 236.05c-38.527-7.972-100.72-15.755-136.97-77.977-36.23-62.233-33.374-129.94 6.953-151.04 40.286-21.097 103.62 10.979 140.51 72.763 54.512 91.304 10.885 135.68 4.353 145.69-1.35 2.11-10.29 11.52-14.84 10.57z" fill="url(#ian_symbols_71a3e013af4412d44130aa3868a48b52)"/>
+ <path stroke="#231F20" stroke-width="1.1113" d="m200.9 232.38c-37.047-7.562-101.52-15.244-136.34-75.044-15.096-25.907-23.148-53.159-24.299-77.357-.073-1.628-.118-3.236-.128-4.844-.295-29.485 10.081-53.846 30.94-64.744 38.698-20.283 99.749 12.338 135.19 71.727 52.399 87.751 11.732 131.76 4.79 140.7-1.33 1.74-8.92 9.82-10.15 9.56z" fill="none"/>
+ <linearGradient id="ian_symbols_b3b798e00b75d5d409ceb5e5f271b226" y2="13.065" gradientUnits="userSpaceOnUse" x2="160.99" y1="415.43" x1="160.99">
+  <stop stop-color="#F4EFE1" offset="0"/>
+  <stop stop-color="#F2EEDE" offset=".245"/>
+  <stop stop-color="#ECECD5" offset=".4117"/>
+  <stop stop-color="#E2E8C6" offset=".5551"/>
+  <stop stop-color="#D4E2B0" offset=".6853"/>
+  <stop stop-color="#C1DB95" offset=".8066"/>
+  <stop stop-color="#ABD273" offset=".9197"/>
+  <stop stop-color="#99CB58" offset=".9944"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.1113" d="m237.48 359.23c-23.055-111.63-23.27-95.179-33.072-123.32-.841-2.496-25.174-54.182-58.676-108.67-35.91-58.393-71.238-117.52-71.867-114.03-.488 2.705 35.11 61.696 70.12 118.86 33.623 54.901 56.866 105 56.866 105s10.299 19.341 20.263 63.621c9.506 42.376 16.919 87.939 21.75 114.74 1.749-.223 3.505-.424 5.254-.633-2.89-15.4-8.77-46.57-10.63-55.57z" fill="url(#ian_symbols_b3b798e00b75d5d409ceb5e5f271b226)"/>
+ <path stroke="#231F20" stroke-width="2.7783" stroke-linecap="round" d="m1.389 468.72s289.24-95.697 474.26-46.795" fill="none"/>
+</svg>

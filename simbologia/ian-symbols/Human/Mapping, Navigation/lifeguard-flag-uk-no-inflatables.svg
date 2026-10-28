@@ -1,0 +1,76 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="380" height="500" viewBox="0 0 380 500" xml:space="preserve">
+            <title>Lifeguard flag: UK, no inflatables</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lifeguard flag: UK, no inflatables</ian_image_library:title>
+                <ian_image_library:descr>Illustration of no inflatables lifeguard flag for United Kingdom</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, nautical, coastal, lifeguard, flag, no, inflatables, restriction, allowed, United, Kingdom, UK</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-677519c9af1543241562c2470bf1acae">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lifeguard flag: UK, no inflatables</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lifeguard-flag-uk-no-inflatables/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lifeguard-flag-uk-no-inflatables/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, nautical, coastal, lifeguard, flag, no, inflatables, restriction, allowed, United, Kingdom, UK</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of no inflatables lifeguard flag for United Kingdom</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <line y2="500" x1="5.543" x2="5.543" stroke="#000" stroke-width="11.086" fill="none"/>
+ <path stroke="#000" stroke-width="5.543" d="m49.779 253.24c17.842 0 32.306-54.586 32.306-121.92 0-67.328-14.464-121.91-32.306-121.91l300.1 45.794c12.051 0 26.049 30.616 26.049 76.119 0 45.492-13.998 76.12-26.049 76.12l-300.1 45.8z" fill="#F19430"/>
+ <path stroke="#000" stroke-width="5.543" d="m82.084 131.32c0 67.329-14.464 121.92-32.306 121.92-17.831 0-32.299-54.586-32.299-121.92 0-67.328 14.468-121.91 32.299-121.91 17.843-.001 32.306 54.584 32.306 121.91z" fill="#B7392E"/>
+</svg>

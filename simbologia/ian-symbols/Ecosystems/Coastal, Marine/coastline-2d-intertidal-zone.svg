@@ -1,0 +1,91 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="68" viewBox="0 0 502 68" xml:space="preserve">
+            <title>Coastline 2D: intertidal zone</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: intertidal zone</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with intertidal zone</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, intertidal, zone, tides, water, level</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ed51be67c66987b4d15f837555a8f454">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: intertidal zone</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-intertidal-zone/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-intertidal-zone/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, intertidal, zone, tides, water, level</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with intertidal zone</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_0fbb0ab88b905dd411efab46d54d5788" y2="-31.606" gradientUnits="userSpaceOnUse" x2="365.01" y1="70.963" x1="136.1">
+  <stop stop-color="#9F9372" offset="0"/>
+  <stop stop-color="#959177" offset=".0553"/>
+  <stop stop-color="#7B8C84" offset=".1478"/>
+  <stop stop-color="#618692" offset=".2247"/>
+  <stop stop-color="#5E8693" offset=".4543"/>
+  <stop stop-color="#568595" offset=".5997"/>
+  <stop stop-color="#47849A" offset=".7217"/>
+  <stop stop-color="#3282A0" offset=".8307"/>
+  <stop stop-color="#187FA9" offset=".9302"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m433.16 5.096c-.107.002-.203.007-.31.007-4.367 0-7.656-.753-9.418-2.01-1.763 1.256-5.052 2.01-9.419 2.01s-7.653-.753-9.418-2.01c-1.761 1.256-5.049 2.01-9.416 2.01s-7.655-.753-9.418-2.01c-1.763 1.256-5.052 2.01-9.416 2.01-4.369 0-7.659-.753-9.42-2.01-1.761 1.256-5.048 2.01-9.417 2.01-4.367 0-7.656-.753-9.417-2.01-1.762 1.256-5.051 2.01-9.418 2.01-4.368 0-7.653-.753-9.417-2.01-1.762 1.256-5.052 2.01-9.418 2.01-4.368 0-7.657-.753-9.419-2.01-1.762 1.256-5.051 2.01-9.417 2.01-4.368 0-7.655-.753-9.416-2.01-1.762 1.256-5.049 2.01-9.415 2.01-4.375 0-7.659-.753-9.42-2.01-1.764 1.256-5.049 2.01-9.42 2.01-4.368 0-7.652-.753-9.414-2.01-1.764 1.256-5.052 2.01-9.418 2.01-4.371 0-7.657-.753-9.419-2.01-1.763 1.256-5.048 2.01-9.418 2.01-4.367 0-7.657-.753-9.416-2.01-1.765 1.256-5.051 2.01-9.417 2.01-4.371 0-7.657-.753-9.419-2.01-1.762 1.256-5.051 2.01-9.419 2.01-4.367 0-7.657-.753-9.414-2.01-1.764 1.256-5.053 2.01-9.419 2.01-4.368 0-7.657-.753-9.421-2.01-1.76 1.256-5.049 2.01-9.415 2.01-4.368 0-7.654-.753-9.417-2.01-1.763 1.256-5.05 2.01-9.418 2.01-4.366 0-7.655-.753-9.417-2.01-1.764 1.256-5.053 2.01-9.419 2.01-4.369 0-7.652-.753-9.416-2.01-1.764 1.256-5.053 2.01-9.419 2.01s-7.599-.753-9.361-2.01c-1.764 1.256-5.051 2.01-9.419 2.01-4.366 0-7.656-.753-9.414-2.01-1.764 1.256-5.051 2.01-9.417 2.01-4.37 0-7.659-.753-9.416-2.01-1.767 1.256-5.051 2.01-9.422 2.01-4.368 0-7.654-.753-9.418-2.01-1.762 1.256-5.049 2.01-9.414 2.01-4.369 0-7.656-.753-9.42-2.01-1.676 1.197-4.75 1.928-8.81 1.994v59.518h432.91v-59.509z" fill="url(#ian_symbols_0fbb0ab88b905dd411efab46d54d5788)"/>
+ <path stroke="#231F20" stroke-dasharray="3.5806" d="m.565 23.07c4.369 0 6.733-.753 8.495-2.009 1.764 1.256 5.051 2.009 9.42 2.009 4.365 0 7.652-.753 9.414-2.009 1.764 1.256 5.05 2.009 9.418 2.009 4.371 0 7.655-.753 9.422-2.009 1.757 1.256 5.046 2.009 9.416 2.009 4.366 0 7.653-.753 9.417-2.009 1.758 1.256 5.048 2.009 9.414 2.009 4.368 0 7.655-.753 9.419-2.009 1.762 1.256 5.051 2.009 9.417 2.009s7.655-.753 9.419-2.009c1.764 1.256 5.047 2.009 9.416 2.009 4.366 0 7.655-.753 9.419-2.009 1.762 1.256 5.051 2.009 9.417 2.009 4.368 0 7.655-.753 9.418-2.009 1.763 1.256 5.049 2.009 9.417 2.009 4.366 0 7.655-.753 9.415-2.009 1.764 1.256 5.053 2.009 9.421 2.009 4.366 0 7.655-.753 9.419-2.009 1.757 1.256 5.047 2.009 9.414 2.009 4.368 0 7.657-.753 9.419-2.009 1.762 1.256 5.048 2.009 9.419 2.009 4.366 0 7.652-.753 9.417-2.009 1.759 1.256 5.05 2.009 9.416 2.009 4.371 0 7.656-.753 9.419-2.009 1.76 1.256 5.047 2.009 9.418 2.009 4.366 0 7.654-.753 9.418-2.009 1.762 1.256 5.046 2.009 9.414 2.009 4.371 0 7.655-.753 9.419-2.009 1.762 1.256 5.046 2.009 9.421 2.009 4.366 0 7.65-.753 9.412-2.009 1.764 1.256 5.051 2.009 9.419 2.009 4.366 0 7.655-.753 9.415-2.009 1.764 1.256 5.053 2.009 9.421 2.009 4.366 0 7.655-.753 9.418-2.009 1.764 1.256 5.049 2.009 9.417 2.009 4.367 0 7.654-.753 9.418-2.009 1.758 1.256 5.05 2.009 9.417 2.009 4.369 0 7.656-.753 9.417-2.009 1.761 1.256 5.051 2.009 9.417 2.009 4.367 0 7.656-.753 9.419-2.009 1.763 1.256 5.051 2.009 9.418 2.009s7.653-.753 9.416-2.009c1.762 1.256 5.05 2.009 9.418 2.009 4.367 0 7.656-.753 9.419-2.009 1.76 1.256 5.051 2.009 9.416 2.009.108 0 .204-.007.312-.007" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25.252c-42.563.393-160.12 6.987-192.38 12.66-82.934 14.58-124.98 25.613-246.05 33.089-20.074 1.24-41.452 1.188-61.563.588v19.735h500v-66.072z" fill="#CEB592"/>
+ <path stroke="#231F20" stroke-width=".5" d="m252.61 22.969c-52.967 9.706-99.334 17.384-190.8 23.032-20.074 1.24-41.452 1.188-61.563.588v7.501c15.129-.053 30.56-.508 45.27-1.651 100.94-7.848 146.67-17.304 207.09-29.47z" fill="#9D5A44"/>
+</svg>

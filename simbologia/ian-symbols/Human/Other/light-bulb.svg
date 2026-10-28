@@ -1,0 +1,112 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="412" height="500" viewBox="0 0 412 500" xml:space="preserve">
+            <title>Light bulb</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Light bulb</ian_image_library:title>
+                <ian_image_library:descr>Iconic representation of knowledge or idea.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>knowledge, idea, illumination, concept</ian_image_library:contains>
+                    <ian_image_library:when>2012-08-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-25014a7635ddf8a45133002cf1ee6231">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Light bulb</dc:title>
+                <dc:date>2012-08-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/light-bulb/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/light-bulb/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>knowledge, idea, illumination, concept</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Iconic representation of knowledge or idea.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_f27eefe8bc6a3354bd145c65d1bcc715">
+</g>
+<path fill="#71CFEB" d="M166.555,388.322c5.191-11.015-19.588-82.641-29.675-99.522c-9.492-15.864-41.672-42.501-42.491-92.349
+	C93.566,146.594,138.51,82.846,210.433,82.846c71.922,0,117.687,61.288,115.235,110.333c-2.45,49.036-33.911,80.325-44.943,98.075
+	c-11.042,17.756-32.358,83.153-29.906,92.959c-0.929,0.747-15.036,14.698-45.48,16.829
+	C179.128,402.877,166.555,388.322,166.555,388.322z"/>
+<path fill="#71CFEB" d="M201.132,47.098c-0.024,0-0.049,0-0.073,0c-2.708-0.04-4.871-2.268-4.832-4.975l0.613-41.7
+	c0.04-2.708,2.316-4.878,4.975-4.831c2.708,0.04,4.871,2.267,4.832,4.975l-0.613,41.699
+	C205.995,44.95,203.807,47.098,201.132,47.098z"/>
+<path fill="#71CFEB" d="M50.668,152.517c-0.562,0-1.132-0.098-1.69-0.302L7.279,136.892c-2.542-0.934-3.846-3.752-2.912-6.294
+	c0.934-2.542,3.752-3.845,6.293-2.912l41.7,15.322c2.542,0.934,3.845,3.752,2.912,6.294
+	C54.543,151.287,52.667,152.517,50.668,152.517z"/>
+<path fill="#71CFEB" d="M369.379,158.647c-1.997,0-3.874-1.23-4.604-3.214c-0.933-2.542,0.371-5.36,2.913-6.294l41.698-15.314
+	c2.54-0.935,5.36,0.371,6.294,2.913c0.933,2.542-0.371,5.36-2.914,6.294l-41.697,15.314
+	C370.512,158.55,369.941,158.647,369.379,158.647z"/>
+<path fill="#71CFEB" d="M389.296,283.393c-0.758,0-1.526-0.177-2.246-0.548l-40.402-20.857c-2.406-1.243-3.351-4.201-2.107-6.607
+	c1.242-2.406,4.202-3.348,6.606-2.107l40.402,20.857c2.406,1.243,3.351,4.201,2.108,6.607
+	C392.787,282.424,391.073,283.393,389.296,283.393z"/>
+<path fill="#71CFEB" d="M24.857,284.159c-1.801,0-3.535-0.996-4.393-2.717c-1.208-2.424-0.223-5.368,2.201-6.577l39.959-19.921
+	c2.424-1.209,5.368-0.222,6.576,2.201c1.208,2.424,0.223,5.368-2.201,6.577l-39.959,19.921
+	C26.338,283.993,25.592,284.159,24.857,284.159z"/>
+<path fill="#71CFEB" d="M325.783,75.916c-1.046,0-2.102-0.333-2.994-1.023c-2.143-1.656-2.538-4.736-0.882-6.878l27.798-35.975
+	c1.654-2.143,4.734-2.54,6.879-0.882c2.143,1.656,2.538,4.736,0.882,6.879L329.667,74.01
+	C328.701,75.261,327.25,75.916,325.783,75.916z"/>
+<path fill="#71CFEB" d="M88.16,74.176c-1.443,0-2.873-0.634-3.84-1.851L56.521,37.376c-1.686-2.12-1.334-5.205,0.785-6.89
+	c2.12-1.686,5.205-1.335,6.89,0.785L91.995,66.22c1.686,2.12,1.334,5.204-0.785,6.89C90.308,73.827,89.23,74.176,88.16,74.176z"/>
+<path fill="#71CFEB" d="M200.5,429.859c-21.722,0-38.41-6.693-45.862-18.42c-2.178-3.429-1.165-7.974,2.263-10.153
+	c3.429-2.179,7.974-1.165,10.153,2.264c4.622,7.273,17.714,11.718,34.125,11.595c21.535-0.158,42.459-7.897,48.671-17.999
+	c2.126-3.462,6.657-4.542,10.118-2.413c3.46,2.127,4.54,6.657,2.413,10.118c-10.42,16.946-38.974,24.841-61.093,25.006
+	C201.026,429.858,200.762,429.859,200.5,429.859z"/>
+<path fill="#71CFEB" d="M203.095,453.594c-21.72,0-38.404-6.692-45.851-18.42c-2.178-3.43-1.164-7.975,2.266-10.152
+	c3.432-2.177,7.975-1.163,10.152,2.267c4.62,7.272,17.689,11.747,34.12,11.592c21.536-0.16,42.458-7.902,48.664-18.006
+	c2.126-3.462,6.657-4.546,10.117-2.419c3.461,2.127,4.544,6.656,2.418,10.117c-10.413,16.953-38.967,24.853-61.089,25.018
+	C203.626,453.593,203.359,453.594,203.095,453.594z"/>
+<path fill="#71CFEB" d="M248.083,456.163c0.118,3.139,0.153,10.034-2.774,14.099c-2.604,3.604-5.68,6.834-9.654,8.977
+	c-2.731,1.479-5.57,2.561-8.573,3.508c-2.306,0.729-3.416,4.372-4.714,6.444c-1.154,1.858-3.172,3.85-5.273,4.715
+	c-0.928,0.377-1.757,0.323-2.713,0.512c-0.883,0.184-0.883,1.174-0.883,1.174h-6.572c0,0,0-0.991-0.882-1.174
+	c-0.948-0.188-1.777-0.135-2.714-0.512c-2.091-0.865-4.119-2.855-5.273-4.715c-1.297-2.072-2.406-5.715-4.715-6.444
+	c-3.001-0.947-5.841-2.028-8.572-3.508c-3.974-2.143-7.041-5.372-9.645-8.977c-2.939-4.064-2.785-11.708-2.785-14.099
+	C201.274,463.223,218.827,463.313,248.083,456.163z"/>
+</svg>

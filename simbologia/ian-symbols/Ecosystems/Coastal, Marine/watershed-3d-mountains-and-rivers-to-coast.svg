@@ -1,0 +1,158 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="230" viewBox="0 0 502 230" xml:space="preserve">
+            <title>Watershed 3D: mountains and rivers to coast</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Watershed 3D: mountains and rivers to coast</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a watershed with mountains and rivers to the coast</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, terrestrial, watershed, mountains rivers, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-3fa16c6b7ff6f1d45574fcb219e811c2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Watershed 3D: mountains and rivers to coast</dc:title>
+                <dc:date>2005-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/watershed-3d-mountains-and-rivers-to-coast/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/watershed-3d-mountains-and-rivers-to-coast/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, terrestrial, watershed, mountains rivers, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a watershed with mountains and rivers to the coast</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_55a69044f118107475d3d9ade475d459" gradientUnits="userSpaceOnUse" x1="314.7749" y1="139.8325" x2="314.7749" y2="66.7305">
+	<stop  offset="0" style="stop-color:#ABE1FA"/>
+	<stop  offset="0.3542" style="stop-color:#AEE2FA"/>
+	<stop  offset="0.6283" style="stop-color:#B9E5FB"/>
+	<stop  offset="0.8748" style="stop-color:#CBECFC"/>
+	<stop  offset="1" style="stop-color:#D7F0FC"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_55a69044f118107475d3d9ade475d459)" stroke="#49B1DB" stroke-width="0.5012" stroke-linejoin="round" points="149.279,133.876 
+	129.3,124.67 156.838,91.1 159.537,69.439 272.389,74.313 311.805,66.73 347.982,67.273 500.25,66.73 464.615,129.544 
+	256.732,139.833 "/>
+<linearGradient id="ian_symbols_b91a5837a3945b24a50a24621dd565d5" gradientUnits="userSpaceOnUse" x1="360.4019" y1="174.3091" x2="360.4019" y2="129.5444">
+	<stop  offset="0" style="stop-color:#49B1DB"/>
+	<stop  offset="0.4861" style="stop-color:#77C4E7"/>
+	<stop  offset="1" style="stop-color:#ABE1FA"/>
+</linearGradient>
+<path fill="url(#ian_symbols_b91a5837a3945b24a50a24621dd565d5)" stroke="#49B1DB" stroke-width="0.5012" stroke-linejoin="round" d="M464.615,174.309v-44.765H256.19
+	c0,0,9.179,15.162,18.358,27.617C283.729,169.617,464.615,174.309,464.615,174.309z"/>
+<linearGradient id="ian_symbols_c8d5a42210a37eb489455688cdca9239" gradientUnits="userSpaceOnUse" x1="514.2271" y1="179.9302" x2="450.6385" y2="116.3417">
+	<stop  offset="0" style="stop-color:#49B1DB"/>
+	<stop  offset="0.3596" style="stop-color:#49B1DB"/>
+	<stop  offset="0.8595" style="stop-color:#ABE1FA"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_c8d5a42210a37eb489455688cdca9239)" stroke="#49B1DB" stroke-width="0.5012" stroke-linejoin="round" points="464.615,229.542 
+	464.615,129.544 500.25,66.73 500.25,166.726 "/>
+<linearGradient id="ian_symbols_6fffef23209ad5d435085c11679f01e3" gradientUnits="userSpaceOnUse" x1="482.4331" y1="95.9707" x2="482.4331" y2="213.2944">
+	<stop  offset="0" style="stop-color:#D7C39A"/>
+	<stop  offset="1" style="stop-color:#CEB890"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_6fffef23209ad5d435085c11679f01e3)" stroke="#7A5353" stroke-width="0.5012" stroke-linecap="round" stroke-linejoin="round" points="
+	464.615,213.294 464.615,158.786 500.25,95.971 500.25,150.481 "/>
+<linearGradient id="ian_symbols_e1666ed7e1ed1034492a083f2e1c3616" gradientUnits="userSpaceOnUse" x1="504.1636" y1="189.9946" x2="460.7034" y2="146.5345">
+	<stop  offset="0" style="stop-color:#AA8D6B"/>
+	<stop  offset="1" style="stop-color:#D7C39A"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_e1666ed7e1ed1034492a083f2e1c3616)" stroke="#7A5353" stroke-width="0.5012" stroke-linecap="round" stroke-linejoin="round" points="
+	464.615,229.542 464.615,168.718 500.25,106.986 500.25,166.726 "/>
+<linearGradient id="ian_symbols_8d7c6b5a1f6ae94411f8bfafd89edab7" gradientUnits="userSpaceOnUse" x1="360.4019" y1="129.4341" x2="360.4019" y2="174.3091">
+	<stop  offset="0" style="stop-color:#D7C39A"/>
+	<stop  offset="1" style="stop-color:#CEB890"/>
+</linearGradient>
+<path fill="url(#ian_symbols_8d7c6b5a1f6ae94411f8bfafd89edab7)" stroke="#7A5353" stroke-width="0.5012" stroke-linecap="round" stroke-linejoin="round" d="
+	M464.615,174.309v-16.606c0,0-53.998-1.623-68.576-1.083c-14.577,0.542-66.414-1.083-85.312-2.705
+	c-18.899-1.627-34.851-18.833-41.577-22.204c-8.759-4.387-12.96-1.083-12.96-1.083s10.261,1.626,16.74,15.163
+	c6.479,13.537,42.655,21.658,71.273,23.283C372.821,170.7,464.615,174.309,464.615,174.309z"/>
+<linearGradient id="ian_symbols_d75ccdba26704a84a1870790541c1cf4" gradientUnits="userSpaceOnUse" x1="84.002" y1="157.5259" x2="253.8313" y2="-12.3035">
+	<stop  offset="0.0056" style="stop-color:#89AC7B"/>
+	<stop  offset="1" style="stop-color:#C3BD92"/>
+</linearGradient>
+<path fill="url(#ian_symbols_d75ccdba26704a84a1870790541c1cf4)" stroke="#7A5353" stroke-width="0.5012" d="M43.447,33.881l8.64-16.608c0,0,13.319-19.132,17.278-16.606
+	c1.979,1.263,4.32-0.995,6.794-0.27c2.476,0.723,5.084,4.421,7.604,4.601c2.367,0.171,5.349,6.148,10.849,12.631
+	c6.214,7.325,15.043,15.292,18.669,16.251c6.84,1.804,11.881,9.745,15.48,10.466c3.599,0.723,11.877,8.667,19.796,12.637
+	c7.92,3.972,57.239,9.024,70.556,9.746c13.319,0.724,52.197,1.445,64.074,1.083c11.882-0.359,49.678-1.083,49.678-1.083
+	s-18.358,7.581-18.358,11.191c0,3.612,9.72,9.025,6.118,12.636c-3.598,3.61-16.558,1.804-20.877,2.528
+	c-4.319,0.721-10.439,2.166-14.398,2.526c-3.961,0.359-19.438-5.417-27.72-4.693c-8.278,0.722-28.437,7.219-34.196,7.939
+	c-5.762,0.725-10.082,0.725-13.32-2.524c-3.239-3.249-6.839-8.665-10.438-8.305c-3.6,0.362-2.881,2.167-9.36,1.445
+	c-6.48-0.72-2.161-11.553-6.48-11.553c-4.32,0-7.559,0.363-10.078,0.725c-2.522,0.358-7.56-5.78-8.64-5.057
+	c-1.079,0.724,5.398,6.859,9.719,6.859c4.319,0,7.92-2.165,8.999,0.362c1.535,3.587-0.52,8.506,2.881,9.746
+	c3.957,1.442,8.277,2.888,12.238,0c2.684-1.956,8.641,7.58,7.2,7.58c-1.44,0-15.48-3.249-21.958-2.166
+	c-6.481,1.083-4.32,4.332-8.999,4.332c-4.681,0-7.922-6.136-8.281-5.053c-0.36,1.084,4.321,7.94,9,7.58
+	c4.679-0.361,5.037-4.693,9.359-4.693c4.319,0,16.917,1.086,17.277,2.891c0.361,1.803-10.44,5.412-15.118,7.94
+	c-4.679,2.527-11.159,0.359-14.757,2.166c-3.602,1.808-1.441,7.941-4.321,9.028c-2.88,1.081-8.639-2.889-12.6-2.889
+	c-3.96,0-4.68,6.135-10.08,5.776c-5.399-0.36-6.839-2.528-6.839-1.443c0,1.083,3.96,4.331,8.639,3.605
+	c4.68-0.719,3.959-2.887,6.48-5.05c2.519-2.168,12.239,3.607,15.118,3.971c2.88,0.36,3.242-3.971,4.681-8.664
+	c1.44-4.693,11.157-1.085,15.838-3.973c4.681-2.887,16.559-9.747,21.959-9.747c5.4,0,9.358,1.083,16.558-1.445
+	c7.201-2.525,23.398-5.053,30.597-5.415c7.201-0.359,19.439,6.139,27.718,5.056c8.279-1.086,19.08-3.974,24.839-1.808
+	c5.761,2.166,1.083,6.138-1.439,7.221c-2.521,1.082-12.96,3.969-21.597,5.055c-8.642,1.083-22.682,9.384-25.199,14.08
+	c-2.521,4.691-3.601,9.025-5.759,10.466c-2.162,1.446-192.948,2.891-192.948,2.891L10.33,59.873L43.447,33.881z"/>
+<linearGradient id="ian_symbols_ab19749f2a47a534dd0b4a3203480063" gradientUnits="userSpaceOnUse" x1="44.4453" y1="95.4141" x2="87.9456" y2="51.9138">
+	<stop  offset="0.0056" style="stop-color:#89AC7B"/>
+	<stop  offset="1" style="stop-color:#A0B383"/>
+</linearGradient>
+<path fill="url(#ian_symbols_ab19749f2a47a534dd0b4a3203480063)" stroke="#7A5353" stroke-width="0.5012" d="M4.57,55.539c0,0,4.318-11.55,10.079-15.161
+	c5.761-3.61,8.641-7.942,12.24-8.305c3.6-0.362,7.198-5.414,11.519-6.134c4.319-0.725,7.917,8.301,12.958,8.301
+	c5.04,0,9.359,7.579,17.278,11.191c7.922,3.61,8.64,12.276,15.841,18.05c7.2,5.776,10.797,16.609,16.557,22.383
+	c5.76,5.776,29.519,8.665,29.519,8.665"/>
+<linearGradient id="ian_symbols_6dbfe33e3f3087a421eae1ec70b17f72" gradientUnits="userSpaceOnUse" x1="232.4326" y1="51.5801" x2="232.4326" y2="229.5415">
+	<stop  offset="0" style="stop-color:#D7C39A"/>
+	<stop  offset="1" style="stop-color:#AA8D6B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_6dbfe33e3f3087a421eae1ec70b17f72)" stroke="#7A5353" stroke-width="0.5012" stroke-linecap="round" stroke-linejoin="round" d="
+	M464.615,229.542H0.25V52.652c0,0,3.568-1.331,9.344-1.027c5.775,0.302,13.964,3.518,19.587,13.463
+	c5.627,9.945,10.682,14.577,17.513,22.73c6.831,8.152,14.531,28.119,30.121,32.574c15.589,4.46,23.653,5.734,43.737,7.623
+	c20.087,1.89,127.531,0.416,139.323,1.151c11.794,0.738,18.584,18.274,26.35,22.503c7.762,4.229,9.244,10.946,36.942,11.289
+	c27.695,0.344,141.447,4.675,141.447,4.675V229.542z"/>
+</svg>

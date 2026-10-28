@@ -1,0 +1,107 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="74" viewBox="0 0 501 74" xml:space="preserve">
+            <title>Process; nitrification</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Process; nitrification</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of nitrification</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, nitrification, nitrogen, ammonium, nitrate</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c9dbc4f733f7d524bd6c7155f1d5d713">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Process; nitrification</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/process-nitrification/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/process-nitrification/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, nitrification, nitrogen, ammonium, nitrate</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of nitrification</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path d="M0,59.277V3.21h10.939l23.087,37.7V3.21h10.437v56.067H33.181L10.436,22.391v36.886H0z"/>
+<path d="M56.594,59.277V3.21h11.342v22.04h22.041V3.21h11.342v56.067H89.977V34.788H67.937v24.489H56.594z"/>
+<path d="M120.209,71.65v-5.929h-12.051v-4.942l12.776-18.773h4.753v18.753h3.673v4.962h-3.673v5.929H120.209z M120.209,60.759
+	V50.726l-6.75,10.033H120.209z"/>
+<path d="M367.113,59.277V3.21h10.939l23.087,37.7V3.21h10.44v56.067h-11.286l-22.741-36.886v36.886H367.113z"/>
+<path d="M421.255,31.59c0-5.728,0.857-10.533,2.569-14.419c1.281-2.86,3.021-5.43,5.236-7.705c2.207-2.276,4.632-3.963,7.267-5.063
+	c3.495-1.482,7.539-2.223,12.115-2.223c8.281,0,14.902,2.569,19.877,7.709c4.971,5.14,7.455,12.281,7.455,21.432
+	c0,9.075-2.465,16.176-7.398,21.303c-4.935,5.124-11.527,7.685-19.78,7.685c-8.362,0-15.008-2.55-19.938-7.649
+	C423.72,47.56,421.255,40.536,421.255,31.59z M432.983,31.203c0,6.38,1.471,11.213,4.406,14.5c2.937,3.295,6.662,4.938,11.186,4.938
+	c4.52,0,8.229-1.631,11.125-4.898c2.896-3.263,4.346-8.161,4.346-14.693c0-6.453-1.41-11.266-4.229-14.444
+	c-2.823-3.174-6.569-4.761-11.241-4.761c-4.677,0-8.438,1.607-11.298,4.821S432.983,24.727,432.983,31.203z"/>
+<path d="M480.407,63.873l5.478-0.665c0.173,1.402,0.645,2.469,1.405,3.207c0.762,0.741,1.688,1.111,2.771,1.111
+	c1.164,0,2.146-0.447,2.937-1.346c0.802-0.897,1.2-2.106,1.2-3.633c0-1.438-0.379-2.582-1.145-3.423
+	c-0.757-0.842-1.688-1.265-2.778-1.265c-0.726,0-1.588,0.141-2.586,0.423l0.624-4.547c1.534,0.04,2.706-0.294,3.512-0.999
+	c0.81-0.709,1.213-1.647,1.213-2.819c0-0.995-0.294-1.789-0.887-2.38c-0.588-0.592-1.373-0.89-2.352-0.89
+	c-0.967,0-1.792,0.334-2.474,1.003c-0.685,0.668-1.104,1.647-1.248,2.928l-5.22-0.882c0.361-1.792,0.91-3.226,1.639-4.302
+	c0.733-1.071,1.752-1.917,3.062-2.529c1.309-0.616,2.775-0.922,4.394-0.922c2.78,0,5.007,0.89,6.683,2.667
+	c1.382,1.454,2.074,3.097,2.074,4.93c0,2.598-1.418,4.672-4.245,6.219c1.68,0.366,3.021,1.184,4.027,2.453
+	c1.003,1.269,1.507,2.803,1.507,4.6c0,2.606-0.946,4.829-2.836,6.666c-1.893,1.837-4.245,2.755-7.061,2.755
+	c-2.67,0-4.882-0.769-6.638-2.312C481.708,68.379,480.688,66.362,480.407,63.873z"/>
+<path d="M118.977,20.558v-7.669h-7.669v-5.22h7.669V0h5.22v7.669h7.733v5.22h-7.733v7.669H118.977z"/>
+<path d="M483.902,18.423v-7.347h14.436v7.347H483.902z"/>
+<path fill="#D09910" d="M304.368,73.177V54.202l0,0c-26.692-8.942-40.512,4.023-71.042,5.026
+	c-24.368,0.802-49.433-19.398-91.548-5.026l0.5-33.447c52.744-10.617,69.214,7.774,96.829,7.895
+	c26.543,0.129,36.903-14.045,65.262-7.895V0.846l50.154,36.149L304.368,73.177z"/>
+<path fill="#9E0B0F" d="M297.179,51.173l-1.156-0.733c-16.288-8.321-25.371-17.932-25.661-27.119l0.097-0.677
+	c-4.628,1.366-9.235,2.872-14.295,4.044c0.976,7.439,5.039,16.619,16.386,25.851c8.257-1.599,16.396-2.244,26.156,0.06
+	C298.077,51.95,297.497,51.423,297.179,51.173z"/>
+<path fill="#9E0B0F" d="M225.19,27.103c-4.821-0.983-9.554-2.312-14.508-3.686c0.093,17.251,4.266,25.689,18.443,35.739
+	c1.406,0.081,2.803,0.121,4.201,0.072c7.335-0.242,13.687-1.176,19.502-2.332C228.879,43.105,225.609,38.55,225.19,27.103z"/>
+<path fill="#9E0B0F" d="M180.453,17.747c-4.499-0.298-9.369-0.331-14.682-0.041c-0.209,1.72-0.346,3.436-0.346,5.164
+	c0,7.194,4.765,16.989,11.177,26.29c7.548,0.399,14.456,1.708,20.953,3.242c-9.268-10.283-17.674-24.066-17.674-29.532
+	C179.881,21.166,180.139,19.454,180.453,17.747z"/>
+</svg>

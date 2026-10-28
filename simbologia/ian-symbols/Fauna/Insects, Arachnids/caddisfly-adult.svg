@@ -1,0 +1,133 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="129" viewBox="0 0 501 129" xml:space="preserve">
+            <title>Caddisfly : adult</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Caddisfly : adult</ian_image_library:title>
+                <ian_image_library:descr>Illustration of caddisfly adult</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>caddisfly, sedgefly, railfly, adult, Arthropoda, Insecta, Trichoptera</ian_image_library:contains>
+                    <ian_image_library:when>2009-01-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6d502d4665a96d94e56580e3bb37eef7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Caddisfly : adult</dc:title>
+                <dc:date>2009-01-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/caddisfly-adult/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/caddisfly-adult/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>caddisfly, sedgefly, railfly, adult, Arthropoda, Insecta, Trichoptera</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of caddisfly adult</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m209.8 18.781c-101.92-45.025-177.6 6-209.8 4.184 46.483.722 104.71-43.069 207.36-1.904.48.708 2.44-2.28 2.44-2.28z" fill="#955A4B"/>
+ <path d="m306.14 37.488c-2.903 1.093 0 16.349 22.512 27.963 1.45-11.985-19.62-29.046-22.51-27.963z" fill="#A5664A"/>
+ <linearGradient id="ian_symbols_d6f479cb6700efc4451a3d9c7b5420a8" y2="28.041" gradientUnits="userSpaceOnUse" x2="328.6" y1="28.041" x1="229.99">
+  <stop stop-color="#523939" offset="0"/>
+  <stop stop-color="#64423F" offset=".1015"/>
+  <stop stop-color="#955A4B" offset=".3596"/>
+  <stop stop-color="#A5664A" offset=".6685"/>
+  <stop stop-color="#BC9273" offset=".9607"/>
+  <stop stop-color="#A5664A" offset="1"/>
+ </linearGradient>
+ <path d="m246.94 10.247c-24.332.732-18.159 21.429-7.989 23.245 14.534.372 38.129 6.173 43.941 9.444 7.989 0 34.498 5.08 44.667 1.819 10.16-3.274-56.28-35.234-80.62-34.508z" fill="url(#ian_symbols_d6f479cb6700efc4451a3d9c7b5420a8)"/>
+ <path d="m232.42 17.446c2.473 4.763-1.949 11.965-9.859 16.08-7.924 4.126-16.353 3.587-18.826-1.162-2.463-4.759 1.938-11.961 9.859-16.077 7.93-4.115 16.35-3.59 18.83 1.159z" fill="#955A4B"/>
+ <path d="m219.54 15.585c4.937 1.458 7.792 6.47 6.391 11.208-1.38 4.749-6.5 7.42-11.426 5.986-4.926-1.444-7.781-6.456-6.392-11.205 1.39-4.741 6.5-7.419 11.43-5.989z"/>
+ <path d="m217.8 17.94c1.904.548 2.933 2.715 2.32 4.827-.624 2.102-2.657 3.359-4.551 2.811-1.915-.555-2.958-2.722-2.334-4.837.62-2.099 2.66-3.37 4.56-2.801z" fill="#CDCCCC"/>
+ <linearGradient id="ian_symbols_581d45974f9cfbb42d304e7c17eae994" y2="-27.216" gradientUnits="userSpaceOnUse" x2="435.49" y1="88.254" x1="320.02">
+  <stop stop-color="#AA8F66" offset="0"/>
+  <stop stop-color="#B5986D" offset=".4429"/>
+  <stop stop-color="#C2A274" offset=".9607"/>
+ </linearGradient>
+ <path d="m319.8 43.297c-36.249-11.062-71.918-19.262-72.146-29.527-.964-17.437 51.331-5.342 110.4-10.749 46.274-1.127 67.309-3.785 96.358-2.811 16.34.545 45.519 38.238 45.584 52.414-1.51 17.051-25.732 25.534-77.053 24.086-23.72-7.266-59.15-19.994-103.14-33.413z" fill="url(#ian_symbols_581d45974f9cfbb42d304e7c17eae994)"/>
+ <path d="m207.27 21.605c-39.95-11.872-101.47-15.596-123.76-8.81-22.26 6.776-78.19 38.242-78.19 38.242s57.865-29.53 78.922-35.09c21.068-5.581 84.986-4.125 120.33 8.462l2.7-2.804z" fill="#955A4B"/>
+ <path d="m246.21 18.85s15.825 34.398 20.424 31.257c2.667-1.696-10.98-27.384-10.98-27.384" fill="#A5664A"/>
+ <linearGradient id="ian_symbols_b2869e8db80a82949dec86df831a9b3d" y2="34.206" gradientUnits="userSpaceOnUse" x2="251.1" y1="103.06" x1="182.24">
+  <stop stop-color="#BC9273" offset="0"/>
+  <stop stop-color="#BB8F70" offset=".2964"/>
+  <stop stop-color="#B68567" offset=".5547"/>
+  <stop stop-color="#AE765A" offset=".798"/>
+  <stop stop-color="#A5664A" offset="1"/>
+ </linearGradient>
+ <path d="m183.03 103.82c18.639-12.104 28.083-52.786 28.083-52.786s48.902 3.785 55.797-1.019-1.455-.272-5.625-3.809c-20.097.48-49.688-2.913-52.591-1.227-3.404 5.823-15.014 37.302-14.776 43.342-5.32 2.917-15.24 11.879-10.88 15.499z" fill="url(#ian_symbols_b2869e8db80a82949dec86df831a9b3d)"/>
+ <path d="m277.93 32.65c-6.775-5.57 2.899 30.985 11.625 34.617 6.53 3.141-4.85-29.046-11.63-34.617z" fill="#A5664A"/>
+ <linearGradient id="ian_symbols_53a338475d7f67942d95012ec94d0be8" y2="93.468" gradientUnits="userSpaceOnUse" x2="290.79" y1="93.468" x1="243.29">
+  <stop stop-color="#BC9273" offset="0"/>
+  <stop stop-color="#BB8F70" offset=".2964"/>
+  <stop stop-color="#B68567" offset=".5547"/>
+  <stop stop-color="#AE765A" offset=".798"/>
+  <stop stop-color="#A5664A" offset="1"/>
+ </linearGradient>
+ <path d="m283.74 60.723s-38.855-3.141-40.19-.47c-3.512 1.564 29.769 40.671 29.769 40.671s-9.672 17.794-7.494 25.664c2.177 7.86 12.584-26.386 12.584-26.386s-16.941-28.215-23.476-34.378c5.08-1.094 35.857 1.707 35.857 1.707l-7.05-6.796z" fill="url(#ian_symbols_53a338475d7f67942d95012ec94d0be8)"/>
+ <linearGradient id="ian_symbols_b854a4ffe900b634cdd4095320e3c20c" y2="72.393" gradientUnits="userSpaceOnUse" x2="326.29" y1="100.6" x1="486.25">
+  <stop stop-color="#BC9273" offset="0"/>
+  <stop stop-color="#BB8F70" offset=".2964"/>
+  <stop stop-color="#B68567" offset=".5547"/>
+  <stop stop-color="#AE765A" offset=".798"/>
+  <stop stop-color="#A5664A" offset="1"/>
+ </linearGradient>
+ <path d="m328.29 61.094c3.261-1.094 64.268 7.979 66.818 9.433 7.989-1.083 62.461 19.252 67.176 21.794 4.729 2.548 23.248 21.429 21.433 22.151-1.819.732-22.877-18.52-22.877-18.52s-61.738-18.53-65.37-22.151c-15.62 2.538-51.563-7.628-66.818-8.351 0 .003-.36-1.09-.36-4.354z" fill="url(#ian_symbols_b854a4ffe900b634cdd4095320e3c20c)"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m274.18 20.052c8.493 0 17.338-.078 25.776.733 7.287.702 14.009 3.557 21.143 5.069 4.259.906 8.187 2.691 12.51 3.359 4.238.647 7.182.756 11.001 2.463 3.928 1.751 7.781 3.468 12.084 3.621 4.933.208 9.903-.623 14.533 1.533 2.78 1.301 6.064 2.978 8.623 4.65" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m306.86 22.243c4.814 1.816 5.843 4.418 8.731 7.451 3.636 3.819 9.952 4.204 13.232 8.078 1.083 1.281 1.435 3.264 2.814 4.357 1.509 1.192 3.076.93 4.763 1.86 1.499.832 2.568 2.245 4.003 3.23 4.62 3.206 10.694 4.102 15.3 6.97" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m360.25 37.113c5.897 5.891 9.587 13.3 17.423 16.353" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m329.74 36.405c3.131.14 4.991-.821 8.013.624 1.881.92 3.151 2.824 5.066 3.741 1.25.613 2.943.613 4.422 1.434 2.211 1.237 3.928 3.001 6.183 4.279 1.667.943 3.274 1.587 5.07 2.344 3.403 1.4 6.336 1.346 9.794 2.354 4.828 1.411 8.943 4.32 10.111 9.191" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m365.32 39.665c6.043 4.105 10.66 4.235 17.075 6.906 4.081 1.697 7.9 3.186 11.985 4.388 5.219 1.533 11.679 3.403 16.264 6.786 1.86 1.359 2.712 3.274 4.388 4.783 2.954 2.661 7.213 3.918 10.943 5.1" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m268.72 14.611h38.483c4.017 0 7.648-.129 11.536.974 2.878.821 5.842 2.235 8.8 2.671 5.362.811 11.348.514 16.789.712 16.908.589 34.541.416 51.108-1.094 8.474-.777 15.795 2.8 23.817 4.729 6.872 1.663 14.534-.889 21.242 1.083" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m277.81 6.983c9.127-1.925 18.224-3.7 27.231-.272 7.352 2.8 13.787 6.446 22.097 6.108 11.688-.494 24.788 2.351 35.755-1.765 9.601-3.601 19.722-5.526 30.021-5.526" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m358.79 21.868c5.243.702 10.269 3.57 15.433 4.817 4.793 1.158 9.774 3.294 12.282 7.836 1.454 2.626 1.781 5.461 5.327 6.688 6.446 2.231 12.872-.46 19.614 2.814" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m386.38 27.68c7.127.91 13.979 1.479 20.588 4.565 5.9 2.77 12.148 5.318 17.885 8.33 3.711 1.935 6.446 4.245 9.509 7.124 4.14 3.908 10.398 5.604 14.142 9.72 2.825 3.097 4.027 7.88 7.224 10.66 2.779 2.395 7.014 2.31 9.828 4.63" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m365.7 14.962c2.835.48 5.21-1.326 7.748-2.266 3.438-1.257 6.96-.995 10.571-.995 7.379 0 14.983-1.522 22.308-.746 4.858.528 9.509.746 14.5.746 4.783 0 8.942 1.094 13.603 1.455 7.312.559 14.875 0 22.176 0 6.228 0 14.043 1.577 19.854-.361" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m402 28.041c14.721-2.647 30.412 1.806 45.034-2.177" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m460.1 40.749c4.674.732 8.953 3.853 13.004 6.074 6.006 3.315 12.521 6.94 17.511 11.723" fill="none"/>
+ <path stroke="#A5664A" stroke-width=".7263" d="m412.89 30.593c10.67 3.216 22.798.48 33.74 1.642 17.723 1.86 33.197 13.614 51.607 13.604" fill="none"/>
+</svg>

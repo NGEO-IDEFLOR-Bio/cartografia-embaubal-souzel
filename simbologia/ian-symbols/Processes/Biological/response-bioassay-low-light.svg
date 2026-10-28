@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="513" height="513" viewBox="0 0 513 513" xml:space="preserve">
+            <title>Response, Bioassay; low; light</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Response, Bioassay; low; light</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of low light in a bioassay</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, low, light, bioassay, response</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-9211a580e4139fc4d1107446a040cc7f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Response, Bioassay; low; light</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/response-bioassay-low-light/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/response-bioassay-low-light/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, low, light, bioassay, response</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of low light in a bioassay</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="499.98" width="500" stroke="#231F20" stroke-dasharray="34.9115,34.9115,34.9115,34.9115,34.9115" y="5.818" x="5.818" stroke-width="11.637" fill="#B9DA95"/>
+ <path d="m118.42 397.73c0 16.388-13.285 29.661-29.684 29.661-16.387 0-29.672-13.273-29.672-29.661 0-16.41 13.285-29.684 29.672-29.684 16.394 0 29.684 13.27 29.684 29.68z" fill="#00AA4F"/>
+ <path d="m255.47 82.619c0 16.388-13.285 29.684-29.672 29.684-16.399 0-29.684-13.296-29.684-29.684s13.285-29.684 29.684-29.684c16.39.004 29.67 13.299 29.67 29.687z" fill="#00AA4F"/>
+ <path d="m412.78 430.05c0 16.388-13.285 29.661-29.689 29.661-16.382 0-29.667-13.273-29.667-29.661 0-16.41 13.285-29.684 29.667-29.684 16.4 0 29.69 13.27 29.69 29.68z" fill="#00AA4F"/>
+ <linearGradient id="ian_symbols_75bbeb858420ffe4adf8f717be25bc83" y2="292.93" gradientUnits="userSpaceOnUse" x2="389.67" y1="292.93" x1="109.35">
+  <stop stop-color="#943895" offset=".1582"/>
+  <stop stop-color="#4A58AA" offset=".194"/>
+  <stop stop-color="#156FBA" offset=".2232"/>
+  <stop stop-color="#0078C0" offset=".2373"/>
+  <stop stop-color="#00A6E9" offset=".339"/>
+  <stop stop-color="#41AD49" offset=".4689"/>
+  <stop stop-color="#fd0" offset=".6045"/>
+  <stop stop-color="#F99D1C" offset=".774"/>
+  <stop stop-color="#D2232A" offset=".8814"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="5.8186" d="m151.13 158.76h214.95l-2.738 128.69 34.224 1.375-142.38 138.28-138.28-136.91 35.599 1.375-1.37-132.8z" fill="url(#ian_symbols_75bbeb858420ffe4adf8f717be25bc83)"/>
+</svg>

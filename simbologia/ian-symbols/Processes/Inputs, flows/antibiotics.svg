@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="195" height="502" viewBox="0 0 195 502" xml:space="preserve">
+            <title>Antibiotics</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Antibiotics</ian_image_library:title>
+                <ian_image_library:descr>Illustration of antibiotics</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>input, flows, antibiotics</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-046186d7aeebfaf4c910890c3164f63e">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Antibiotics</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/antibiotics/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/antibiotics/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>input, flows, antibiotics</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of antibiotics</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_a4e949d1e48af58489c19b1dc44a2128" y2="590.88" gradientUnits="userSpaceOnUse" x2="-42.467" gradientTransform="matrix(.6956 0 0 .6956 220.64 -35.753)" y1="590.88" x1="-320.15">
+  <stop stop-color="#FDE92B" offset=".6328"/>
+  <stop stop-color="#FDDD29" offset=".7091"/>
+  <stop stop-color="#FDD126" offset=".8094"/>
+  <stop stop-color="#FECD25" offset=".8814"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5195" d="m193.42 250.26h-193.16v150.82c0 54.775 43.227 99.181 96.579 99.181 53.33 0 96.578-44.405 96.578-99.181v-150.82z" fill="url(#ian_symbols_a4e949d1e48af58489c19b1dc44a2128)"/>
+ <linearGradient id="ian_symbols_ebb716dbf8a8fdc45154f1c408028cb6" y2="231.47" gradientUnits="userSpaceOnUse" x2="-42.467" gradientTransform="matrix(.6956 0 0 .6956 220.64 -35.753)" y1="231.47" x1="-320.15">
+  <stop stop-color="#EB2D2E" offset=".6328"/>
+  <stop stop-color="#CB292E" offset=".7328"/>
+  <stop stop-color="#BB282E" offset=".8194"/>
+  <stop stop-color="#B6272E" offset=".8814"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5195" d="m193.42 250.26h-193.16v-150.83c0-54.754 43.226-99.17 96.579-99.17 53.33 0 96.578 44.416 96.578 99.169v150.83z" fill="url(#ian_symbols_ebb716dbf8a8fdc45154f1c408028cb6)"/>
+ <path d="m52.334 66.595c0-19.996 7.514-36.224 17.128-36.224-19.484 0-35.112 16.228-35.112 36.224l-.045 162.26h18.029v-162.26z" fill="#F0BEBD"/>
+ <path d="m52.334 433.65c0 19.996 7.514 36.213 17.117 36.213-19.485 0-35.113-16.217-35.113-36.213l-.033-162.26h18.029v162.26z" fill="#F4F3D5"/>
+</svg>

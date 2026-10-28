@@ -1,0 +1,84 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="258" height="500" viewBox="0 0 258 500" xml:space="preserve">
+            <title>Marine Access Limited</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Marine Access Limited</ian_image_library:title>
+                <ian_image_library:descr>An icon symbol of a buoy marking the boundary of a marine protected area.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>ocean, conservation, protection, mapping, navigation</ian_image_library:contains>
+                    <ian_image_library:when>2016-05-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-95930f492614943495c6eb5b97e3548b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Marine Access Limited</dc:title>
+                <dc:date>2016-05-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/marine-access-limited/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/marine-access-limited/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>ocean, conservation, protection, mapping, navigation</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>An icon symbol of a buoy marking the boundary of a marine protected area.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<title>Layer 1</title>
+	<rect id="ian_symbols_34401d4a2dba47441d0248fbf15c49cc" x="118.9" y="215.3" width="20.4" height="129.1"/>
+	<circle id="ian_symbols_71f59015cdbafdc42db46db6415ebf20" fill="#FFFFFF" cx="129.1" cy="127.5" r="121.3"/>
+	<path id="ian_symbols_974c46c43a1e63e425820c01e8602758" fill="#ED1C24" d="M129.1,0c71.2,0,129,57.8,129,129.1c0,71.2-57.8,129-129,129C57.8,258.1,0,200.3,0,129.1
+		C0,57.8,57.8,0,129.1,0z M25.7,129.1c0,57,46.3,103.3,103.4,103.3c57,0,103.3-46.3,103.3-103.3c0-57.1-46.3-103.4-103.3-103.4
+		C72,25.7,25.7,72,25.7,129.1z"/>
+	<polygon id="ian_symbols_3ca532499ac10904f11adc200e651269" fill="#ED1C24" points="216.9,203.2 68.4,35 44.9,55.7 193.4,223.9 	"/>
+	<path id="ian_symbols_f897ec0f2f08e1e4fda0a544ab21c288" fill="#ED1C24" d="M165.8,500H92.3c-20.4,0-37.1-16.7-37.1-37.1c0,0,20.2-133.9,73.9-133.9S203,462.9,203,462.9
+		C202.9,483.3,186.2,500,165.8,500z"/>
+	<path id="ian_symbols_7d446ae6466c21f4814e24c6dd42b478" fill="#FFFFFF" d="M202.4,468.6H55.6c-2.2-8.8,3.7-27.3,3.7-27.3h139.5C198.7,441.3,205,462.9,202.4,468.6z"/>
+</g>
+</svg>

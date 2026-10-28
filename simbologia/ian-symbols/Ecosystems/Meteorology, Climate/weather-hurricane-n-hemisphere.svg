@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="405" viewBox="0 0 502 405" xml:space="preserve">
+            <title>Weather: hurricane (N Hemisphere)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Weather: hurricane (N Hemisphere)</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of a hurricane, or tropical cyclone: a storm system characterized by a low pressure center and numerous thunderstorms that produce strong winds and flooding rain. Depending on its location and strength, a tropical cyclone is referred to by names such as hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, and simply cyclone. Has counterclockwise rotation in the Northern Hemisphere and clockwise rotation in the Southern Hemisphere due to the Coriolis Effect.</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, climate, weather, atmosphere, sky, hurricane, typhoon, tropical, storm, cyclonic, storm, tropical, depression, cyclone</ian_image_library:contains>
+                    <ian_image_library:when>2002-10-03</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f585e6216a0fd5d4896b5846f0c4cc9f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Weather: hurricane (N Hemisphere)</dc:title>
+                <dc:date>2002-10-03</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/weather-hurricane-n-hemisphere/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/weather-hurricane-n-hemisphere/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, climate, weather, atmosphere, sky, hurricane, typhoon, tropical, storm, cyclonic, storm, tropical, depression, cyclone</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of a hurricane, or tropical cyclone: a storm system characterized by a low pressure center and numerous thunderstorms that produce strong winds and flooding rain. Depending on its location and strength, a tropical cyclone is referred to by names such as hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, and simply cyclone. Has counterclockwise rotation in the Northern Hemisphere and clockwise rotation in the Southern Hemisphere due to the Coriolis Effect.</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#B1B3B6" stroke-width="1.6254" d="m391.44 201.96c0 78.376-63.563 141.93-141.96 141.93-78.387 0-141.93-63.551-141.93-141.93 0-78.418 63.54-141.97 141.93-141.97 78.4-.004 141.96 63.55 141.96 141.97z" fill="#939598"/>
+ <path stroke="#B1B3B6" stroke-width=".4064" d="m344.76 305.06s-117.22 155.88-344.69 76.073c0 0 172.83 8.398 185.3-58.217 1.94-10.37 71.47 38.96 159.39-17.85z" fill="#939598"/>
+ <path stroke="#B1B3B6" stroke-width=".4064" d="m155.41 99.018s117.19-155.88 344.66-76.072c0 0-172.81-8.398-185.29 58.227-1.92 10.369-71.47-38.958-159.37 17.845z" fill="#939598"/>
+</svg>

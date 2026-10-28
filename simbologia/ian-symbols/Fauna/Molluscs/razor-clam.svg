@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="243" height="501" viewBox="0 0 243 501" xml:space="preserve">
+            <title>Razor clam</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Razor clam</ian_image_library:title>
+                <ian_image_library:descr>Illustration of razor clam</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>razor, clam, Mollusca, Bivalvia, bivalve, Veneroida</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4820f3ce1fcc1a5431c162bd8ae53d12">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Razor clam</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/razor-clam/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/razor-clam/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>razor, clam, Mollusca, Bivalvia, bivalve, Veneroida</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of razor clam</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_29e73e687ff08d04d5936bc7da2e495f" y2="1748.7" gradientUnits="userSpaceOnUse" x2="836.18" gradientTransform="matrix(.2484 0 0 .2484 44.956 -184.37)" y1="1748.7" x1="-258.16">
+  <stop stop-color="#9D6533" offset="0"/>
+  <stop stop-color="#F0F1E1" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m108.23.865c-97.816 43.5-125.62 150.75-96.277 213.56 15.6 33.432 103.11 103.59 154.94 172 45.527 60.063 69.495 112.72 69.495 112.72 28.84-19.94-101.32-439.55-128.15-498.28z" stroke="#964B36" stroke-linecap="round" stroke-width="1.7308" fill="url(#ian_symbols_29e73e687ff08d04d5936bc7da2e495f)"/>
+ <path stroke-linejoin="round" d="m113.15 12.687s-95.131 20.452-96.135 210.38" stroke="#964B36" stroke-linecap="round" stroke-width="1.7308" fill="none"/>
+ <path stroke-linejoin="round" d="m112.91 138.81s91.42 184.17 103.87 281.12" stroke="#964B36" stroke-linecap="round" stroke-width="1.7308" fill="none"/>
+ <path stroke-linejoin="round" d="m71.378 133.26s144.73 262.03 150.95 306.06" stroke="#964B36" stroke-linecap="round" stroke-width="1.7308" fill="none"/>
+ <path stroke-linejoin="round" d="m31.192 178.97s201.26 201.34 205.2 320.16" stroke="#964B36" stroke-linecap="round" stroke-width="1.7308" fill="none"/>
+</svg>

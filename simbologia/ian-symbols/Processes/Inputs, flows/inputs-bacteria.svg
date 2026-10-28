@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="503" height="350" viewBox="0 0 503 350" xml:space="preserve">
+            <title>Inputs: bacteria</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Inputs: bacteria</ian_image_library:title>
+                <ian_image_library:descr>Arrow representing bacteria inputs or flows</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>bacteria, input, flow, bacterium, microorganisms, cells</ian_image_library:contains>
+                    <ian_image_library:when>2013-02-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fde3d11f01400ba479d91a184a28142d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Inputs: bacteria</dc:title>
+                <dc:date>2013-02-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/inputs-bacteria/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/inputs-bacteria/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>bacteria, input, flow, bacterium, microorganisms, cells</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Arrow representing bacteria inputs or flows</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<path fill="#010101" d="M441.594,239.339c22.105-17.342,24.639-20.891,51.742-41.066L463.48,333.52
+	c-52.615,5.282-84.061,13.755-147.35,16.218c22.271-23.426,31.535-29.726,49.885-49.023C333.34,194.032,73.691,47.145,0,15.276
+	C134.16,8.282,401.711,131.18,441.594,239.339z"/>
+<path fill="#EC569E" stroke="#010101" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M447.723,226.853
+	c22.85-17.913,25.357-21.443,52.277-41.056l-30.324,135.192c-52.455,4.703-83.922,13.231-147.211,15.667
+	c22.629-22.834,31.844-29.135,49.885-49.053C339.494,181.556,80.074,34.098,6.657,2.787
+	C140.818-4.229,407.777,118.687,447.723,226.853z"/>
+</svg>

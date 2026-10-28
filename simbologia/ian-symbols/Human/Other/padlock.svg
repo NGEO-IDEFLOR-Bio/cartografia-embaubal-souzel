@@ -1,0 +1,71 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="382.8" height="500" viewBox="0 0 382.8 500" xml:space="preserve">
+            <title>Padlock</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Padlock</ian_image_library:title>
+                <ian_image_library:descr><p>Front view illustration of a padlock</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>lock, security, safety, key, defense</ian_image_library:contains>
+                    <ian_image_library:when>2012-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8f2db379ef6b5ea43d9c343f4e4369b5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Padlock</dc:title>
+                <dc:date>2012-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/padlock/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/padlock/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>lock, security, safety, key, defense</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Front view illustration of a padlock</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+                 <g> <path fill="#FFC20E" d="M375.1,458.8c0,18.4-15,33.4-33.4,33.4H41.2c-18.4,0-33.4-15-33.4-33.4V233.4c0-18.4,15-33.4,33.4-33.4 h300.5c18.4,0,33.4,15,33.4,33.4V458.8L375.1,458.8z"></path> <g> <path d="M319.1,472.8H63.7c-17,0-30.9-13.9-30.9-30.9V250.4c0-17,13.9-30.9,30.9-30.9h255.4c17,0,30.9,13.9,30.9,30.9v191.6 C350,459,336.2,472.8,319.1,472.8z M63.7,224.5c-14.3,0-25.9,11.6-25.9,25.9v191.6c0,14.3,11.6,25.9,25.9,25.9h255.4 c14.3,0,25.9-11.6,25.9-25.9V250.4c0-14.3-11.6-25.9-25.9-25.9L63.7,224.5L63.7,224.5z"></path> </g> <g> <path fill="#F7941E" d="M75.5,198.9l61.4,0c0,0-6.9-144.7,56.3-144.7c63.2,0,58.4,146.3,58.4,146.3l55.6-1.6 c0,0-5.8-192.5-115.9-192.5C81.3,6.4,75.5,198.9,75.5,198.9z"></path> <path d="M341.7,192.3h-28.3c-0.9-14.8-4.4-52.9-16.6-91.6C275.9,34.8,239.5,0,191.4,0S106.9,34.8,86.1,100.7 c-12.2,38.6-15.7,76.8-16.6,91.6H41.2C18.5,192.3,0,210.7,0,233.4v225.4C0,481.5,18.5,500,41.2,500h300.5 c22.7,0,41.2-18.5,41.2-41.2V233.4C382.8,210.7,364.4,192.3,341.7,192.3z M143.2,192.3c-0.3-21.8,0.7-93.7,27.1-121.4 c6.6-6.9,14.1-10.3,23-10.3c8.8,0,16.4,3.3,23,10.2c26.3,27.2,29,97.6,29.1,121.4H143.2z M98.3,104.6 c19.2-60.9,50.6-91.8,93.1-91.8c42.5,0,73.8,30.8,93,91.5c11.5,36.3,15,73.1,16,87.9h-42.3c-0.1-25.2-2.8-99.5-32.7-130.3 c-9.1-9.4-19.9-14.1-32.2-14.1c-12.4,0-23.3,4.8-32.3,14.2c-29.8,31.3-31,106.8-30.6,130.2h-48C83.3,177.5,86.8,140.9,98.3,104.6z M367.3,458.8c0,14.1-11.5,25.6-25.6,25.6H41.2c-14.1,0-25.6-11.5-25.6-25.6V233.4c0-14.1,11.5-25.6,25.6-25.6h300.5 c14.1,0,25.6,11.5,25.6,25.6V458.8z"></path> </g> <g> <path d="M247.8,417.6L212,345.9c11.1-6.9,18.5-19.2,18.5-33.2c0-21.5-17.5-39.1-39.1-39.1c-21.6,0-39.1,17.5-39.1,39.1 c0,14,7.4,26.3,18.5,33.2L135,417.6H247.8z"></path> </g> </g> </svg> 

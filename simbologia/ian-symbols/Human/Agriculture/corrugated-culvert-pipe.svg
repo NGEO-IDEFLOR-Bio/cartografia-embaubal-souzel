@@ -1,0 +1,111 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="402" viewBox="0 0 500 402" xml:space="preserve">
+            <title>Corrugated culvert pipe</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Corrugated culvert pipe</ian_image_library:title>
+                <ian_image_library:descr>Illustration of corrugated culvert pipe</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, water, diversion, corrugated, culvert, pipe, tiling, drainage, development, building, construction, stream, channel</ian_image_library:contains>
+                    <ian_image_library:when>2009-04-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c715f4c6acd3de4449d6ca5dfaf27834">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Corrugated culvert pipe</dc:title>
+                <dc:date>2009-04-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/corrugated-culvert-pipe/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/corrugated-culvert-pipe/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, water, diversion, corrugated, culvert, pipe, tiling, drainage, development, building, construction, stream, channel</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of corrugated culvert pipe</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_7ee43080398a35a435090d7a25530af6" y2="89.013" gradientUnits="userSpaceOnUse" x2="264.8" y1="246.44" x1="154.57">
+  <stop stop-color="#636466" offset=".0112"/>
+  <stop stop-color="#BCBEC0" offset=".5169"/>
+  <stop stop-color="#B7B9BB" offset=".6074"/>
+  <stop stop-color="#AAACAE" offset=".7101"/>
+  <stop stop-color="#939597" offset=".8189"/>
+  <stop stop-color="#747577" offset=".9311"/>
+  <stop stop-color="#636466" offset=".9831"/>
+ </linearGradient>
+ <path d="m71.096.101l389.21 225.81-120.95 149.93-327.7-275.87s-27.923-25.868 2.659-69.34c23.943-34.012 56.777-30.529 56.777-30.529z" fill="url(#ian_symbols_7ee43080398a35a435090d7a25530af6)"/>
+ <linearGradient id="ian_symbols_32c7212f4629b0449903f12a6e4c97bb" y2="373.07" gradientUnits="userSpaceOnUse" x2="471.59" y1="235.9" x1="334.42">
+  <stop stop-color="#363436" offset=".0056"/>
+  <stop stop-color="#484749" offset=".1976"/>
+  <stop stop-color="#636466" offset=".5281"/>
+  <stop stop-color="#9D9FA2" offset=".8764"/>
+ </linearGradient>
+ <path d="m500 304.48c0 53.581-43.438 96.998-96.997 96.998-53.57 0-96.987-43.417-96.987-96.998 0-53.56 43.417-96.998 96.987-96.998 53.56 0 97 43.44 97 97z" fill="url(#ian_symbols_32c7212f4629b0449903f12a6e4c97bb)"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m404.88 194.43s-53.988-5.011-86.636 38.109c-47.142 62.262-17.846 110.54-17.846 110.54" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m385.01 183.47s-52.328-4.857-83.976 37.043c-45.691 60.515-17.274 107.45-17.274 107.45" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m365.83 172.06s-51.593-4.78-82.801 36.406c-45.021 59.504-17.021 105.62-17.021 105.62" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m349.44 161.98s-50.988-4.736-81.822 36.098c-44.516 58.966-16.835 104.69-16.835 104.69" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m333.06 151.43s-49.79-4.626-79.888 35.252c-43.472 57.592-16.45 102.22-16.45 102.22" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m314.18 140.89s-48.614-4.505-77.977 34.406c-42.439 56.186-16.066 99.756-16.066 99.756" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m296.53 129.93s-47.999-4.451-77.02 33.988c-41.9 55.493-15.846 98.525-15.846 98.525" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m276.37 118.54s-45.604-4.374-73.152 33.351c-39.813 54.46-15.077 96.701-15.077 96.701" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m261.26 109.71s-44.395-4.33-71.251 33.032c-38.747 53.944-14.659 95.756-14.659 95.756" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m248.65 103.34s-44.395-4.165-71.24 31.757c-38.747 51.856-14.659 92.064-14.659 92.064" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m233.53 93.648s-43.801-4.066-70.272 31.01c-38.241 50.636-14.473 89.91-14.473 89.91" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m218.42 85.231s-43.197-4.012-69.317 30.57c-37.724 49.966-14.275 88.69-14.275 88.69" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m203.3 77.198s-41.988-3.901-67.384 29.736c-36.68 48.57-13.889 86.229-13.889 86.229" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m188.19 68.781s-41.417-3.846-66.448 29.307c-36.132 47.867-13.671 84.987-13.671 84.987" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m173.05 59.088s-40.768-3.78-65.46 28.878c-35.625 47.197-13.46 83.768-13.46 83.768" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m156.69 49.793s-39.604-3.671-63.538 28.042c-34.582 45.791-13.098 81.307-13.098 81.307" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m140.31 40.507s-38.405-3.55-61.636 27.186c-33.527 44.417-12.67 78.855-12.67 78.855" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m123.93 30.035s-38.406-3.494-61.614 26.648c-33.527 43.515-12.691 77.262-12.691 77.262" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m107.54 20.562s-34.724-7.461-57.943 22.67c-33.537 43.515-17.615 76.866-17.615 76.866" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m92.437 10.486s-32.528-7.538-54.263 22.966c-31.406 44.064-16.517 77.812-16.517 77.812" fill="none"/>
+ <path stroke="#808285" stroke-width="5.3445" stroke-linecap="round" d="m78.579 5.409s-30.878-7.098-51.515 21.538c-29.801 41.318-15.659 72.976-15.659 72.976" fill="none"/>
+</svg>

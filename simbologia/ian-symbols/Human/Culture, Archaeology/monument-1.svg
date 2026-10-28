@@ -1,0 +1,175 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="433" height="501" viewBox="0 0 433 501" xml:space="preserve">
+            <title>Monument 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Monument 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a monument</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, archaeology, development, monument, war, commemorate</ian_image_library:contains>
+                    <ian_image_library:when>2005-05-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f8e5bf2ec41a8184b53b11ccc5c81277">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Monument 1</dc:title>
+                <dc:date>2005-05-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/monument-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/monument-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, archaeology, development, monument, war, commemorate</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a monument</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#E6E6E6" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M408.938,485.474
+	v-3.908l-41.896-9.5v-5.026l-26.817-7.267v-32.96l-7.817-4.461v-10.059l-3.909-2.791l-1.682-15.092l-4.469-2.233l-0.558-65.363
+	l5.591,0.565l-1.117-15.649l3.344-5.025l-6.143-4.475v-11.727l8.942-5.033l1.668-6.694l-13.402-5.025l-1.116-18.441l-6.708-2.796
+	v-8.376l-12.844-5.033l0.558-5.029l-0.558-9.493l2.791-3.357c0,0,1.771-0.632,2.234-2.23c0.464-1.591-1.117-7.259-1.117-7.259
+	l-2.792-5.591l-1.116-6.705l-3.352-10.055V179.33l-2.24-4.464l-5.025-3.912l-5.032-6.149l-0.552-7.825v-12.285l1.116-6.708
+	l2.793-6.143l-0.56-5.026c0,0,4.529,11.377,6.144,13.409c1.621,2.025,7.266,5.029,7.266,5.029s2.409,6.378,4.468,9.493
+	c2.052,3.112,5.591,6.705,5.591,6.705l6.143,4.474l3.909,8.376c0,0,5.153,7,7.825,8.376c2.664,1.383,6.701,0.562,6.701,0.562
+	s7.805,3.297,10.609,3.909c2.819,0.616,5.026-0.562,5.026-0.562l-3.345-8.376l-4.467-6.705c0,0,1.588-4.908,0.552-7.821
+	c-1.036-2.914-5.585-7.26-5.585-7.26l-6.148-7.263c0,0,0.303-5.823-1.117-7.822c-1.406-2.001-7.26-5.026-7.26-5.026l-3.908-8.383
+	l-2.793-8.941l-5.025-5.588l-3.916-8.938l-2.792-5.026l-3.909-2.789l-5.591-2.24l-10.61-0.555l-6.707,1.117l-6.701,2.234
+	l-5.033-2.234c0,0-2.557-1.796-5.577-2.795c-3.034-0.995-10.617-1.679-10.617-1.679s-7.764-1.587-11.733-1.113
+	c-3.97,0.471-12.299,1.113-12.299,1.113l-6.694,0.562l-3.357-0.562V79.331l-1.117-11.734l0.565-11.733l-0.565-9.493l-3.909-6.705
+	l-3.909-3.913v-5.587l2.792-1.672v-4.471l6.708-1.117V16.76l-6.149-5.587l-7.266-2.795l-4.467-6.143l-2.227-1.117l-2.799,1.679
+	l-4.474,2.233l-4.461,2.23l-6.708,1.117l-1.675,2.795l3.909,3.912l3.357,2.231l3.351,2.795l-1.117,2.796l-2.234,4.47l0.552,3.906
+	l4.474,3.909l1.668,3.913l-5.026,5.026l-2.792,6.708l1.124,8.938l2.234,2.241l-6.143,2.785l-4.475,2.24l-3.35,2.789l-1.675,5.026
+	l-2.234,3.357l0.552,5.026l-6.143,2.796l-4.468,2.795l-5.026-10.061l-4.474-6.698l-8.935-5.591c0,0-5.046-3.266-8.376-5.026
+	c-3.344-1.759-10.617-3.35-10.617-3.35s-7.522-2.16-12.299-2.796c-4.777-0.642-11.169,0.555-11.169,0.555L90.5,57.542
+	c0,0-0.807-5.184-3.909-6.143c-3.095-0.969-9.541-1.746-9.493-0.562c0.047,1.181,1.675,6.143,1.675,6.143l6.149,3.357l-3.357,2.23
+	l-4.467-4.463c0,0-6.581-5.45-6.708-3.913c-0.121,1.531-0.928,5.584,0,7.263c0.936,1.676,6.708,4.464,6.708,4.464l2.792,3.912
+	l-1.117,6.705l0.559,6.143l1.675,4.474l2.234,3.909l3.35,6.146l1.676,5.587l2.798,5.582v6.152c0,0-0.518,4.612,1.117,5.581
+	c1.635,0.976,4.468,1.117,4.468,1.117s5.98,0.938,7.266,0c1.278-0.938,2.792-5.026,2.792-5.026l3.351-3.35l5.026,0.554h4.475
+	l2.233,5.037l-1.117,4.463l-0.565,6.143v6.708l2.24,4.471l3.902,3.35l0.565,2.796c0,0-4.804-0.387-7.259,0
+	c-2.456,0.377-6.708,2.23-6.708,2.23s-6.835,2.856-9.5,4.474c-2.665,1.611-5.584,5.581-5.584,5.581s-3.607,6.647-3.909,7.822
+	c-0.31,1.178-4.724,4.83-5.026,6.708c-0.31,1.877-1.124,11.734-1.124,11.734l0.559,10.052c0,0-1.366,8.326-0.559,10.617
+	c0.814,2.284,4.474,6.146,4.474,6.146s6.332-1.463,7.818-2.795s1.224-9.907,0.558-11.172c-0.659-1.271-5.584-1.679-5.584-1.679
+	l-0.565-6.705v-7.259l2.241-8.383l3.908-5.585c0,0,1.602-4.205,3.909-4.47c2.315-0.27,8.942-0.556,8.942-0.556h12.292h11.734
+	l5.578,0.556c0,0-1.656,5.705-0.552,8.938c1.103,3.23,3.35,9.5,3.35,9.5l2.792,6.143l3.909,6.143l2.799,8.387
+	c0,0,1.117-4.475,2.792,6.143c1.675,10.617,2.604,15.326,2.234,17.314c-0.377,1.995-6.708,7.821-6.708,7.821v2.24l-0.552,1.672
+	H103.35l-10.61,5.587l0.558,8.376l-9.493,6.149v16.201l-8.948,4.474l2.241,7.26l6.143,1.676l1.117,19.551l-5.584,4.468l4.468,6.149
+	l0.565,12.292h5.026l-1.124,62.006l-3.351,2.233v15.092l-3.351,2.791l0.558,10.059l-6.708,4.461v31.844l-18.428,11.734v4.474
+	l-35.76,10.609v3.357l-19.552,3.909v6.143h430.17v-6.143L408.938,485.474z M224.023,222.903l-0.558,15.084h-51.961l-3.909-10.61
+	l3.357-6.705l-3.357-18.438l-0.551-15.084l1.668-11.733l1.682-6.143l22.344,0.556l12.292-5.026l8.376,17.321h1.675l-5.026-21.789
+	l12.851-5.588c0,0-0.121,3.532,1.675,7.821c1.797,4.286,6.708,10.055,6.708,10.055l10.052,11.179l3.909,6.143l-10.052,13.964
+	l-7.267,10.055L224.023,222.903z M292.179,222.903l-2.792,5.591c0,0-2.496,1.915-3.916,3.348c-1.413,1.436-1.116,6.146-1.116,6.146
+	h-47.486c0,0,1.298-7.667,0.564-9.494c-0.733-1.833-4.474-3.357-4.474-3.357l3.909-6.698c0,0,25.761-23.229,26.817-26.814
+	c1.057-3.593-7.26-13.975-7.26-13.975v-6.697l5.591-6.149l3.345,1.124l6.149,10.052l7.817,8.941l7.267,7.821l3.909,12.285
+	l3.351,10.617L292.179,222.903z"/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M80.771,70.541
+	l8.248,2.644l9.494,3.351l5.591,1.678c0,0,4.656,3.23,6.143,5.588c1.487,2.351,1.608,6.936,1.682,7.814
+	c0.074,0.888-3.916-0.555-3.916-0.555v9.493v5.036"/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M133.713,81.009
+	c0,0-6.688-2.654-8.383-3.913c-1.695-1.265-4.306-3.771-6.708-5.026c-2.395-1.265-10.61-2.24-10.61-2.24"/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="113.045" y1="114.528" x2="161.083" y2="86.59"/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	196.284,43.578 193.485,51.954 193.485,59.221 186.226,62.017 "/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M207.453,47.487
+	c0,0,0.794,8.494,0.565,10.617c-0.229,2.123-2.301,9.049-3.916,10.61c-1.608,1.568-6.143,1.679-6.143,1.679
+	s-10.058-1.272-12.292-0.562c-2.227,0.71-3.331-0.269-5.033,1.675c-1.695,1.944-4.46,5.591-4.46,5.591s0.081,3.637-0.565,5.026
+	c-0.639,1.383-6.701-0.562-6.701-0.562"/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M88.461,84.918
+	c0.249-0.619,4.252-0.976,5.026,0c0.787,0.969,0.222,4.642-0.552,5.581C92.147,91.448,88.212,85.534,88.461,84.918z"/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M97.396,111.733
+	c0,0-1.749,2.055-1.118,2.795c0.64,0.733,3.916-0.562,3.916-0.562"/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M178.408,88.269
+	l-7.259,5.026c0,0-6.25,4.208-7.825,7.259c-1.581,3.061-1.675,11.179-1.675,11.179l-1.682,10.055l-2.792,16.76l-5.026,5.591
+	l-3.351,2.785c0,0-9.884,1.473-11.175,2.241c-1.285,0.763-1.359,2.56,0,3.912c1.366,1.346,18.435-0.562,18.435-0.562l-0.559,1.678
+	h9.493c0,0,0.942-8.621,0.565-11.733c-0.376-3.118-1.682-6.143-1.682-6.143l5.032-10.062c0,0,3.465-4.438,5.026-8.376
+	c1.568-3.943,2.792-12.289,2.792-12.289"/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="176.174" y1="111.733" x2="185.667" y2="111.733"/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M182.869,87.708
+	l3.357,12.847l5.026,16.763l4.467,17.876l7.629,24.265c0,0,12.877,31.403,13.389,30.643c0.505-0.76-6.492-29.765-6.492-29.765
+	l-20.669-72.629H182.869z"/>
+<path fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" d="M197.401,109.502
+	c0,0,5.315-3.27,8.383-3.912c3.062-0.649,7.401-1.767,8.935-2.796c1.534-1.026,2.233-7.266,2.233-7.266l-0.558-5.029"/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	229.804,89.948 229.804,131.288 201.31,130.165 "/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="194.051" y1="130.165" x2="166.116" y2="130.726"/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	223.849,154.164 237.951,151.25 249.354,154.749 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	187.343,20.11 196.843,18.432 203.544,18.432 207.675,20.821 210.945,23.808 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	288.458,101.678 295.166,103.912 299.634,108.376 302.426,114.528 306.899,124.583 311.926,131.288 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	281.757,103.912 290.14,108.376 294.601,113.967 295.718,120.671 300.191,129.047 308.017,133.522 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	280.082,110.616 290.14,117.317 292.374,126.255 297.958,131.843 301.874,136.869 305.782,141.898 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	93.487,251.952 120.305,250.834 121.98,245.254 289.023,248.049 290.692,252.513 312.848,252.513 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	83.993,274.302 109.694,272.62 120.863,263.685 290.14,266.477 308.568,274.302 322.542,274.302 "/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="120.305" y1="250.834" x2="120.863" y2="263.685"/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="290.813" y1="253.63" x2="290.14" y2="266.477"/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	84.216,287.597 86.779,282.126 113.597,282.685 115.279,279.328 304.666,279.893 305.782,283.802 323.659,283.802 323.659,290.503 
+	"/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	84.552,307.262 119.746,307.262 119.746,297.205 296.842,297.205 297.399,308.379 329.802,306.705 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	88.831,330.171 112.48,327.931 111.928,391.625 87.896,392.177 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	321.789,326.814 304.666,324.581 305.218,392.177 322.347,392.177 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	119.746,307.262 119.188,397.768 124.779,397.768 124.779,410.053 108.013,429.046 108.571,465.923 315.834,465.923 
+	315.276,429.046 296.081,408.714 295.718,397.768 299.634,397.768 297.399,308.379 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" points="
+	56.429,474.865 57.176,482.682 366.671,482.682 367.041,472.066 "/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="300.191" y1="239.104" x2="153.265" y2="238.549"/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="108.013" y1="429.046" x2="314.389" y2="429.046"/>
+<line fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" x1="84.357" y1="409.502" x2="328.497" y2="409.502"/>
+<rect x="153.151" y="318.748" fill="none" stroke="#000000" stroke-width="2.2346" stroke-linecap="round" stroke-linejoin="round" width="112.944" height="74.392"/>
+</svg>

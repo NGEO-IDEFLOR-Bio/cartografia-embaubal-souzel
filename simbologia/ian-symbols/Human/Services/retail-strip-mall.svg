@@ -1,0 +1,204 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="334" viewBox="0 0 500 334" xml:space="preserve">
+            <title>Retail: Strip mall</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Retail: Strip mall</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a strip mall, a sideways view of storefronts</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, strip, mall, storefronts, outlets, mini-mall, plaza, galleria, market, shopping, retail</ian_image_library:contains>
+                    <ian_image_library:when>2008-08-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f78a1db52f9313f465db59470316ee70">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Retail: Strip mall</dc:title>
+                <dc:date>2008-08-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/retail-strip-mall/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/retail-strip-mall/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, strip, mall, storefronts, outlets, mini-mall, plaza, galleria, market, shopping, retail</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a strip mall, a sideways view of storefronts</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_ab7256db4b4c4874118e3ab2c55a9574">
+	<polygon fill="#C7A2A3" points="260.1,135.2 265.9,101.8 212,40.2 169.2,73.3 169.4,109.3 	"/>
+	<polygon fill="#7D7D7D" points="500,283.6 386.2,333.5 0,138.6 111.1,122 	"/>
+	<polygon fill="#C7A2A3" points="61.9,145.4 390.6,299.7 390.6,143.1 61.9,41.8 	"/>
+	<polygon fill="#A45B58" points="399.2,303.8 460.8,278.9 460.8,224.9 442.5,210.4 442.5,183.7 401.5,141.4 	"/>
+	<polygon fill="#59595B" points="453.6,241.9 453.6,261.6 444.7,260.7 444.7,242.3 	"/>
+	<polygon fill="#59595B" points="431.2,238.3 431.2,263.9 421.8,262.9 421.8,239.3 	"/>
+	<polygon fill="#59595B" points="434,187.5 434,209.8 424.6,208.8 424.6,183.2 	"/>
+		<linearGradient id="ian_symbols_6588cb2afbe98b44d55480943ddbf774" gradientUnits="userSpaceOnUse" x1="-1328.5994" y1="-1056.6541" x2="-1489.5312" y2="-1070.7461" gradientTransform="matrix(-0.1996 0 0 0.1996 81.8005 459.3058)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_6588cb2afbe98b44d55480943ddbf774)" points="376.1,293.1 376.1,211.2 349.8,200.9 349.8,280.5 	"/>
+		<linearGradient id="ian_symbols_fe8ad2bb8172c5642d73b2942d519df2" gradientUnits="userSpaceOnUse" x1="-1620.4081" y1="-1888.4701" x2="-1862.6385" y2="-2175.0706" gradientTransform="matrix(-0.1205 -9.600000e-03 0 0.1099 124.3303 438.1908)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_fe8ad2bb8172c5642d73b2942d519df2)" points="343.2,215.2 343.2,259.4 319.1,248.7 319.1,209.9 	"/>
+		<linearGradient id="ian_symbols_10d8d774a11d2cf4d99e40d242210b0c" gradientUnits="userSpaceOnUse" x1="-1392.506" y1="-1973.5535" x2="-1611.8711" y2="-2233.0718" gradientTransform="matrix(-0.1205 -9.600000e-03 0 0.1099 124.3303 438.1908)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_10d8d774a11d2cf4d99e40d242210b0c)" points="314.8,207.7 290.7,201.8 290.7,236.1 314.8,246.3 	"/>
+		<linearGradient id="ian_symbols_cc0c0d1a6e70b114950d1e204e31a26c" gradientUnits="userSpaceOnUse" x1="-490.9892" y1="-2309.416" x2="-773.5059" y2="-2643.7271" gradientTransform="matrix(-0.1205 -9.600000e-03 0 0.1099 124.3303 438.1908)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_cc0c0d1a6e70b114950d1e204e31a26c)" points="221.3,161.7 221.3,205.3 173.6,184.2 173.6,145 	"/>
+		<linearGradient id="ian_symbols_48a484c85f6f0644499c83aff492021e" gradientUnits="userSpaceOnUse" x1="1288.3513" y1="-1296.8036" x2="1431.9194" y2="-1309.3771" gradientTransform="matrix(0.1996 0 0 0.1996 -30.8145 459.3058)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_48a484c85f6f0644499c83aff492021e)" points="228.4,163.9 228.4,223.5 252,234.6 252,163.9 	"/>
+		<linearGradient id="ian_symbols_c0d82266f3eeb2e4c5fbc5ddeee687e7" gradientUnits="userSpaceOnUse" x1="753.517" y1="-1558.7021" x2="868.0857" y2="-1568.7168" gradientTransform="matrix(0.1996 0 0 0.1996 -30.8145 459.3058)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_c0d82266f3eeb2e4c5fbc5ddeee687e7)" points="121.8,112.4 121.8,173.5 140,182 140,118.1 	"/>
+		<linearGradient id="ian_symbols_e037b88bf20affa4bd865f52652d7119" gradientUnits="userSpaceOnUse" x1="259.0963" y1="-2644.5732" x2="-1.2529" y2="-2952.186" gradientTransform="matrix(-0.1205 -9.600000e-03 0 0.1099 124.3303 438.1908)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_e037b88bf20affa4bd865f52652d7119)" points="117.7,111.1 117.7,159.3 93.6,148.6 93.6,105.8 	"/>
+		<linearGradient id="ian_symbols_9eefcb7be2827d0451ff9306af274bc1" gradientUnits="userSpaceOnUse" x1="485.6157" y1="-2728.7646" x2="248.3984" y2="-3009.613" gradientTransform="matrix(-0.1205 -9.600000e-03 0 0.1099 124.3303 438.1908)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#70CFEE"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_9eefcb7be2827d0451ff9306af274bc1)" points="89.3,103.6 65.2,97.7 65.2,136 89.3,146.7 	"/>
+	<polygon fill="#939598" points="49.3,149.4 62.2,145.7 62.2,6.2 49.3,9.8 	"/>
+	<polygon fill="#A45B58" points="36.1,143.3 49.3,149.4 49.3,9.8 36.1,8.6 	"/>
+	<g>
+		<polygon fill="#5A5C5D" points="49.3,13.6 64.8,9.2 65.1,3.3 49.3,7.4 		"/>
+		<path fill="#FFFFFF" d="M49.3,13.6L49.3,13.6V7.3l0,0l15.8-4.1l0,0l0,0l-0.3,5.9l0,0L49.3,13.6L49.3,13.6z M49.3,7.4v6.3l15.5-4.4
+			l0.3-5.9L49.3,7.4z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="33.5,9.1 49.3,13.6 49.3,7.4 33.3,3.3 		"/>
+		<path fill="#FFFFFF" d="M49.3,13.6L49.3,13.6L33.5,9.1l0,0l-0.2-5.8l0,0l0,0l16.1,4l0,0L49.3,13.6L49.3,13.6z M33.5,9.1l15.8,4.5
+			V7.4l-16-4L33.5,9.1z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="65.1,3.3 49,0 33.5,3.3 49.3,7.4 		"/>
+		<path fill="#FFFFFF" d="M49.3,7.4L33.5,3.3l0,0l0,0L49,0l16.1,3.3l0,0l0,0L49.3,7.4z M33.6,3.3l15.8,4.1l15.8-4.1L49,0L33.6,3.3z"
+			/>
+	</g>
+	<polygon fill="#D2D3D4" points="54.2,136.5 57,136 57,21.2 54.2,21.9 	"/>
+	<polygon fill="#D2D3D4" points="40.7,135.8 43.4,136.5 43.4,21.9 40.7,21.2 	"/>
+	<polygon fill="#E5B32C" points="154.4,101.8 124.7,133.4 154.1,125.8 	"/>
+	<polygon fill="#E2D5B0" points="124.7,133.4 36.8,99.4 62.2,76.3 156.7,107.3 	"/>
+	<polygon fill="#E2D5B0" points="246.7,114.6 246.7,100.2 209.8,59.2 183.9,79 183.9,94.1 	"/>
+	<polygon fill="#939598" points="156.8,200.6 170.2,196.7 170.2,30.2 156.8,34 	"/>
+	<polygon fill="#A45B58" points="143,192.9 156.8,200.6 156.8,34 143,32.7 	"/>
+	<g>
+		<polygon fill="#5A5C5D" points="156.8,38 173,33.4 173.3,27.2 156.8,31.4 		"/>
+		<path fill="#FFFFFF" d="M156.8,38L156.8,38v-6.6l0,0l16.5-4.2l0,0l0,0l-0.3,6.2l0,0L156.8,38L156.8,38z M156.8,31.4V38l16.2-4.6
+			l0.3-6.2L156.8,31.4z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="140.3,33.2 156.8,38 156.8,31.4 140,27.2 		"/>
+		<path fill="#FFFFFF" d="M156.8,38L156.8,38l-16.5-4.7l0,0l-0.3-6l0,0l0,0l16.8,4.2l0,0V38L156.8,38z M140.3,33.2l16.5,4.7v-6.5
+			L140,27.2L140.3,33.2z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="173.3,27.2 156.4,23.7 140.3,27.2 156.8,31.4 		"/>
+		<path fill="#FFFFFF" d="M156.8,31.4l-16.5-4.2l0,0l0,0l16.1-3.4l16.9,3.4l0,0l0,0L156.8,31.4z M140.3,27.2l16.5,4.2l16.5-4.2
+			l-16.9-3.4L140.3,27.2z"/>
+	</g>
+	<polygon fill="#D2D3D4" points="161.9,187 164.8,186.6 164.8,45.9 161.9,46.6 	"/>
+	<polygon fill="#D2D3D4" points="147.7,186.4 150.6,187 150.6,46.6 147.7,45.9 	"/>
+	<polygon fill="#E5B32C" points="269.1,143.3 228.5,177.2 259.6,169.2 	"/>
+	<polygon fill="#E5B32C" points="399.2,190.5 350.2,224.6 396.5,215.8 	"/>
+	<polygon fill="#E2D5B0" points="228.5,177.2 137.5,138.6 170.1,110.3 273.7,144.9 	"/>
+	<polygon fill="#939598" points="273.8,255.1 287.7,251.1 287.7,59.2 273.8,63.1 	"/>
+	<polygon fill="#A45B58" points="259.4,247.1 273.8,255.1 273.8,63.1 259.4,61.8 	"/>
+	<g>
+		<polygon fill="#5A5C5D" points="273.8,67.3 290.6,62.5 290.9,56.1 273.8,60.5 		"/>
+		<path fill="#FFFFFF" d="M273.8,67.3L273.8,67.3v-6.8l0,0l17.1-4.4l0,0l0,0l-0.3,6.4l0,0L273.8,67.3L273.8,67.3z M273.8,60.5v6.8
+			l16.8-4.8l0.3-6.4L273.8,60.5z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="256.6,62.3 273.8,67.3 273.8,60.5 256.4,56.1 		"/>
+		<path fill="#FFFFFF" d="M273.8,67.3L273.8,67.3l-17.2-4.9l0,0l-0.3-6.3l0,0l0,0l17.4,4.4l0,0L273.8,67.3L273.8,67.3z M256.7,62.3
+			l17.1,4.9v-6.8L256.4,56L256.7,62.3z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="290.9,56.1 273.4,52.5 256.6,56.1 273.8,60.5 		"/>
+		<path fill="#FFFFFF" d="M273.8,60.5l-17.2-4.4l0,0l0,0l16.8-3.6l17.5,3.6l0,0l0,0L273.8,60.5z M256.7,56.1l17.1,4.4l17.1-4.4
+			l-17.5-3.6L256.7,56.1z"/>
+	</g>
+	<polygon fill="#D2D3D4" points="279.2,241 282.1,240.5 282.1,75.5 279.2,76.3 	"/>
+	<polygon fill="#D2D3D4" points="264.4,240.4 267.4,241 267.4,76.3 264.4,75.5 	"/>
+	<polygon fill="#E2D5B0" points="350.2,224.6 246.7,183.2 287.6,149.3 400.8,191 	"/>
+	<polygon fill="#939598" points="401.5,312.9 416.2,306.3 416.2,85.4 401.5,89.5 	"/>
+	<polygon fill="#A45B58" points="386.2,304.6 401.5,312.9 401.5,89.5 386.2,88.1 	"/>
+	<g>
+		<polygon fill="#5A5C5D" points="401.5,93.9 419.3,88.9 419.6,82 401.5,86.7 		"/>
+		<path fill="#FFFFFF" d="M401.5,93.9L401.5,93.9v-7.2l0,0l18.2-4.7l0,0l0,0l-0.3,6.8l0,0L401.5,93.9L401.5,93.9z M401.5,86.7v7.2
+			l17.8-5.1l0.3-6.8L401.5,86.7z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="383.3,88.7 401.5,93.9 401.5,86.7 383,82 		"/>
+		<path fill="#FFFFFF" d="M401.5,93.9L401.5,93.9l-18.2-5.2l0,0L383,82l0,0l0,0l18.4,4.6l0,0L401.5,93.9L401.5,93.9z M383.3,88.7
+			l18.2,5.2v-7.2L383,82.1L383.3,88.7z"/>
+	</g>
+	<g>
+		<polygon fill="#59595B" points="419.6,82 401.1,78.2 383.3,82 401.5,86.7 		"/>
+		<path fill="#FFFFFF" d="M401.5,86.7L383.3,82l0,0l0,0l17.8-3.8l18.6,3.8l0,0l0,0L401.5,86.7z M383.3,82l18.1,4.7l18.1-4.7
+			L401,78.2L383.3,82z"/>
+	</g>
+	<polygon fill="#D2D3D4" points="407.1,294.1 410.2,293.6 410.2,102.6 407.1,103.4 	"/>
+	<polygon fill="#D2D3D4" points="391.5,293.4 394.6,294.1 394.6,103.4 391.5,102.6 	"/>
+</g>
+</svg>

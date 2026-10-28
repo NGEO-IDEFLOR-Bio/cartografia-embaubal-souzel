@@ -1,0 +1,74 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="486" viewBox="0 0 501 486" xml:space="preserve">
+            <title>Mining: hammer and chisel</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mining: hammer and chisel</ian_image_library:title>
+                <ian_image_library:descr>Illustration of hammer and chisel for mining</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, industry, resource, extraction, mining, mine, hammer, chisel, tools, equipment</ian_image_library:contains>
+                    <ian_image_library:when>2009-11-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c86fda86b96a848499db5791b3427eb0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mining: hammer and chisel</dc:title>
+                <dc:date>2009-11-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mining-hammer-and-chisel/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mining-hammer-and-chisel/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, industry, resource, extraction, mining, mine, hammer, chisel, tools, equipment</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of hammer and chisel for mining</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="430.9 485.37 261.79 315.46 91.875 484.55 43.897 434.96 212.2 265.05 136.59 188.62 73.979 251.22 0 176.42 60.978 116.26 56.093 107.32 105.69 58.531 113.01 65.042 175.6 2.442 248.79 76.427 186.18 140.65 263.42 214.64 343.9 133.34 287.8 74.795 363.41 0 418.7 56.915 429.27 47.156 478.05 96.75 470.74 105.69 500 136.58 486.99 269.11 398.38 178.05 312.19 264.23 482.11 434.15" clip-rule="evenodd" fill-rule="evenodd"/>
+</svg>

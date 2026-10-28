@@ -1,0 +1,112 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="365" height="501" viewBox="0 0 365 501" xml:space="preserve">
+            <title>Dinoflagellate 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Dinoflagellate 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a third Dinoflagellate</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, dinoflagellate, Protozoa, Dinophyta, Dinophyceae, Ebriophyceae, </ian_image_library:contains>
+                    <ian_image_library:when>2004-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-aaa1c05fd1ae9ec445b50daa8a0cfbd8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Dinoflagellate 3</dc:title>
+                <dc:date>2004-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/dinoflagellate-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/dinoflagellate-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, dinoflagellate, Protozoa, Dinophyta, Dinophyceae, Ebriophyceae, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a third Dinoflagellate</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".25" d="m148.94 133.55c134.74-48.112 187.94 82.368 187.94 82.368s42.776 126.25-109.33 180.09c-152.15 53.89-191.43-88.9-191.43-88.9s-21.874-125.34 112.82-173.56z" fill="#7E5F4A"/>
+ <radialGradient id="ian_symbols_f8099d3d34a2273415ed9b405feda5b5" gradientUnits="userSpaceOnUse" cy="250.12" cx="181.75" r="218.5">
+  <stop stop-color="#D4A060" offset=".2135"/>
+  <stop stop-color="#B57658" offset=".8876"/>
+ </radialGradient>
+ <path opacity=".8" stroke="#000" stroke-width=".25" d="m106.76 1.021c-19.159 6.281-2.363 59.702-19.583 102.19-13.72 33.845-49.859 74.929-64.428 111.68-14.551 36.74-25.127 69.31-22.107 78.37 3.021 9.063 8.282 8.891 8.282 8.891s6.706 16.069 6.945 23.262c.185 7.192-2.178 17.289 3.137 23.748 10.768 12.815 58.017 44.481 73.916 62.791 15.898 18.255 41.879 73.908 53.421 81.587 11.548 7.727 18.433 10.631 31.104-2.418 12.706-13.117 8.363-33.18 26.666-48.53 18.309-15.288 43.153-30.755 60.558-26.166 17.46 4.651 36.311 13.474 49.729 21.878 13.473 8.392 18.74 17.46 29.796 9.542 11.056-7.85 3.932-36.611 3.932-36.611l-7.617-87.93s22.234-60.497 22.844-76.21c.541-15.651-7.802-88.402-26.967-98.074-19.152-9.672-65.381-37.05-90.937-49.914-25.509-12.946-87.745-40.311-98.869-58.018-11.11-17.587-20.6-46.411-39.81-40.067z" fill="url(#ian_symbols_f8099d3d34a2273415ed9b405feda5b5)"/>
+ <line y2="64.592" x1="116.13" x2="116.01" stroke="#000" y1="37.584" stroke-width=".25" fill="none"/>
+ <line y2="151.07" x1="67.235" x2="76.236" stroke="#000" y1="174.65" stroke-width=".25" fill="none"/>
+ <line y2="194.4" x1="77.866" x2="81.441" stroke="#000" y1="222.62" stroke-width=".25" fill="none"/>
+ <line y2="243.65" x1="112.26" x2="115.71" stroke="#000" y1="217.72" stroke-width=".25" fill="none"/>
+ <line y2="217.91" x1="158.01" x2="162.54" stroke="#000" y1="200.09" stroke-width=".25" fill="none"/>
+ <line y2="221.6" x1="200.13" x2="213.97" stroke="#000" y1="202.98" stroke-width=".25" fill="none"/>
+ <line y2="190.05" x1="231.91" x2="243.46" stroke="#000" y1="174.52" stroke-width=".25" fill="none"/>
+ <line y2="184.01" x1="268.36" x2="281.39" stroke="#000" y1="163.82" stroke-width=".25" fill="none"/>
+ <line y2="282.21" x1="293.02" x2="295.67" stroke="#000" y1="262.51" stroke-width=".25" fill="none"/>
+ <line y2="297.44" x1="328.12" x2="327.7" stroke="#000" y1="283.18" stroke-width=".25" fill="none"/>
+ <line y2="338.29" x1="292.41" x2="293.49" stroke="#000" y1="319.38" stroke-width=".25" fill="none"/>
+ <line y2="390.93" x1="298.03" x2="305.64" stroke="#000" y1="371.58" stroke-width=".25" fill="none"/>
+ <line y2="296.65" x1="229.19" x2="228.35" stroke="#000" y1="279.67" stroke-width=".25" fill="none"/>
+ <line y2="321.61" x1="171.12" x2="179.89" stroke="#000" y1="298.76" stroke-width=".25" fill="none"/>
+ <line y2="384.34" x1="185.56" x2="196.68" stroke="#000" y1="362.22" stroke-width=".25" fill="none"/>
+ <line y2="358.96" x1="232.4" x2="234.63" stroke="#000" y1="340.4" stroke-width=".25" fill="none"/>
+ <line y2="397.69" x1="148.39" x2="159.88" stroke="#000" y1="374.43" stroke-width=".25" fill="none"/>
+ <line y2="338.83" x1="121.92" x2="127.66" stroke="#000" y1="321.37" stroke-width=".25" fill="none"/>
+ <line y2="351.77" x1="60.769" x2="76.544" stroke="#000" y1="338.89" stroke-width=".25" fill="none"/>
+ <line y2="433.59" x1="126.58" x2="144.66" stroke="#000" y1="413.76" stroke-width=".25" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m211.94 148.65c-9.521.726-22.042 43.215-17.371 62.003 4.946 21.94 6.699 45.571 18.604 35.057 11.912-10.521 93.547-26.016 99.643-29.68 9.51-.75-68.66-63.56-100.87-67.38z" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m98.662 18.85s24.693 18.851 32.276 34.208c7.61 15.377 64.662 90.526 81.005 95.595" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m128.37 10.391s-7.172 40.304-3 52.695c1.028 12.692-5.069 16.378-4.075 29.036 1.267 15.802 2.808 34.837-7.59 64.36-2.418 9.822-13.049 36.173-27.364 56.469-17.234 23.659-31.063 58.229-30.043 70.922" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m54.152 322.04s28.495 44.29 118.9 17.878" fill="none"/>
+ <line y2="362.1" x1="99.874" x2="95.1" stroke="#000" y1="342.62" stroke-width=".25" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m108.64 172.89s59.826 30.275 67.675 48.729c8.104 21.673 13.213 27.865-5.555 32.577-18.768 4.624-113.55 32.543-156.88 48.736" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m20.219 326.26s22.844-5.083 38.201-12.692c15.583-4.473 89.917-29.46 105.99-27.556 16.104 1.876 29.906 1.205 24.351 11.179-9 7.137-14.864 13.959-14.35 20.275-2.63 6.617-8.733 10.309-5.315 13.213.507 6.336-2.904 3.411 7.823 18.48 10.548 11.904 25.439 78.867 38.379 80.978" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m238.63 421.68s-4.37-73.847-8.555-86.354c-7.11-8.966-10.521-11.85-14.2-17.98-.521-6.309-4.438-15.563-8.137-21.659-.754-9.487-4.165-12.453 4.843-19.521 12.138-7.37 34.81-15.11 146.87-49.551" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m296.36 247.16c1 12.631 1 12.631-7.459 26.139-11.446 16.83-45.14 73.758-57.832 74.785" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m291.8 269.85s63.936-4.562 69.799-11.418" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m223.76 90.943s-40.427 18.549-36.023 34.146" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m60.529 158.81s41.523 11.418 42.537 24.056" fill="none"/>
+ <path stroke="#000" stroke-width=".25" d="m312.82 216.03c21.2 4.261 42.38-21.179 42.38-21.179" fill="none"/>
+</svg>

@@ -1,0 +1,114 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="256" viewBox="0 0 502 256" xml:space="preserve">
+            <title>Reef 2D: rocky</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Reef 2D: rocky</ian_image_library:title>
+                <ian_image_library:descr>Illustration of rocky reef base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, ocean, reef, rocky</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4a975a6bb8fd6ee48d306b73ee7ff10d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Reef 2D: rocky</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/reef-2d-rocky/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/reef-2d-rocky/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, ocean, reef, rocky</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of rocky reef base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_e80989a6ffbd32b4f9fc4c5f313a1d15" y2="9.166" gradientUnits="userSpaceOnUse" x2="249.5" y1="161.91" x1="249.5">
+  <stop stop-color="#0083B7" offset="0"/>
+  <stop stop-color="#4BA1C6" offset=".4561"/>
+  <stop stop-color="#80B7D1" offset=".8224"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m498.75 16.968c-9.316-1.065-14.452-5.24-14.452-5.24s-9.028 5.167-17.599 5.712c-8.518.503-18.564-6.257-18.564-6.257s-5.713 5.712-17.09 6.14c-11.374.348-18.566-5.83-18.566-5.83s-9.287 4.859-17.142 5.947c-7.802 1.05-19.024-6.062-19.024-6.062s-5.51 4.04-15.355 5.829c-9.744 1.671-20.81-5.597-20.81-5.597s-7.907 4.742-17.14 5.83c-9.285 1.05-18.925-6.062-18.925-6.062s-7.857 5.283-17.447 6.062c-9.641.737-18.718-6.062-18.718-6.062s-6.786 5.131-17.243 5.945c-10.509.74-18.568-5.83-18.568-5.83s-9.028 4.742-17.088 5.83c-8.007 1.048-18.771-5.713-18.771-5.713s-7.957 5.597-17.242 5.946c-9.284.387-19.079-5.946-19.079-5.946s-6.581 5.597-17.495 5.83c-10.918.231-18.159-6.062-18.159-6.062s-7.856 4.7-16.782 5.945c-8.875 1.167-19.639-5.83-19.639-5.83s-7.396 5.287-17.444 5.83c-9.999.506-18.007-5.713-18.007-5.713s-4.998 3.379-5.561 3.379c-.459 0-1.223 1.905-11.527 2.451-10.354.503-18.875-5.404-18.875-5.404s-7.2 5.301-16.177 6.037.184 149.84.357 236.13h498.14v-237.23z" fill="url(#ian_symbols_e80989a6ffbd32b4f9fc4c5f313a1d15)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m498.75 14.595c-2.949-7.572-6.449-12.496-10.818-13.248-7.492-1.291-25.957-2.559-31.029 3.182-21.324 24.129-4.633 112.44-30.285 140.55-7.807 8.553-93.923 21.383-92.418-7.295.539-10.334-23.604-10.498-25.547 0-6.013 32.451-72.476 22.648-94.655 23.268-10.959 2.027-10.188-18.682-20.306-17.231-28.682 4.111-5.234 22.101-37.467 25.757-16.286 1.847-31.319 3.14-45.12 4.273-54.756 4.491-90.072 51.409-107.02 80.354h494.67v-239.6z" fill="#E2E3E4"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m95.114 185.93c6.738 0 14.521 1.822 21.275-.132 5.036-1.457 10.338-1.482 15.239-4.127 10.207-5.508 20.184 4.599 30.754 4.599 16.521 0 33.147-10.146 49.602-11.821 7.941-.809 15.36-5.682 23.095-7.014 6.149-1.06 12.367 8.126 18.606 8.126 18.021 0 36.146-6.556 54.196-8.152 13.217-1.17 26.281 9.773 39.913 9.773 19.441.005 39.065-14.473 58.448-13.654 10.561.447 18.12 7.049 28.328 8.714 18.323 2.985 36.008-3.97 54.237-3.97" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m52.54 206.87c24.746-16.067 46.875 2.464 70.451 4.528 16.784 1.47 33.21-4.087 49.77-4.528" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m197.71 241.7c24.747-12.052 46.875 1.849 70.451 3.396 16.783 1.103 33.209-3.065 49.77-3.396" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m260.19 213.5c44.872-16.068 84.996 2.463 127.75 4.527 30.433 1.469 60.219-4.087 90.246-4.527" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m35.833 223.91c44.874-16.066 84.999 2.465 127.75 4.529 30.434 1.47 60.22-4.088 90.247-4.529" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m202.68 183.03c38.974 0 75.699.514 114.07 7.745 34.01 6.409 63.941-3.121 97.822-3.218" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m390.55 197.4c23.41 1.797 39.955 1.807 61.614-6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m492.74 134.01c-13.495.353-38.521-19.674-46.586-4.528" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m489.73 41.942c-11.728-2.722-25.63-3.108-34.563 6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m151.32 193.43c-11.726-2.723-25.628-3.108-34.563 6.038" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m488.79 176.38c-11.726-2.722-25.629-3.107-34.563 6.038" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m452.16 66.091c12.253-5.071 34.221-3.354 45.083 4.529" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m330.56 240.3c12.252-5.071 34.22-3.355 45.081 4.528" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m452.16 88.731h46.585" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m440.14 114.39c18.258 1.098 38.131-4.527 57.106-4.527" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m477.71 8.737c-4.791-5.001-11.675-2.289-18.032 0" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m254.3 199.04c-4.793-5.001-11.676-2.29-18.033 0" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m209.99 167.8c-9.053-5.001-22.052-2.29-34.059 0" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m492.79 186.73c-9.053-5.002-22.05-2.288-34.056 0" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m198.68 155.49c-4.791-5.003-11.675-2.29-18.032 0" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m328.77 138.45c-4.792-5.001-11.675-2.289-18.032 0" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m331.83 147.92c-7.361-5.001-17.929-2.289-27.69 0" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m447.66 147.6c13.579-10.602 36.77-1.627 52.594-6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m378.84 231.86c13.579-10.603 36.77-1.627 52.595-6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m22.515 242.28c13.579-10.602 36.77-1.627 52.595-6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m451.42 30.194c12.362-10.602 33.478-1.627 47.885-6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m183.17 197.4c13.706-.835 30.202 3.322 43.581 6.038" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m195.42 209.71c13.705-.836 30.201 3.322 43.58 6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m304.77 155.75c13.706-.837 30.201 3.322 43.579 6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m458.87 197.99c10.445-.834 23.016 3.322 33.212 6.038" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m271.78 222.02c21.709-.836 47.84 3.322 69.032 6.037" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m445.23 230.54c13.706-.837 30.201 3.323 43.581 6.039" fill="none"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="7.3973" d="m103.04 237.17c13.707-.836 30.202 3.322 43.581 6.037" fill="none"/>
+</svg>

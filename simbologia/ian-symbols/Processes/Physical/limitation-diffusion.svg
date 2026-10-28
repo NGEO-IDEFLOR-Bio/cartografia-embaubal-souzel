@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="518" height="493" viewBox="0 0 518 493" xml:space="preserve">
+            <title>Limitation: diffusion</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Limitation: diffusion</ian_image_library:title>
+                <ian_image_library:descr>Illustration of diffusion limitation</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, limitation, diffusion</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a64c143d907ceac41de1765e1fa72740">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Limitation: diffusion</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/limitation-diffusion/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/limitation-diffusion/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, limitation, diffusion</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of diffusion limitation</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#231F20" stroke-width="8" points="258.6 9.039 335.84 165.57 508.6 190.67 383.59 312.52 413.1 484.56 258.6 403.33 104.09 484.56 133.6 312.52 8.596 190.67 181.35 165.57" fill="#B9DA95"/>
+ <line y2="295.07" x1="152.71" x2="360.88" stroke="#231F20" stroke-miterlimit="3.8637" y1="295.07" stroke-width="6.3133" fill="#D2232A"/>
+ <line y2="381.62" x1="153.5" x2="361.68" stroke="#231F20" stroke-miterlimit="3.8637" y1="381.62" stroke-width="6.3133" fill="#D2232A"/>
+ <path stroke="#231F20" stroke-width="6.3133" stroke-miterlimit="3.8637" d="m194.53 214.19c-.474 14.81 3.416 29.919 12.069 43.283 22.647 34.925 69.341 44.914 104.26 22.266 22.063-14.313 34.168-38.208 34.376-62.67" fill="none"/>
+ <path stroke="#231F20" stroke-width="5.3875" d="m194.3 193.64c3.896 11.583 10.705 26.058 18.115 35.11l-18.982-7.572-19.399 6.347c7.96-8.57 15.65-22.56 20.26-33.89z" fill="#231F20"/>
+ <line y2="340.88" x1="261.14" x2="261.14" stroke="#231F20" stroke-miterlimit="3.8637" y1="293.32" stroke-width="6.3133" fill="#231F20"/>
+ <path d="m261.14 372.38c-5.521-14.821-14.902-33.214-24.833-44.613l24.833 8.972 24.821-8.972c-9.94 11.4-19.33 29.79-24.82 44.61z" fill="#231F20"/>
+</svg>

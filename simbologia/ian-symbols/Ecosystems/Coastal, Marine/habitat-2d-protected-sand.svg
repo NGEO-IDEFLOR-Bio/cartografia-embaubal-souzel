@@ -1,0 +1,98 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="144" viewBox="0 0 502 144" xml:space="preserve">
+            <title>Habitat 2D: protected sand</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Habitat 2D: protected sand</ian_image_library:title>
+                <ian_image_library:descr>Illustration of habitat base of protected sand</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, ocean, habitat, protected, sand</ian_image_library:contains>
+                    <ian_image_library:when>2005-01-10</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ccbea6691f0f6dc4418170fd77597661">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Habitat 2D: protected sand</dc:title>
+                <dc:date>2005-01-10</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/habitat-2d-protected-sand/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/habitat-2d-protected-sand/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, ocean, habitat, protected, sand</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of habitat base of protected sand</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_8dadde5c2c7ad0d4d1d9441a9d52c580" height="49.852" viewBox="0 -49.852 49.852 49.852" width="49.852" patternUnits="userSpaceOnUse" y="531.431" x="-42.787" overflow="visible">
+   <polygon points="0 0 0 -49.853 49.853 -49.853 49.853 0" fill="none"/>
+   <polygon points="49.853 0 0 0 0 -49.853 49.853 -49.853" fill="#fff"/>
+   <path d="m17.779-37.738c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m29.616-20.762c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m31.796-32.131c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.336 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m7.954-17.181c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m16.237-25.745c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m21.05-7.992c0 .336-.272.609-.609.609-.335 0-.607-.273-.607-.609 0-.335.272-.608.607-.608.336-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m38.337-16.245c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.336-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m46.28-44.435c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m28.215-45.665c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m44.878-27.614c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336-.001.609.271.609.608z" fill="#231F20"/>
+   <path d="m3.296-3.164c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.336 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m8.411-43.344c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.337 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m42.698-6.59c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+  </pattern>
+ </defs>
+ <linearGradient id="ian_symbols_6515a75481da6c04c575478b55a8dbfc" y2="71.73" gradientUnits="userSpaceOnUse" x2="500.25" y1="71.73" x1=".25">
+  <stop stop-color="#0F97C2" offset=".0562"/>
+  <stop stop-color="#63A9CB" offset=".5281"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path d="m500.25 6.385l-9.952-4.105s-7.612 3.556-13.653 4.105c-6.042.545-7.535-2.313-8.456-2.972-.916-.658-9.558 2.637-14.331 2.637-4.777 0-15.622-3.294-15.622-3.294s-9.917 4.618-14.146 1.976c-4.225-2.636-14.149-1.976-14.149-1.976s-11.942 3.63-15.62 2.966c-3.672-.661-12.676-2.309-14.327-3.296-1.652-.991-6.986 3.624-14.516 3.296-7.534-.331-15.617-3.296-15.617-3.296s-10.842 3.959-14.887 3.296c-4.041-.661-12.861-2.966-14.149-3.296-1.287-.331-6.431 3.296-14.333 3.296-7.897 0-14.88-2.966-14.88-2.966s-9.188 3.63-15.618 2.966c-6.433-.661-12.129-2.638-13.601-3.296-1.469-.66-6.8 4.947-15.802 2.965-9.003-1.978-13.962-2.307-13.962-2.307s-3.124 3.301-13.6 2.638c-10.474-.661-15.802-2.638-15.802-2.638s-7.484 2.798-15.066 2.638c-7.58-.156-13.23-1.318-14.33-2.638-.244-.286-8.088 3.724-20.571 3.271-4.734-.168-16.31-3.688-16.31-3.688s-9.648 2.662-14.369 2.525c-6.985-.204-14.16-2.216-14.16-2.216s-11.798 2.352-16.983 2.216c-3.911-.103-11.532-2.832-11.532-2.832s-10.427 2.25-15.166 2.129c-4.752-.116-13.669-3.361-13.669-3.361s-5.64 3.407-12.093 2.896c-6.456-.512-12.754-3.746-12.754-3.746s-9.299 4.292-14.744 4.787c-5.446 0.5-11.219-3.576-11.219-3.576v141.69h499.61l.39-136.8z" fill-rule="evenodd" stroke="#0083B7" clip-rule="evenodd" stroke-width=".5" fill="url(#ian_symbols_6515a75481da6c04c575478b55a8dbfc)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m387.27 106.92c-24.676 23.822-43.376 11.757-86.504 9.321-35.464-2.001-53.84-15.426-72.381-17.919-29.526-3.974-61.936 5.192-84.989 1.068-30.074-5.382-50.603-9.702-51.041-9.843-30.098-9.784-78.472-8.848-92.104 2.56v51.077h499.56v-26.513c-17.14-6.13-90.79-30.758-112.55-9.75z" fill="url(#ian_symbols_8dadde5c2c7ad0d4d1d9441a9d52c580)"/>
+</svg>

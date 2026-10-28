@@ -1,0 +1,105 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="304" viewBox="0 0 501 304" xml:space="preserve">
+            <title>Erosion</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Erosion</ian_image_library:title>
+                <ian_image_library:descr>Illustration of erosion.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, bank, erosion, wind, water</ian_image_library:contains>
+                    <ian_image_library:when>2012-04-30</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-73f18dad15c677e4ed4f889bf15471de">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Erosion</dc:title>
+                <dc:date>2012-04-30</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/erosion-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/erosion-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, bank, erosion, wind, water</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of erosion.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#9B7F4B" d="M404.635,42.026c0,0-331.632-79.073-385.709-20.293C29.665,58.324,44.829,66.93,63.499,79.68
+	C30.218-18.719,404.625,42.026,404.625,42.026H404.635z"/>
+<path fill="#D2AB67" d="M499.786,265.36l-87.015-100.87l-23.707,36.608c-0.024-0.105-0.039-0.209-0.063-0.314
+	C255.104,172.937,79.432,141.263,18.915,21.729c-90.887,138.909,166.723,206.277,327.096,245.852l-23.026,35.557L499.786,265.36z"/>
+<path fill="#705739" d="M76.17,138.46c-5.739,8.769-2.715,16.047,3.761,20.475c4.599,3.116,7.996,4.246,10.984,4.819l-1.92,5.381
+	c-2.963-0.529-7.746-1.957-13.336-5.768c-10.874-7.396-12.457-19.024-5.219-29.663c7.237-10.639,19.146-14.68,29.443-7.697
+	c11.585,7.885,7.734,19.974,3.313,26.47c-0.882,1.309-1.588,2.204-2.248,2.827L76.17,138.46z M98.084,146.653
+	c2.798-3.966,5.391-11.487-1.837-16.402c-6.584-4.453-13.356-0.437-16.881,3.668L98.084,146.653z"/>
+<path fill="#705739" d="M115.793,152.232c2.346-4.442,4.267-8.303,5.867-11.926l5.991,3.133l-3.593,7.646l0.242,0.136
+	c4.346-4.178,10.246-5.172,14.836-2.76c0.7,0.366,1.222,0.736,1.785,1.135l-3.385,6.469c-0.614-0.516-1.328-0.883-2.243-1.378
+	c-4.848-2.522-10.154-0.739-13.775,3.921c-0.65,0.843-1.336,1.972-1.926,3.069l-10.512,20.13l-6.894-3.601L115.793,152.232z"/>
+<path fill="#705739" d="M173.545,187.387c-6.196,14.512-19.044,16.485-28.467,12.462c-10.556-4.52-15.466-15.849-10.159-28.268
+	c5.583-13.04,17.584-17.031,28.371-12.403C174.547,163.997,178.661,175.441,173.545,187.387z M142.337,174.471
+	c-3.702,8.6-1.612,17.177,5.381,20.165c6.803,2.9,14.659-1.297,18.435-10.138c2.856-6.654,3.094-16.439-5.329-20.055
+	C152.469,160.873,145.501,167.089,142.337,174.471z"/>
+<path fill="#705739" d="M178.334,203.697c1.785,2.11,5.083,4.946,8.749,6.233c5.234,1.849,8.627,0.123,9.825-3.272
+	c1.213-3.49-0.205-6.041-4.838-9.908c-6.386-5.225-8.42-10.332-6.761-15.149c2.306-6.49,9.487-9.943,18.049-6.938
+	c4.072,1.419,7.271,3.745,8.934,5.921l-3.609,4.723c-1.214-1.563-3.66-3.991-7.367-5.293c-4.329-1.523-7.542,0.15-8.593,3.154
+	c-1.168,3.328,0.654,5.616,5.15,9.533c5.981,4.997,8.434,9.774,6.305,15.766c-2.487,7.143-9.806,10.181-19.194,6.882
+	c-4.409-1.54-8.095-4.139-10.317-6.78L178.334,203.697z"/>
+<path fill="#705739" d="M210.599,222.951l12.951-40.655l7.395,2.344l-12.968,40.669L210.599,222.951z M235.425,173.481
+	c-0.792,2.518-3.207,3.982-6.133,3.044c-2.693-0.853-3.839-3.424-3.02-5.954c0.79-2.506,3.304-4.021,6.093-3.154
+	C235.046,168.282,236.259,170.882,235.425,173.481z"/>
+<path fill="#705739" d="M274.24,219.566c-4.439,15.16-16.96,18.632-26.754,15.759c-11-3.233-17.238-13.89-13.434-26.842
+	c3.988-13.628,15.438-18.986,26.668-15.679C272.495,196.264,277.91,207.13,274.24,219.566z M241.729,210.48
+	c-2.635,8.954,0.449,17.218,7.71,19.354c7.123,2.104,14.403-3.011,17.126-12.236c2.044-6.936,1.147-16.669-7.659-19.256
+	C250.197,195.785,244,202.771,241.729,210.48z"/>
+<path fill="#705739" d="M285.551,212.84c1.154-4.325,1.975-7.77,2.639-11.234l6.645,1.776l-1.417,6.928l0.177,0.031
+	c3.078-3.275,8.883-5.838,15.689-4.026c5.723,1.52,13.663,7.306,9.866,21.459l-6.55,24.512l-7.482-1.992l6.339-23.765
+	c1.789-6.643,0.783-12.844-6.267-14.727c-4.866-1.305-9.631,1.173-12.109,4.971c-0.584,0.858-1.109,2.086-1.442,3.349l-6.639,24.807
+	l-7.47-2.004L285.551,212.84z"/>
+</svg>

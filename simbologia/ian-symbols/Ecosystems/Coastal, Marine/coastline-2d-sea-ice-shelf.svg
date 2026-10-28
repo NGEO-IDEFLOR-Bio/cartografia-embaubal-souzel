@@ -1,0 +1,89 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="182" viewBox="0 0 502 182" xml:space="preserve">
+            <title>Coastline 2D: sea ice shelf</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: sea ice shelf</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with sea ice shelf</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, coastal, marine, coastline, sea, ice, shelf, glacier, ice, sheet, polar, Antarctic, GreenlCanada</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e94266a627d16d04053b3394910fdc12">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: sea ice shelf</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-sea-ice-shelf/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-sea-ice-shelf/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, coastal, marine, coastline, sea, ice, shelf, glacier, ice, sheet, polar, Antarctic, GreenlCanada</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with sea ice shelf</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_af2cc45825f20544910612321e7cb018" y2="-5.5554" gradientUnits="userSpaceOnUse" x2="490.07" y1="197.83" x1="53.905">
+  <stop stop-color="#004F6B" offset=".0674"/>
+  <stop stop-color="#08b" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m496.16 12.633c-1.881 1.907-5.383 3.055-10.041 3.055-4.656 0-8.158-1.147-10.04-3.055-1.881 1.907-5.386 3.055-10.041 3.055-4.66 0-8.165-1.147-10.048-3.055-1.873 1.907-5.378 3.055-10.04 3.055-4.655 0-8.159-1.147-10.042-3.055-1.874 1.907-5.381 3.055-10.037 3.055-4.655 0-8.162-1.147-10.041-3.055-1.878 1.907-5.387 3.055-10.043 3.055s-8.16-1.147-10.04-3.055c-1.882 1.907-5.386 3.055-10.041 3.055-4.657 0-8.163-1.147-10.046-3.055-1.878 1.907-5.385 3.055-10.04 3.055-4.659 0-8.162-1.147-10.04-3.055-1.88 1.907-5.386 3.055-10.043 3.055s-8.162-1.147-10.041-3.055c-1.879 1.907-5.385 3.055-10.044 3.055-4.653 0-8.161-1.147-10.043-3.055-1.873 1.907-5.379 3.055-10.037 3.055-4.659 0-8.161-1.147-10.045-3.055-1.876 1.907-5.383 3.055-10.042 3.055-4.657 0-8.16-1.147-10.039-3.055-1.878 1.907-5.387 3.055-10.043 3.055-4.658 0-8.163-1.147-10.042-3.055-1.878 1.907-5.383 3.055-10.042 3.055-4.657 0-8.163-1.147-10.042-3.055-1.876 1.907-5.382 3.055-10.038 3.055-4.663 0-8.163-1.147-10.045-3.055-1.877 1.907-5.381 3.055-10.045 3.055-4.656 0-8.159-1.147-10.038-3.055-1.879 1.907-5.384 3.055-10.038 3.055-4.66 0-8.163-1.147-10.043-3.055-1.879 1.907-5.385 3.055-10.045 3.055-4.651 0-8.161-1.147-10.04-3.055-1.882 1.907-5.384 3.055-10.042 3.055s-8.164-1.147-10.043-3.055c-1.876 1.907-5.384 3.055-10.039 3.055-4.659 0-8.166-1.147-10.042-3.055-1.88 1.907-5.385 3.055-10.043 3.055-4.657 0-8.163-1.147-10.042-3.055-1.878 1.907-5.385 3.055-10.041 3.055-4.657 0-8.164-1.147-10.043-3.055-1.877 1.907-5.384 3.055-10.04 3.055-4.658 0-8.164-1.147-10.043-3.055-1.879 1.907-5.384 3.055-10.041 3.055-.114 0-.219-.012-.333-.012v160.82h456.25v-161.6c-1.74-.522-3.13-1.294-4.09-2.267z" fill="url(#ian_symbols_af2cc45825f20544910612321e7cb018)"/>
+ <linearGradient id="ian_symbols_80a97d8def88d1647143cf8808e29c13" y2="67.755" gradientUnits="userSpaceOnUse" x2="362.76" y1="67.755" x1="76.626">
+  <stop stop-color="#C7EAFB" offset="0"/>
+  <stop stop-color="#EEF9FE" offset=".6359"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m326.82 44.101c36.87-7.9 38.626-30.725 34.236-34.236-4.39-3.513-11.412-2.633-11.412-2.633h-273.02l86.909 121.14s21.068-36.869 44.771-47.405c18.094-8.042 56.146-20.69 89.542-29.739l28.97-7.125z" fill="url(#ian_symbols_80a97d8def88d1647143cf8808e29c13)"/>
+ <linearGradient id="ian_symbols_957cfd81a88b3f141d0d2ca7576e316c" y2="90.387" gradientUnits="userSpaceOnUse" x2="500.25" y1="90.387" x1=".25">
+  <stop stop-color="#8F9388" offset="0"/>
+  <stop stop-color="#979C92" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m421.68 149.85c-21.119-.4-48.833-3.315-81.693-3.034-32.858.28-69.613.529-120.4-5.003-50.786-5.531-64.831-84.541-100.4-109-15.88-10.928-26.763-21.199-47.71-26.872-20.608-5.581-49.931-5.676-71.23-5.698v180.27h500v-28.15c-10.78-2.94-57.45-2.12-78.57-2.52z" fill="url(#ian_symbols_957cfd81a88b3f141d0d2ca7576e316c)"/>
+</svg>

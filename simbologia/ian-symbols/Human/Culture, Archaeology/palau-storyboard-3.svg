@@ -1,0 +1,77 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="230" viewBox="0 0 501 230" xml:space="preserve">
+            <title>Palau Storyboard: 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Palau Storyboard: 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, palau, storyboard, 3, fish</ian_image_library:contains>
+                    <ian_image_library:when>2009-10-23</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a1b9b0fa63e9a03415dcff1f6576dd46">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Palau Storyboard: 3</dc:title>
+                <dc:date>2009-10-23</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/palau-storyboard-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/palau-storyboard-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, palau, storyboard, 3, fish</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m0 138.8c0-10.555 22.805-64.917 29.816-71.928 7.022-7.022 41.225-35.089 77.211-35.089 16.123 0 49.253-34.782 80.678-31.578 42.997 4.375 155.28 66.667 154.4 71.928-.864 5.261-32.398-5.261-30.703 2.636 2.636 12.272 52.546 38.6 74.563 38.6 21.056 0 57.873-75.438 108.77-55.28-25.441 15.794-56.155 58.792-56.155 71.95 0 10.512 15.806 35.067 61.417 64.906-80.7 8.772-83.325-35.953-110.52-36.839-12.382-.416-55.27 17.534-59.656 24.566-4.375 7.011 37.726 12.272 31.589 21.92-6.136 9.647-107.03 26.316-121.94 24.556-14.92-1.739-19.306-13.137-32.453-13.137-13.158 0-74.476 3.084-91.233 0-33.34-6.18-115.79-51.78-115.79-77.22z" fill="#231F20"/>
+ <path stroke="#fff" stroke-width=".6266" stroke-linecap="round" d="m71.928 151.69c24.566 5.841 29.237-49.111 17.555-67.848" fill="none"/>
+ <path stroke="#fff" stroke-width=".6266" stroke-linecap="round" d="m110.53 122.44s43.095-11.08 37.429-3.511c-7.022 9.385-5.863 25.737-7.022 33.94-1.619 11.397-33.908-11.714-33.908-11.714" fill="none"/>
+ <path d="m69.587 68.647c0-5.163-4.189-9.352-9.363-9.352-5.152 0-9.352 4.189-9.352 9.352s4.2 9.352 9.352 9.352c5.174 0 9.363-4.189 9.363-9.352z" fill="#fff"/>
+</svg>

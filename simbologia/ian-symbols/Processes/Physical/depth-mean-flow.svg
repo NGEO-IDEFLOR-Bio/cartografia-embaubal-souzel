@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="394" height="505" viewBox="0 0 394 505" xml:space="preserve">
+            <title>Depth mean flow</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Depth mean flow</ian_image_library:title>
+                <ian_image_library:descr>Illustration of depth mean flow</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, depth, mean, flow, discharge, velocity, water, column</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-10</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0d714cdb99b1a174e1e85b109de786e7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Depth mean flow</dc:title>
+                <dc:date>2005-02-10</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/depth-mean-flow/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/depth-mean-flow/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, depth, mean, flow, discharge, velocity, water, column</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of depth mean flow</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <line y2="476.05" x1="7.204" x2="7.204" stroke="#231F20" y1="95.662" stroke-width="14.408" fill="none"/>
+ <line y2="102.66" x1="337.23" fill-rule="evenodd" x2="2.347" stroke="#231F20" clip-rule="evenodd" y1="102.66" stroke-width="14.408" fill="none"/>
+ <line y2="492.98" x1="203.28" fill-rule="evenodd" x2="203.28" stroke="#ED1C24" stroke-dasharray="19.2107" y1="76.788" clip-rule="evenodd" stroke-width="9.6059" fill="none"/>
+ <path stroke="#231F20" stroke-width="4.8024" d="m386.25 103.2c-21.141-8.055-47.375-21.66-63.539-36.036l12.543 35.613-13.15 35.385c16.45-14.06 42.85-27.22 64.15-34.96z" fill="#231F20"/>
+ <line y2="194.33" x1="270.24" fill-rule="evenodd" x2="2.347" stroke="#231F20" clip-rule="evenodd" y1="194.33" stroke-width="14.408" fill="none"/>
+ <path d="m318.38 194.37c-21.15-8.044-47.396-21.671-63.572-36.036l12.543 35.613-13.148 35.385c16.45-14.04 42.87-27.21 64.18-34.95z" fill="#231F20"/>
+ <line y2="285.99" x1="203.28" fill-rule="evenodd" x2="2.347" stroke="#231F20" clip-rule="evenodd" y1="285.99" stroke-width="14.408" fill="none"/>
+ <path d="m252.43 286.52c-21.15-8.055-47.396-21.672-63.572-36.036l12.544 35.613-13.15 35.386c16.45-14.05 42.87-27.22 64.18-34.96z" fill="#231F20"/>
+ <line y2="377.64" x1="136.3" fill-rule="evenodd" x2="2.347" stroke="#231F20" clip-rule="evenodd" y1="377.64" stroke-width="14.408" fill="none"/>
+ <path d="m182.58 377.69c-21.145-8.044-47.391-21.671-63.566-36.035l12.542 35.613-13.149 35.385c16.47-14.06 42.88-27.23 64.18-34.97z" fill="#231F20"/>
+ <line y2="469.31" x1="69.323" fill-rule="evenodd" x2="2.347" stroke="#231F20" clip-rule="evenodd" y1="469.31" stroke-width="14.408" fill="none"/>
+ <path d="m118.57 469.84c-21.151-8.044-47.397-21.671-63.572-36.035l12.543 35.612-13.15 35.386c16.45-14.05 42.87-27.23 64.179-34.96z" fill="#231F20"/>
+ <path d="m214.21 62.326v-6.234c-3.263 4.759-7.697 7.134-13.301 7.134-2.473 0-4.781-.466-6.918-1.41-2.151-.943-3.739-2.136-4.78-3.567-1.046-1.431-1.767-3.187-2.179-5.258-.293-1.388-.445-3.599-.445-6.613v-25.92h7.059v23.167c0 3.697.151 6.19.434 7.47.443 1.865 1.398 3.328 2.851 4.391s3.236 1.594 5.378 1.594c2.135 0 4.141-.542 6.006-1.637 1.875-1.084 3.197-2.559 3.979-4.434.78-1.875 1.17-4.597 1.17-8.174v-22.377h7.047v41.868h-6.3z" fill="#231F20"/>
+ <line y2="4.803" x1="184.44" x2="223.43" stroke="#231F20" y1="4.803" stroke-width="9.6059" fill="none"/>
+</svg>

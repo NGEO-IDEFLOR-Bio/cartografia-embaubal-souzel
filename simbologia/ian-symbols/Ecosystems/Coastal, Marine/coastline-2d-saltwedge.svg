@@ -1,0 +1,105 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="205" viewBox="0 0 501 205" xml:space="preserve">
+            <title>Coastline 2D: saltwedge</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: saltwedge</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a 2D coastline with saltwedge</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>coastal, marine, coastline, 2d, saltwedge, salt, wedge</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-de6de1bf557964b4c1d35336b126ccc9">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: saltwedge</dc:title>
+                <dc:date>2003-11-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-saltwedge/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-saltwedge/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>coastal, marine, coastline, 2d, saltwedge, salt, wedge</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a 2D coastline with saltwedge</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_fb8a1091e325d1a43568109a615f4930" gradientUnits="userSpaceOnUse" x1="105.3145" y1="109.6655" x2="503.018" y2="109.6655">
+	<stop  offset="0" style="stop-color:#D4A585"/>
+	<stop  offset="0.0779" style="stop-color:#C9AB8B"/>
+	<stop  offset="0.2332" style="stop-color:#A8B79D"/>
+	<stop  offset="0.3258" style="stop-color:#8EBFAA"/>
+	<stop  offset="0.4105" style="stop-color:#91C4B9"/>
+	<stop  offset="0.5835" style="stop-color:#9AD3E1"/>
+	<stop  offset="0.6573" style="stop-color:#9DDCF9"/>
+	<stop  offset="0.7006" style="stop-color:#97D6F5"/>
+	<stop  offset="0.7558" style="stop-color:#87C9EF"/>
+	<stop  offset="0.8175" style="stop-color:#6CB6E5"/>
+	<stop  offset="0.8839" style="stop-color:#449ED8"/>
+	<stop  offset="0.9534" style="stop-color:#0084C8"/>
+	<stop  offset="1" style="stop-color:#0074BE"/>
+</linearGradient>
+<path fill="url(#ian_symbols_fb8a1091e325d1a43568109a615f4930)" d="M500.002,15.565c0,0-6.938,3.476-16.929,5.071c-9.883,1.497-21.114-5-21.114-5
+	s-8.019,4.239-17.389,5.211c-9.418,0.937-19.201-5.42-19.201-5.42s-7.971,4.725-17.703,5.42c-9.78,0.659-18.988-5.42-18.988-5.42
+	s-6.887,4.585-17.494,5.317c-10.664,0.659-18.838-5.213-18.838-5.213s-9.164,4.239-17.338,5.213
+	c-8.127,0.934-19.047-5.108-19.047-5.108s-8.072,5-17.491,5.313c-9.421,0.347-19.358-5.313-19.358-5.313s-6.675,5-17.751,5.211
+	c-11.075,0.207-18.423-5.42-18.423-5.42s-7.97,4.206-17.028,5.317c-9.004,1.04-19.926-5.213-19.926-5.213s-7.502,4.726-17.698,5.213
+	c-10.143,0.447-18.27-5.108-18.27-5.108s-6.883,4.725-17.337,5.211c-10.507,0.449-19.15-4.83-19.15-4.83s-14.459,9.803-25.213,0.203
+	c0,0-0.07,187.682,0.033,187.682h391.654V15.565z"/>
+<linearGradient id="ian_symbols_b9a7935a33c1a524f9cca9a1eb10b6a3" gradientUnits="userSpaceOnUse" x1="387.1426" y1="53.7661" x2="387.1426" y2="178.6968">
+	<stop  offset="0" style="stop-color:#9DDCF9"/>
+	<stop  offset="1" style="stop-color:#0074BE"/>
+</linearGradient>
+<path fill="url(#ian_symbols_b9a7935a33c1a524f9cca9a1eb10b6a3)" d="M500.002,54.472c-181.502-2.279-192.941-1.253-219.6,38.049
+	c-47.319,69.771,194.509,83.254,219.6,86.176C499.986,178.629,500.002,54.472,500.002,54.472z"/>
+<path fill="#E7D9CD" d="M0,0c0,0,133.133,8.641,141.78,16.668c5.189,4.815,53.974,62.921,82.96,65.323
+	c25.133,2.082,103.298,2.622,124.766,13.064c24.462,11.897,46.625,59.744,73.162,68.59c13.718,4.572,77.333,3.932,77.333,3.932
+	v36.326H0V0z"/>
+</svg>

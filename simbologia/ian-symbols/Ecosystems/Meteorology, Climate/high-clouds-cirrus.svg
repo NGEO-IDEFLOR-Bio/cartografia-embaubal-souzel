@@ -1,0 +1,98 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="314" viewBox="0 0 502 314" xml:space="preserve">
+            <title>High clouds: Cirrus</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>High clouds: Cirrus</ian_image_library:title>
+                <ian_image_library:descr>Illustration of cirrus clouds, which are characterized by thin, wisplike strands, often accompanied by tufts, leading to their common (non-standard) name of mare's tail. Cirrus clouds are formed when water vapor freezes into ice crystals at altitudes above 8000 meters (26,000 ft). Due to the sparse moisture at a high altitude, they tend to be very thin.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, climate, weather, atmosphere, sky, ice</ian_image_library:contains>
+                    <ian_image_library:when>2005-06-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-5bce785fc6b374c4059fa64bcfd57bd1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>High clouds: Cirrus</dc:title>
+                <dc:date>2005-06-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/high-clouds-cirrus/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/high-clouds-cirrus/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, climate, weather, atmosphere, sky, ice</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of cirrus clouds, which are characterized by thin, wisplike strands, often accompanied by tufts, leading to their common (non-standard) name of mare's tail. Cirrus clouds are formed when water vapor freezes into ice crystals at altitudes above 8000 meters (26,000 ft). Due to the sparse moisture at a high altitude, they tend to be very thin.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_5b0dfe3bce983d145d11c9b0fa30650c" y2="303.94" gradientUnits="userSpaceOnUse" x2="164.09" y1="303.94" x1="127.3">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".9494"/>
+ </linearGradient>
+ <path opacity=".75" stroke="#92AABD" stroke-width="1.647" d="m127.79 310.91c-3.217-2.574 10.241-10.852 14.766-11.087 4.525-.215 15.366-4.826 20.309-3.678 4.933 1.147-6.369 9.511-11.077 11.999-4.72 2.48-20.78 5.34-24 2.77z" fill="url(#ian_symbols_5b0dfe3bce983d145d11c9b0fa30650c)"/>
+ <linearGradient id="ian_symbols_2e8cc0b49c0bc6443da3a73f537f9ba5" y2="127.51" gradientUnits="userSpaceOnUse" x2="484.87" y1="127.51" x1=".8237">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".9494"/>
+ </linearGradient>
+ <path opacity=".75" stroke="#92AABD" stroke-width="1.647" d="m1.371 246.31c2.82-2.306 49.776-1.008 81.205-11.077 31.429-10.059 90.705-32.941 98.736-33.22 8.042-.279 12.782.279 16.621-2.767 3.839-3.035 30.968-23.869 40.608-27.687 9.629-3.817 19.977-10.519 25.842-11.988 5.854-1.479 13.039-19.827 9.222-20.309-3.828-.482-21.21 13.468-26.765 15.677-5.564 2.23-.429-10.112-4.61-10.133-4.182-.043-13.425 9.769-18.476 11.077-5.008 1.287-14.444.085-19.366 1.844-4.922 1.737-25.67 14.905-31.375 15.688-5.715.761-15.141 6.166-20.309 5.533-5.158-.633 54.354-43.396 60.917-43.375 6.563 0 8.3.922 14.776.922 6.445 0 18.079-7.474 23.065-12.921 4.976-5.458 10.776-8.396 18.454-8.311 7.656.097 18.733-13.521 23.998-12.91 5.275.6 4.461 5.404 9.232 5.533s22.571-28.416 26.743-28.608c4.182-.193 6.016-12.299 10.165-12.911 4.149-.622 10.658 1.072 13.832.912 3.186-.161 4.697-5.866 7.399-6.466 2.659-.579 2.401 7.099 5.533 8.31 3.12 1.212 4.739-2.584 6.455 0s-4.064 6.691-3.688 11.999c.354 5.308 3.355 4.428 4.61 9.222 1.244 4.793.611 18.336 3.699 18.465 3.067.128 5.727-6.187 9.222-11.087 3.496-4.868 3.421-19.645 3.689-23.065.268-3.399 6.723-21.103 11.998-20.299 5.287.815 4.933 3.796 10.145.922 5.222-2.853 15.623-27.269 19.397-32.297 3.753-5.029 13.822-6.455 13.822-6.455s8.813-5.608 12.009-4.622c3.196.997 5.522 19.419 0 21.221-5.543 1.823-12.471 1.919-12.009 5.554.482 3.625-6.498 23.226-3.679 23.054 2.81-.171 12.975-15.612 19.366-15.677 6.401-.075 7.924-9.693 9.243-13.854 1.297-4.15 5.629-14.379 4.61-19.366-1.008-4.997 1.051-11.667 3.699-12.01 2.639-.332 1.523 36.994 4.601 40.619 3.088 3.614-2.702 31.59-8.3 36.908-5.608 5.297-10.615 10.895-16.609 14.776-5.994 3.849-6.97 4-11.999 7.377-5.019 3.367-24.588 31.354-22.153 32.297 2.434.933 11.978-6.026 15.688-3.689 3.731 2.316-.097 10.166-5.544 11.999-5.415 1.812-19.098 36.629-23.987 38.742-4.879 2.124 2.112-9.093-1.844-11.066-3.946-1.973-10.391-3.549-11.999.922-1.587 4.482-35.043 35.375-40.608 36.908-5.554 1.544-4.61-7.549-9.211-5.533-4.621 2.038-22.271 17.886-25.842 18.454-3.582.568 3.099-10.294-1.845-9.232-4.965 1.083-23.312 15.624-27.697 17.543-4.375 1.919-8.139-.086-12.91 0-4.793.075-9.125-8.89-12.91-10.155-3.807-1.254-8.707-1.479-11.077 1.844-2.38 3.335-5.071 10.573-11.098 12.921-5.994 2.359-25.457 7.356-27.666 7.388-2.241.011 7.281-8.825 2.767-8.31-4.536.515-14.025 12.01-20.298 13.854-6.294 1.823-5.769-4.654-11.077-4.622-5.329.011-19.237 9.726-23.076 11.077-3.838 1.34-9.607 3.26-12.921 1.845-3.335-1.416 27.054-24.534 34.152-23.998 7.077.547 7.699 2.273 11.988 2.767 4.278.504 18.894-13.039 23.987-12.921 5.115.118 6.037 5.909 13.843 5.544 7.816-.375 11.194-12.632 18.465-15.688 7.26-3.067 22.851-4.815 30.453-9.232 7.613-4.418 14.626-4.879 20.309-11.988 5.673-7.12 14.712-6.766 21.21-9.232 6.52-2.477 11.581-10.047 18.465-13.854 6.885-3.785 22.261-8.739 25.843-15.688 3.549-6.938 1.844-13.833 1.844-13.833s-5.479 6.52-10.154 12.921c-4.664 6.391-16.717 10.744-31.386 16.599-14.626 5.865-37.166 15.409-42.441 15.709-5.275.279 5.286-15.119.933-14.776-4.364.333-13.746 1.544-20.309 5.533s-11.474 10.358-15.688 10.154c-4.204-.204-6.467-3.978-11.077-2.766-4.622 1.19-9.704 5.286-7.398 7.388 2.326 2.08 8.803 2.552 7.398 5.533s-19.902 2.574-21.242 4.611c-1.308 2.038 10.112 5.372 6.487 8.3-3.656 2.938-31.139 9.093-36.007 9.232-4.868.128-7.667 1.254-14.755.922-7.109-.333-38.313 13.329-44.307 15.688s-16.674 3.174-23.987 3.689-13.136 6.434-24.92 8.31c-11.784 1.866-26.25 4.643-38.763 6.466-12.514 1.823-29.134 3.239-33.209 2.767-4.09-.47-12.968-3.22-10.137-5.52zm338.07-99.59c2.734-2.766 8.814-11.248 5.2-11.28-3.613-.032-10.122 5.469-13.178 6.434-3.057.976-10.627 9.779-7.914 11.216s13.16-3.62 15.89-6.37zm-26.1-18.45c5.34-5.061 17.21-18.904 10.229-16.288-1.93.729-4.289-8.986-6.83-7.334-2.799 1.834 1.565 5.983-1.298 10.369-1.501 2.284-4.031.944-6.723 3.045-4.386 3.42-9.189 9.897-10.734 10.766-5.93 3.313-20.717 18.626-15.483 18.197 5.25-.43 25.5-13.7 30.83-18.76z" fill="url(#ian_symbols_2e8cc0b49c0bc6443da3a73f537f9ba5)"/>
+ <linearGradient id="ian_symbols_24c2af3496d785b4b9c0a4d6f438f686" y2="196.49" gradientUnits="userSpaceOnUse" x2="500.82" y1="196.49" x1="187.31">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".9494"/>
+ </linearGradient>
+ <path opacity=".75" stroke="#92AABD" stroke-width="1.647" d="m187.79 296.15c-3.485-.214 12.921-9.232 18.443-9.232 5.544 0 6.477 3.689 11.999 1.844 5.522-1.844 29.531-12.921 40.607-13.854 11.077-.911 23.998-13.833 35.075-15.677 11.076-1.844 28.608-5.533 37.83-11.087 9.232-5.522 17.532-12.91 17.532-12.91s-15.688 4.621-22.143 2.766c-6.455-1.844 12.921-11.066 18.454-10.144 5.533.933 7.377 3.688 11.999.933 4.61-2.777 11.076-11.999 16.609-11.999s19.387-14.776 19.387-14.776-15.688 4.611-21.231 3.699c-5.532-.933 6.467-9.232 12.911-10.154 6.466-.933 4.621-11.077 10.154-11.999 5.544-.933 7.388 7.388 11.999 7.388 4.61 0 11.431-18.797 15.688-22.153 4.268-3.346 9.629-3.603 11.988-7.377 2.381-3.785-.032-10.573 2.788-12.921 2.81-2.348 2.295-3.206 7.377-3.689 5.094-.493 16.245-26.453 23.065-34.152 6.83-7.699 13.071-14.476 16.62-14.776 3.539-.268 2.896 21.65 0 24.92-2.895 3.281-.364 17.114-5.533 20.32-5.168 3.195-7.816 6.98-13.854 9.211-6.026 2.252-10.187 3.313-14.776 4.611-4.568 1.308-6.444 8.321-6.444 8.321s2.316-.836 6.444-2.766c4.16-1.941 13.468-.343 17.543 0 4.085.343-14.251 15.398-10.145 16.599 4.118 1.222 14.423-8.622 18.443-9.222 4.043-.601 15.441-17.479 19.398-17.543 3.946-.043 7.538 18.111 1.844 18.465-5.715.343-14.701 5.244-21.242 8.3-6.52 3.066-.879 9.479-8.299 14.776-7.421 5.276-25.949 9.951-33.23 11.066-7.271 1.115-33.487 7.721-39.675 11.999-6.177 4.278-12.761 6.874-15.688 12.921-2.896 6.047-19.387 21.252-28.608 22.143-9.211.912-24.545 6.53-25.832 9.232-1.297 2.702 6.82 4.718 1.845 7.399-4.986 2.659-22.144 5.522-24.92 6.434-2.777.933-7.206-.311-17.532 2.777s-30.003 10.798-41.53 11.999c-11.526 1.201-21.789 9.908-26.753 9.232-4.997-.676-6.626-3.957-12.01-3.689-5.42.23-13.17 2.96-16.63 2.76z" fill="url(#ian_symbols_24c2af3496d785b4b9c0a4d6f438f686)"/>
+ <linearGradient id="ian_symbols_3bb77b9bf0ff723411980c416b1de56d" y2="225.28" gradientUnits="userSpaceOnUse" x2="469.63" y1="225.28" x1="370.36">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".9494"/>
+ </linearGradient>
+ <path opacity=".75" stroke="#92AABD" stroke-width="1.647" d="m370.51 251.85c1.844-5.543 23.075-15.698 38.753-21.231 15.688-5.533 54.439-34.142 59.062-34.142 4.61 0-3.688 7.388-12.91 12.921-9.243 5.533-2.777 14.765-11.077 17.532-8.321 2.767-8.321 1.855-18.454 4.611-10.154 2.767-41.53 19.387-41.53 19.387s-15.69 6.45-13.84.92z" fill="url(#ian_symbols_3bb77b9bf0ff723411980c416b1de56d)"/>
+ <linearGradient id="ian_symbols_e41bb2012758cf94456a9ef602bd3674" y2="260.18" gradientUnits="userSpaceOnUse" x2="472.27" y1="260.18" x1="273.25">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".9494"/>
+ </linearGradient>
+ <path opacity=".75" stroke="#92AABD" stroke-width="1.647" d="m273.6 301.67c-4.61-.912 36.919-14.755 49.841-16.599 12.921-1.844 47.984-15.688 65.517-20.298 17.532-4.622 23.064-12.921 37.841-17.543 14.766-4.611 40.598-26.753 44.297-28.598 3.688-1.845-1.845 16.599-9.243 21.22-7.367 4.611-43.363 27.687-53.519 29.531-10.144 1.844-20.298 4.611-36.908 8.31-16.62 3.689-47.984 12.911-56.306 17.543-8.29 4.59-36.89 7.38-41.52 6.44z" fill="url(#ian_symbols_e41bb2012758cf94456a9ef602bd3674)"/>
+</svg>

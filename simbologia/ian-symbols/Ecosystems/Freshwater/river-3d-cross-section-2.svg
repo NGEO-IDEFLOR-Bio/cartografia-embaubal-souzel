@@ -1,0 +1,135 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="276" viewBox="0 0 502 276" xml:space="preserve">
+            <title>River 3D: cross section 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>River 3D: cross section 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of river cross sectional base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, river, stream, tributary, cross, section</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0afec4c22f8a01f4e9eb97dc2857e69d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>River 3D: cross section 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/river-3d-cross-section-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/river-3d-cross-section-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, river, stream, tributary, cross, section</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of river cross sectional base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_270b53b50428dc744999f5a5a422ae4c" gradientUnits="userSpaceOnUse" x1="250.4072" y1="176.2188" x2="250.4072" y2="19.1567">
+	<stop  offset="0" style="stop-color:#5E9197"/>
+	<stop  offset="0.0767" style="stop-color:#658E8C"/>
+	<stop  offset="0.2164" style="stop-color:#6E8B7F"/>
+	<stop  offset="0.3804" style="stop-color:#748A76"/>
+	<stop  offset="0.5899" style="stop-color:#778971"/>
+	<stop  offset="1" style="stop-color:#778870"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_270b53b50428dc744999f5a5a422ae4c)" stroke="#000000" stroke-width="0.5" points="500.407,161.676 293.528,161.676 275.118,176.219 
+	114.263,176.219 102.636,161.676 0.408,161.676 73.081,19.156 427.734,19.156 "/>
+<linearGradient id="ian_symbols_5c9afa3fa1b35f7419b8c0cbfcf24b39" gradientUnits="userSpaceOnUse" x1="107.9463" y1="269.2139" x2="392.8691" y2="-15.709">
+	<stop  offset="0" style="stop-color:#8F945D"/>
+	<stop  offset="0.063" style="stop-color:#939961"/>
+	<stop  offset="0.4386" style="stop-color:#ACB378"/>
+	<stop  offset="0.7639" style="stop-color:#BDC687"/>
+	<stop  offset="1" style="stop-color:#C3CD8D"/>
+</linearGradient>
+<path fill="url(#ian_symbols_5c9afa3fa1b35f7419b8c0cbfcf24b39)" stroke="#000000" stroke-width="0.5" d="M500.407,161.676H293.528c0,0-3.761-4.869-12.518-8.488
+	c-8.756-3.622-22.508-5.997-30.857-12.642c-16.7-13.289-8.412-25.688-8.412-25.688s19.504-22.205,13.845-32.777
+	c-5.663-10.572-16.591-14.195-7.007-16.988c9.581-2.793,12.74,2.051,21.818-6.672c9.079-8.724-2.889-10.182,2.61-16.482
+	c1.314-1.504,13.815-0.24,20.938-1.929c4.722-1.121,2.692-8.204,7.988-9.538c4.719-1.188,18.764,6.614,24.104,5.865
+	c17.473-2.453,1.97-12.79,0.454-12.338c-1.514,0.453,13.715,8.119-0.502,9.699c-6.531,0.724-19.079-9.752-25.038-8.066
+	c-6.112,1.732-7.806,9.227-13.231,10.561c-9.499,2.338-17.063-1.132-19.608,0.567c-8.496,5.666,3.354,13.943-6.932,18.046
+	c-10.287,4.102-28.777-0.967-35.52,7.871c-5.641,7.391,15.543,9.802,1.194,19.869c-32.164,2.537-33.133,0.602-44.563-7.144
+	c-9.924-6.725-22.559-7.892-15.737-18.979c4.193-6.824,26.285-7.684,33.024-10.842c6.74-3.155-8.058-14.262-4.775-17.193
+	c3.278-2.928,18.322-8.211,17.814-9.23c-0.692-1.383-22.082,5.398-24.122,9.486c-2.043,4.088,8.26,6.065,0.444,10.408
+	c-7.814,4.341-23.701,4.725-28.163,9.191c-8.721,8.726-9.849,11.418-6.377,21.705c3.469,10.289,14.955,14.985,26.169,21.363
+	c11.216,6.376-3.226,14.709-18.05,23.146c-4.628,2.635-5.837,2.662-8.884,1.732c-3.047-0.933-16.526-15.078-25.041-17.276
+	c-8.516-2.196-12.218,4.679-22.236,3.909c-5.437-0.42,0.6-4.196,0.354-8.998c-0.208-4.05-5.105-7.796-9.648-8.092
+	c-9.932-0.65-17.598,5.732-25.877,3.996c-8.28-1.736-3.268-9.072-5.422-9.855c-9.833-3.583-24.099-3.344-22.817-1.429
+	c1.282,1.913,10.4-0.624,18.033,2.737c3.45,1.521-4.409,6.751,4.574,11.143c8.98,4.393,25.58-5.602,32.783-0.604
+	c7.205,4.997-5.839,10.829,1.168,15.187c2.327,1.444,6.944,2.885,10.484,2.347c7.116-1.077,14.277-5.728,20.554-3.406
+	c9.396,3.476,13.273,12.985,12.4,14.886c-0.873,1.898-4.667,3.814-9.785,6.04c-22.287,9.696-30.524,34.903-30.524,34.903H0.408
+	l72.673-142.52c0,0,23.26-18.906,41.67-18.906s31.49,5.333,49.902,7.271c18.409,1.941,29.068,12.604,57.171,11.635
+	c28.099-0.969,89.144-12.602,124.516-13.089c35.368-0.484,81.395,13.089,81.395,13.089L500.407,161.676z"/>
+<linearGradient id="ian_symbols_aac8bf2b5019d894b9b05af8fcc3b893" gradientUnits="userSpaceOnUse" x1="250.4082" y1="158.7686" x2="250.4082" y2="257.6582">
+	<stop  offset="0" style="stop-color:#5E9197"/>
+	<stop  offset="0.0767" style="stop-color:#658E8C"/>
+	<stop  offset="0.2164" style="stop-color:#6E8B7F"/>
+	<stop  offset="0.3804" style="stop-color:#748A76"/>
+	<stop  offset="0.5899" style="stop-color:#778971"/>
+	<stop  offset="1" style="stop-color:#778870"/>
+</linearGradient>
+<path fill="url(#ian_symbols_aac8bf2b5019d894b9b05af8fcc3b893)" stroke="#006AB5" stroke-width="0.5" d="M500.407,257.658H0.408v-84.35h80.911
+	c0,0,2.905,2.426,6.782,2.91c3.876,0.484,7.752-2.91,7.752-2.91s0.97-12.117,6.784-11.633c5.815,0.484,8.235-2.907,8.235-2.907
+	s-0.004,2.423,4.844,2.907c4.847,0.484,8.724-2.907,8.724-2.907s4.359,3.392,8.234,2.907c3.877-0.484,7.751-2.907,7.751-2.907
+	s2.421,2.423,7.267,2.907c4.847,0.484,7.753-2.907,7.753-2.907s2.427,2.423,7.271,2.907c4.843,0.484,8.721-2.907,8.721-2.907
+	s3.874,2.423,8.72,2.907c4.845,0.484,6.784-2.907,6.784-2.907s3.388,2.423,7.265,2.907s7.755-2.907,7.755-2.907
+	s2.907,3.392,7.75,2.907c4.847-0.484,7.268-2.907,7.268-2.907s0.485,2.423,6.299,2.907s9.204-2.907,9.204-2.907
+	s2.425,2.423,7.269,2.907s9.689-2.907,9.689-2.907s2.906,2.423,6.784,2.907c3.877,0.484,7.753-2.907,7.753-2.907
+	s2.419,2.423,8.234,2.907c5.814,0.484,8.24-2.907,8.24-2.907s5.325,2.907,12.594,2.907c2.946,0,3.391,11.633,3.391,11.633
+	s1.937,2.426,7.753,2.91c5.813,0.484,7.753-2.91,7.753-2.91s4.843,2.426,8.719,2.91c3.877,0.484,6.785-2.91,6.785-2.91
+	s0.967,3.395,6.781,2.91s8.722-2.91,8.722-2.91s1.939,2.426,6.783,2.91c4.845,0.484,6.782-2.91,6.782-2.91s0.97,3.395,7.753,2.91
+	c6.782-0.484,7.749-2.91,7.749-2.91h128.393V257.658z"/>
+<linearGradient id="ian_symbols_e85809960c839ef4293b2485ac2c9af0" gradientUnits="userSpaceOnUse" x1="250.4072" y1="275.1094" x2="250.4072" y2="161.6758">
+	<stop  offset="0" style="stop-color:#AA8D6B"/>
+	<stop  offset="1" style="stop-color:#D7BD9C"/>
+</linearGradient>
+<path fill="url(#ian_symbols_e85809960c839ef4293b2485ac2c9af0)" stroke="#000000" stroke-width="0.5" d="M500.407,275.109H0.408V161.676h102.228
+	c0,0,25.473,10.722,34.657,23.089c11.669,15.717,20.273,21.009,32.2,23.447c21.32,4.364,31.498,14.543,57.175,7.271
+	c15.081-4.27,19.053-12.105,37.76-31.049c13.146-13.313,28.614-22.759,28.614-22.759h207.365V275.109z"/>
+</svg>

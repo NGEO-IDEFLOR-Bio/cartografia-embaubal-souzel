@@ -1,0 +1,91 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="394" viewBox="0 0 500 394" xml:space="preserve">
+            <title>Flooding</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Flooding</ian_image_library:title>
+                <ian_image_library:descr>Icon representing coastal flooding.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>flood, sea-level rise, impact, damage</ian_image_library:contains>
+                    <ian_image_library:when>2016-05-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ad3ff15b1a1bc874e50912d9bfad8ad4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Flooding</dc:title>
+                <dc:date>2016-05-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/flooding-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/flooding-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>flood, sea-level rise, impact, damage</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Icon representing coastal flooding.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<rect id="ian_symbols_020d46a4e0b191544d17b25899ec01be" x="87.7" y="20.4" width="340.1" height="255.2"/>
+	<rect id="ian_symbols_5af474ab20acf0b48d7a5c9af6f8017b" x="216.2" y="127.6" fill="#FFFFFF" width="82.8" height="154.2"/>
+	<rect id="ian_symbols_039991f56072e184f947ffa8d711374b" x="54.9" width="405.7" height="22.7"/>
+	<path id="ian_symbols_f1deaa2357017004017800df7882de41" fill="#0576BD" d="M416.6,315.7c-11.9,0-27.1-8.6-51-22.7
+		c-10.6-6.3-26.4-15.6-32.4-17.2c-5.6,1.7-20,10.7-29.6,16.7c-23,14.4-37.7,23.2-50.2,23.2c-12,0-26.9-8.4-50.4-22.1
+		c-10.8-6.3-28.8-16.8-34.8-17.9c-5.7,1.2-22.1,11.3-32,17.4c-22.6,14-37.1,22.6-49.7,22.6c-12.9,0-31.4-9.7-60.5-25.8
+		c-10.2-5.7-27.4-14.3-26-14.3v-40.1c8.1,0,17,4.5,42.3,18.5c12.9,7.1,36.8,20.3,44.2,21.5c5.7-1.1,22.1-11.3,32-17.4
+		c22.6-14,37.1-22.6,49.7-22.6c12.4,0,27.8,8.6,51.8,22.6c10.4,6.1,27.5,16,33.4,17.4c5.9-1.4,22.4-11.7,32.4-17.9
+		c21.9-13.7,35.8-22,47.4-22c11.5,0,25.6,8,49.5,22.1c10.5,6.2,27.9,16.4,33.9,17.9c6.8-1.5,26.8-13.1,39-20
+		c25.2-14.5,35.5-19.9,44.4-19.9v40.1c1.1,0-17.6,9.6-27.7,15.4C445.8,306.3,428.9,315.7,416.6,315.7L416.6,315.7z"/>
+	<path id="ian_symbols_82ad3747091f58f455e2597db2e91301" fill="#0576BD" d="M416.6,393.7c-11.9,0-27.1-8.6-51-22.7
+		c-10.6-6.3-26.4-15.6-32.4-17.2c-5.6,1.7-20,10.7-29.6,16.7c-23,14.4-37.7,23.2-50.2,23.2c-12,0-26.9-8.4-50.4-22.1
+		c-10.8-6.3-28.8-16.8-34.8-17.9c-5.7,1.2-22.1,11.3-32,17.4c-22.6,14-37.1,22.6-49.7,22.6c-12.9,0-31.4-9.7-60.5-25.8
+		c-10.2-5.7-27.4-14.3-26-14.3v-40.1c8.1,0,17,4.5,42.3,18.5c12.9,7.1,36.8,20.3,44.2,21.5c5.7-1.1,22.1-11.3,32-17.4
+		c22.6-14,37.1-22.6,49.7-22.6c12.4,0,27.8,8.6,51.8,22.6c10.4,6.1,27.5,16,33.4,17.4c5.9-1.4,22.4-11.7,32.4-17.9
+		c21.9-13.7,35.8-22,47.4-22c11.5,0,25.6,8,49.5,22.1c10.5,6.2,27.9,16.4,33.9,17.9c6.8-1.5,26.8-13.1,39-20
+		c25.2-14.5,35.5-19.9,44.4-19.9v40.1c1.1,0-17.6,9.6-27.7,15.4C445.8,384.3,428.9,393.7,416.6,393.7L416.6,393.7z"/>
+</g>
+</svg>

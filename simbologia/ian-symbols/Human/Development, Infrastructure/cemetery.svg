@@ -1,0 +1,120 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="195" viewBox="0 0 500 195" xml:space="preserve">
+            <title>Cemetery</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Cemetery</ian_image_library:title>
+                <ian_image_library:descr>Tombstones in a burial ground or cemetery.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>tombstone, Christian, cemetery, cemetary, tomb, burial ground, grave, gravestone, graves, </ian_image_library:contains>
+                    <ian_image_library:when>2009-12-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-bef5e928d1a96d4449889506a1030f6d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Cemetery</dc:title>
+                <dc:date>2009-12-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/cemetery/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/cemetery/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>tombstone, Christian, cemetery, cemetary, tomb, burial ground, grave, gravestone, graves, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Tombstones in a burial ground or cemetery.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<polygon fill="#DEDCC8" points="282.736,15.3 284.927,9.829 272.909,2.174 255.419,0 240.111,0 225.898,0 211.7,1.088 
+		202.754,4.144 194.203,9.829 189.831,14.199 	"/>
+	<polygon fill="#8D806F" points="189.831,14.199 204.053,5.458 223.725,4.37 239.017,4.37 248.852,7.646 258.688,9.829 
+		255.419,134.256 189.831,132.232 	"/>
+	<polygon fill="#1C201D" points="282.736,136.611 284.927,9.829 258.688,9.829 255.419,134.256 	"/>
+	<polygon fill="#DEDCC8" points="305.684,145.366 289.273,135.516 255.129,131.301 185.46,132.232 166.885,143.176 257.594,151.926 
+			"/>
+	<polygon fill="#26241F" points="305.684,193.435 305.684,145.366 257.594,143.176 257.594,194.543 	"/>
+	<polygon fill="#B2A287" points="166.885,143.176 257.594,143.176 257.594,194.543 165.782,191.268 	"/>
+</g>
+<g>
+	<polygon fill="#DEDCC8" points="146.416,32.495 120.017,17.503 98.798,16.219 84.525,22.185 80.851,25.926 102.695,24.847 
+		121.272,31.4 131.114,36.872 	"/>
+	<polygon fill="#A1A39B" points="130.035,138.526 132.225,31.4 115.821,19.375 98.34,18.295 80.851,25.926 74.298,137.417 	"/>
+	<polygon fill="#26241F" points="146.416,32.495 132.225,31.4 130.035,138.526 146.416,134.131 	"/>
+</g>
+<polygon fill="#282530" points="347.55,8.871 362.843,9.957 363.938,19.815 373.765,19.815 374.859,38.393 365.032,37.282 
+	363.938,58.062 374.859,70.074 374.859,105.06 354.116,110.508 354.116,66.789 347.55,59.158 347.55,36.203 "/>
+<polygon fill="#DEDCC8" points="347.55,59.158 347.55,36.203 365.032,37.282 363.938,19.815 347.55,19.815 347.55,8.871 
+	334.423,7.792 334.423,21.975 322.413,20.895 322.413,39.472 334.423,39.472 334.423,59.158 327.879,67.906 326.784,110.508 
+	354.116,110.508 354.116,66.789 "/>
+<polygon fill="#282530" points="472.675,42.443 487.99,43.531 489.063,53.381 498.929,53.381 500,71.95 490.18,70.855 
+	489.063,91.621 500,103.629 500,138.616 479.234,144.09 479.234,100.37 472.675,92.738 472.675,69.761 "/>
+<polygon fill="#DEDCC8" points="472.675,92.738 472.675,69.761 490.18,70.855 489.063,53.381 472.675,53.381 472.675,42.443 
+	459.563,41.356 459.563,55.54 447.531,54.468 447.531,73.045 459.563,73.045 459.563,92.738 453.026,101.463 451.909,144.09 
+	479.234,144.09 479.234,100.37 "/>
+<g>
+	<polygon fill="#282530" points="420.047,155.323 421.051,128.84 418.108,111.202 406.319,97.467 400.444,120.025 400.444,145.519 
+		405.331,159.247 	"/>
+	<polygon fill="#C5AC8C" points="426.925,164.14 420.047,155.323 378.857,155.323 362.196,162.194 405.331,163.184 	"/>
+	<polygon fill="#DEDCC8" points="362.196,194.543 362.196,162.194 405.331,163.184 404.374,194.543 	"/>
+	<polygon fill="#282530" points="426.925,164.14 405.331,163.184 404.374,194.543 426.925,191.602 	"/>
+	<polygon fill="#C5AC8C" points="411.229,156.295 411.229,150.415 411.229,133.752 411.229,115.107 411.229,106.284 406.319,97.467 
+		399.464,95.504 390.624,95.504 382.779,102.375 378.857,109.215 378.857,155.323 	"/>
+</g>
+<g>
+	<polygon fill="#26241F" points="48.851,80.455 55.183,83.161 60.31,90.308 60.609,144.667 60.609,151.006 49.755,151.006 	"/>
+	<polygon fill="#F3F3F3" points="13.576,149.228 12.671,88.587 21.715,82.264 37.997,78.623 48.851,80.455 53.381,88.587 
+		53.355,149.11 	"/>
+	<polygon fill="#DEDCC8" points="0,154.654 8.148,149.228 66.029,148.284 80.523,157.353 	"/>
+	<polygon fill="#B2A287" points="0,185.394 0,154.654 25.341,153.711 67.854,153.711 66.948,185.394 	"/>
+	<polygon fill="#26241F" points="67.854,153.711 80.523,157.353 80.523,179.051 66.948,185.394 	"/>
+</g>
+<g>
+	<polygon fill="#FFFFFF" points="247.957,44.095 233.114,44.095 233.114,28.864 216.228,28.864 216.228,44.095 201.197,44.095 
+		201.197,60.98 216.228,60.98 216.228,105.062 233.114,105.062 233.114,60.98 247.957,60.98 	"/>
+</g>
+</svg>

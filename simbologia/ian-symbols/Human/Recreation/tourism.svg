@@ -1,0 +1,112 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="482" height="500" viewBox="0 0 482 500" xml:space="preserve">
+            <title>Tourism</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Tourism</ian_image_library:title>
+                <ian_image_library:descr>Icon representing tourism</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>economy, revenue, trade, tourists, umbrella, beach</ian_image_library:contains>
+                    <ian_image_library:when>2016-05-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7ad1cd93b2925a645dbf86852d8943a4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Tourism</dc:title>
+                <dc:date>2016-05-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/tourism/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/tourism/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>economy, revenue, trade, tourists, umbrella, beach</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Icon representing tourism</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<title>Layer 1</title>
+	<polygon id="ian_symbols_004cdbc68b0b4b5461a13f1204ae9b2d" fill="#231F20" points="230,267.8 230,475.7 198.5,475.7 198.5,500 
+		291.3,500 291.3,473.9 258,474.8 258,267.8 	"/>
+	<polygon id="ian_symbols_30cd1fcc03b591946d58ee9fd4d54768" fill="#FFFFFF" points="233,25.4 258.1,25.4 286.3,257.2 203.1,257.2 	
+		"/>
+	<path id="ian_symbols_c66025cfba3486d4dd6ade15e17de82d" fill="#EC1C24" d="M4.5,257.2H83C79.5,42.4,233,25.4,233,25.4
+		C42,25.4,4.5,257.2,4.5,257.2z"/>
+	<path id="ian_symbols_d3ece03847d60a64e98efc49187bafba" fill="#FFFFFF" d="M233,25.4c0,0-98.9,103.1-85.2,231.9H83
+		C83,39,233,25.4,233,25.4z"/>
+	<path id="ian_symbols_5579894f5eaa9e84a9098b45c85a191f" fill="#EC1C24" d="M233,25.4l-23.9,231.9h-61.4
+		C143,117.4,233,25.4,233,25.4L233,25.4z"/>
+	<path id="ian_symbols_9062cd26b8390d746511d90984aa74f8" fill="#EC1C24" d="M478.5,257.2h-78.4C403.5,42.4,250,25.4,250,25.4
+		C441,25.4,478.5,257.2,478.5,257.2z"/>
+	<path id="ian_symbols_5e04e9f101bcdd74552443649f057fdb" fill="#FFFFFF" d="M250,25.4c0,0,98.9,103.1,85.2,231.9H400
+		C400.1,39,250,25.4,250,25.4z"/>
+	<path id="ian_symbols_0723e60bc0196394219fcd47e2f09a59" fill="#EC1C24" d="M250,25.4l23.9,231.9h61.4C340,117.4,250,25.4,250,25.4
+		L250,25.4z"/>
+	<circle id="ian_symbols_84ce87afb125542489ff552954a18f18" fill="#231F20" cx="244.7" cy="19.8" r="19.8"/>
+	<path id="ian_symbols_004cdbc68b0b4b5461a13f1204ae9b2d0" fill="#231F20" d="M475,264c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.1,7,7l0,0C482,260.9,478.9,264,475,264L475,264L475,264z M449,263.9c-3.9,0-7-3.1-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C456,260.8,452.9,263.9,449,263.9L449,263.9L449,263.9z M423,263.9c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C430,260.7,426.9,263.9,423,263.9L423,263.9L423,263.9z M397,263.8c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.1,7,7l0,0C404,260.7,400.9,263.8,397,263.8L397,263.8L397,263.8z M371,263.8c-3.9,0-7-3.1-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C378,260.6,374.9,263.8,371,263.8L371,263.8L371,263.8z M345,263.7c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C352,260.6,348.9,263.7,345,263.7L345,263.7L345,263.7z M319,263.6c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.1,7,7l0,0C326,260.5,322.9,263.6,319,263.6L319,263.6L319,263.6z M293,263.6c-3.9,0-7-3.1-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C300,260.5,296.9,263.6,293,263.6L293,263.6L293,263.6z M267,263.5c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C274,260.4,270.9,263.5,267,263.5L267,263.5L267,263.5z M241,263.5c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.1,7,7l0,0C248,260.4,244.9,263.5,241,263.5L241,263.5L241,263.5z M215,263.4c-3.9,0-7-3.1-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C222,260.3,218.9,263.4,215,263.4L215,263.4L215,263.4z M189,263.4c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.1,7,7l0,0C196,260.2,192.9,263.4,189,263.4L189,263.4L189,263.4z M163,263.3c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.1,7,7l0,0C170,260.2,166.9,263.3,163,263.3L163,263.3L163,263.3z M137,263.3c-3.9,0-7-3.1-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C144,260.1,140.9,263.3,137,263.3L137,263.3L137,263.3z M111,263.2c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C118,260.1,114.9,263.2,111,263.2L111,263.2L111,263.2z M85,263.2c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.1,7,7l0,0C92,260,88.9,263.2,85,263.2L85,263.2L85,263.2z M59,263.1c-3.9,0-7-3.1-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C66,260,62.9,263.1,59,263.1L59,263.1L59,263.1z M33,263c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0
+		c3.9,0,7,3.2,7,7l0,0C40,259.9,36.9,263,33,263L33,263L33,263z M7,263c-3.9,0-7-3.2-7-7l0,0c0-3.9,3.1-7,7-7l0,0c3.9,0,7,3.1,7,7
+		l0,0C14,259.9,10.9,263,7,263L7,263L7,263z"/>
+</g>
+</svg>

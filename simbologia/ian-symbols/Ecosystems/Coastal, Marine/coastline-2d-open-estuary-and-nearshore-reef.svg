@@ -1,0 +1,116 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="232" viewBox="0 0 502 232" xml:space="preserve">
+            <title>Coastline 2D: open estuary and nearshore reef</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: open estuary and nearshore reef</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with open estuary and nearshore reef</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, open, estuary, nearshore, reef</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-70fc5f4c60ffe9a4c1431821ca6c12e2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: open estuary and nearshore reef</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-open-estuary-and-nearshore-reef/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-open-estuary-and-nearshore-reef/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, open, estuary, nearshore, reef</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with open estuary and nearshore reef</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_d1bbdfe497786684bdbc38fdd52c5507" height="71.267" viewBox="1.981 -73.221 71.227 71.267" width="71.227" patternUnits="userSpaceOnUse" y="557.848" x="-40.952" overflow="visible">
+   <polygon points="1.981 -1.954 73.208 -1.954 73.208 -73.222 1.981 -73.222" fill="none"/>
+   <polygon points="2 -2 2 -73.188 73.187 -73.188 73.187 -2" fill="#fff"/>
+   <path stroke="#231F20" stroke-width=".5" d="m73.205-57.707s-10.474-.12-15.35-.057c-4.876.065-19.863 2.049-25.282 2-5.417-.048-16.089-.434-20.414-1.004-4.325-.569-10.159-.996-10.159-.996" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m73.14-47.764s-15.497-.905-17.927-1c-2.43-.094-23.361 1.999-24.806 2.486s-5.941.654-8.93.48c-2.558-.148-14.833-1.505-18.37-1.888-.596-.062-1.107-.078-1.107-.078" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m73.14-37.764h-3.73s-12.64 1.562-14.987 2c-2.348.439-12.281.037-15.35-.073-3.068-.111-12.293.418-15.807-.077-3.514-.493-15.258-1.455-17.24-1.696-1.984-.242-4.026-.154-4.026-.154" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m73.14-24.764s-.786-.01-2.233-.279c-1.026-.19-2.537-.646-3.661-.721-2.71-.179-9.572 1.663-12.1 2.187-2.527.521-19.322 1.592-22.029 1.509-2.395-.075-24.694-2.164-29.883-2.639-.682-.063-1.234-.057-1.234-.057" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m73.14-11.764h-2.645s-20.731 2.445-25.442 3.065c-4.714.619-15.189 1.597-23.857-.065s-17.154-3-17.154-3h-2.042" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m73.12-70.718s-4.433-1.035-7.141-1.046c-2.708-.009-31.202 4.221-35.144 4-3.943-.221-11.081-1.254-15.055-2-3.975-.746-13.781-1-13.781-1" fill="none"/>
+   <line y2="-10.426" x1="57.854" x2="58.216" stroke="#231F20" y1="-24.318" stroke-width=".5" fill="none"/>
+   <line y2="-67.827" x1="27.646" x2="28.718" stroke="#231F20" y1="-73.173" stroke-width=".5" fill="none"/>
+   <line y2="-22.205" x1="32.861" x2="34.986" stroke="#231F20" y1="-35.705" stroke-width=".5" fill="none"/>
+   <line y2="-22.58" x1="21.727" x2="25.48" stroke="#231F20" y1="-36.205" stroke-width=".5" fill="none"/>
+   <line y2="-36.705" x1="62.385" x2="60.507" stroke="#231F20" y1="-48.455" stroke-width=".5" fill="none"/>
+   <line y2="-37.58" x1="70.641" x2="69.014" stroke="#231F20" y1="-48.08" stroke-width=".5" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m65.261-37.08s-1.126 2.125-1.001 4.25.475 2.869 1.001 4c.528 1.132 3.253 2.25 2.003 4.375-1.252 2.125-1.878 4.75-2.003 6.875-.124 2.125 0 6.25 0 6.25" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m41.117-47.58s.626 4.125 0 6.75c-.625 2.625-2.002 5.25-2.002 8.625s2.377 9.375 2.377 9.375" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m50.125-48.455s-1.752 10-.252 12.75" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m46.873-22.955s-.626 2.486-.5 5.468c.125 2.982 1.877 5.592 1.752 8.201l-.157 3.485-.053 3.801" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m47.915-69.372s0 6.5-.502 8.5c-.5 2-1.668 4-1.668 4" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m65.762-48.393s.5-4.5-.166-7.167c-.667-2.667-2.67-5.665-2.67-8.333 0-1.807-.076-5.527-.125-7.738l.042-1.557" fill="none"/>
+   <line y2="-68.372" x1="39.907" x2="37.072" stroke="#231F20" y1="-56.037" stroke-width=".5" fill="none"/>
+   <line y2="-11.705" x1="4.213" x2="2.711" stroke="#231F20" y1="-24.705" stroke-width=".5" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m29.066-22.372c1.166 4.5-2.633 14.292-2.633 14.292l1.216 6.077" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m18.059-45.872s.665 3.502-.336 5.835c-1 2.332-4.837 6.498-5.17 8.165-.334 1.667-1.667 7.667-1.667 7.667" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m12.553-56.705s-.334 7.835-.334 10.168c0 2.332-1.001 6.498-2.502 9.165" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m14.555-69.872s1.002 7.333 1.502 10 1.833 3.5 1.833 3.5" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m3.547-70.705s2.834 5.999 1.666 13.333" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m23.229-68.537s1.501 14.832.333 17.332-.001 3.333-.166 5.5c-.167 2.168 4.336 10.168 4.336 10.168" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m32.401-67.872s1.836 4.335 1.169 7.335-1.669 6-2.002 9c-.334 3 .666 5 .666 5" fill="none"/>
+   <path stroke="#231F20" stroke-width=".5" d="m19.059-36.037s-3.002 4.498-3.336 7.665c-.335 3.167 1.834 6.5 1 9.5-.833 3-3.502 8.667-3.502 8.667" fill="none"/>
+   <line y2="-73.188" x1="47.915" x2="47.968" stroke="#231F20" y1="-69.364" stroke-width=".5" fill="none"/>
+   <line y2="-2" x1="61.843" x2="62.843" stroke="#231F20" y1="-10.819" stroke-width=".5" fill="none"/>
+  </pattern>
+ </defs>
+ <linearGradient id="ian_symbols_d3cf982583bbe12439cac3999fb7af64" y2="-.2698" gradientUnits="userSpaceOnUse" x2="255.25" y1="175.4" x1="255.25">
+  <stop stop-color="#0078C0" offset=".0415"/>
+  <stop stop-color="#00BDF2" offset=".4696"/>
+  <stop stop-color="#9DDCF9" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m486.7 6.269c-8.282.603-14.77-5.207-14.77-5.207s-5.628 5.705-14.726 5.492c-9.098-.285-14.158-4.994-14.158-4.994s-7.219 4.709-14.074 5.208c-6.813.458-14.849-5.705-14.849-5.705s-4.57 5.207-13.666 5.599c-9.099.317-14.85-5.315-14.85-5.315s-7.427 4.429-13.708 5.421c-6.245.956-15.219-5.528-15.219-5.528s-4.406 3.685-12.279 5.314c-7.793 1.521-16.647-5.102-16.647-5.102s-6.321 4.323-13.704 5.315c-7.424.956-15.137-5.528-15.137-5.528s-6.284 4.819-13.954 5.528c-7.709.672-14.972-5.528-14.972-5.528s-5.425 4.677-13.789 5.421c-8.404.673-14.849-5.315-14.849-5.315s-7.224 4.323-13.667 5.315c-6.405.955-15.014-5.209-15.014-5.209s-6.364 5.102-13.788 5.42c-7.427.354-15.26-5.42-15.26-5.42s-5.264 5.102-13.991 5.315c-8.732.21-14.523-5.528-14.523-5.528s-6.285 4.288-13.424 5.421c-7.098 1.062-15.707-5.315-15.707-5.315s-5.914 4.816-13.951 5.315c-7.996.459-14.402-5.209-14.402-5.209s-3.998 3.082-4.446 3.082c-.367 0-.979 1.735-9.219 2.233-8.282.458-15.097 5.573-15.097 5.573l-58.606-4.994v165.93l490 .813v-169.45c-5.43.749-10.6 1.426-13.55 1.639z" fill="url(#ian_symbols_d3cf982583bbe12439cac3999fb7af64)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m418.31 154.64c-33.25-2.12-88.195-15.534-121.77-24.027-36.838-9.316-38.459-50.955-45.616-70.62-3.53-9.706 1.065-44.831-25.11-46.02-24.921-1.129-39.42 45.42-55.38 46.912-60.816 5.685-42.707-42.157-68.315-51.524-22.355-8.174-82.972-9.041-101.87-9.107v230.21l500 .418v-72.488c-25.37-1.91-52.88-1.9-81.94-3.75z" fill="#E7D9CD"/>
+ <path stroke="#231F20" stroke-width=".5" d="m490.64 164.03c-12.9-.141-28.702-1.18-47.368-2.149-28.834-1.502-49.112-5.271-49.112-5.271l-1.546-10.439s-.43-91.389 18.933-91.389c35.157 0 21.426-31.947 30.601-34.41 2.543-.679 19.959-3.668 33.188 2.601 7.793 3.693 11.404 24.641 11.404 46.609.01 48.149 3.91 94.449 3.91 94.449z" fill="url(#ian_symbols_d1bbdfe497786684bdbc38fdd52c5507)"/>
+</svg>

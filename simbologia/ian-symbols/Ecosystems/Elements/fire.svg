@@ -1,0 +1,112 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="282" height="502" viewBox="0 0 282 502" xml:space="preserve">
+            <title>Fire</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Fire</ian_image_library:title>
+                <ian_image_library:descr>Illustration of fire</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, fire, flame, fuel, burning, combustion, blaze, flare, heat, light, pyre</ian_image_library:contains>
+                    <ian_image_library:when>2004-05-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b7baf16cbf685964690ed426254b6d86">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Fire</dc:title>
+                <dc:date>2004-05-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/fire/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/fire/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, fire, flame, fuel, burning, combustion, blaze, flare, heat, light, pyre</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of fire</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_452cea9f8a275c94a9fe892d434e2c9f" y2=".0249" gradientUnits="userSpaceOnUse" x2="161.86" y1="500.03" x1="161.86">
+  <stop stop-color="#FCAF17" offset="0"/>
+  <stop stop-color="#FCBA34" offset=".119"/>
+  <stop stop-color="#FCC959" offset=".2982"/>
+  <stop stop-color="#FDD476" offset=".4778"/>
+  <stop stop-color="#FDDC8A" offset=".6555"/>
+  <stop stop-color="#FDE197" offset=".8306"/>
+  <stop stop-color="#FDE39B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m180.69.024s-1.438 41.791 12.962 60.51c14.398 18.719 23.039 25.902 30.244 60.479 7.215 34.575-14.409 72.035-12.973 99.396 1.458 27.371 24.509 24.509 30.255 47.526 5.769 23.051 4.331 38.896 4.331 38.896s12.962 2.896 21.614-25.913c3.463-11.578-2.155-28.336-2.155-28.336s13.316 9.242 15.106 32.636c2.884 37.449-17.282 43.228-17.282 43.228s24.486 33.128 17.282 73.472c-7.205 40.312-46.079 48.964-56.179 60.489-10.078 11.515-2.895-14.409-8.631-25.935-5.778-11.536-21.613 18.729-30.266 8.642-8.631-10.078 7.215-33.129 4.331-38.886-2.884-5.769-7.923 11.235-31.691 14.409-21.614 2.873-24.498-7.194-24.498-23.062 0-15.824 4.331-56.157 4.331-56.157s-38.886 47.548-30.244 73.45c2.873 51.858 34.565 66.268 34.565 77.793 0 11.504-14.398-1.447-25.935 0-11.515 1.437-50.4 15.846-56.168 0-5.769-15.856 14.398-2.884 21.603-17.282 7.205-14.409-27.371-46.102-30.244-60.511-2.884-14.409-7.205-14.409-8.652-25.902-1.437-11.535 20.178-43.238 21.625-60.521 1.437-17.282-16.693-45.083-8.652-82.103 7.205-33.14 30.245-30.244 30.245-30.244s-30.245 30.244 0 64.819c12.769 14.581 11.535 10.067 21.613 0 15.846-20.166 28.797-48.974 30.244-73.461 1.437-24.487-17.282-54.731-4.331-69.151 12.973-14.409 34.576-20.146 47.549-30.244 12.962-10.078 10.088-11.525 0-34.576-10.07-23.068.02-73.48.02-73.48z" fill="url(#ian_symbols_452cea9f8a275c94a9fe892d434e2c9f)"/>
+ <linearGradient id="ian_symbols_78130e6ac91d540415b5d0238bf5d7fc" y2="194.57" gradientUnits="userSpaceOnUse" x2="258.61" y1="194.57" x1="230.88">
+  <stop stop-color="#FCAF17" offset="0"/>
+  <stop stop-color="#FCC041" offset=".2923"/>
+  <stop stop-color="#FDD982" offset=".7729"/>
+  <stop stop-color="#FDE39B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m249.82 158.48s-8.642 21.614-15.824 30.234c-7.216 8.641-1.47 38.896 12.951 41.77 14.409 2.895 14.409-31.692 5.768-37.438-8.66-5.76-2.9-34.56-2.9-34.56z" fill="url(#ian_symbols_78130e6ac91d540415b5d0238bf5d7fc)"/>
+ <linearGradient id="ian_symbols_18b7203adc43e954d12b05a49594b3ff" y2="149.98" gradientUnits="userSpaceOnUse" x2="95.698" y1="149.98" x1="74.972">
+  <stop stop-color="#FCAF17" offset="0"/>
+  <stop stop-color="#FCC041" offset=".2923"/>
+  <stop stop-color="#FDD982" offset=".7729"/>
+  <stop stop-color="#FDE39B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m87.068 118.16s-8.663 23.029-10.1 31.692c-1.447 8.63-5.758 28.786 5.768 31.681 11.525 2.873 12.962-18.74 12.962-25.945 0-7.193-8.63-17.282-8.63-21.593v-15.83z" fill="url(#ian_symbols_18b7203adc43e954d12b05a49594b3ff)"/>
+ <linearGradient id="ian_symbols_1b8d1b5d9ec0fcc41d08fc162d599f22" y2="433.79" gradientUnits="userSpaceOnUse" x2="33.884" y1="433.79" x1=".125">
+  <stop stop-color="#FCAF17" offset="0"/>
+  <stop stop-color="#FCC041" offset=".2923"/>
+  <stop stop-color="#FDD982" offset=".7729"/>
+  <stop stop-color="#FDE39B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m7.817 400.46s-10.057 21.604-7.173 34.576c2.852 12.962 2.852 15.846 12.951 24.477 10.078 8.651 18.73 11.536 20.178 0 1.437-11.515-11.536-12.94-15.856-20.156-4.321-7.2-10.1-38.9-10.1-38.9z" fill="url(#ian_symbols_1b8d1b5d9ec0fcc41d08fc162d599f22)"/>
+ <linearGradient id="ian_symbols_c061d760e73b2a542d505e2154868d2a" y2="463.02" gradientUnits="userSpaceOnUse" x2="230.01" y1="463.02" x1="127.39">
+  <stop stop-color="#FCAF17" offset="0"/>
+  <stop stop-color="#FBA718" offset=".2024"/>
+  <stop stop-color="#F8911B" offset=".5181"/>
+  <stop stop-color="#F36D21" offset=".9058"/>
+  <stop stop-color="#F26322" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m127.39 430.7s10.077 7.215 11.514 14.409c1.448 7.215-8.641 14.398-2.884 23.05 5.769 8.642 5.769 11.525 12.973 17.283 7.205 5.768 7.205 10.099 18.72 11.524 11.535 1.438 37.448-2.873 47.548-4.31 10.078-1.447 16.317-5.393 14.409-8.663-1.94-3.216-21.475 6.262-25.945-2.862-4.481-9.134 5.254-9.627 0-21.624-2.294-2.349-12.951 10.099-23.039 10.099-10.089 0-10.089-14.409-7.205-20.166 2.884-5.758-1.737-13.724-1.737-13.724s-5.617 3.667-6.089 9.253c-.525 5.929 2.091 8.33-5.114 11.214-7.205 2.863-.011 13.423-7.236 7.655-7.194-5.757-5.758-10.089-5.758-18.729 0-8.642-4.32-10.078-10.078-14.409-5.76-4.31-10.07 0-10.07 0z" fill="url(#ian_symbols_c061d760e73b2a542d505e2154868d2a)"/>
+</svg>

@@ -1,0 +1,109 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="173" viewBox="0 0 501 173" xml:space="preserve">
+            <title>Water: septic system 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water: septic system 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a septic system with a rectangular tank and incoming and outgoing pipes</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, catch, basin, septic, system, sewage-disposal, tank, sewer, sump</ian_image_library:contains>
+                    <ian_image_library:when>2007-10-15</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a6b1f1eb220829a48509a23c9f4a6e92">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water: septic system 1</dc:title>
+                <dc:date>2007-10-15</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-septic-system-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-septic-system-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, catch, basin, septic, system, sewage-disposal, tank, sewer, sump</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a septic system with a rectangular tank and incoming and outgoing pipes</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_e520000ca62968445986b47c03db4b38" y2="53.701" gradientUnits="userSpaceOnUse" x2="500.02" y1="53.701" x1="264.79">
+  <stop stop-color="#808285" offset="0"/>
+  <stop stop-color="#BCBEC0" offset=".5056"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" stroke-width=".05" d="m495.55 21.9h-198.62c-.086 0-.173.021-.248.032-.162.011-.335.011-.497.043-.13.032-.259.054-.399.097-.141.032-.292.075-.432.129-.119.054-.249.108-.379.162-.14.076-.259.14-.389.216-.118.076-.227.151-.334.227-.119.097-.238.194-.356.302-.098.086-.194.194-.281.292-.107.108-.194.216-.291.335-.087.129-.162.259-.238.389-.043.086-.107.151-.151.227l-27.668 54.677c-1.102 2.192-.227 4.881 1.977 5.994s4.882.227 6.005-1.976l26.426-52.215h195.88c2.473 0 4.471-1.998 4.471-4.46s-1.99-4.471-4.47-4.471z" fill="url(#ian_symbols_e520000ca62968445986b47c03db4b38)"/>
+ <linearGradient id="ian_symbols_83a4ad6839771894a95242c34d9a66b2" y2="28.596" gradientUnits="userSpaceOnUse" x2="58.442" y1="98.611" x1="18.019">
+  <stop stop-color="#808285" offset="0"/>
+  <stop stop-color="#BCBEC0" offset=".5056"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" stroke-width=".05" d="m.025 2.05v83.587c0 2.473 1.998 4.471 4.471 4.471h89.592c2.473 0 4.471-1.998 4.471-4.471 0-2.462-1.998-4.46-4.471-4.46h-85.121v-81.146l-8.942 2.019z" fill="url(#ian_symbols_83a4ad6839771894a95242c34d9a66b2)"/>
+ <rect stroke-linejoin="round" height="33.5" width="58.058" stroke="#808285" stroke-linecap="round" y="88.705" x="79.389" stroke-width=".05" fill="#BCBEC0"/>
+ <polygon stroke-linejoin="round" fill="#BCBEC0" stroke="#808285" stroke-linecap="round" stroke-width=".05" points="159.77 46.285 137.45 88.705 79.389 88.705 101.72 46.285"/>
+ <polygon stroke-linejoin="round" fill="#BCBEC0" stroke="#808285" stroke-linecap="round" stroke-width=".05" points="137.45 88.705 137.45 122.2 159.77 79.784 159.77 46.285"/>
+ <linearGradient id="ian_symbols_f829df2c65cef8540918a166d6414488" y2="91.648" gradientUnits="userSpaceOnUse" x2="252.34" y1="91.648" x1="145.45">
+  <stop stop-color="#808285" offset="0"/>
+  <stop stop-color="#BCBEC0" offset=".5056"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" stroke-width=".05" d="m149.91 81.177c-2.462 0-4.46 1.998-4.46 4.46 0 2.473 1.998 4.471 4.46 4.471h72.723c2.085 1.869 12.128 10.864 12.128 10.864.82.734 1.868 1.145 2.98 1.145h10.13c2.484 0 4.471-2.009 4.471-4.471s-1.986-4.471-4.471-4.471h-8.424c-2.084-1.858-12.127-10.864-12.127-10.864-.821-.734-1.88-1.134-2.98-1.134h-74.43z" fill="url(#ian_symbols_f829df2c65cef8540918a166d6414488)"/>
+ <polygon stroke-linejoin="round" fill="#BCBEC0" stroke="#808285" stroke-linecap="round" stroke-width=".05" points="266.22 98.284 266.22 115.23 278.69 92.722 278.69 75.778"/>
+ <rect stroke-linejoin="round" height="16.944" width="21.632" stroke="#808285" stroke-linecap="round" y="98.284" x="244.59" stroke-width=".05" fill="#BCBEC0"/>
+ <polygon stroke-linejoin="round" fill="#BCBEC0" stroke="#808285" stroke-linecap="round" stroke-width=".05" points="278.69 75.778 266.22 98.284 244.59 98.284 257.07 75.778"/>
+ <linearGradient id="ian_symbols_561dc277a51abec40140eef234ecc26d" y2="97.366" gradientUnits="userSpaceOnUse" x2="464.09" y1="97.366" x1="270.48">
+  <stop stop-color="#808285" offset="0"/>
+  <stop stop-color="#BCBEC0" offset=".5056"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" stroke-width=".05" d="m459.62 92.895h-184.68c-2.451 0-4.46 2.008-4.46 4.471 0 2.473 2.009 4.471 4.46 4.471h184.68c2.474 0 4.471-1.998 4.471-4.471.01-2.466-1.99-4.474-4.47-4.474z" fill="url(#ian_symbols_561dc277a51abec40140eef234ecc26d)"/>
+ <linearGradient id="ian_symbols_58034ab28d1718e4b588f9eea785eecc" y2="138.21" gradientUnits="userSpaceOnUse" x2="428.15" y1="138.21" x1="220.6">
+  <stop stop-color="#808285" offset="0"/>
+  <stop stop-color="#BCBEC0" offset=".5056"/>
+  <stop stop-color="#808285" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" stroke-width=".05" d="m423.68 163.9h-191.35l27.236-53.824c1.112-2.192.237-4.881-1.966-5.994-2.203-1.123-4.893-.238-6.005 1.965l-30.519 60.304c-.021.043-.032.086-.043.13-.087.151-.13.302-.184.453-.044.13-.087.26-.119.399-.032.141-.043.271-.064.411-.033.161-.044.323-.055.475 0 .054-.011.098-.011.141 0 .086.021.173.021.259.011.162.021.324.044.476.032.151.064.28.097.421.043.141.076.271.119.399.064.151.118.281.184.411.064.129.129.248.205.367.075.129.151.237.248.355.087.119.173.228.271.335.097.108.205.205.302.303.119.086.217.184.335.28.13.087.271.162.399.238.087.054.151.107.217.151.043.021.097.021.14.043.141.075.292.129.443.173.14.043.27.086.399.129.13.022.28.044.41.065.162.021.324.043.486.043.043 0 .097.021.14.021h198.62c2.484 0 4.471-1.998 4.471-4.471-.02-2.47-2-4.47-4.49-4.47z" fill="url(#ian_symbols_58034ab28d1718e4b588f9eea785eecc)"/>
+</svg>

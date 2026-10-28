@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="392" viewBox="0 0 501 392" xml:space="preserve">
+            <title>Urban: warehouse</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: warehouse</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a warehouse building</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, building, warehouse, storage</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ec05b2595653c1f48ddeadbb0f5f0bb8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: warehouse</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-warehouse/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-warehouse/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, building, warehouse, storage</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a warehouse building</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#D7D2D1" points="245.435,391.214 0,297.713 0,129.807 245.435,188.921 245.435,391.214 "/>
+<polygon fill="#C7C1BF" points="500,125.823 423.865,104.381 439.042,141.043 500,125.823 "/>
+<polygon fill="#C7C1BF" points="439.042,53.661 180.186,0 82.269,25.799 310.739,82.269 439.042,53.661 "/>
+<polygon fill="#D7D2D1" points="310.739,164.626 82.269,105.906 82.269,25.799 310.739,82.269 "/>
+<polygon fill="#C7C1BF" points="310.739,164.626 245.435,188.921 0,129.807 82.269,105.906 310.739,164.626 "/>
+<polygon fill="#968C89" points="245.435,391.214 245.435,188.921 310.739,164.626 310.739,82.269 439.042,53.661 439.042,134.92 
+	500,125.823 500,321.581 245.435,391.214 "/>
+<polygon fill="#58595B" points="375.932,278.114 375.932,355.533 403.773,347.896 403.773,270.751 "/>
+<polygon fill="#58595B" points="278.652,229.688 280.254,262.828 308.874,253.401 309.356,221.513 278.652,229.688 "/>
+<polygon fill="#58595B" points="335.704,210.078 337.361,241.968 363.039,234.264 363.543,202.353 335.704,210.078 "/>
+<polygon fill="#58595B" points="391.043,193.694 392.667,225.562 418.4,217.814 418.873,185.947 391.043,193.694 "/>
+<polygon fill="#58595B" points="445.768,181.394 447.371,213.261 473.159,205.535 473.62,173.657 445.768,181.394 "/>
+</svg>

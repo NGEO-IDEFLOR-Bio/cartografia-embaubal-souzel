@@ -1,0 +1,123 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="196" viewBox="0 0 501 196" xml:space="preserve">
+            <title>Coastline 2D: sea-level rise with increased swell</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: sea-level rise with increased swell</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a 2D coastline with sea-level rise and increased swell</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>coastal, marine, coastline, 2d, sea-level, rise, increased, swell</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-09</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c0991f0a2301b2c4e92b4b5f2d641250">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: sea-level rise with increased swell</dc:title>
+                <dc:date>2010-03-09</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-sea-level-rise-with-increased-swell/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-sea-level-rise-with-increased-swell/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>coastal, marine, coastline, 2d, sea-level, rise, increased, swell</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a 2D coastline with sea-level rise and increased swell</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<g>
+	<linearGradient id="ian_symbols_e00cc85c4a8be3e4a1321de6140bda15" gradientUnits="userSpaceOnUse" x1="500.0869" y1="55.8701" x2="79.1107" y2="4.1808">
+		<stop  offset="0.1152" style="stop-color:#6BA3BE"/>
+		<stop  offset="0.121" style="stop-color:#6CA3BF"/>
+		<stop  offset="0.713" style="stop-color:#A3C6D8"/>
+		<stop  offset="1" style="stop-color:#BBD6E3"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_e00cc85c4a8be3e4a1321de6140bda15)" d="M488.308,5.602c-6.955-5.804-15.26-5.601-15.26-5.601s5.2,3.371,1.33,10.839
+		c-3.875,7.466-6.688,8.637-11.095,11.892c-6.438,4.768-12.48,5.691-17.933,4.886c-7.704-1.142-11.516-11.451-16.792-16.444
+		c-5.278-4.993-13.181-7.014-13.181-7.014s4.394,2.736,0.982,8.476c-2.557,4.298-5.352,10.126-11.771,12.889
+		c-2.687,1.155-6.758,1.122-10.625-0.178c-3.871-1.298-5.657-4.687-9.125-10.524c-2.78-4.684-11.011-6.418-11.011-6.418
+		s2.227,3.199,1.495,6.537c-0.737,3.338-2.459,6.557-5.782,8.959c-3.32,2.408-4.976,3.021-9.187,2.794
+		c-7.266-0.393-7.44-6.101-10.135-11.433c-2.099-4.149-9.595-5.294-9.595-5.294s4.173,1.852,1.724,6.456
+		c-2.717,5.109-9.855,10.469-17.11,10.34c-4.968-0.09-7.676-4.555-11.228-8.307c-2.594-2.736-8.104-3.815-8.104-3.815
+		s1.338,2.014-1.045,5.325c-2.563,3.564-7.753,7.149-12.947,6.657c-3.726-0.351-5.023-2.729-7.943-5.015
+		c-2.921-2.292-8.737-4.488-8.737-4.488s0.584,2.483-2.596,4.916c-3.184,2.434-8.854,4.807-13.714,4.587
+		c-4.415-0.225-5.564-1.648-8.291-3.128c-3.253-1.77-7.661-3.62-7.661-3.62s-0.825,1.814-4.039,3.574
+		c-3.189,1.746-9.135,3.863-15.49,2.234c-3.606-0.95-6.034-2.45-6.034-2.45s-6.588,3.201-12.215,3.216
+		c-6.509,0.016-11.584-3.216-11.584-3.216s-4.159,3.055-11.639,3.217c-7.487,0.119-12.118-3.217-12.118-3.217
+		s-5.333,3.555-12.146,3.217c-6.811-0.34-9.856-3.217-9.856-3.217V23.23c0,0-6.952,3.38-11.883,3.22
+		c-6.105-0.179-11.339-3.217-11.339-3.217s-6.958,3.287-12.348,3.217c-5.914-0.081-11.242-3.217-11.242-3.217
+		s-5.255,3.301-12.214,3.217c-6.479-0.081-12.101-2.846-12.101-2.846V56.57H500V15.955C494.74,13.118,492.418,9.028,488.308,5.602z"
+		/>
+</g>
+<g>
+	<linearGradient id="ian_symbols_61429771993a8da46902b1e2d1c089be" gradientUnits="userSpaceOnUse" x1="288.3623" y1="191.5967" x2="288.3623" y2="48.561">
+		<stop  offset="0.5455" style="stop-color:#84B2CA"/>
+		<stop  offset="0.5485" style="stop-color:#85B2CA"/>
+		<stop  offset="0.8526" style="stop-color:#C0DAE5"/>
+		<stop  offset="1" style="stop-color:#DAF0F4"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_61429771993a8da46902b1e2d1c089be)" d="M500,48.563c0,0-6.593,3.201-12.223,3.216c-6.504,0.016-11.576-3.216-11.576-3.216
+		s-4.163,3.056-11.645,3.218c-7.486,0.118-12.118-3.218-12.118-3.218s-5.332,3.556-12.142,3.218c-6.813-0.34-9.86-3.218-9.86-3.218
+		s-4.757,3.336-11.938,3.216c-7.184-0.122-11.508-3.216-11.508-3.216s-6.444,3.416-12.555,3.218
+		c-6.103-0.18-11.337-3.218-11.337-3.218s-6.956,3.287-12.348,3.218c-5.912-0.08-11.241-3.218-11.241-3.218
+		s-5.255,3.302-12.216,3.218c-6.476-0.08-11.344-3.218-11.344-3.218s-5.916,3.198-12.31,3.216
+		c-6.182,0.016-11.481-3.216-11.481-3.216s-6.23,3.198-12.446,3.216c-5.61,0.016-11.274-3.216-11.274-3.216
+		s-5.681,3.234-12.359,3.218c-6.329-0.018-11.432-3.218-11.432-3.218s-7.252,3.198-12.518,3.216
+		c-4.729,0.016-11.271-3.216-11.271-3.216s-4.729,3.381-12.211,3.218c-6.274-0.142-11.237-3.218-11.237-3.218
+		s-6.588,3.201-12.215,3.216c-6.509,0.016-11.584-3.216-11.584-3.216s-4.159,3.056-11.639,3.218
+		c-7.487,0.118-12.118-3.218-12.118-3.218s-5.333,3.556-12.146,3.218c-6.811-0.34-9.856-3.218-9.856-3.218v-0.003
+		c0,0-6.952,3.381-11.883,3.221c-6.105-0.18-11.339-3.218-11.339-3.218s-6.958,3.287-12.348,3.218
+		c-5.914-0.08-11.242-3.218-11.242-3.218s-5.255,3.302-12.214,3.218c-6.479-0.08-12.101-2.846-12.101-2.846v142.661H500V48.563z"/>
+</g>
+<g>
+	<path fill="#CEB59B" d="M405.49,94.084c-12.977,0-161.708,1.625-190.607-7.331c-25.975-8.05-24.482,0.66-69.547-37.161
+		c-23.572-19.781-32.588-13.498-39.697-18.891C82.073,12.823,26.816,17.882,0,17.882v177.571h431.066H500V83.745
+		C471.447,83.521,440.433,94.084,405.49,94.084z"/>
+</g>
+</svg>

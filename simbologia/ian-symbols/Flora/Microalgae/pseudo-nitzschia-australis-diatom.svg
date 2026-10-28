@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="361" viewBox="0 0 501 361" xml:space="preserve">
+            <title>Pseudo-nitzschia australis (Diatom)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pseudo-nitzschia australis (Diatom)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Pseudo-nitzschia australis (Diatom)</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, Pseudo-nitzschia, Diatom, PlantaeÂ BacillariophytaÂ BacillariophyceaeÂ BacillarialesÂ BacillariaceaeÂ P. australis</ian_image_library:contains>
+                    <ian_image_library:when>2007-10-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-2c7179303f3fd904b588060f3a641ca5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pseudo-nitzschia australis (Diatom)</dc:title>
+                <dc:date>2007-10-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pseudo-nitzschia-australis-diatom/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pseudo-nitzschia-australis-diatom/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, Pseudo-nitzschia, Diatom, PlantaeÂ BacillariophytaÂ BacillariophyceaeÂ BacillarialesÂ BacillariaceaeÂ P. australis</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Pseudo-nitzschia australis (Diatom)</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#5E600E" stroke-width=".25" d="m260.08 132.37l204.12-132.26s-187.46 98.944-220.78 116.65c-32.312 17.17-206.2 143.71-206.2 143.71l222.86-128.1z" fill="#999936"/>
+ <path stroke="#CCDBA2" stroke-width=".25" d="m243.42 116.76c-4.402 2.347-11.544 6.796-20.443 12.619l11.396 17.786 23.493-13.512-11.754-18.32c-.96.50-1.91 1-2.7 1.42z" fill="#E4C3A8"/>
+ <path stroke="#5E600E" stroke-width=".25" d="m272.46 243.98l211.23-120.53s-192.72 88.211-226.99 104.01c-33.24 15.31-213.99 131.85-213.99 131.85l229.75-115.33z" fill="#999936"/>
+ <path stroke="#CCDBA2" stroke-width=".25" d="m256.7 227.46c-4.545 2.097-11.916 6.127-21.141 11.449l10.374 18.388 24.217-12.152-10.685-18.963c-.98.44-1.95.89-2.76 1.27z" fill="#E4C3A8"/>
+ <path stroke="#5E600E" stroke-width=".25" d="m256.81 100.28l243.2-2.083s-211.26-17.075-248.88-20.038c-36.48-2.855-251.12 10.63-251.12 10.63l256.8 11.491z" fill="#999936"/>
+ <path stroke="#CCDBA2" stroke-width=".25" d="m251.12 78.158c-4.991-.392-13.391-.466-24.041-.325l.088 21.113 27.07 1.217-.088-21.769c-1.07-.084-2.13-.172-3.03-.233z" fill="#E4C3A8"/>
+</svg>

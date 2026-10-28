@@ -1,0 +1,83 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="508" height="483" viewBox="0 0 508 483" xml:space="preserve">
+            <title>Light: water absorption deep</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Light: water absorption deep</ian_image_library:title>
+                <ian_image_library:descr>Illustration of deep light absorption in water</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, light, water, absorption, deep, water, column, depth, infiltration</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b47a500a34de9a34f9a7b78a7668ab12">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Light: water absorption deep</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/light-water-absorption-deep/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/light-water-absorption-deep/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, light, water, absorption, deep, water, column, depth, infiltration</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of deep light absorption in water</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_af96ebe4dfcb71f441b029e563e4d199" y2="240.53" gradientUnits="userSpaceOnUse" x2="489.74" y1="240.53" x1="-9.6548">
+  <stop stop-color="#943895" offset=".2079"/>
+  <stop stop-color="#4A58AA" offset=".2766"/>
+  <stop stop-color="#156FBA" offset=".3325"/>
+  <stop stop-color="#0078C0" offset=".3596"/>
+  <stop stop-color="#00A6E9" offset=".5449"/>
+  <stop stop-color="#41AD49" offset=".7584"/>
+  <stop stop-color="#fd0" offset=".9831"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="3" d="m64.756 1.5h382.95l-4.883 229.28 60.967 2.464-253.65 246.32-246.36-243.89 63.409 2.43-2.443-236.6z" fill="url(#ian_symbols_af96ebe4dfcb71f441b029e563e4d199)"/>
+</svg>

@@ -1,0 +1,103 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="258" viewBox="0 0 500 258" xml:space="preserve">
+            <title>Duck</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Duck</ian_image_library:title>
+                <ian_image_library:descr>Illustration of duck</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>bird, duck, Chordata, Aves, Anseriformes</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-967c147f3a7cfbb4119faf5529a1cab4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Duck</dc:title>
+                <dc:date>2004-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/duck-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/duck-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>bird, duck, Chordata, Aves, Anseriformes</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of duck</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_8181dfc0a8a968b4495b758242945c63">
+	<g id="ian_symbols_75724b62af6dd084e1b93b722e109888">
+		<g id="ian_symbols_59561d32cff9eb2471d93f4e167275a8">
+			<g id="ian_symbols_795663f1dc6efc145da9e1c567bd5ca9">
+				<g id="ian_symbols_12b51caa01683b74ad3b5beac7ad1c10">
+					<g id="ian_symbols_c5ca782d64c2cd542d964d85d4046e77">
+						<g id="ian_symbols_7aa32e8700de7324d5a526ed6e61fe9e">
+							<g id="ian_symbols_b1ac1df4421f2814b90519479712fa21">
+								<g>
+										<linearGradient id="ian_symbols_fe143fae143fc424493097cc4bf4d6a0" gradientUnits="userSpaceOnUse" x1="1388.6514" y1="2678.6475" x2="1388.6514" y2="3596.9048" gradientTransform="matrix(0.2988 0 0 -0.2988 -164.929 1065.4109)">
+										<stop  offset="0" style="stop-color:#816A50"/>
+										<stop  offset="1" style="stop-color:#C9A781"/>
+									</linearGradient>
+									<path fill="url(#ian_symbols_fe143fae143fc424493097cc4bf4d6a0)" d="M431.2,146.5c-56.8-51.6-125.6-79.3-198.3-51.6c-17.2,6.6-58.2,47.6-76.7,42.3l-2.7-4
+										c0-34.4,33.1-55.5,15.9-97.8c-21.2-51.6-88.6-45-109.8,7.9C47.8,63.1-3.8,76.4,0.2,87c4,7.9,66.1-21.2,97.8-7.9
+										c14.5,6.6,10.6,25.1,7.9,33.1c-1.3,14.5-23.8,35.7-21.1,55.6c0,15.9,19.8,55.5,38.3,62.1c5.3,1.3,13.2,6.6,19.8,9.3
+										c35.7,11.9,92.5,18.5,130.9,18.5c18.5,0,52.9-10.6,72.7-11.9c22.5-1.3,43.6-13.2,64.8-18.5c21.2-7.9,26.5-13.2,41-26.5
+										c13.2-10.6,31.7-38.4,47.6-58.2C480.1,142.5,445.8,159.7,431.2,146.5L431.2,146.5z"/>
+									<path d="M250.3,204.1c-27.9,0-55.8-5.8-85-17.5l0.4-0.9c49.2,19.7,94.5,22.6,142.5,9.2c26.3-7.8,32-19.5,32-27.9
+										c0.1-16.4-20.6-34.9-49.2-43.9c-45.5-13-106.1,24.7-106.7,25l-0.5-0.8c0.6-0.4,61.5-38.3,107.5-25.2
+										c29.1,9.1,50.1,28,50,44.8c-0.1,8.8-5.8,20.9-32.8,28.8C288.8,201.4,269.6,204.1,250.3,204.1z"/>
+									<path d="M75.6,30.1c-4,0-7.9,4-7.9,7.9c0,4,4,7.9,7.9,7.9c4,0,6.6-4,6.6-7.9C82.2,34.1,79.6,30.1,75.6,30.1z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

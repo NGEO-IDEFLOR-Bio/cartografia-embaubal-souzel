@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="345" viewBox="0 0 500 345" xml:space="preserve">
+            <title>Inputs: atmospheric lead</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Inputs: atmospheric lead</ian_image_library:title>
+                <ian_image_library:descr>Illustration of atmospheric lead</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>input, flows, atmospheric, lead</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d50cff0548c906b4e9e11a29b217144f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Inputs: atmospheric lead</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/inputs-atmospheric-lead/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/inputs-atmospheric-lead/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>input, flows, atmospheric, lead</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of atmospheric lead</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_fc24e1c8e51a5224514ca876e4068f40" gradientUnits="userSpaceOnUse" x1="10" y1="171.9595" x2="488.2344" y2="171.9595">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.1285" style="stop-color:#F3F3F3"/>
+	<stop  offset="0.3551" style="stop-color:#DADBDC"/>
+	<stop  offset="0.653" style="stop-color:#B2B4B6"/>
+	<stop  offset="1" style="stop-color:#808285"/>
+</linearGradient>
+<path fill="url(#ian_symbols_fc24e1c8e51a5224514ca876e4068f40)" stroke="#58595B" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="M437.571,227.47
+	c22.148-17.366,24.571-20.789,50.663-39.791l-29.397,131.042c-50.854,4.569-81.356,12.838-142.7,15.197
+	c21.915-22.128,30.885-28.228,48.367-47.549C332.652,183.555,81.154,40.61,10,10.278C140.054,3.477,398.843,122.615,437.571,227.47z
+	"/>
+</svg>

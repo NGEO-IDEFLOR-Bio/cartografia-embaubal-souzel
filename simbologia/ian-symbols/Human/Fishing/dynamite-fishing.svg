@@ -1,0 +1,76 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="136" height="502" viewBox="0 0 136 502" xml:space="preserve">
+            <title>Dynamite fishing</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Dynamite fishing</ian_image_library:title>
+                <ian_image_library:descr>Illustration of dynamite fishing</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>fishing, industry, dynamite, stick, environmental, degradation, blast, fishing, catch, collection, harvest</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-90f94bb6573e40f405579b9a7d01fd38">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Dynamite fishing</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/dynamite-fishing/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/dynamite-fishing/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>fishing, industry, dynamite, stick, environmental, degradation, blast, fishing, catch, collection, harvest</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of dynamite fishing</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="278.8" width="126.39" stroke="#231F20" y="221.28" x="7.891" stroke-width=".6666" fill="#ED1C24"/>
+ <path d="m19.044 89.309s-5.577 29.735 0 42.74c5.577 13.016 40.889 18.593 48.328 37.175 7.429 18.593-22.307 52.053-22.307 52.053h18.582s20.455-29.746 24.169-53.904c3.715-24.17-39.037-20.445-48.328-42.751-9.291-22.307-5.577-37.175-5.577-37.175l-14.867 1.864z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".6666" d="m19.044 89.309s-20.444-11.154-18.592-35.323c13.016-20.444 26.021-31.598 26.021-31.598l5.577-22.307-1.852 31.598s3.714 20.455 14.868 27.883c-3.714 22.308-26.022 29.747-26.022 29.747z" fill="#FBD902"/>
+</svg>

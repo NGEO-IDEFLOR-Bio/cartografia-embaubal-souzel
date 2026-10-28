@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="161" height="501" viewBox="0 0 161 501" xml:space="preserve">
+            <title>Temperature: very high</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Temperature: very high</ian_image_library:title>
+                <ian_image_library:descr>Illustration of very high temperature</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, temperature, very, high, thermometer</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-514a2fde8aa771e4fddbb5a75bfad64c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Temperature: very high</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/temperature-very-high/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/temperature-very-high/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, temperature, very, high, thermometer</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of very high temperature</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m103.14 345.57v-246.44c0-12.59-10.209-22.793-22.796-22.793-12.583 0-22.793 10.203-22.793 22.793v246.44c-32.455 9.792-56.102 39.885-56.102 75.536 0 43.563 35.325 78.889 78.895 78.889 43.581 0 78.899-35.325 78.899-78.889 0-35.65-23.64-65.75-56.1-75.54z" fill="#231F20"/>
+ <path d="m96.344 352.25v-250.17c.006-12.382-8.334-17.183-15.875-17.118-7.632.052-16.217 4.488-16.12 17.118v250.17c-31.346 7.26-54.739 35.29-54.739 68.86 0 39.05 31.672 70.734 70.741 70.734 39.059 0 70.731-31.685 70.731-70.734 0-33.57-23.38-61.6-54.736-68.86z" fill="#9B1F22"/>
+ <linearGradient id="ian_symbols_818190dbe5298934a137018089f43199" y2="411.55" gradientUnits="userSpaceOnUse" x2="92.053" y1="453.56" x1="32.048">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#FBF7F7" offset=".0804"/>
+  <stop stop-color="#F1E0E0" offset=".2083"/>
+  <stop stop-color="#E0BABB" offset=".3677"/>
+  <stop stop-color="#C98687" offset=".5523"/>
+  <stop stop-color="#AB4446" offset=".7557"/>
+  <stop stop-color="#9B1F22" offset=".8606"/>
+ </linearGradient>
+ <path opacity=".7" d="m34.738 411.9c0-19.513 9.688-36.741 24.489-47.23-22.127 8.513-37.849 29.917-37.849 55.039 0 32.598 26.42 59.012 59.012 59.012 15.901 0 30.311-6.335 40.932-16.563-8.461 4.847-18.24 7.652-28.69 7.652-31.974 0-57.892-25.93-57.892-57.91z" fill="url(#ian_symbols_818190dbe5298934a137018089f43199)"/>
+ <path d="m65.967 46.205c4.456 0 11.866-22.982-1.246-37.452-9.009-9.929-20.94-11.866-26.31-3.458-5.003 7.841.815 19.845 12.532 22.454 16.387 3.654 10.568 18.456 15.024 18.456z" fill="#9B1F22"/>
+ <path d="m46.376 83.695c3.151-2.91-6.582-24.02-25.305-25.709-12.844-1.161-22.564 5.251-20.881 14.698 1.566 8.82 13.504 13.523 23.511 7.737 13.986-8.09 19.518 6.177 22.675 3.274z" fill="#9B1F22"/>
+ <path d="m99.879 59.375c-3.189-2.942 6.661-24.319 25.618-26.035 13.021-1.181 22.858 5.316 21.155 14.887-1.585 8.931-13.68 13.693-23.811 7.834-14.17-8.199-19.77 6.25-22.971 3.314z" fill="#9B1F22"/>
+</svg>

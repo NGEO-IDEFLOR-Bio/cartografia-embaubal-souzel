@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="509" height="483" viewBox="0 0 509 483" xml:space="preserve">
+            <title>Light: full sunlight</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Light: full sunlight</ian_image_library:title>
+                <ian_image_library:descr>Illustration of full sunlight</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, light, full, sunlight, visible, color, spectrum</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-79b65d060d2d892405c4112b2544c871">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Light: full sunlight</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/light-full-sunlight/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/light-full-sunlight/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, light, full, sunlight, visible, color, spectrum</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of full sunlight</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_509f71c1062ff93461e40c14f02d5b4d" y2="240.53" gradientUnits="userSpaceOnUse" x2="489.75" y1="240.53" x1="-9.6538">
+  <stop stop-color="#943895" offset=".1582"/>
+  <stop stop-color="#4A58AA" offset=".194"/>
+  <stop stop-color="#156FBA" offset=".2232"/>
+  <stop stop-color="#0078C0" offset=".2373"/>
+  <stop stop-color="#00A6E9" offset=".339"/>
+  <stop stop-color="#41AD49" offset=".4689"/>
+  <stop stop-color="#fd0" offset=".6045"/>
+  <stop stop-color="#F99D1C" offset=".774"/>
+  <stop stop-color="#D2232A" offset=".8814"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="3" d="m64.773 1.5h382.93l-4.881 229.27 60.977 2.446-253.66 246.34-246.34-243.92 63.412 2.458-2.439-236.6z" fill="url(#ian_symbols_509f71c1062ff93461e40c14f02d5b4d)"/>
+</svg>

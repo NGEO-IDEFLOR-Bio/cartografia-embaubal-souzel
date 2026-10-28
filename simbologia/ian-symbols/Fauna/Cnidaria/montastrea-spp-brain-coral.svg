@@ -1,0 +1,239 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="341" viewBox="0 0 500 341" xml:space="preserve">
+            <title>Montastrea spp. (Brain Coral)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Montastrea spp. (Brain Coral)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Montastrea spp. (Brain Coral)</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Montastrea spp. Cnidaria, Anthazoa, Hexacorallia, Scleractinia, Faviidae, M. cavernosa, M. annularis, large, star, coral, common, star, coral, </ian_image_library:contains>
+                    <ian_image_library:when>2004-01-08</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-09fbe39065bed6b4410d181266ff715a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Montastrea spp. (Brain Coral)</dc:title>
+                <dc:date>2004-01-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/montastrea-spp-brain-coral/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/montastrea-spp-brain-coral/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Montastrea spp. Cnidaria, Anthazoa, Hexacorallia, Scleractinia, Faviidae, M. cavernosa, M. annularis, large, star, coral, common, star, coral, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Montastrea spp. (Brain Coral)</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_d3cf8ffe1552f5646523ea0f6d063abf">
+	<g>
+			<radialGradient id="ian_symbols_0ee08a0375613ed499eb16e6903cf318" cx="1943.3944" cy="1847.0729" r="1076.4669" fx="1347.7657" fy="1501.0444" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0169" style="stop-color:#ACA7BB"/>
+			<stop  offset="0.9663" style="stop-color:#8C8BA1"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_0ee08a0375613ed499eb16e6903cf318)" d="M3.642,117.15c-3.436,5.771-4.43,15.477-3.028,22.529c1.834,9.204,7.78,16.886,9.005,26.463
+			c0.963,7.392-0.521,14.754-1.466,21.798c-2.367,17.726,4.351,30.275,13.102,44.219c7.193,11.424,7.733,21.694,5.609,35.84
+			c-2.318,15.648,3.129,23.62,13.303,34.936c4.742,5.284,12.156,12.377,18.485,15.25c6.169,2.79,16.466,0.992,23.502,0.992
+			c13.423,0.024,25.766-5.418,38.602-5.968c15.779-0.682,21.123,16.719,37.058,15.943c13.217-0.633,25.341-5.309,39.022-5.309
+			c6.879,0,13.929-0.472,20.756,0c9.602,0.643,17.917,4.99,26.495,7.937c17.082,5.874,37.262,5.162,55.368,2.549
+			c15.167-2.205,28.703-3.845,44.427-3.845h22.605c6.309,0,12.613-0.457,18.733,1.007c7.444,1.763,13.637,7.647,21.122,9.101
+			c14.398,2.785,34.307-5.55,44.285-14.917c5.17-4.857,9.983-10.82,14.582-16.463c8.951-11.066,9.632-18.9,9.632-33.428
+			c0-15.81-3.708-39.818,1.255-54.322c2.215-6.473,6.712-13.521,9.049-20.177c3.104-8.807,9.536-17.259,8.959-26.439
+			c0.088,0.015,0.169,0.034,0.25,0.098c-1.938-11.508-7.662-27.333-4.924-39.862c0.719-3.355,3.865-6.385,5.054-9.411
+			c3.436-8.728,5.924-16.065,5.459-26.606c-0.462-10.452-2.051-24.44-8.598-33.035c-4.551-6.002-12.37-9.877-18.318-14.145
+			c-4.307-3.094-8.531-6.694-12.824-9.828c-8.074-5.904-15.881-12.455-24.41-17.451c-16.39-9.597-41.67-11.817-60.321-11.798
+			c-14.339,0.01-29.796,1.469-43.87-0.663c-17.267-2.618-34.042-8.011-51.512-9.302c-7.036-0.521-15.356-0.776-22.419-0.015
+			c-5.769,0.644-9.396,3.448-14.74,4.003c-14.548,1.459-27.88-3.403-41.188-5.348c-12.422-1.813-30.827-2.795-41.255,2.102
+			c-11.709,5.491-26.36,4.396-36.394,12.171c-9.214,7.156-15.842,16.351-24.708,23.998c-11.311,9.745-21.864,9.602-36.745,9.602
+			c-6.395,0-14.251-1.139-19.799,1.371c-4.528,2.058-8.187,8.207-10.786,12.927c-3.183,5.791-5.962,11.046-9.943,16.262
+			c-3.576,4.685-6.327,12.721-10.494,15.967L3.645,117.13L3.642,117.15z"/>
+			<radialGradient id="ian_symbols_18a0240e6848cf04353223943212e359" cx="1874.0612" cy="1700.5226" r="229.9052" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_18a0240e6848cf04353223943212e359)" d="M187.734,180.96c-0.727-6.493,4.511-13.035,8.647-17.279c5.032-5.172,8.477-5.678,15.955-5.329
+			c5.432,0.27,10.982,2.465,16.587,1.331c5.901-1.193,10.12-2.652,17.333-2.652c10.778,0,25.13,4.145,32.342,12.146
+			c6.339,7.024,6.127,19.995,6.169,29.042c0.081,20.187-25.348,42.038-46.677,43.885c-15.133,1.297-27.175-1.837-35.019-15.334
+			c-3.138-5.388-2.738-11.046-2.711-17.898c0.064-8.438-3.143-11.071-8.659-17.102c-0.366-0.555-0.803-1.066-1.292-1.508
+			l-2.679-9.307L187.734,180.96z"/>
+			<radialGradient id="ian_symbols_1f60825f51b492b4954925dbc5ef9e13" cx="2962.6663" cy="1799.0726" r="185.5508" fx="3009.4463" fy="1739.5664" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_1f60825f51b492b4954925dbc5ef9e13)" d="M418.565,164.301c0.246,0.486,0.415,1.002,0.531,1.557c2.274,6.257,3.843,9.16,1.535,16.095
+			c-1.861,5.638-3.701,10.211-2.93,15.383c1.938,12.952,9.646,18.344,20.729,20.771c15.624,3.438,39.573-8.674,44.958-25.334
+			c2.419-7.47,6.066-18.104,3.45-25.368c-2.969-8.276-12.016-15.01-19.663-17.52c-5.128-1.67-8.529-1.449-13.028-1.832
+			c-4.278-0.368-7.632-3.472-11.409-4.941c-5.216-2.033-7.778-2.412-12.756,0.678c-4.081,2.524-9.562,6.714-10.793,12.225
+			l-0.629,8.261L418.565,164.301z"/>
+			<radialGradient id="ian_symbols_d6dc63fee01a59b421d8a446f08d8cc2" cx="1770.2627" cy="2227.8113" r="262.3476" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_d6dc63fee01a59b421d8a446f08d8cc2)" d="M169.124,129.782c2.392,4.882,10.508,10.025,15.96,9.151c6.154-0.978,9.646-6.906,13.647-10.653
+			c10.127-9.479,18.944-10.56,32.583-11.93c10.493-1.071,26.537,0.663,36.527-2.986c16.721-6.071-1.162-47.75-12.463-55.206
+			c-14.651-9.671-53.324-11.228-62.841,3.325c-6.282,9.602-3.573,24.749-12.279,32.746c-5.55,5.103-24.179,8.62-23.752,20.265
+			l12.611,15.289H169.124z"/>
+			<radialGradient id="ian_symbols_264a7861783c20f49d556373644e6b54" cx="2474.9065" cy="2072.6462" r="255.4908" fx="2564.2434" fy="2028.7826" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_264a7861783c20f49d556373644e6b54)" d="M309.354,85.259c-2.642,3.315,3.092,7.691,4.654,11.954c1.628,4.396,0.496,11.67-0.626,16.596
+			c-1.304,5.683-4.862,8.929-7.267,14.165c-2.311,5.015-1.687,10.241,1.078,15.113c7.119,12.549,19.378,14.818,31.38,19.268
+			c12.77,4.73,24.005,13.236,37.934,13.944c27.895,1.425,7.363-35.618,6.061-47.759c6.987-0.319,12.591,1.615,16.523-3.895
+			c3.192-4.45,4.334-12.097,5.447-17.279c2.426-11.188,5.727-30.084-9.426-32.073c-12.831-1.689-22.477,8.551-30.225,16.439
+			c-3.893,3.959-7.643,9.15-13.659,8.807c-8.335-0.477-8.261-9.028-13.625-13.605c-4.701-4.003-10.631-3.001-16.955-3.001
+			c0-0.005-8.64-2.004-11.29,1.321L309.354,85.259z"/>
+			<radialGradient id="ian_symbols_d82a5fcc58b6f6b4f54253129b1d6e1a" cx="1316.6843" cy="1693.4634" r="218.3123" fx="1281.9757" fy="1633.2513" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_d82a5fcc58b6f6b4f54253129b1d6e1a)" d="M117.953,163.682c-7.006,6.463-8.932,18.094-15.449,23.595
+			c-6.692,5.638-13.921,8.241-15.776,19.607c-1.854,11.287,5.955,19.199,15.8,21.257c11.734,2.451,15.84,12.416,26.051,18.296
+			c7.242,4.155,30.626,2.298,34.641-6.965c4.693-10.825-6.397-25.319-8.858-35.113c-3.224-12.755,3.423-22.205,0.953-34.7
+			c-0.769-3.924-2.603-12.043-6.25-14.499c-4.001-2.696-16.152-1.513-19.146,1.871l-11.952,6.64L117.953,163.682z"/>
+			<radialGradient id="ian_symbols_bf54fded8bc6e7d4fd872341e9e668e7" cx="2482.6082" cy="1424.6519" r="255.8169" fx="2559.6208" fy="1419.9235" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_bf54fded8bc6e7d4fd872341e9e668e7)" d="M309.354,265.351c4.558,4.465,8.981,10.698,11.004,16.812
+			c4.123,12.441,10.417,27.122,27.519,23.737c10.12-2.019,25.675-5.727,31.891-13.978c3.02-4.008,4.563-8.566,8.986-12.117
+			c4.774-3.87,13.57-6.434,16.66-12.121c5.224-9.578-3.401-23.502-8.144-31.522c-5.047-8.551-9.047-17.8-17.441-23.978
+			c-9.096-6.67-20.445-10.393-31.952-9.297c-22.168,2.117-41.193,33.251-40.508,55.83l1.982,6.64L309.354,265.351z"/>
+			<radialGradient id="ian_symbols_23082b19f0c4d2e471cde33330b807c3" cx="1386.6718" cy="2345.0854" r="102.2604" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_23082b19f0c4d2e471cde33330b807c3)" d="M133.245,57.337c-10.744-0.383-19.118,8.453-16.642,19.239
+			c2.429,10.604,13.84,12.019,23.025,11.999c12.309-0.025,22.399,1.419,22.849-13.969c0.285-9.455-13.591-21.567-23.249-19.931
+			l-5.99,2.662H133.245z"/>
+			<radialGradient id="ian_symbols_80aa4c3f25e80094b14866b2beecadbe" cx="1546.5762" cy="1273.152" r="130.4957" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_80aa4c3f25e80094b14866b2beecadbe)" d="M141.875,280.64c0.82,4.691,6.485,9.681,10.304,12.957c9.541,8.183,20.825,15.702,34.393,12.446
+			c13.512-3.227,13.754-16.463,13.782-28.717c0.061-17.618-10.548-14.627-25.899-14.627c-6.078,0-13.706-0.791-18.772,1.046
+			c-5.651,2.038-6.385,7.976-11.813,10.908l-2.001,5.997L141.875,280.64z"/>
+			<radialGradient id="ian_symbols_e5edd6abb7e71634ed43940c451ba962" cx="2546.8103" cy="2487.6411" r="121.5221" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_e5edd6abb7e71634ed43940c451ba962)" d="M398.806,39.739c-1.397-3.536-7.505-6.542-11.62-8.497c-10.243-4.873-22.09-8.949-34.749-4.234
+			c-12.586,4.695-12.09,15.093-10.528,24.695c2.25,13.821,13.067,9.769,27.853,7.304c5.842-0.973,13.313-1.572,17.939-3.812
+			c5.194-2.519,5.12-7.279,9.956-10.452l1.152-5.005H398.806z"/>
+			<radialGradient id="ian_symbols_8cddfb646a733794a94066d9df996d4d" cx="2107.2234" cy="2528.6162" r="164.2415" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_8cddfb646a733794a94066d9df996d4d)" d="M242.405,25.51c0.55,4.45,20.287,10.869,25.076,14.548c12.031,9.204,13.885,18.305,32.806,17.755
+			c18.794-0.531,20.724-13.635,22.245-24.857c2.188-16.154-12.62-15.305-33.561-18.055c-8.285-1.09-18.59-3.183-25.714-2.421
+			c-7.959,0.869-9.671,6.189-17.414,7.912l-3.45,5.118H242.405z"/>
+			<radialGradient id="ian_symbols_ab279d6ebd176c14a5f10e98cb21550d" cx="2927.991" cy="1314.0658" r="163.6403" fx="2948.4636" fy="1385.9464" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_ab279d6ebd176c14a5f10e98cb21550d)" d="M455.345,236.392c-4.455,0.496-12.124,20.142-15.874,24.892
+			c-9.374,11.896-16.496,13.659-16.211,32.574c0.305,18.802,12.382,20.879,23.58,22.553c16.132,2.407,15.466-12.426,18.497-33.305
+			c1.201-8.276,3.436-18.566,2.763-25.687c-0.768-7.977-6.058-9.745-7.667-17.525l-5.081-3.502H455.345z"/>
+			<radialGradient id="ian_symbols_3375ce3840067214b95325e9de9bb8e7" cx="1127.996" cy="2058.3784" r="156.7674" fx="1180.5217" fy="1994.8466" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_3375ce3840067214b95325e9de9bb8e7)" d="M77.426,109.183c-5.263,2.309-11.557,10.737-15.479,15.585
+			c-5.914,7.308-7.768,14.253-5.071,22.942c8.364,26.792,49.165-2.746,59.442-14.43c6.23-7.048,4.551-21.125-3.006-28.089
+			c-4.354-3.993-9.457-6.262-15.263-6.65c-7.964-0.516-8.271,4.356-14.661,6.65l-5.965,3.993H77.426z"/>
+			<radialGradient id="ian_symbols_77a85f24fecd9484892b6331582340b2" cx="2977.928" cy="2244.0735" r="157.3014" fx="3048.1526" fy="2282.501" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_77a85f24fecd9484892b6331582340b2)" d="M474.355,79.164c-2.792-5.02-11.783-10.501-16.952-13.949c-7.824-5.216-14.924-6.409-23.325-2.902
+			c-25.906,10.815,7.308,48.668,19.901,57.838c7.621,5.535,21.456,2.554,27.684-5.633c3.58-4.701,5.366-9.985,5.204-15.8
+			c-0.219-7.977-5.088-7.824-7.989-13.978l-4.529-5.585L474.355,79.164z"/>
+			<radialGradient id="ian_symbols_f5225d7440a73b441d2ede9d3e45b0a5" cx="1030.3553" cy="2281.2649" r="111.293" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_f5225d7440a73b441d2ede9d3e45b0a5)" d="M56.807,101.86c3.561-0.56,11.67-8.021,14.651-10.624c4.285-3.728,6.829-7.569,11.67-10.973
+			c1.822-1.287,3.544-2.584,4.926-3.585c2.276-1.655,5.184-1.454,5.327-4.749c0.221-5.039-7.493-6.459-11.326-6.616
+			C68.168,64.749,42.311,81.885,43.639,95.76c3.583,2.357,4.367,6.778,9.192,7.441L56.807,101.86L56.807,101.86z"/>
+			<radialGradient id="ian_symbols_474a0ceea5a85754d58b5d63b7912670" cx="1091.9033" cy="1262.658" r="147.5705" fx="1054.4888" fy="1264.9719" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_474a0ceea5a85754d58b5d63b7912670)" d="M44.852,273.99c-0.363,3.487,0.688,5.658,2.299,8.335c7.149,11.915,22.65,21.709,34.892,24.263
+			c6.053,1.272,35.542,2.417,34.602-6.021c-0.329-2.933-6.761-6.66-9.168-9.445c-2.971-3.477-6.012-7.097-8.791-9.97
+			c-15.229-15.575-30.385-15.122-51.842-15.122l-1.989,7.967L44.852,273.99z"/>
+			<radialGradient id="ian_symbols_b89a5f2094186a14a9818bb68aa99450" cx="1603.1095" cy="2561.4973" r="141.3978" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_b89a5f2094186a14a9818bb68aa99450)" d="M146.195,33.482c0.842,2.613,2.519,3.693,4.85,4.911c10.385,5.368,27.5,5.678,39.278,2.274
+			c5.8-1.68,32.441-13.424,28.752-18.983c-1.285-1.93-8.266-1.832-11.351-2.77c-3.823-1.188-7.755-2.451-11.193-3.281
+			c-18.807-4.528-32.161,2.24-51.252,11.376l0.909,6.473H146.195z"/>
+			<radialGradient id="ian_symbols_06ea43ac69c2bee4b95bbe0685d19814" cx="847.4361" cy="2020.0764" r="106.8039" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_06ea43ac69c2bee4b95bbe0685d19814)" d="M30.314,114.223c-2.772,2.121-4.057,3.959-5.523,6.365c-6.564,10.677-8.551,23.403-6.198,30.098
+			c1.161,3.291,10.638,16.154,16.719,10.275c2.114-2.043,2.691-7.102,3.976-9.901c1.589-3.468,3.269-7.092,4.462-10.073
+			c6.523-16.4,0.84-22.318-6.687-31.115L30.314,114.223L30.314,114.223z"/>
+			<radialGradient id="ian_symbols_2da1cf9d056b6934250169534dcbd0a1" cx="1991.9446" cy="1222.9594" r="154.2153" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_2da1cf9d056b6934250169534dcbd0a1)" d="M230.276,307.895c4.359,5.628,12.79,12.126,19.953,13.295c9.15,1.484,12.905-2.47,18.278-6.817
+			c7.261-5.909,29.538-1.341,24.418-16.616c-2.861-8.463-13.374-13.163-18.963-19.632c-2.765-3.158-4.931-8.015-9.094-9.459
+			c-3.812-1.307-16.186-1.056-19.99-0.02c-14.339,3.968-18.713,19.332-19.256,31.93l4.639,7.323L230.276,307.895z"/>
+			<radialGradient id="ian_symbols_47ad4dcb310364b4d92e3c8b16168146" cx="923.7177" cy="1655.4011" r="131.9573" fx="930.9007" fy="1580.4512" gradientTransform="matrix(0.1988 0 0 -0.1988 -136.3468 537.7659)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0056" style="stop-color:#81B2A6"/>
+			<stop  offset="1" style="stop-color:#5D9B8F"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_47ad4dcb310364b4d92e3c8b16168146)" d="M55.483,236.112c3.711-2.48,7.8-11.414,10.14-15.795c2.962-5.565,5.081-10.918,3.517-17.249
+			c-1.415-5.756-7.512-12.716-11.336-17.505c-3.978-4.975-10.405-8.404-16.952-5.284c-7.375,3.507-14.204,18.757-15.646,25.407
+			c-1.545,7.225,3.109,23.801,8.831,28.615c3.568,3.016,10.135,4.465,14.803,3.801L55.483,236.112L55.483,236.112z"/>
+	</g>
+</g>
+</svg>

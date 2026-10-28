@@ -1,0 +1,143 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="377" height="501" viewBox="0 0 377 501" xml:space="preserve">
+            <title>Acinetobacter spp. (Bacteria)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Acinetobacter spp. (Bacteria)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Acinetobacter spp.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Bacteria, Proteobacteria, Gammaproteobacteria, Pseudomonadales, Moraxellaceae</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-016885f3937bb344c154b0e2c23b7ddd">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Acinetobacter spp. (Bacteria)</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/acinetobacter-spp-bacteria/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/acinetobacter-spp-bacteria/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Bacteria, Proteobacteria, Gammaproteobacteria, Pseudomonadales, Moraxellaceae</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Acinetobacter spp.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_4bb4bea96219de5459393fa038b5da64" y2="404.99" gradientUnits="userSpaceOnUse" x2=".0952" y1="404.99" x1="112.51">
+  <stop stop-color="#BD7538" offset="0"/>
+  <stop stop-color="#C98144" offset=".5703"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </linearGradient>
+ <path stroke="#BD7538" stroke-width=".1905" d="m1.895 451.14c-11.376-13.769 34.735-46.699 38.912-48.494 46.122-31.745 55.095-61.087 67.678-43.109 16.161 11.974-19.761 33.518-47.906 53.877-26.347 10.18-44.9 57.49-58.679 37.72z" fill="url(#ian_symbols_4bb4bea96219de5459393fa038b5da64)"/>
+ <linearGradient id="ian_symbols_62f00392ec5b50848d7a71a8c0b3467b" y2="307.78" gradientUnits="userSpaceOnUse" x2="182.6" y1="283.38" x1="140.32">
+  <stop stop-color="#BD7538" offset="0"/>
+  <stop stop-color="#C98144" offset=".5703"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </linearGradient>
+ <path stroke="#BD7538" stroke-width=".1905" d="m201.89 218.81c-11.984-3.589-16.171 10.179-16.171 10.179s-9.582 39.521-24.546 63.479c-14.976 23.948-49.701 49.69-56.291 53.29-6.58 3.6.598 30.538 17.966 19.151 73.648-40.119 88.025-128.13 88.025-128.13s2.99-14.38-8.99-17.97z" fill="url(#ian_symbols_62f00392ec5b50848d7a71a8c0b3467b)"/>
+ <linearGradient id="ian_symbols_7c0c9573cfb38f64a556963b2fbd8b75" y2="240.5" gradientUnits="userSpaceOnUse" x2="232.62" y1="-12.611" x1="324.74">
+  <stop stop-color="#BD7538" offset="0"/>
+  <stop stop-color="#C98144" offset=".5703"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </linearGradient>
+ <path stroke="#BD7538" stroke-width=".1905" d="m193.52 209.84c-6.003 15.573 13.16 31.126 25.742 7.776 11.376-37.129 50.288-70.658 76.64-104.19 26.351-33.529 67.666-93.409 71.255-104.2 2.393-8.374-10.777-11.974-20.348-6.58-17.379 9.571-49.113 62.871-66.481 88.624-17.36 25.746-74.85 79.026-86.81 118.57z" fill="url(#ian_symbols_7c0c9573cfb38f64a556963b2fbd8b75)"/>
+ <radialGradient id="ian_symbols_0bf5ff73a6ce3d140596351a2004323c" gradientUnits="userSpaceOnUse" cy="348.17" cx="227.08" r="28.544">
+  <stop stop-color="#BD7538" offset="0"/>
+  <stop stop-color="#BE7639" offset=".562"/>
+  <stop stop-color="#C37B3E" offset=".7643"/>
+  <stop stop-color="#CB8347" offset=".9081"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </radialGradient>
+ <path stroke="#D68E52" stroke-width=".1905" d="m225.35 357.91c-1.912 11.792-29.973 15.542-33.636-4.368-.471-19.836 18.414-19.558 28.775-14.452 2.777 1.378 2.35 4.272 5.949 4.87 3.6.588 2.18-4.636 4.134-6.687 9.475-9.955 30.304-14.483 31.788 4.882 1.581 20.369-17.806 23.435-29.139 15.552-1.677-1.175-.791-3.567-4.391-4.165-3.58-.60-3.47 4.37-3.47 4.37z" fill="url(#ian_symbols_0bf5ff73a6ce3d140596351a2004323c)"/>
+ <radialGradient id="ian_symbols_b319cf58b39ba6a45d0b8a6d91dfbea8" gradientUnits="userSpaceOnUse" cy="577.4" cx="26.831" gradientTransform="matrix(.1291 .9916 -.9916 .1291 806.05 -31.417)" r="28.551">
+  <stop stop-color="#BD7538" offset="0"/>
+  <stop stop-color="#BE7639" offset=".562"/>
+  <stop stop-color="#C37B3E" offset=".7643"/>
+  <stop stop-color="#CB8347" offset=".9081"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </radialGradient>
+ <path stroke="#D68E52" stroke-width=".1905" d="m227.07 69.28c-11.932-.374-19.27-27.729 0-33.935 19.601-3.023 21.758 15.744 18.041 26.682-1.004 2.926-3.932 2.895-4.06 6.526-.128 3.643 4.871 1.56 7.167 3.237 11.099 8.107 18.276 28.167-.736 32.162-20.007 4.166-25.539-14.644-19.174-26.896.93-1.805 3.419-1.25 3.547-4.902.13-3.619-4.79-2.872-4.79-2.872z" fill="url(#ian_symbols_b319cf58b39ba6a45d0b8a6d91dfbea8)"/>
+ <radialGradient id="ian_symbols_0814dbb65ac8ec04add125c4e51fa1d7" fx="65.968" fy="458.93" gradientUnits="userSpaceOnUse" cy="437.37" cx="56.985" r="80.721">
+  <stop stop-color="#D68E52" offset="0"/>
+  <stop stop-color="#CB8347" offset=".3439"/>
+  <stop stop-color="#BD7538" offset=".736"/>
+  <stop stop-color="#BE7639" offset=".8843"/>
+  <stop stop-color="#C37B3E" offset=".9378"/>
+  <stop stop-color="#CB8347" offset=".9757"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </radialGradient>
+ <path stroke="#D68E52" stroke-width=".1905" d="m59.382 452.34c-3.002 3.001-10.18-3.578-14.965 0-4.807 3.589-34.736 25.154-19.771 41.925 25.155 20.957 40.718-20.968 40.718-24.567 0-3.589-2.382-5.384.599-10.767 3.001-5.395 5.394 1.196 10.777 0 5.404-1.196 40.728-25.155 25.753-41.327-14.976-16.16-44.307 20.37-44.307 23.97.003 3.6 4.19 7.78 1.199 10.78z" fill="url(#ian_symbols_0814dbb65ac8ec04add125c4e51fa1d7)"/>
+ <radialGradient id="ian_symbols_24b1f0d239220184f142104f11acfbc6" fx="-80.809" fy="524.47" gradientUnits="userSpaceOnUse" cy="502.92" cx="-89.791" gradientTransform="matrix(.2492 .9685 -.9685 .2492 582.83 39.196)" r="80.714">
+  <stop stop-color="#D68E52" offset="0"/>
+  <stop stop-color="#CB8347" offset=".3439"/>
+  <stop stop-color="#BD7538" offset=".736"/>
+  <stop stop-color="#BE7639" offset=".8843"/>
+  <stop stop-color="#C37B3E" offset=".9378"/>
+  <stop stop-color="#CB8347" offset=".9757"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </radialGradient>
+ <path stroke="#D68E52" stroke-width=".1905" d="m59.478 83.604c-3.652-2.147.951-10.746-3.738-14.484-4.668-3.76-33.006-27.376-45.514-8.695-14.024 29.567 30.453 34.192 33.925 33.305 3.481-.887 4.625-3.653 10.585-2.115 5.96 1.57.182 5.533 2.681 10.457 2.511 4.903 34.512 33.155 46.443 14.644 11.931-18.543-30.763-37.855-34.245-36.958-3.482.904-6.494 6.02-10.137 3.852z" fill="url(#ian_symbols_24b1f0d239220184f142104f11acfbc6)"/>
+ <radialGradient id="ian_symbols_71e1758c01f83314a9ea87c2480c0bb5" gradientUnits="userSpaceOnUse" cy="259.19" cx="76.392" r="20.952">
+  <stop stop-color="#BD7538" offset=".0056"/>
+  <stop stop-color="#BE7639" offset=".5644"/>
+  <stop stop-color="#C37B3E" offset=".7656"/>
+  <stop stop-color="#CB8347" offset=".9086"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </radialGradient>
+ <path stroke="#D68E52" stroke-width=".1905" d="m78.843 245.76c7.776-4.188 26.352 4.187 20.946 19.761-10.168 22.751-52.681 4.187-47.297-13.769 4.199-10.18 20.958-11.98 26.351-5.99z" fill="url(#ian_symbols_71e1758c01f83314a9ea87c2480c0bb5)"/>
+ <radialGradient id="ian_symbols_ac7e69f98457d78491b52aee56bed757" gradientUnits="userSpaceOnUse" cy="303.21" cx="689.49" gradientTransform="matrix(.3837 -.9235 .9235 .3837 -187.94 688.88)" r="20.952">
+  <stop stop-color="#BD7538" offset=".0056"/>
+  <stop stop-color="#BE7639" offset=".5644"/>
+  <stop stop-color="#C37B3E" offset=".7656"/>
+  <stop stop-color="#CB8347" offset=".9086"/>
+  <stop stop-color="#D68E52" offset="1"/>
+ </radialGradient>
+ <path stroke="#D68E52" stroke-width=".1905" d="m345.16 161.06c-.897-8.801 13.971-22.73 26.275-11.781 17.123 18.137-16.331 50.277-30.858 38.399-7.8-7.77-3.02-23.94 4.58-26.62z" fill="url(#ian_symbols_ac7e69f98457d78491b52aee56bed757)"/>
+</svg>

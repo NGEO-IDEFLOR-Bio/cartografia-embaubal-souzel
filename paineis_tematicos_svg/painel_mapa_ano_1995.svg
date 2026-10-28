@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.752mm" height="185.429mm" viewBox="0 0 111.752 185.429">
+  <rect x="0" y="0" width="111.752" height="185.429" fill="#ffffff" fill-opacity="0" />
+  <!-- Card Destaque Ano -->
+  <rect x="4.0" y="4.0" width="103.752" height="25.0" fill="#f4f7f5" stroke="#1b3626" stroke-width="0.8" rx="0" ry="0" />
+  <text x="8.0" y="14.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" fill="#666666">ANO DE REFERÊNCIA</text>
+  <text x="8.0" y="25.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="10.5" font-weight="bold" fill="#1b3626">1995</text>
+  <text x="103.752" y="14.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#777777" text-anchor="end">ÁREA MAPEADA</text>
+  <text x="103.752" y="23.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="5.4" font-weight="bold" fill="#222222" text-anchor="end">27,023 ha</text>
+  <text x="4.0" y="35.00" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#1b3626">PROPORÇÃO DA COBERTURA (%)</text>
+  <line x1="4.0" y1="37.50" x2="107.752" y2="37.50" stroke="#cccccc" stroke-width="0.5" />
+  <text x="4.0" y="43.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">Rio, Lago e Oceano</text>
+  <text x="107.752" y="43.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#1b3626" text-anchor="end">45.0%</text>
+  <rect x="4.0" y="45.50" width="85.75" height="5.2" fill="#eaeeeb" rx="0" ry="0" />
+  <rect x="4.0" y="45.50" width="38.58" height="5.2" fill="#2532e4" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="4.0" y="56.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">Floresta Alagável</text>
+  <text x="107.752" y="56.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#1b3626" text-anchor="end">43.4%</text>
+  <rect x="4.0" y="58.30" width="85.75" height="5.2" fill="#eaeeeb" rx="0" ry="0" />
+  <rect x="4.0" y="58.30" width="37.21" height="5.2" fill="#007785" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="4.0" y="69.10" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">Campo Alagado / Pantanoso</text>
+  <text x="107.752" y="69.10" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#1b3626" text-anchor="end">9.4%</text>
+  <rect x="4.0" y="71.10" width="85.75" height="5.2" fill="#eaeeeb" rx="0" ry="0" />
+  <rect x="4.0" y="71.10" width="8.03" height="5.2" fill="#519799" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="4.0" y="81.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">Pastagem</text>
+  <text x="107.752" y="81.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#1b3626" text-anchor="end">1.1%</text>
+  <rect x="4.0" y="83.90" width="85.75" height="5.2" fill="#eaeeeb" rx="0" ry="0" />
+  <rect x="4.0" y="83.90" width="1.80" height="5.2" fill="#edde8e" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="4.0" y="94.70" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">Mosaico de Usos</text>
+  <text x="107.752" y="94.70" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#1b3626" text-anchor="end">0.9%</text>
+  <rect x="4.0" y="96.70" width="85.75" height="5.2" fill="#eaeeeb" rx="0" ry="0" />
+  <rect x="4.0" y="96.70" width="1.80" height="5.2" fill="#ffefc3" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <line x1="4.0" y1="110.50" x2="107.752" y2="110.50" stroke="#cccccc" stroke-width="0.5" />
+  <text x="4.0" y="116.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#1b3626">QUANTIFICAÇÃO TERRITORIAL (ha)</text>
+  <rect x="4.0" y="120.00" width="103.752" height="6.0" fill="#e6ede8" rx="0" ry="0" />
+  <text x="7.0" y="124.20" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.9" font-weight="bold" fill="#222222">Classe de Cobertura</text>
+  <text x="104.752" y="124.20" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.9" font-weight="bold" fill="#1b3626" text-anchor="end">Área (ha)</text>
+  <rect x="6.0" y="127.50" width="3.6" height="3.6" fill="#2532e4" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="130.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.9" fill="#222222">Rio, Lago e Oceano</text>
+  <text x="104.752" y="130.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.1" font-weight="bold" fill="#222222" text-anchor="end">12,157 ha</text>
+  <line x1="4.0" y1="132.20" x2="107.752" y2="132.20" stroke="#eeeeee" stroke-width="0.3" />
+  <rect x="6.0" y="134.10" width="3.6" height="3.6" fill="#007785" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="136.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.9" fill="#222222">Floresta Alagável</text>
+  <text x="104.752" y="136.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.1" font-weight="bold" fill="#222222" text-anchor="end">11,725 ha</text>
+  <line x1="4.0" y1="138.80" x2="107.752" y2="138.80" stroke="#eeeeee" stroke-width="0.3" />
+  <rect x="6.0" y="140.70" width="3.6" height="3.6" fill="#519799" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="143.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.9" fill="#222222">Campo Alagado / Pantanoso</text>
+  <text x="104.752" y="143.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.1" font-weight="bold" fill="#222222" text-anchor="end">2,531 ha</text>
+  <line x1="4.0" y1="145.40" x2="107.752" y2="145.40" stroke="#eeeeee" stroke-width="0.3" />
+  <rect x="6.0" y="147.30" width="3.6" height="3.6" fill="#edde8e" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="150.10" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.9" fill="#222222">Pastagem</text>
+  <text x="104.752" y="150.10" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.1" font-weight="bold" fill="#222222" text-anchor="end">300 ha</text>
+  <line x1="4.0" y1="152.00" x2="107.752" y2="152.00" stroke="#eeeeee" stroke-width="0.3" />
+  <rect x="6.0" y="153.90" width="3.6" height="3.6" fill="#ffefc3" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="156.70" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.9" fill="#222222">Mosaico de Usos</text>
+  <text x="104.752" y="156.70" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.1" font-weight="bold" fill="#222222" text-anchor="end">254 ha</text>
+  <line x1="4.0" y1="158.60" x2="107.752" y2="158.60" stroke="#eeeeee" stroke-width="0.3" />
+  <rect x="4.0" y="160.20" width="103.752" height="7.0" fill="#f4f7f5" stroke="#1b3626" stroke-width="0.4" rx="0" ry="0" />
+  <text x="7.0" y="164.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#1b3626">ÁREA TOTAL</text>
+  <text x="104.752" y="164.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.4" font-weight="bold" fill="#1b3626" text-anchor="end">27,023 ha</text>
+</svg>

@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="105" viewBox="0 0 501 105" xml:space="preserve">
+            <title>Turf algae</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Turf algae</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of turf algae</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>macroalgae, turf, algae</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-cebc87dc39f1246471490441027874d1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Turf algae</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/turf-algae/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/turf-algae/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>macroalgae, turf, algae</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of turf algae</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="52.842" width="489.42" stroke="#231F20" y="50.986" x="3.126" stroke-width="1.7312" fill="#C2AF62"/>
+ <linearGradient id="ian_symbols_358e056cbe2a55c4f117ed960590f3cd" y2="27.084" gradientUnits="userSpaceOnUse" x2="501.38" y1="27.084" x1="-2.1709">
+  <stop stop-color="#EA4B40" offset="0"/>
+  <stop stop-color="#8C4524" offset=".4859"/>
+  <stop stop-color="#864826" offset=".5494"/>
+  <stop stop-color="#75512A" offset=".6355"/>
+  <stop stop-color="#585F32" offset=".7347"/>
+  <stop stop-color="#30733C" offset=".8435"/>
+  <stop stop-color="#008C49" offset=".9548"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7312" d="m1.854 50.986l33.961-40.263 2.53 17.623 16.365-12.592-1.265 21.396 22.647-26.427v20.145l36.484-30.201-22.644 35.232 26.414-25.176v13.849l26.428-11.327-2.516 16.358 26.414-23.918v32.73c0-6.296 17.616-27.692 17.616-27.692l6.303 12.584 13.83-15.087v10.063l21.41-15.1 1.245 18.874 21.396-12.591 3.767 12.591 27.692-12.591-1.271 10.063 27.679-8.805-3.78 21.396 31.473-18.874-5.038 17.623 42.786-18.874-2.536 8.805 26.421-3.773-1.237 10.056 25.148-12.578v12.578l13.843-7.553 1.265 15.114 20.125-11.334-1.265 7.561 13.85-10.069 8.812 12.572 22.647-8.798-3.773 18.86-6.296 10.069-486.93-2.519z" fill="url(#ian_symbols_358e056cbe2a55c4f117ed960590f3cd)"/>
+</svg>

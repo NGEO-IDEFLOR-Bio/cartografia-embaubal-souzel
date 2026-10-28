@@ -1,0 +1,120 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="419" viewBox="0 0 501 419" xml:space="preserve">
+            <title>Clam</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Clam</ian_image_library:title>
+                <ian_image_library:descr>Illustration of clam</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>clam, Mollusca, Bivalvia, bivalve, freshwater, marine</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-35b892aea06cb5b451cf61391c7871a5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Clam</dc:title>
+                <dc:date>2005-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/clam/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/clam/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>clam, Mollusca, Bivalvia, bivalve, freshwater, marine</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of clam</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_c8bb017bc87f7cd449015ce297dfde8e" y2="348.7" gradientUnits="userSpaceOnUse" x2="488.68" y1="348.7" x1="200.47">
+  <stop stop-color="#BEA488" offset=".0056"/>
+  <stop stop-color="#D8B7A3" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m440.96 280.92s24.827 39.016 33.328 55.35c8.527 16.306 20.58 70.221 10.664 77.318-9.937 7.092-33.375-.721-45.421-4.26-12.046-3.553-31.204 7.098-43.264 6.383-12.059-.714-34.756-18.443-45.399-19.157-10.651-.708-33.361 7.085-53.233-2.124-19.825-9.234-23.378-19.865-38.983-30.516-15.625-10.638-58.181-18.437-58.181-18.437l240.48-64.55z" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="url(#ian_symbols_c8bb017bc87f7cd449015ce297dfde8e)"/>
+ <linearGradient id="ian_symbols_4bc2cd7c229e214495de33045bd3ebaa" y2="141.88" gradientUnits="userSpaceOnUse" x2="36.603" y1="141.88" x1=".8628">
+  <stop stop-color="#BEA488" offset=".0056"/>
+  <stop stop-color="#D8B7A3" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m36.603 78.744s-14.887 6.391-19.862 15.612c-4.961 9.222 5.68 21.986 6.394 24.824.704 2.838-12.06 7.799-18.454 17.749-6.38 9.923-2.838 25.525-2.838 39.721 0 14.183 20.577 27.662 25.548 28.362 4.966.72 9.212-126.27 9.212-126.27z" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="url(#ian_symbols_4bc2cd7c229e214495de33045bd3ebaa)"/>
+ <linearGradient id="ian_symbols_4dbb49c374034844c1c825c6cd373d1f" y2="32.444" gradientUnits="userSpaceOnUse" x2="387.76" y1="317.12" x1="103.08">
+  <stop stop-color="#BD9B7B" offset="0"/>
+  <stop stop-color="#D2A97C" offset=".3146"/>
+  <stop stop-color="#E3C188" offset=".7079"/>
+  <stop stop-color="#EBD198" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m205.68 1.402c-39.8-2.881-142.32 2.636-180.89 97.191-13.782 63.072-9.926 110.02 5.548 136.41 15.47 26.418 47.736 61.673 83.915 83.992 36.191 22.333 78.923 32.734 130.32 27.268 51.38-5.487 92.702-9.343 154.71-37.709 23.425-11.312 71.38-26.202 92.445-81.168 15.309-41.464 2.622-85.56-16.117-107.06-18.814-19.785-40.668-18.777-49.601-36.927-15.646-31.756-20.856-35.754-56.469-30.812-19.583 2.706-47.719-23.189-69.735-31.467-26.04-9.786-54.33-16.841-94.12-19.712z" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="url(#ian_symbols_4dbb49c374034844c1c825c6cd373d1f)"/>
+ <path stroke-linejoin="round" d="m364.84 84.508s27.011 22.603 53.462 3.856" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m394.6 82.297c18.733 1.105 24.808-9.36 24.808-9.36" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m351.07 49.782c1.658 9.373-9.384 18.19-12.667 24.8-3.315 6.62 3.283 24.251 18.175 31.413 14.876 7.172 31.972 7.172 31.972 7.172" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m358.23 76.782c-6.073-12.123 1.646-24.237 1.646-24.237" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m112.97 58.05s-110.78 225.97 193.44 222.66" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m324.61 265.28c-294.79 3.08-187.43-208.34-187.43-208.34s22.157-38.497 42.017-54.1" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m220.99 299.99c-215.48-47.39-138.34-222.64-138.34-222.64s25.919-52.364 44.652-66.149" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m118.9 45.403s21.285-33.337 33.337-41.14" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m99.739 19.161c-68.101 81.579-61.012 145.42-40.425 197.21 20.563 51.791 75.185 97.893 141.88 102.87 56.031 4.246 123.43-2.839 200.05-33.354 76.611-30.496 97.893-104.99 97.893-104.99" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m237.37 300.8s153.23 7.792 226.3-72.364" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m318.24 278.08s68.11-9.222 93.639-26.957" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m418.98 246.87c63.115-36.172 75.182-90.09 75.182-90.09" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m468.63 221.33s23.404-36.168 27.671-51.78" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m205.68 1.402c-25.063 14.921-52.735 81.609-60.547 113.53-7.799 31.918-1.409 68.801 48.939 106.4 50.389 37.595 148.98 24.834 148.98 24.834s68.11-17.735 102.15-47.531c34.056-29.788 40.445-57.459 40.445-57.459" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m230.98 4.264s-67.383 69.516-47.524 150.39" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m187.72 166.71s73.766 120.59 229.12 36.89" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m430.33 195.09c30.489-17.726 51.771-63.851 51.771-63.851" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m257.95 9.225s-73.786 85.836-38.315 160.33c125.54 118.47 250.41-23.415 256.8-43.978" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m287.74 16.323c-35.484 27.662-48.953 73.062-48.953 73.062s-10.637 37.594 14.196 75.91c33.327 48.238 112.78 24.82 112.78 24.82" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m310.44 26.259c-39.017 19.859-54.622 65.964-54.622 65.964s-7.099 40.436 26.943 63.86" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m294.12 163.17c97.191 33.341 173.8-48.238 173.8-48.238" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m374.28 185.87c72.364-21.996 99.321-65.259 99.321-65.259" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m324.63 33.344s-62.428 29.798-39.037 88.674c23.412 58.878 128.42 43.277 173.82-12.765" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m335.27 40.442s-43.263 24.119-39.016 61.716c4.246 37.598 70.941 44.693 108.53 33.338" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m416.84 129.82c19.144-9.211 33.341-27.662 33.341-27.662" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m321.79 102.16c51.784 58.171 118.46-3.546 118.46-3.546" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m316.82 93.652s-12.06-21.292 29.795-46.83" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m378.54 78.04c-20.553-8.517-8.992-25.45-8.992-25.45" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m404.07 72.36s4.26 2.137 7.098-5.675" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+ <path stroke-linejoin="round" d="m390.6 69.523c-14.892-3.542-9.223-15.603-9.223-15.603" stroke="#876D58" stroke-linecap="round" stroke-width="1.7257" fill="none"/>
+</svg>

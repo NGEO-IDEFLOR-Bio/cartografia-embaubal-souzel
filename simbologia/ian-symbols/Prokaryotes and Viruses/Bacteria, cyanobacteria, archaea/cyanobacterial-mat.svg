@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="230" viewBox="0 0 502 230" xml:space="preserve">
+            <title>Cyanobacterial mat</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Cyanobacterial mat</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a Cyanobacterial mat</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Cyanobacteria, mat, bacteria, blue-green, algae, Cyanophyta, harmful, algal, bloom, HAB</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fc24f36cbd3529e40d0c8b4263e61916">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Cyanobacterial mat</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/cyanobacterial-mat/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/cyanobacterial-mat/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Cyanobacteria, mat, bacteria, blue-green, algae, Cyanophyta, harmful, algal, bloom, HAB</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a Cyanobacterial mat</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#006A44" stroke-width=".3823" d="m285.53 84.325s-8.936 1.585-22.783 8.55c-13.826 6.955-26.047 12.116-36.213 16.422s-50.466 22.449-58.996 24.962c-8.55 2.513-8.738 2.054-22.595 8.999-13.837 6.955-24.608 9.874-24.608 9.874s-9.75 5.255-24.399 10.344c-14.629 5.088-34.117 10.041-41.875 14.42" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3546" d="m372.59 72.668s-13.242 3.42-34.628 13.555c-21.417 10.166-40.092 18.08-55.67 24.66-15.567 6.59-77.441 33.877-90.308 38.215-12.857 4.338-13.023 3.879-34.451 14.035-21.417 10.135-37.558 15.359-37.558 15.359s-15.161 7.518-37.371 15.797c-22.188 8.311-51.405 17.393-63.469 23.575" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3823" d="m251.04 136.04s-8.905 1.575-22.741 8.55c-13.868 6.965-26.058 12.106-36.245 16.422-10.177 4.307-50.477 22.46-58.996 24.962-8.519 2.513-8.717 2.064-22.584 9.019-13.847 6.945-24.598 9.864-24.598 9.864s-9.77 5.245-24.409 10.333c-14.65 5.067-34.117 10.052-41.885 14.452" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3823" d="m257.19 91.009s-8.915 1.596-22.772 8.55c-13.857 6.965-26.046 12.126-36.213 16.422-10.177 4.338-50.487 22.46-59.006 24.994-8.519 2.481-8.727 2.033-22.585 8.988-13.847 6.945-24.607 9.854-24.607 9.854s-9.76 5.255-24.389 10.344c-14.661 5.067-34.148 10.052-41.896 14.431" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3633" d="m376.64 50.135s-8.134 1.262-20.594 7.643-23.471 11.021-32.657 14.931c-9.187 3.879-45.524 20.354-53.271 22.533-7.758 2.169-7.945 1.71-20.385 8.081-12.481 6.36-22.241 8.863-22.241 8.863s-8.789 4.817-22.063 9.333c-13.232 4.494-30.947 8.727-37.892 12.742" fill="none"/>
+ <path stroke="#006A44" stroke-width=".2989" d="m142.17 151.86s-5.766.25-14.076 4.88c-8.3 4.609-15.766 7.758-21.98 10.406-6.214 2.638-30.697 14.066-36.056 15.275-5.37 1.168-5.568.688-13.878 5.297-8.311 4.609-15.119 5.891-15.119 5.891s-5.829 3.535-14.921 6.277c-9.103 2.732-21.459 4.703-26.057 7.757" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3352" d="m275.75 105.06s-7.028.792-17.591 6.36c-10.552 5.568-19.926 9.53-27.767 12.836-7.811 3.305-38.705 17.486-45.347 19.196-6.652 1.721-6.84 1.251-17.403 6.798-10.563 5.579-18.977 7.497-18.977 7.497s-7.403 4.233-18.748 7.935c-11.355 3.681-26.589 6.872-32.459 10.458" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3823" d="m408.98 34.37s-8.946 1.574-22.783 8.55c-13.847 6.955-26.047 12.105-36.224 16.422-10.177 4.306-50.467 22.459-59.006 24.973-8.54 2.502-8.717 2.043-22.574 9.009-13.848 6.934-24.608 9.885-24.608 9.885s-9.77 5.224-24.398 10.323c-14.65 5.067-34.128 10.052-41.886 14.431" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3546" d="m496.02 22.702s-13.263 3.431-34.639 13.565c-21.396 10.177-40.081 18.07-55.648 24.649-15.588 6.611-77.473 33.888-90.298 38.236-12.856 4.327-13.055 3.869-34.472 14.014-21.406 10.156-37.547 15.369-37.547 15.369s-15.182 7.507-37.36 15.787c-22.209 8.31-51.405 17.392-63.469 23.606" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3823" d="m374.48 86.087s-8.925 1.575-22.772 8.54c-13.826 6.976-26.025 12.127-36.233 16.433-10.146 4.306-50.467 22.449-58.985 24.952-8.519 2.513-8.717 2.064-22.574 9.02-13.857 6.965-24.608 9.885-24.608 9.885s-9.77 5.224-24.41 10.323c-14.64 5.057-34.138 10.062-41.875 14.441" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3823" d="m380.62 41.053s-8.925 1.595-22.772 8.54c-13.836 6.976-26.036 12.127-36.223 16.443-10.156 4.317-50.478 22.449-59.007 24.973-8.509 2.492-8.706 2.023-22.563 8.999-13.858 6.955-24.598 9.875-24.598 9.875s-9.77 5.224-24.431 10.333c-14.639 5.067-34.127 10.031-41.864 14.431" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3633" d="m500.08.18s-8.133 1.261-20.594 7.632c-12.449 6.381-23.492 11.032-32.668 14.942-9.176 3.868-45.534 20.343-53.25 22.522-7.758 2.168-7.967 1.699-20.416 8.081-12.471 6.361-22.22 8.874-22.22 8.874s-8.79 4.817-22.054 9.322c-13.231 4.504-30.947 8.727-37.912 12.763" fill="none"/>
+ <path stroke="#006A44" stroke-width=".2989" d="m265.61 101.93s-5.756.25-14.066 4.859c-8.311 4.619-15.776 7.768-21.99 10.396-6.225 2.638-30.687 14.087-36.046 15.275-5.391 1.158-5.578.709-13.899 5.318-8.3 4.609-15.109 5.871-15.109 5.871s-5.818 3.535-14.911 6.298c-9.092 2.732-21.49 4.703-26.057 7.737" fill="none"/>
+ <path stroke="#006A44" stroke-width=".3352" d="m399.19 55.099s-7.049.792-17.58 6.36c-10.573 5.578-19.937 9.551-27.767 12.846-7.811 3.316-38.705 17.476-45.348 19.196-6.652 1.71-6.84 1.241-17.413 6.809-10.552 5.568-18.967 7.497-18.967 7.497s-7.424 4.233-18.737 7.914c-11.376 3.691-26.62 6.882-32.479 10.479" fill="none"/>
+</svg>

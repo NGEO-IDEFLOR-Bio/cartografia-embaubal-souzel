@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="265" viewBox="0 0 502 265" xml:space="preserve">
+            <title>Coastline 2D: steep shoreline</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: steep shoreline</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base with steep shoreline</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, steep, shoreline, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-25cc859a3ea57ff47d5fec6b656e8d28">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: steep shoreline</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-steep-shoreline/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-steep-shoreline/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, steep, shoreline, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base with steep shoreline</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_3235163b3bce4b14516a3d26ed51ac78" y2="132.17" gradientUnits="userSpaceOnUse" x2="500.25" y1="132.17" x1=".25">
+  <stop stop-color="#B1B46D" offset=".0904"/>
+  <stop stop-color="#A9BA7F" offset=".2545"/>
+  <stop stop-color="#A0C193" offset=".5046"/>
+  <stop stop-color="#9BC69F" offset=".7539"/>
+  <stop stop-color="#99C7A3" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m483.58.358s-6.203 7.681-16.667 7.395c-10.466-.382-16.668-6.728-16.668-6.728s-8.78 6.346-16.665 7.014c-7.835.62-16.666-7.681-16.666-7.681s-6.204 7.013-16.669 7.539c-10.464.43-16.666-7.156-16.666-7.156s-9.442 5.963-16.666 7.299c-7.182 1.288-16.666-7.441-16.666-7.441s-7.61 4.96-16.667 7.155c-8.966 2.052-16.669-6.87-16.669-6.87s-8.169 5.82-16.666 7.156c-8.539 1.288-16.665-7.441-16.665-7.441s-7.849 6.488-16.667 7.441c-8.87.908-16.667-7.441-16.667-7.441s-7.047 6.296-16.666 7.298c-9.668.905-16.666-7.156-16.666-7.156s-9.253 5.82-16.668 7.156c-7.369 1.29-16.667-7.014-16.667-7.014s-8.122 6.87-16.666 7.298c-8.54.478-16.666-7.298-16.666-7.298s-6.626 6.87-16.667 7.156c-10.043.287-16.668-7.441-16.668-7.441s-6.804 7.172-16.666 7.298c-8.289.106-16.666-7.156-16.666-7.156s-7.423 6.488-16.667 7.156c-9.138.621-16.607-7.013-16.607-7.013s-7.187 6.489-16.666 7.157c-9.525.62-16.666-6.631-16.666-6.631s-1.363 7.722-16.668 7.195v254.27l500 1.106v-256.71c-8.13-1.019-16.67-6.912-16.67-6.912z" fill="url(#ian_symbols_3235163b3bce4b14516a3d26ed51ac78)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m187.18 205.19c-35.021-11.583-119.93-86.42-124.85-113.13-7.58-41.14-53.471-53.469-62.08-55.433v227.35h500v-16.01c-57.01-4.67-209.27-8.46-313.07-42.78z" fill="#B6A190"/>
+</svg>

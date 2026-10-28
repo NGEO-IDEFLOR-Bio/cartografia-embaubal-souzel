@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="247" height="501" viewBox="0 0 247 501" xml:space="preserve">
+            <title>Seagrass leaf with Cladophora</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass leaf with Cladophora</ian_image_library:title>
+                <ian_image_library:descr>Illustration of seagrass leaf with Cladophora</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, leaf, Cladophora, algae</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-253e35cf858bc05485a75a66db3b0b39">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass leaf with Cladophora</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-leaf-with-cladophora/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-leaf-with-cladophora/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, leaf, Cladophora, algae</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of seagrass leaf with Cladophora</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_2750f4361faf0694d549a20bc8390521" y2="3875.2" gradientUnits="userSpaceOnUse" x2="732.38" gradientTransform="matrix(.3183 .0318 -.0318 .3183 -86.087 -203.57)" y1="708.62" x1="732.38">
+  <stop stop-color="#E9E739" offset="0"/>
+  <stop stop-color="#4B8868" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="2.3798" d="m1.093 475.62c6.975-16.253 14.126-30.644 20.422-40.887 19.742-32.201 45.285-69.217 50.933-78.11 0 0 74.887-119.91 86.743-191.1 11.812-71.245 8.521-69.983 5.473-86.029-3.125-16.036.757-27.474 7.458-27.562 12.635-.22 20.399.46 23.361 18.085 2.982 17.537 3.575 54.64-2.063 79.229-5.593 24.633-30.775 101.34-48.06 132.66-17.285 31.345-49.749 90.668-60.629 110.84-10.231 18.98-40.634 59.67-62.185 106.76" fill="url(#ian_symbols_2750f4361faf0694d549a20bc8390521)"/>
+ <path d="m179.45 6.775c40.174 8.204 66.068 47.369 57.887 87.521-8.159 40.164-47.313 66.058-87.488 57.887-40.152-8.182-66.058-47.347-57.887-87.488 8.177-40.148 47.347-66.032 87.487-57.917z" fill="#006A44"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m84.074 98.125c41.041-8.126 124.9-26.344 162.02-45.756" fill="none"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m87.562 46.511c32.223 24.951 112.13 84.988 141.04 90.352" fill="none"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m244.96 83.89s-94.025 66.32-123.07 62.108" fill="none"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m120.84 4.626s68.854 146.89 83.2 149.8" fill="none"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m238.91 36.159c-2.105 2.083-130.69 95.439-148.5 89.276" fill="none"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m79.928 75.191s151.71 33.331 164.18 29.294" fill="none"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m180.41 160.39c.044-23.043-.592-152.02-5.626-159.72" fill="none"/>
+ <path stroke="#D9C685" stroke-width="2.4382" d="m206.45 12.117s-44.023 142.93-53.478 144.36" fill="none"/>
+</svg>

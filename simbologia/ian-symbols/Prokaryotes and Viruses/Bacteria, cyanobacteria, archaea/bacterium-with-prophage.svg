@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="304" viewBox="0 0 502 304" xml:space="preserve">
+            <title>Bacterium with prophage</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Bacterium with prophage</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a bacterium with a prophage</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>bacterium, prophage, Bacteria</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-89a7ffa9a4a8cd64d91a3e3f13cd4bbc">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Bacterium with prophage</dc:title>
+                <dc:date>2003-11-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Ian Hewson
+University of Southern California</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/bacterium-with-prophage/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/bacterium-with-prophage/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>bacterium, prophage, Bacteria</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a bacterium with a prophage</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".4714" d="m434.54 90.603c6.778 14.072-84.858 72.309-204.7 130.09-119.83 57.78-222.47 93.22-229.25 79.16-6.779-14.072 84.853-72.31 204.7-130.09 119.83-57.78 222.47-93.218 229.25-79.157z" fill="#F9EC85"/>
+ <path stroke="#231F20" stroke-width=".4714" d="m433.87 89.529c16.689-6.352 22.318-19.361 19.559-28.078-2.749-8.717-27.126-1.61-40.365-3.866-27.334-4.665-10.13-22.493 8.158-29.501 15.003-5.738 22.351-16.919 36.11-23.479 14.231-6.79 28.029-3.668 42.9-3.559" fill="none"/>
+ <path stroke="#EA2B91" stroke-width=".6285" d="m174.75 195.48c20.873-12.385 65.651-26.818 79.865-20.073 14.225 6.735-.701 23.183-21.179 32.294-20.473 9.111-56.967 26.217-81.168 13.272-24.2-12.95 1.61-13.09 22.48-25.49z" fill="none"/>
+ <path stroke="#00B9F2" stroke-width=".6285" d="m207.82 218.38c-18.474 6.637-39.664 11.094-55.554 2.596" fill="none"/>
+</svg>

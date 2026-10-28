@@ -1,0 +1,95 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="504" height="272" viewBox="0 0 504 272" xml:space="preserve">
+            <title>Pyramid 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pyramid 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a pyramid</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>culture, anthropology, pyramid, 1, temple</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-95aeda3d0bac69041d59c431e41f7f0f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pyramid 1</dc:title>
+                <dc:date>2005-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pyramid-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pyramid-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>culture, anthropology, pyramid, 1, temple</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a pyramid</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_32c8a37ba2a109e471e0293b685571d8" gradientUnits="userSpaceOnUse" x1="90.2407" y1="332.5024" x2="343.7515" y2="78.9917">
+	<stop  offset="0" style="stop-color:#7A5353"/>
+	<stop  offset="0.8876" style="stop-color:#A17464"/>
+</linearGradient>
+<path fill="url(#ian_symbols_32c8a37ba2a109e471e0293b685571d8)" stroke="#7A5353" stroke-width="2.7861" stroke-linecap="round" stroke-linejoin="round" d="
+	M332.869,269.141c0,0-64.547-260.812-65.995-266.819c-0.293-1.219-2.383-1.045-5.071,0c-3.787,1.469-60.917,52.793-62.953,56.853
+	c-2.013,4.059,0,4.059-1.012,7.096c-1.001,3.047-158.37,141.121-167.512,149.25c-9.142,8.119-33.313,28.427-28.241,28.427
+	C7.167,243.947,332.869,269.141,332.869,269.141z"/>
+<linearGradient id="ian_symbols_b3eb27ec6fa07314f9a9ca74df04987f" gradientUnits="userSpaceOnUse" x1="162.8057" y1="72.2397" x2="283.3945" y2="72.2397">
+	<stop  offset="0" style="stop-color:#7A5353"/>
+	<stop  offset="1" style="stop-color:#956A59"/>
+</linearGradient>
+<path fill="url(#ian_symbols_b3eb27ec6fa07314f9a9ca74df04987f)" d="M277.062,46.039l-79.049,17.326c0.13,0.784,0.283,1.534-0.174,2.906
+	c-0.305,0.925-14.747,14.039-35.032,32.17l120.589-26.968C281.109,62.375,278.977,53.798,277.062,46.039z"/>
+<linearGradient id="ian_symbols_aad16d2c127e8ae4bdd3cdca6d2cf61c" gradientUnits="userSpaceOnUse" x1="278.1143" y1="214.3862" x2="389.187" y2="103.3135">
+	<stop  offset="0" style="stop-color:#B3845C"/>
+	<stop  offset="1" style="stop-color:#E3D7AC"/>
+</linearGradient>
+<path fill="url(#ian_symbols_aad16d2c127e8ae4bdd3cdca6d2cf61c)" stroke="#7A5353" stroke-width="2.7861" stroke-linecap="round" stroke-linejoin="round" d="
+	M332.869,269.141C268.115,11.354,268.181,10.092,266.874,2.322c0,0-1.86-2.09,3.048,0c4.201,1.774,91.374,87.304,108.635,105.576
+	c17.26,18.272,78.184,75.137,86.302,83.255c8.119,8.119,36.535,24.367,36.535,24.367L332.869,269.141z"/>
+</svg>

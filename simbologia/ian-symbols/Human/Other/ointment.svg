@@ -1,0 +1,114 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="422" viewBox="0 0 502 422" xml:space="preserve">
+            <title>Ointment</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Ointment</ian_image_library:title>
+                <ian_image_library:descr>Illustration of ointment tube</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>ointment, toothpaste, tube, gel, medical, supply, topical, medicated, cream</ian_image_library:contains>
+                    <ian_image_library:when>2007-10-13</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1daf32895968ce34912be29f74ec9deb">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Ointment</dc:title>
+                <dc:date>2007-10-13</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dvorak
+</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dvorak
+</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/ointment/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/ointment/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>ointment, toothpaste, tube, gel, medical, supply, topical, medicated, cream</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of ointment tube</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_738ab848c24ae6c49dfedbc4f2482893" y2="363.63" gradientUnits="userSpaceOnUse" x2="193.71" y1="9.916" x1="193.71">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#D3D5D6" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".15" stroke-miterlimit="1" points="109.22 9.916 374.16 287.34 300.51 363.64 13.259 109.28" fill="url(#ian_symbols_738ab848c24ae6c49dfedbc4f2482893)"/>
+ <linearGradient id="ian_symbols_71a6fabda2ff96b411ea8c63593bce58" y2="124.22" gradientUnits="userSpaceOnUse" x2="60.484" y1=".0537" x1="60.484">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#DDDFE0" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".15" stroke-miterlimit="1" points="13.96 124.22 120.92 13.482 107.02 .054 .054 110.78" fill="url(#ian_symbols_71a6fabda2ff96b411ea8c63593bce58)"/>
+ <linearGradient id="ian_symbols_9119398ee2603ce4513a0573366ced3c" y2="371.04" gradientUnits="userSpaceOnUse" x2="320.86" y1="279.11" x1="354.32">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#C0C2C4" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" stroke-miterlimit="1" d="m346.33 354.49l20.284-21.007 7.552-46.146c-17.169-18.452-96.213 56.063-73.656 76.298l45.83-9.14z" fill="url(#ian_symbols_9119398ee2603ce4513a0573366ced3c)"/>
+ <linearGradient id="ian_symbols_ce75e66699d27a14b5f72d9e36dded3c" y2="351.49" gradientUnits="userSpaceOnUse" x2="383.46" y1="351.49" x1="343.76">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#C0C2C4" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".283" stroke-miterlimit="1" d="m359.5 371.48l23.965-24.791-15.136-14.604c-2.224-2.175-9.481 2.121-15.782 8.645-6.317 6.546-10.39 14.026-8.177 16.158l15.14 14.58z" fill="url(#ian_symbols_ce75e66699d27a14b5f72d9e36dded3c)"/>
+ <linearGradient id="ian_symbols_fb3425d5a0bdc5a4fd73a37dda949efc" y2="359.08" gradientUnits="userSpaceOnUse" x2="384.07" y1="359.08" x1="358.89">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#EDEDEE" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".283" stroke-miterlimit="3.864" d="m359.5 371.48c2.131 2.055 9.221-1.816 15.837-8.655 6.605-6.872 10.254-14.07 8.128-16.136-2.132-2.045-9.221 1.826-15.843 8.666-6.62 6.86-10.26 14.07-8.13 16.13z" fill="url(#ian_symbols_fb3425d5a0bdc5a4fd73a37dda949efc)"/>
+ <path d="m363.87 351.23c-5.441 4.425-11.014 10.666-11.188 14.624l.87 2.414c.185.489.468.358.974.196.494-.164.516-1.077.375-1.577l-.288-.946c.098-2.425 3.734-7.73 10.471-13.211 7.785-6.35 15.429-9.318 17.071-7.741.369.369.995.348 1.358-.022.37-.391.359-1-.032-1.369-3.08-2.95-12.2 1.59-19.61 7.64z" fill="#fff"/>
+ <path d="m359.79 347.29c-5.442 4.437-11.015 10.678-11.189 14.636l.876 2.414c.179.489.473.369.968.195.494-.163.521-1.076.375-1.588l-.294-.935c.109-2.414 3.729-7.731 10.487-13.222 7.785-6.328 15.435-9.308 17.071-7.731.386.359.989.359 1.359-.032.369-.381.358-.989-.027-1.359-3.08-2.97-12.2 1.58-19.63 7.61z" fill="#fff"/>
+ <path d="m355.72 343.36c-5.441 4.436-11.009 10.677-11.183 14.635l.864 2.425c.18.489.468.37.968.207.495-.174.533-1.088.375-1.588l-.282-.957c.103-2.414 3.74-7.741 10.481-13.222 7.769-6.35 15.402-9.329 17.049-7.742.392.381.995.37 1.359-.021.375-.38.364-.989-.011-1.348-3.09-3.01-12.21 1.56-19.62 7.61z" fill="#fff"/>
+ <path d="m362.89 350.58c-5.442 4.425-11.01 10.655-11.184 14.624l.87 2.403c.18.5.473.369.957.206.5-.163.532-1.087.386-1.587l-.288-.936c.098-2.425 3.74-7.73 10.477-13.222 7.774-6.339 15.424-9.318 17.061-7.73.386.358.994.348 1.358-.033.375-.38.359-.989-.021-1.359-3.1-2.98-12.22 1.59-19.63 7.64z" fill="#231F20"/>
+ <path d="m358.81 346.64c-5.453 4.437-11.016 10.678-11.189 14.636l.87 2.414c.174.489.473.369.962.195.501-.174.527-1.087.381-1.588l-.288-.935c.104-2.414 3.735-7.742 10.477-13.233 7.791-6.328 15.445-9.296 17.076-7.73.381.37.995.37 1.359-.021.37-.381.358-.989-.027-1.37-3.07-2.95-12.19 1.58-19.62 7.63z" fill="#231F20"/>
+ <path d="m354.73 342.7c-5.437 4.437-11.004 10.678-11.183 14.636l.875 2.425c.18.489.468.359.962.207.495-.174.527-1.088.375-1.588l-.282-.957c.104-2.414 3.735-7.741 10.481-13.232 7.77-6.351 15.413-9.318 17.05-7.731.386.381.989.37 1.364-.021.375-.381.359-.989-.021-1.359-3.08-2.99-12.2 1.58-19.62 7.62z" fill="#231F20"/>
+ <linearGradient id="ian_symbols_34f2af370d42c54409eaff6be826432a" y2="385.95" gradientUnits="userSpaceOnUse" x2="500.05" y1="385.95" x1="363.78">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#EDEDEE" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".15" stroke-miterlimit="3.864" d="m485.93 392.4c-30.619 11.254-75.259-13.342-103.06-39.438-4.147-3.577-8.453.283-12.841 4.534-4.725 4.556-8.606 10.275-4.518 13.95 31.386 29.467 91.754 58.651 126.84 45.744 13.83-5.07 7.42-29.87-6.42-24.78z" fill="url(#ian_symbols_34f2af370d42c54409eaff6be826432a)"/>
+ <path d="m169.15 87.584c-1.539 1.468-1.587 3.914-.12 5.458l172.5 180.55c1.474 1.544 3.915 1.609 5.453.131 1.544-1.468 1.599-3.915.131-5.458l-172.5-180.56c-1.46-1.541-3.91-1.584-5.46-.116z" fill="#fff"/>
+ <path d="m56.671 127.68c-1.425 1.598-1.283 4.034.31 5.447l223.92 199.68c1.593 1.425 4.039 1.283 5.447-.304 1.43-1.588 1.289-4.023-.31-5.459l-223.92-199.68c-1.595-1.41-4.03-1.27-5.449.31z" fill="#5BC4BF"/>
+ <path d="m329.55 276.29l-186.91-180.98-42.259 43.015 190.61 177.28c10.63-18.91 23.48-32 38.56-39.31" fill="#96D5D2"/>
+</svg>

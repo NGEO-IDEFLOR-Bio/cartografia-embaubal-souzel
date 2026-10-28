@@ -1,0 +1,99 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="200" viewBox="0 0 502 200" xml:space="preserve">
+            <title>Habitat 2D: subtidal mud</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Habitat 2D: subtidal mud</ian_image_library:title>
+                <ian_image_library:descr>Illustration of habitat base with subtidal mud</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, habitat, subtidal, mudflat</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-43b071c70e7036642dba24df99f29de2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Habitat 2D: subtidal mud</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/habitat-2d-subtidal-mud/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/habitat-2d-subtidal-mud/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, habitat, subtidal, mudflat</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of habitat base with subtidal mud</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_3cc81f8c4113ae54290f41217e0ceb0b" y2=".3574" gradientUnits="userSpaceOnUse" x2="250.25" y1="167.72" x1="250.25">
+  <stop stop-color="#49B1DB" offset="0"/>
+  <stop stop-color="#49B1DB" offset=".1742"/>
+  <stop stop-color="#ABE1FA" offset=".8258"/>
+  <stop stop-color="#AEE2FA" offset=".8705"/>
+  <stop stop-color="#B8E6FB" offset=".9051"/>
+  <stop stop-color="#C8EBFC" offset=".9362"/>
+  <stop stop-color="#DFF4FD" offset=".9653"/>
+  <stop stop-color="#FDFEFF" offset=".9929"/>
+  <stop stop-color="#fff" offset=".9944"/>
+ </linearGradient>
+ <path stroke="#49B1DB" stroke-width=".5" d="m500.25 5.45c-7.761 0-13.606-1.907-16.735-5.093-3.128 3.186-8.975 5.093-16.735 5.093-7.765 0-13.603-1.907-16.734-5.093-3.13 3.186-8.972 5.093-16.738 5.093-7.758 0-13.6-1.907-16.73-5.093-3.129 3.186-8.977 5.093-16.735 5.093-7.768 0-13.605-1.907-16.737-5.093-3.13 3.186-8.975 5.093-16.741 5.093-7.764 0-13.606-1.907-16.735-5.093-3.136 3.186-8.97 5.093-16.737 5.093-7.759 0-13.606-1.907-16.738-5.093-3.129 3.186-8.97 5.093-16.729 5.093-7.767 0-13.607-1.907-16.736-5.093-3.133 3.186-8.971 5.093-16.738 5.093-7.762 0-13.605-1.907-16.733-5.093-3.13 3.186-8.976 5.093-16.733 5.093-7.762 0-13.606-1.907-16.739-5.093-3.128 3.186-8.973 5.093-16.731 5.093-7.769 0-13.607-1.907-16.738-5.093-3.128 3.186-8.973 5.093-16.736 5.093-7.761 0-13.605-1.907-16.734-5.093-3.13 3.186-8.974 5.093-16.738 5.093-7.76 0-13.599-1.907-16.733-5.093-3.12 3.185-8.97 5.093-16.725 5.093-7.766 0-13.606-1.907-16.736-5.093-3.132 3.185-8.978 5.093-16.739 5.093-7.765 0-13.599-1.907-16.734-5.093-3.13 3.186-8.972 5.093-16.731 5.093-7.768 0-13.605-1.907-16.736-5.093-3.135 3.185-6.905 5.093-14.669 5.093v162.27h500v-162.27z" fill="url(#ian_symbols_3cc81f8c4113ae54290f41217e0ceb0b)"/>
+ <path fill="#CFC6AC" clip-rule="evenodd" d="m500.25 183.49v-29.69c-6.604.347-13.076-2.948-19.475-4.116-8.457-1.548-17.431-1.169-26.03-1.429-15.95-.483-32.317-2.301-48.087-.083-29.537 4.154-57.668-5.499-85.896-11.779-27.542-6.126-54.949-7.43-83.005-9.44-16.281-1.169-31.706 2.018-47.742 1.487-9.378-.312-17.56-.767-26.479-3.75-6.569-2.199-13.386-4.714-20.237-6.033-26.559-5.11-54.538-3.285-81.309-6.422-12.836-1.502-25.948.212-38.492-1.321-6.922-.847-16.982-5.899-23.247-4.188v31.998l500 44.76z" fill-rule="evenodd"/>
+ <path fill="#806A50" clip-rule="evenodd" d="m500.25 199.39v-41.52c-6.604.345-13.076-2.947-19.475-4.115-8.457-1.546-17.431-1.168-26.03-1.428-15.95-.483-32.317-2.304-48.087-.086-29.537 4.155-57.668-5.496-85.896-11.777-27.542-6.127-54.949-7.429-83.005-9.441-16.281-1.169-31.706 2.019-47.742 1.487-9.378-.311-17.56-.765-26.479-3.75-6.569-2.198-13.386-4.715-20.237-6.032-26.559-5.112-54.538-3.286-81.309-6.421-12.836-1.502-25.948.21-38.492-1.323-6.922-.846-16.982-5.898-23.247-4.188v88.593h500z" fill-rule="evenodd"/>
+ <path fill="#CFC6AC" clip-rule="evenodd" d="m80.186 116.78c.787-.22 1.696-1.5 2.09-2.129.66-1.057 1.19-2.055 2.006-3.059 1.576-1.938 3.197-3.859 4.668-5.887 1.166-1.605 2.41-3.377 4.267-4.422 2.108-1.187 4.39-1.365 6.845-1.547 2.168-.161 4.815-.308 6.761.584 1.981.911 3.95 2.799 5.019 4.456 1.299 2.02 2.336 4.134 3.506 6.195 1.435 2.533 2.484 5.352 4.303 7.713.041.053.084.107.122.154" fill-rule="evenodd"/>
+ <path fill="#806A50" clip-rule="evenodd" d="m78.563 120.35c2.203-1.214 3.918-3.337 5.707-4.984 2.304-2.123 3.464-4.564 5.206-6.96 1.843-2.537 5.17-6.491 8.988-6.553 2.102-.033 6.188.022 7.997 1.085 2.215 1.299 3.678 4.55 5.105 6.685 1.67 2.494 2.942 5.129 4.64 7.612 1.189 1.741 2.868 3.478 3.7 5.213" fill-rule="evenodd"/>
+ <path fill="#CFC6AC" clip-rule="evenodd" d="m96.495 101.23c0 13.556.616 27.327 10.97 37.115 2.52 2.381 5.197 3.763 6.711 6.984.564 1.201.234.34.564 1.201.563 1.47.807 3.142 1.125 4.73.405 2.02.789 4.32.823 6.425.041 2.527-.255 4.536-.461 7.007-.453 5.433-1.951 10.859-1.094 16.366.7 4.517 5.496 7.555 9.83 5.242 1.601-.853 1.896-2.925 2.28-4.484.496-2.02.757-4.133.884-6.278.146-2.471-.202-4.988-.119-7.424.097-2.868 3.496-1.871 5.475-1.576 5.69.851 9.872 5.501 15.22 7.305 2.204.742 5.516 1.021 7.785.3 2.61-.829 2.135-3.795 1.734-5.907-.864-4.543-5.145-7.451-9.154-9.427-4.604-2.271-9.268-3.387-14.271-4.153-3.188-.491-6.403-1.608-8.499-4.179-2.203-2.706-2.189-7.192-3.315-10.471-.843-2.459-1.609-4.953-3.421-6.932-2.038-2.229-4.63-4.07-6.664-6.238-4.008-4.271-6.625-10.482-6.609-16.437.007-2.941-.393-5.475-.393-8.389" fill-rule="evenodd"/>
+ <linearGradient id="ian_symbols_c43e010210bce424fdee7f1030a14d14" y2="98.13" gradientUnits="userSpaceOnUse" x2="127.86" y1="186.04" x1="127.86">
+  <stop stop-color="#49B1DB" offset="0"/>
+  <stop stop-color="#49B1DB" offset=".1742"/>
+  <stop stop-color="#6EC0E4" offset=".6067"/>
+  <stop stop-color="#72C1E5" offset=".7865"/>
+ </linearGradient>
+ <path stroke="#49B1DB" stroke-width=".5" d="m104.7 98.89c.115 3.473-.486 7.168.043 10.687.462 3.063.991 6.117 1.91 9.022.706 2.233 1.894 4.512 3.188 6.578 1.253 2.003 3.15 3.278 4.706 5.067 1.521 1.748 3.261 3.372 4.693 5.079 1.601 1.906 2.173 4.37 3.133 6.631 1.346 3.167.747 7.223 2.871 9.921.632.806 1.499 1.512 2.407 2.075 2.85 1.775 6.78 1.838 9.985 2.492 3.202.653 5.931 1.87 8.905 3.054 3.109 1.238 6.321 2.705 8.73 5.033 1.605 1.551 3.672 5.334 2.321 7.62-1.545 2.619-7.587.751-9.67-.058-3.011-1.17-5.771-2.797-8.54-4.372-1.992-1.132-3.389-2.213-5.67-2.645-1.396-.267-4.258-.684-5.542.209-1.761 1.229-1.281 3.907-1.281 5.821 0 2.129.014 4.295-.085 6.392-.092 1.938.137 4.757-1.038 6.395-1.312 1.828-3.688 2.712-5.782 1.75-3.221-1.478-3.941-4.494-4.06-7.767-.156-4.291.999-8.448 1.688-12.648.294-1.801.058-3.29.084-5.071.033-2.166.034-3.946-.514-5.997-.561-2.1-.243-4.336-.875-6.423-.676-2.235-1.856-4.174-3.24-6.056-2.401-3.265-5.942-5.635-8.449-8.84-5.222-6.68-5.791-16.494-6.62-24.676-.328-3.251-.3-6.779-.3-10.035" fill="url(#ian_symbols_c43e010210bce424fdee7f1030a14d14)"/>
+</svg>

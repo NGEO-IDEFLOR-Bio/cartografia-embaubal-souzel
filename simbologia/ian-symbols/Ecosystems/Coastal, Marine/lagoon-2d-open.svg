@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="98" viewBox="0 0 501 98" xml:space="preserve">
+            <title>Lagoon 2D: open</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lagoon 2D: open</ian_image_library:title>
+                <ian_image_library:descr>Illustration of open lagoon base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, lagoon, open</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6402b3e098c109e4d181f0cfb7649410">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lagoon 2D: open</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lagoon-2d-open/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lagoon-2d-open/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, lagoon, open</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of open lagoon base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_8e2d0c890704c094d9bb8037c2a4f16b" y2="50.261" gradientUnits="userSpaceOnUse" x2="567.91" y1="63.549" x1="-117.74">
+  <stop stop-color="#BC9A5C" offset=".0056"/>
+  <stop stop-color="#B39960" offset=".1115"/>
+  <stop stop-color="#99956B" offset=".2868"/>
+  <stop stop-color="#708E7E" offset=".5099"/>
+  <stop stop-color="#388697" offset=".7691"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m496.01 15.325c-1.363 1.455-3.904 2.329-7.29 2.329-3.377 0-5.922-.874-7.283-2.329-1.366 1.455-3.908 2.329-7.289 2.329-3.383 0-5.925-.874-7.291-2.329-1.36 1.455-3.904 2.329-7.287 2.329-3.38 0-5.923-.874-7.288-2.329-1.362 1.455-3.905 2.329-7.284 2.329-3.383 0-5.927-.874-7.291-2.329-1.363 1.455-3.907 2.329-7.287 2.329s-5.923-.874-7.288-2.329c-1.366 1.455-3.908 2.329-7.289 2.329-3.378 0-5.924-.874-7.29-2.329-1.361 1.455-3.908 2.329-7.284 2.329-3.383 0-5.926-.874-7.29-2.329-1.363 1.455-3.905 2.329-7.291 2.329-3.377 0-5.922-.874-7.285-2.329-1.365 1.455-3.905 2.329-7.29 2.329-3.379 0-5.923-.874-7.289-2.329-1.359 1.455-3.906 2.329-7.283 2.329-3.383 0-5.926-.874-7.291-2.329-1.363 1.455-3.904 2.329-7.287 2.329-3.38 0-5.925-.874-7.289-2.329-1.362 1.455-3.907 2.329-7.287 2.329-3.379 0-5.925-.874-7.288-2.329-1.362 1.455-3.908 2.329-7.29 2.329-3.38 0-5.922-.874-7.288-2.329-1.362 1.455-3.905 2.329-7.287 2.329-3.384 0-5.923-.874-7.288-2.329-1.362 1.455-3.907 2.329-7.29 2.329-3.377 0-5.922-.874-7.285-2.329-1.363 1.455-3.908 2.329-7.287 2.329-3.384 0-5.925-.874-7.289-2.329-1.362 1.455-3.908 2.329-7.288 2.329-3.381 0-5.925-.874-7.289-2.329-1.365 1.455-3.908 2.329-7.289 2.329-3.378 0-5.923-.874-7.288-2.329-1.362 1.455-3.909 2.329-7.289 2.329s-5.924-.874-7.288-2.329c-1.363 1.455-3.908 2.329-7.289 2.329-3.378 0-5.923-.874-7.288-2.329-1.364 1.455-3.909 2.329-7.288 2.329-3.382 0-5.926-.874-7.29-2.329-1.362 1.455-3.907 2.329-7.287 2.329-3.381 0-5.925-.874-7.289-2.329-1.363 1.455-3.907 2.329-7.286 2.329-3.382 0-5.926-.874-7.29-2.329-1.364 1.455-3.907 2.329-7.287 2.329-3.381 0-5.926-.874-7.288-2.329-1.364 1.455-3.909 2.329-7.29 2.329-3.378 0-5.923-.874-7.288-2.329-1.364 1.455-3.907 2.329-7.288 2.329-3.382 0-5.925-.874-7.29-2.329-1.363 1.455-3.907 2.329-7.288 2.329-3.379 0-5.923-.874-7.288-2.329-1.364 1.455-3.908 2.329-7.288 2.329s-5.925-.874-7.29-2.329c-1.362 1.455-3.908 2.329-7.285 2.329-3.383 0-5.927-.874-7.29-2.329-1.364 1.455-3.908 2.329-7.29 2.329-2.552 0-4.626-.499-6.077-1.371v79.813h440.37v-78.725c-1.87-.366-3.32-1.071-4.24-2.046z" fill="url(#ian_symbols_8e2d0c890704c094d9bb8037c2a4f16b)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m177.15 47.858c9.223 3.229 20.45 3.065 30.126 3.64 53.497 3.179 106.45 7.043 158.44-5.657l-19.059 24.707h-147.94l-21.566-20.673" fill="#9D5A44"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 79.894c-11.744-5.014-23.172-8.281-33.453-16.624-10.145-8.227-18.912-17.402-29.916-24.35-24.125-15.234-46.503-18.344-71.185-2.435-15.558 10.027-22.957 15.736-40.933 18.798-26.463 4.505-64.749 3.271-94.972 1.627-26.098-1.418-47.002-14.99-70.126-27.791-36.57-20.241-119.47-28.825-159.42-28.869v95.845h500v-16.201z" fill="#CEB592"/>
+</svg>

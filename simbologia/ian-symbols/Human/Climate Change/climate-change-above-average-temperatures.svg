@@ -1,0 +1,102 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="185" height="501" viewBox="0 0 185 501" xml:space="preserve">
+            <title>Climate change: above average temperatures</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Climate change: above average temperatures</ian_image_library:title>
+                <ian_image_library:descr>Illustration representing climate change and above average temperatures</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>climate, change, above, average, temperature, increase, warming</ian_image_library:contains>
+                    <ian_image_library:when>2010-01-19</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0280177cb19ac544c558dd3ea193e023">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Climate change: above average temperatures</dc:title>
+                <dc:date>2010-01-19</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/climate-change-above-average-temperatures/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/climate-change-above-average-temperatures/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>climate, change, above, average, temperature, increase, warming</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration representing climate change and above average temperatures</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m119.04 321.76v-207.34c0-14.529-11.781-26.313-26.31-26.313-14.523 0-26.307 11.784-26.307 26.313v207.34c-37.457 11.299-64.753 46.046-64.753 87.175 0 50.297 40.773 91.063 91.06 91.063 50.297 0 91.074-40.766 91.074-91.063.01-41.14-27.3-75.88-64.76-87.18z" fill="#231F20"/>
+ <linearGradient id="ian_symbols_1fc8e8b5be350904c1e86e18b1ea8c45" y2="152.58" gradientUnits="userSpaceOnUse" x2="192.68" y1="458.84" x1="15.859">
+  <stop stop-color="#AF4E26" offset="0"/>
+  <stop stop-color="#9D2C21" offset=".3455"/>
+  <stop stop-color="#9A1F22" offset=".6848"/>
+  <stop stop-color="#631C10" offset="1"/>
+ </linearGradient>
+ <path d="m111.2 329.46v-211.64c.011-14.291-9.619-19.831-18.324-19.76-8.803.063-18.715 5.181-18.599 19.76v211.64c-36.187 8.385-63.183 40.745-63.183 79.474 0 45.081 36.556 81.651 81.645 81.651 45.092 0 81.648-36.57 81.648-81.651-.01-38.72-27.01-71.09-63.19-79.47z" fill="url(#ian_symbols_1fc8e8b5be350904c1e86e18b1ea8c45)"/>
+ <linearGradient id="ian_symbols_889f26d0e6b6ec94159568696f9de51e" y2="54.71" gradientUnits="userSpaceOnUse" x2="68.442" y1="-.7764" x1="58.658">
+  <stop stop-color="#9A1F22" offset="0"/>
+  <stop stop-color="#631C10" offset="1"/>
+ </linearGradient>
+ <path d="m76.14 53.328c5.139 0 13.699-26.525-1.443-43.23-10.394-11.453-24.17-13.692-30.362-3.984-5.776 9.039.936 22.907 14.459 25.913 18.916 4.209 12.204 21.301 17.346 21.301z" fill="url(#ian_symbols_889f26d0e6b6ec94159568696f9de51e)"/>
+ <linearGradient id="ian_symbols_fcc7b24c947007c441a6d1fb27d1026f" y2="81.912" gradientUnits="userSpaceOnUse" x2="54.2" y1="81.912">
+  <stop stop-color="#9A1F22" offset="0"/>
+  <stop stop-color="#631C10" offset="1"/>
+ </linearGradient>
+ <path d="m53.522 96.6c3.643-3.358-7.592-27.729-29.204-29.679-14.828-1.337-26.039 6.068-24.099 16.973 1.809 10.179 15.592 15.6 27.137 8.926 16.138-9.335 22.523 7.131 26.166 3.78z" fill="url(#ian_symbols_fcc7b24c947007c441a6d1fb27d1026f)"/>
+ <linearGradient id="ian_symbols_d28671dae302d484791f35f16a986d12" y2="53.655" gradientUnits="userSpaceOnUse" x2="114.59" y1="53.655" x1="169.49">
+  <stop stop-color="#9A1F22" offset="0"/>
+  <stop stop-color="#631C10" offset="1"/>
+ </linearGradient>
+ <path d="m115.28 68.526c-3.685-3.393 7.691-28.067 29.577-30.045 15.019-1.358 26.373 6.131 24.409 17.177-1.83 10.32-15.793 15.804-27.482 9.053-16.35-9.475-22.82 7.202-26.51 3.815z" fill="url(#ian_symbols_d28671dae302d484791f35f16a986d12)"/>
+ <linearGradient id="ian_symbols_c13a65baaa9cbaf4e581bfea97d433fd" y2="340.43" gradientUnits="userSpaceOnUse" x2="118" y1="479.09" x1="59.135">
+  <stop stop-color="#FAF18D" offset="0"/>
+  <stop stop-color="#DDA555" offset=".5346"/>
+  <stop stop-color="#C66728" offset="1"/>
+ </linearGradient>
+ <path d="m62.934 351.2v-2.513l-3.203-1.457-2.569 1.802 3.203 2.168h2.569zm.450 73.04l-4.276-.957-2.277-6.139-5.698.641-4.847-3.541-5.149 4.513v.711c-1.545-.451-3.453-.507-4.84-1.352l-1.141-3.218v-3.562l-3.428.316c.292-2.252.57-4.52.862-6.779h-1.999l-1.992 2.584-2 .965-2.851-1.605-.285-3.548.57-3.893 4.277-3.196h3.417l.57-1.943 4.276.965 3.136 3.864.574-6.448 5.424-4.526 1.996-4.832 3.988-1.612 2.284-3.238 5.128-.972 2.573-3.864h-7.701l4.847-2.281h3.421l4.428-1.464.799 4.153 1.918-2.894-2.214-1.661.489-1.654-1.711-1.626-1.999-.641.574-1.943-1.425-2.907-3.425 1.296.57-2.584-3.992-2.26-3.136 5.484.285 1.942-3.136 1.296-1.992 4.181-.859-3.864-5.42-2.267-.862-2.894 7.142-4.195 3.132-2.922.282-3.533-1.707-.979-2.281-.324-1.426 3.555s-2.488.162-4.449.338c-14.973 13.326-24.649 32.382-25.627 53.771 1.094 1.57 2.411 3.337 2.411 3.337l5.991 3.556 5.987 1.633 2.569 3.203 3.991 2.929 2.277-.324 1.708.753v.535l-2.277 6.124-1.708 2.591.57 1.281-1.425 4.844 5.128 9.348 5.135 4.534 2.281 3.23-.282 6.772 1.711 3.879-1.711 7.412s-.07.177-.162.451c3.02 2.161 6.188 4.083 9.521 5.786.778-.563 1.471-1.077 1.471-1.077l-.567-1.598 2.277-2.267.855-2.26 3.713-1.288 2.854-7.124-.859-1.915 1.992-2.894 4.276-.985 2.288-5.16-.57-6.455 3.417-4.843.574-4.837c-4.681-2.322-9.327-4.716-13.973-7.109l-2.28-4.51zm44.036-61.81l-.637 4.351 3.523-.719 2.552-2.541-2.242-2.168c-.739-1.999-1.608-3.893-2.555-5.808h-1.915v2.175l1.274 1.45v3.26zm-9.609-12.66l2.246 1.429 3.833-2.513-1.922-2.189-2.556 1.45-.975-.274c.208-.099.408-.162.612-.268l3.854-9.771-8.328-3.259-9.595 1.084-11.13 3.055c1.12-.415 2.26-.781 3.432-1.154l-1.183-2.013c-1.725.38-3.436.83-5.122 1.316l-1.06 1.063-3.228.458-2.858 1.337-1.39.704-.324.43-2.002.507-1.271 2.52-.891-1.78c-.426.189-.873.401-1.292.619l.257 2.978-2.559 2.176-1.598 3.991h3.196l1.605-3.618c1.383-.985 2.756-1.979 4.16-2.9l3.203 1.077c2.129 1.45 4.259 2.907 6.402 4.336l3.2-2.886-3.517-1.45-1.608-3.238-6.082-.739-.109-.619 2.545.437 1.602-1.437 3.199-.732c.789-.387 1.584-.683 2.376-.992l-2.048 1.985 7.367 5.068v2.907l-2.886 2.894 3.847 7.616 2.555-1.45 3.21-5.075c4.604-1.415 8.774-3.048 13.118-5.033l-.282 1.92zm44.469 1.82l-.62 1.021-2.945 3.33-3.819-3.992h3.819l1.668-1.886.095-.099-.331-.078-6.715-1.253-3.826-1.337-5.579 1.337-3.523 2.316v2.006l-5.586 3.646 1.176 5.329 3.235-2.337 2.052 2.337 2.352 1.338 1.464-3.992-.88-2.337.88-1.661 3.235-3.006h1.464l-1.464 3.33v3.006c1.352-.373 2.728-.493 4.107-.669l-3.805 2.646-.303 1.669-4.407 3.653-4.407-.985v-2.668l-2.059 1.337.88 2.316h-3.231l-1.764 3.006-2.207 2.492-3.963.845 2.354 2.309.584 2.33h-2.939l-3.809 2.014v5.97h1.756l1.619 1.826 3.657-1.826 1.475-3.654 2.647-1.661.588-1.337 4.41-.979 2.348 2.653 2.647 1.323-1.464 2.992 2.348-.676 1.176-2.978-2.939-3.315h1.175l2.939 2.315.584 3.337 2.647 2.978.581-4.315 1.482-.676c1.447 1.514 2.583 3.295 3.812 4.991l4.414.331 2.64 1.665-1.176 1.661-2.644 2.337h-3.819l-4.998-1.661-2.636.331-1.922 2.14-5.428-5.463-3.822-1.01-5.589.658-4.995 1.338c-2.802 3.182-5.575 6.363-8.219 9.644l-3.231 7.659 1.468 1.661-2.658 3.984 2.946 6.99c2.499 2.837 4.998 5.66 7.49 8.482l3.674-3.153 1.619 1.823 3.97-2.485 1.32 1.493h3.97l2.267 2.569-1.387 4.582 2.788 3.154-.141 5.491 2.052 3.998-1.471 3.33c-.148 2.421-.289 4.864-.289 7.3 1.2 3.315 2.386 6.624 3.523 9.981l.873 5.322v2.646h2.063l3.234-1.992h3.822l5.73-6.469-.732-2.161 3.809-3.323-2.787-3.175 3.382-2.829 3.238-1.985 1.464-1.647-.883-3.696v-9.284l2.65-5.675 3.224-3.66 3.53-8.638v-2.33c-1.745.219-3.435.388-5.135.507l3.516-3.506 4.844-3.336 2.657-2.985v-3.309c-.599-1.119-1.176-2.238-1.774-3.344l-2.344 2.675-1.764-2.013-2.65-1.985v-4.322l3.091 3.478 3.379-.485c1.542 1.407 3.048 2.738 4.41 4.329l1.292-1.472c-2.6-19.35-12.34-36.44-26.55-48.45zm8.48 64.9c-1.868-3.935-3.276-7.862-4.702-11.98l-2.499-2.845-1.319-4.808.88-.992 3.379 3.808 3.967 8.476 2.354 2.668-1.189 2.985 2.234 2.534c-1.02.08-2.04.16-3.1.16zm-49.8-55.86l.644 3.97 2.883-1.422-1.288-3.273-2.23.72z" fill="url(#ian_symbols_c13a65baaa9cbaf4e581bfea97d433fd)"/>
+</svg>

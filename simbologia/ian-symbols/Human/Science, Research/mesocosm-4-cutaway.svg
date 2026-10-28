@@ -1,0 +1,164 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="147" viewBox="0 0 501 147" xml:space="preserve">
+            <title>Mesocosm 4 cutaway</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mesocosm 4 cutaway</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mesocosm 4 cutaway</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, mesocosm, setup, cutaway, sideview, biological, community, ecosystem</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a36bc6f6ba585914b59c481aa4dde8ba">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mesocosm 4 cutaway</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mesocosm-4-cutaway/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mesocosm-4-cutaway/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, mesocosm, setup, cutaway, sideview, biological, community, ecosystem</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mesocosm 4 cutaway</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".5" d="m.262 16.34c2.384 1.437 4.822 2.555 7.057 2.661 5.779.255 9.866.106 11.718 1.213 1.916 1.117 8.919 5.194 8.919 5.194l-7.642 2.182 1.916 3.555 16.274-3.608 4.353-1.383-2.182-3.821-8.749-14.582-4.236 1.118 4.023 7.471s-4.396-2.597-6.684-3.81c-2.278-1.224-6.727-3.768-9.6-3.555-2.863.160-8.749.629-12.155-2.128-3.384-2.81-3.012 9.493-3.012 9.493z" fill="#0076BE"/>
+ <linearGradient id="ian_symbols_310ec970037b47c4a9edd183ced1efb3" y2="39.042" gradientUnits="userSpaceOnUse" x2="47.284" y1="14.563" x1="47.284">
+  <stop stop-color="#BACDEA" offset="0"/>
+  <stop stop-color="#fff" offset=".1966"/>
+  <stop stop-color="#8F9194" offset=".9944"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m59.599 39.042c-2.831 0-5.141-5.481-5.141-12.24 0-6.758 2.31-12.24 5.141-12.24h-19.829.33c-2.831 0-5.13 5.481-5.13 12.24s2.299 12.24 5.13 12.24h-.33 19.829z" fill="url(#ian_symbols_310ec970037b47c4a9edd183ced1efb3)"/>
+ <linearGradient id="ian_symbols_7e6653205112813469e81b73d20744be" y2="-22.825" gradientUnits="userSpaceOnUse" x2="351.46" gradientTransform="matrix(-.2757 .1037 .2545 .9276 144.22 5.9775)" y1="50.782" x1="351.46">
+  <stop stop-color="#3E6577" offset="0"/>
+  <stop stop-color="#436C7F" offset=".0337"/>
+  <stop stop-color="#548399" offset=".1592"/>
+  <stop stop-color="#6195AC" offset=".2991"/>
+  <stop stop-color="#6AA1BA" offset=".4588"/>
+  <stop stop-color="#6FA9C3" offset=".6557"/>
+  <stop stop-color="#71ABC5" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="4.711 110.42 96.957 69.664 97.042 .365 4.435 36.094" fill="url(#ian_symbols_7e6653205112813469e81b73d20744be)"/>
+ <linearGradient id="ian_symbols_962b6a09267930547da715059bd83bd4" y2="22.474" gradientUnits="userSpaceOnUse" x2="302.06" gradientTransform="matrix(.9973 .0731 -.0667 .9101 -2.7128 -27.376)" y1="96.526" x1="302.06">
+  <stop stop-color="#325565" offset=".6236"/>
+  <stop stop-color="#507F94" offset=".7411"/>
+  <stop stop-color="#69A1BA" offset=".8537"/>
+  <stop stop-color="#78B6D1" offset=".9437"/>
+  <stop stop-color="#7DBEDA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="492.96 97.272 96.935 68.248 96.137 .844 493.23 29.538" fill="url(#ian_symbols_962b6a09267930547da715059bd83bd4)"/>
+ <linearGradient id="ian_symbols_b5e8d80228a04b243d3bd6e064fa188b" y2="14.563" gradientUnits="userSpaceOnUse" x2="59.599" y1="39.042" x1="59.599">
+  <stop stop-color="#3E6577" offset="0"/>
+  <stop stop-color="#4E7B90" offset=".2209"/>
+  <stop stop-color="#6195AD" offset=".5332"/>
+  <stop stop-color="#6DA5BF" offset=".8037"/>
+  <stop stop-color="#71ABC5" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m64.739 26.803c0 6.759-2.299 12.24-5.141 12.24-2.831 0-5.141-5.481-5.141-12.24 0-6.758 2.31-12.24 5.141-12.24 2.842 0 5.141 5.481 5.141 12.24z" fill="url(#ian_symbols_b5e8d80228a04b243d3bd6e064fa188b)"/>
+ <rect height="40.104" width="20.467" stroke="#231F20" y="104.88" x="24.093" stroke-width=".5" fill="#B1B3B6"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="96.957 108.14 43.74 144.99 43.74 104.88 97.776 71.292" fill="#86888A"/>
+ <rect height="30.302" width="20.467" stroke="#231F20" y="114.68" x="350.77" stroke-width=".5" fill="#B1B3B6"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="423.63 117.14 370.41 144.99 370.41 114.68 424.45 89.311" fill="#86888A"/>
+ <rect height="30.302" width="20.478" stroke="#231F20" y="114.68" x="193.56" stroke-width=".5" fill="#B1B3B6"/>
+ <polygon stroke="#231F20" stroke-width=".5" points="266.44 117.14 213.21 144.99 213.21 114.68 267.25 89.311" fill="#86888A"/>
+ <linearGradient id="ian_symbols_509011f712935af4f9b94392b1956d88" y2="158.93" gradientUnits="userSpaceOnUse" x2="251.25" y1="8.6909" x1="224.76">
+  <stop stop-color="#655E49" offset="0"/>
+  <stop stop-color="#A8996C" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="426.4 102.18 460.38 47.483 123.85 26.483 7.563 74.442 178.68 99.507 185.7 117.06 393.85 133.79" fill="url(#ian_symbols_509011f712935af4f9b94392b1956d88)"/>
+ <linearGradient id="ian_symbols_4a9ef60c23c4e694695e49233f612d19" y2="132.09" gradientUnits="userSpaceOnUse" x2="385.06" y1="43.546" x1="377.31">
+  <stop stop-color="#67ABCC" offset="0"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m470.91 42.949l-66.445-1.777c-18.02 12.048-37.018 23.266-45.181 27.087-15.943 7.461-27.428 4.502-35.612 9.292-8.174 4.778-35.442 18.125-35.442 18.125l61.104 28.854 6.822 4.704 30.77 2.692 83.99-88.971z" fill="url(#ian_symbols_4a9ef60c23c4e694695e49233f612d19)"/>
+ <linearGradient id="ian_symbols_a509e0dd59be84a465a5b1ef3fad2af4" y2="162.69" gradientUnits="userSpaceOnUse" x2="197.6" y1="36.019" x1="175.26">
+  <stop stop-color="#655E49" offset="0"/>
+  <stop stop-color="#A8996C" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m281.18 92.983c-16.58-5.109-273.62-27.396-273.62-27.396v37.166l364.09 29.25c-21.64-12.6-74.74-34.164-90.47-39.017z" fill="url(#ian_symbols_a509e0dd59be84a465a5b1ef3fad2af4)"/>
+ <linearGradient id="ian_symbols_59430b1ca1257f04992918ccc5841528" y2="151.63" gradientUnits="userSpaceOnUse" x2="-924.82" gradientTransform="matrix(-.2757 .1037 .2545 .9276 144.22 5.9775)" y1="225.24" x1="-924.82">
+  <stop stop-color="#3E6577" offset="0"/>
+  <stop stop-color="#436C7F" offset=".0337"/>
+  <stop stop-color="#548399" offset=".1592"/>
+  <stop stop-color="#6195AC" offset=".2991"/>
+  <stop stop-color="#6AA1BA" offset=".4588"/>
+  <stop stop-color="#6FA9C3" offset=".6557"/>
+  <stop stop-color="#71ABC5" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="400.98 139.9 493.23 99.134 493.31 29.836 400.7 65.566" fill="url(#ian_symbols_59430b1ca1257f04992918ccc5841528)"/>
+ <linearGradient id="ian_symbols_28c528ab7182a144ed32c513c06dc928" y2="48.732" gradientUnits="userSpaceOnUse" x2="213.32" gradientTransform="matrix(.9973 .0731 -.0731 .9973 -3.8462 -13.009)" y1="122.78" x1="213.32">
+  <stop stop-color="#5F93AA" offset="0"/>
+  <stop stop-color="#6196AE" offset=".0248"/>
+  <stop stop-color="#6EA8C1" offset=".1862"/>
+  <stop stop-color="#76B4CF" offset=".3716"/>
+  <stop stop-color="#7BBCD8" offset=".6002"/>
+  <stop stop-color="#7DBEDA" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" stroke-width=".5" points="400.79 139.75 4.765 110.72 4.435 36.903 22.539 38.212 22.454 99.954 385.98 127.79 386.8 64.501 401.52 65.566" fill="url(#ian_symbols_28c528ab7182a144ed32c513c06dc928)"/>
+ <linearGradient id="ian_symbols_53484a8a5b89bb341d0cc00f660ac6ad" y2="70.259" gradientUnits="userSpaceOnUse" x2="466.36" y1="94.739" x1="466.36">
+  <stop stop-color="#3E6577" offset="0"/>
+  <stop stop-color="#4E7B90" offset=".2209"/>
+  <stop stop-color="#6195AD" offset=".5332"/>
+  <stop stop-color="#6DA5BF" offset=".8037"/>
+  <stop stop-color="#71ABC5" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m471.5 82.5c0 6.758-2.31 12.239-5.141 12.239-2.842 0-5.141-5.481-5.141-12.239 0-6.759 2.299-12.24 5.141-12.24 2.83-.001 5.14 5.481 5.14 12.24z" fill="url(#ian_symbols_53484a8a5b89bb341d0cc00f660ac6ad)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m459.64 84.212c2.277 1.373 4.598 2.427 6.727 2.533 5.513.256 9.408.106 11.175 1.16 1.82 1.064 8.504 4.96 8.504 4.96l-7.29 2.075 1.819 3.385 15.529-3.438 4.15-1.32-2.075-3.64-8.345-13.911-4.055 1.064 3.842 7.131s-4.193-2.469-6.364-3.64c-2.171-1.16-6.418-3.587-9.153-3.385-2.735.149-8.345.606-11.58-2.022-3.25-2.68-2.89 9.048-2.89 9.048z" fill="#0076BE"/>
+ <linearGradient id="ian_symbols_91fd1c6aa57629d4c527caa7e29d3e18" y2="70.259" gradientUnits="userSpaceOnUse" x2="454.04" y1="94.739" x1="454.04">
+  <stop stop-color="#487285" offset=".0056"/>
+  <stop stop-color="#558499" offset=".1125"/>
+  <stop stop-color="#6195AC" offset=".2593"/>
+  <stop stop-color="#6AA2BA" offset=".4281"/>
+  <stop stop-color="#6FA9C3" offset=".6361"/>
+  <stop stop-color="#71ABC5" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m466.36 94.739c-2.842 0-5.141-5.481-5.141-12.239 0-6.759 2.299-12.24 5.141-12.24h-19.829.33c-2.831 0-5.141 5.481-5.141 12.24 0 6.758 2.31 12.239 5.141 12.239h-.33 19.83z" fill="url(#ian_symbols_91fd1c6aa57629d4c527caa7e29d3e18)"/>
+</svg>

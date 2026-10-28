@@ -1,0 +1,72 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="https://creativecommons.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/" x="0px" y="0px" width="468.07" height="500" viewBox="0 0 468.07 500" xml:space="preserve">
+            <title>Beach umbrella</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Beach umbrella</ian_image_library:title>
+                <ian_image_library:descr><p>An illustration of a beach umbrella.</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>beach, umbrella, recreation, tourism, outdoors, ocean, sunbathing,</ian_image_library:contains>
+                    <ian_image_library:when>2019-11-12</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-67f74378f74c550491b3c552b04bd7b8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="https://dublincore.org/specifications/dublin-core/dcmi-terms/#StillImage" />
+                <cc:license
+                rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+                <dc:title>Beach umbrella</dc:title>
+                <dc:date>2019-11-12</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/beach-umbrella/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/beach-umbrella/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>beach, umbrella, recreation, tourism, outdoors, ocean, sunbathing,</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>An illustration of a beach umbrella.</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="https://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="https://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+               <g> <rect x="201.09" y="71.44" transform="matrix(0.9662 0.2577 -0.2577 0.9662 81.3772 -45.5156)" fill="#231F20" width="26.45" height="432.46"></rect> <g> <g> <polygon id="ian_symbols_2071205d2a332f34f5db0b7d6bd0221a" fill="#FFFFFF" points="313,17.04 325.76,23.6 183.39,265.25 120.96,233.11 "></polygon> <path id="ian_symbols_9b39bcbcf3adbea49dc6c5ffc84d5adf" fill="#EB2127" d="M0,133.01l26.18,61.14 C106.53,31.64,313,17.04,313,17.04C169.69-56.74,0,133.01,0,133.01z"></path> <path id="ian_symbols_582d4a689f02bf646d357f404a053628" fill="#FFFFFF" d="M313,17.04c0,0-196.55,95.36-236.02,197.29 l-50.8-20.17C110.51,30.36,313,17.04,313,17.04z"></path> <path id="ian_symbols_e72663c0e7b1c6c4e91d9f693bb35fcd" fill="#EB2127" d="M313,17.04L129.04,239.95l-52.06-25.62 C127.49,107.54,313,17.04,313,17.04L313,17.04z"></path> <path id="ian_symbols_ca3731d7aab148b4f1745f0848bfc5af" fill="#EB2127" d="M468.07,253.5l-192.22,49.21 c85.53-159.85,49.9-279.11,49.9-279.11C469.06,97.38,468.07,253.5,468.07,253.5z"></path> <path id="ian_symbols_e850eb2b10ed29d4117f2f776f9b95f3" fill="#FFFFFF" d="M325.76,23.6c0,0-39.49,169.76-99.53,261.11 l49.62,18C360.26,138.96,325.76,23.6,325.76,23.6z"></path> <path id="ian_symbols_3012ad9d811a8984c54507952094a7a1" fill="#FFFFFF" d="M325.76,23.6c9.86,23.8,19.33,50.34,27.51,79.52 c18.31,65.37,24.7,124.7,25.95,173.13c17.56-4.5,35.12-8.99,52.68-13.49c0.95-35.71-2.09-119.93-59.68-193.16 C357.12,50.42,340.94,35.36,325.76,23.6z"></path> <path id="ian_symbols_934e6b2323dc9d448930fc0e49c7bfae" fill="#EB2127" d="M325.76,23.6L183.39,265.25l42.84,19.46 c1.22-1.88,2.44-3.78,3.64-5.68C272.34,212.07,307.93,128.43,325.76,23.6z"></path> </g> </g> </g> </svg> 

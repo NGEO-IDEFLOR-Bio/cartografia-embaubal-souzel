@@ -1,0 +1,108 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="93" viewBox="0 0 501 93" xml:space="preserve">
+            <title>Estuary 2D: seasonally closed</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: seasonally closed</ian_image_library:title>
+                <ian_image_library:descr>Illustration of seasonally closed estuary base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, seasonally, closed, temporally, variable, variability</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-947551df7e048294098d4ac157dee8e0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: seasonally closed</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-seasonally-closed/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-seasonally-closed/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, seasonally, closed, temporally, variable, variability</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of seasonally closed estuary base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_cfb661a0eefc61c4ed789c3cee07ea1e" height="49.852" viewBox="0 -49.852 49.852 49.852" width="49.852" patternUnits="userSpaceOnUse" y="473.791" x="-48.292" overflow="visible">
+   <polygon points="0 0 0 -49.853 49.853 -49.853 49.853 0" fill="none"/>
+   <polygon points="49.853 0 0 0 0 -49.853 49.853 -49.853" fill="#fff"/>
+   <path d="m17.779-37.738c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m29.616-20.762c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m31.796-32.131c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.336 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m7.954-17.181c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m16.237-25.745c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m21.05-7.992c0 .336-.272.609-.609.609-.335 0-.607-.273-.607-.609 0-.335.272-.608.607-.608.336-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m38.337-16.245c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.336-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m46.28-44.435c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m28.215-45.665c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m44.878-27.614c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336-.001.609.271.609.608z" fill="#231F20"/>
+   <path d="m3.296-3.164c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.336 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m8.411-43.344c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.337 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m42.698-6.59c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+  </pattern>
+ </defs>
+ <linearGradient id="ian_symbols_1388f25b3f0aaf84d51dfbf4a9467969" y2="47.826" gradientUnits="userSpaceOnUse" x2="500.25" y1="47.826" x1="59.314">
+  <stop stop-color="#AD9768" offset="0"/>
+  <stop stop-color="#9C946F" offset=".0379"/>
+  <stop stop-color="#738E80" offset=".1439"/>
+  <stop stop-color="#4F898F" offset=".2562"/>
+  <stop stop-color="#32859B" offset=".3738"/>
+  <stop stop-color="#1C81A4" offset=".4987"/>
+  <stop stop-color="#0C7FAB" offset=".6342"/>
+  <stop stop-color="#037DAF" offset=".7881"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".5" d="m496.39 13.522c-1.8 2.931-5.157 4.683-9.625 4.683-4.463 0-7.825-1.752-9.626-4.683-1.802 2.931-5.158 4.683-9.625 4.683-4.464 0-7.825-1.752-9.626-4.683-1.657 1.409-4.74 4.683-8.848 4.683-4.109 0-7.2-3.276-8.855-4.683-1.658 1.407-4.752 4.683-8.861 4.683-4.105 0-7.197-3.276-8.855-4.683-1.657 1.407-4.749 4.683-8.858 4.683-4.107 0-7.202-3.276-8.857-4.683-1.654 1.407-4.746 4.683-8.856 4.683-4.107 0-7.202-3.276-8.856-4.683-1.661 1.407-4.75 4.683-8.86 4.683-4.106 0-7.197-3.276-8.856-4.683-1.654 1.407-4.748 4.683-8.857 4.683-4.108 0-7.197-3.276-8.858-4.683-1.654 1.407-4.747 4.683-8.858 4.683-4.107 0-7.2-.845-8.852-2.253-1.662 1.408-4.752 2.253-8.858 2.253-4.111 0-7.203-.845-8.858-2.253-1.657 1.408-4.749 2.253-8.857 2.253-4.11 0-7.204-.845-8.858-2.253-1.659 1.408-4.75 2.253-8.857 2.253-4.108 0-7.2-.845-8.859-2.253-1.654 1.408-4.749 2.253-8.856 2.253-4.108 0-7.201-.845-8.856-2.253-1.658 1.408-4.749 2.253-8.861 2.253-4.107 0-7.198-.845-8.855-2.253-1.657 1.408-4.751 2.253-8.858 2.253-4.105 0-7.201-.845-8.857-2.253-1.655 1.408-4.749 2.253-8.855 2.253-4.109 0-7.201-.845-8.858-2.253-1.656 1.408-4.748 2.253-8.858 2.253-4.107 0-7.199-.845-8.854-2.253-1.658 1.408-4.752 2.253-8.859 2.253-4.109 0-7.201-.845-8.858-2.253-1.658 1.408-4.749 2.253-8.858 2.253-4.108 0-7.202-.843-8.858-2.253-1.655 1.41-4.749 2.253-8.858 2.253-4.108 0-7.201-.843-8.856-2.253-1.658 1.41-4.749 2.253-8.859 2.253-4.107 0-7.199-.843-8.856-2.253-1.656 1.41-4.75 2.253-8.858 2.253-4.106 0-7.2-.843-8.857-2.253-1.654 1.41-4.749 2.253-8.854 2.253-4.11 0-7.201-.843-8.858-2.253-1.657 1.41-4.749 2.253-8.86 2.253-4.106 0-7.196-.843-8.854-2.253-1.658 1.41-4.752 2.253-8.858 2.253v63.926h441.02v-65.152c-1.64-.804-2.95-1.98-3.86-3.457z" fill="url(#ian_symbols_1388f25b3f0aaf84d51dfbf4a9467969)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 56.748c-.145-.326-.314-.653-.448-.979-3.937-9.387-4.358-12.019-7.607-21.635-9.141-.839-18.009-6.421-21.171 2.2-3.754 10.223-1.465 20.317-18.982 27.846-7.951 3.415-24.21 4.377-32.742 4.83-4.513.24-8.851-.005-13.078-.637-15.307 4.8-30.676 7.416-47.588 10.866-27.305 5.563-58.765-1.346-86.734-2.444-25.343-.995-50.916 1.835-75.314 4.339-27.273 2.8-54.48-.975-81.366-3.485-31.888-2.977-62.192-7.802-94.701-6.325-6.761.306-13.515.521-20.269.682v20.115h500v-35.373z" fill="#DFCAAB"/>
+ <path stroke="#000" stroke-width=".5" d="m390.33 63.991c-16.332-6.6-25.592-24.418-38.491-35.609-14.862-12.896-33.059-6.24-46.692 3.346-14.285 10.044-29.639 16.25-46.543 20.239-20.404 4.817-45.115 2.768-65.489-1.842-11.12-2.519-18.649-5.923-28.605-11.397-9.493-5.222-17.027-11.547-26.964-15.977-42.259-18.838-90.396-22.231-137.31-22.5v71.755c6.754-.161 13.508-.376 20.267-.683 32.509-1.477 62.813 3.349 94.701 6.325 26.886 2.51 54.093 6.285 81.366 3.485 24.398-2.504 49.971-5.334 75.314-4.339 27.97 1.098 59.43 8.007 86.734 2.444 16.912-3.45 32.281-6.066 47.588-10.866-5.46-.815-10.73-2.293-15.89-4.381z" fill="url(#ian_symbols_cfb661a0eefc61c4ed789c3cee07ea1e)"/>
+ <path stroke="#000" stroke-width=".5" d="m221.44 62.858c17.878.778 35.238-2.356 51.177-10.689 5.153-2.694 9.705-6.02 13.908-9.697-8.851 4.118-18.125 7.183-27.922 9.495-20.404 4.817-45.115 2.768-65.489-1.842-11.12-2.519-18.649-5.923-28.605-11.397-3.337-1.836-6.43-3.809-9.472-5.787 17.36 17.581 43.05 28.902 66.39 29.917z" fill="#9D5A44"/>
+</svg>

@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "pt": "1. Floresta",
+    "en": "1. Forest",
+    "hex": "#1f8d49"
+  },
+  {
+    "id": 3,
+    "pt": "1.1 Formação Florestal",
+    "en": "1.1. Forest Formation",
+    "hex": "#1f8d49"
+  },
+  {
+    "id": 6,
+    "pt": "1.2. Floresta Alagável",
+    "en": "1.2 Floodable Forest",
+    "hex": "#007785"
+  },
+  {
+    "id": 4,
+    "pt": "1.3. Formação Savânica",
+    "en": "1.3. Savanna Formation",
+    "hex": "#7dc975"
+  },
+  {
+    "id": 7,
+    "pt": "1.4. Savana Alagada (beta)",
+    "en": "1.4. Flooded Savanna (beta)",
+    "hex": "#228c70"
+  },
+  {
+    "id": 5,
+    "pt": "1.5. Mangue",
+    "en": "1.5. Mangrove",
+    "hex": "#04381d"
+  },
+  {
+    "id": 49,
+    "pt": "1.6. Restinga Arbórea",
+    "en": "1.6. Wooded Sandbank Vegetation",
+    "hex": "#02d659"
+  },
+  {
+    "id": 10,
+    "pt": "2. Vegetação Herbácea e Arbustiva",
+    "en": "2. Herbaceous or Shrubby Vegetation",
+    "hex": "#d6bc74"
+  },
+  {
+    "id": 12,
+    "pt": "2.1. Formação Campestre",
+    "en": "2.1. Grassland Formation",
+    "hex": "#d6bc74"
+  },
+  {
+    "id": 77,
+    "pt": "2.2. Formação Herbáceo Arbustiva",
+    "en": "2.2. Herbaceous and Shrub Formation",
+    "hex": "#86b074"
+  },
+  {
+    "id": 11,
+    "pt": "2.3. Campo Alagado e Área Pantanosa",
+    "en": "2.3 Wetland",
+    "hex": "#519799"
+  },
+  {
+    "id": 84,
+    "pt": "2.4. Marisma (beta)",
+    "en": "2.4. Salt Marsh (beta)",
+    "hex": "#81dbbf"
+  },
+  {
+    "id": 50,
+    "pt": "2.5. Restinga Herbácea ou Arbustiva",
+    "en": "2.5. Herbaceous Sandbank Vegetation",
+    "hex": "#ffaa5f"
+  },
+  {
+    "id": 32,
+    "pt": "2.6. Apicum",
+    "en": "2.6. Hypersaline Tidal Flat",
+    "hex": "#fc8114"
+  },
+  {
+    "id": 29,
+    "pt": "2.7. Afloramento Rochoso",
+    "en": "2.7. Rocky Outcrop",
+    "hex": "#ad5100"
+  },
+  {
+    "id": 14,
+    "pt": "3. Agropecuária",
+    "en": "3. Farming",
+    "hex": "#ffefc3"
+  },
+  {
+    "id": 15,
+    "pt": "3.1. Pastagem",
+    "en": "3.1. Pasture",
+    "hex": "#edde8e"
+  },
+  {
+    "id": 18,
+    "pt": "3.2. Agricultura",
+    "en": "3.2. Agriculture",
+    "hex": "#E974ED"
+  },
+  {
+    "id": 19,
+    "pt": "3.2.1. Lavoura Temporária",
+    "en": "3.2.1. Temporary Crop",
+    "hex": "#C27BA0"
+  },
+  {
+    "id": 39,
+    "pt": "3.2.1.1. Soja",
+    "en": "3.2.1.1. Soybean",
+    "hex": "#f5b3c8"
+  },
+  {
+    "id": 20,
+    "pt": "3.2.1.2. Cana",
+    "en": "3.2.1.2. Sugar cane",
+    "hex": "#db7093"
+  },
+  {
+    "id": 40,
+    "pt": "3.2.1.3. Arroz",
+    "en": "3.2.1.3. Rice",
+    "hex": "#c71585"
+  },
+  {
+    "id": 62,
+    "pt": "3.2.1.4. Algodão (beta)",
+    "en": "3.2.1.4. Cotton (beta)",
+    "hex": "#ff69b4"
+  },
+  {
+    "id": 41,
+    "pt": "3.2.1.5. Outras Lavouras Temporárias",
+    "en": "3.2.1.5. Other Temporary Crops",
+    "hex": "#f54ca9"
+  },
+  {
+    "id": 36,
+    "pt": "3.2.2. Lavoura Perene",
+    "en": "3.2.2. Perennial Crop",
+    "hex": "#d082de"
+  },
+  {
+    "id": 46,
+    "pt": "3.2.2.1. Café",
+    "en": "3.2.2.1. Coffee",
+    "hex": "#d68fe2"
+  },
+  {
+    "id": 47,
+    "pt": "3.2.2.2. Citrus",
+    "en": "3.2.2.2. Citrus",
+    "hex": "#9932cc"
+  },
+  {
+    "id": 35,
+    "pt": "3.2.2.3. Dendê",
+    "en": "3.2.2.3. Palm Oil",
+    "hex": "#9065d0"
+  },
+  {
+    "id": 48,
+    "pt": "3.2.1.4. Outras Lavouras Perenes",
+    "en": "3.2.1.4. Other Perennial Crops",
+    "hex": "#e6ccff"
+  },
+  {
+    "id": 9,
+    "pt": "3.3. Silvicultura",
+    "en": "3.3. Forest Plantation",
+    "hex": "#7a5900"
+  },
+  {
+    "id": 21,
+    "pt": "3.4. Mosaico de Usos",
+    "en": "3.4. Mosaic of Uses",
+    "hex": "#ffefc3"
+  },
+  {
+    "id": 22,
+    "pt": "4. Área não vegetada",
+    "en": "4. Non vegetated area",
+    "hex": "#d4271e"
+  },
+  {
+    "id": 23,
+    "pt": "4.1. Praia, Duna e Areal",
+    "en": "4.1. Beach, Dune and Sand Spot",
+    "hex": "#ffa07a"
+  },
+  {
+    "id": 24,
+    "pt": "4.2. Área Urbanizada",
+    "en": "4.2. Urban Area",
+    "hex": "#d4271e"
+  },
+  {
+    "id": 30,
+    "pt": "4.3. Mineração",
+    "en": "4.3. Mining",
+    "hex": "#9c0027"
+  },
+  {
+    "id": 75,
+    "pt": "4.4. Usina Fotovoltaica",
+    "en": "4.4 Photovoltaic Power Plant",
+    "hex": "#757272"
+  },
+  {
+    "id": 91,
+    "pt": "4.5. Parque eólico (beta)",
+    "en": "4.5. Wind farm (beta)",
+    "hex": "#403d3e"
+  },
+  {
+    "id": 25,
+    "pt": "4.6. Outras Áreas não Vegetadas",
+    "en": "4.6. Other non Vegetated Areas",
+    "hex": "#db4d4f"
+  },
+  {
+    "id": 26,
+    "pt": "5. Corpo D'água",
+    "en": "5. Water",
+    "hex": "#2532e4"
+  },
+  {
+    "id": 33,
+    "pt": "5.1 Rio, Lago e Oceano",
+    "en": "5.1. River, Lake and Ocean",
+    "hex": "#2532e4"
+  },
+  {
+    "id": 31,
+    "pt": "5.2 Aquicultura",
+    "en": "5.2. Aquaculture",
+    "hex": "#091077"
+  }
+]

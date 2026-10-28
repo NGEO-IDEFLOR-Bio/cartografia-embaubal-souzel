@@ -1,0 +1,147 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="209" viewBox="0 0 501 209" xml:space="preserve">
+            <title>Lagoon 3D: barrier sand islands</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lagoon 3D: barrier sand islands</ian_image_library:title>
+                <ian_image_library:descr>Illustration of lagoon base with barrier sand islands</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, lagoon, barrier, sislands</ian_image_library:contains>
+                    <ian_image_library:when>2004-10-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-17846d4af54bb474bdf7db2c91e5d6ba">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lagoon 3D: barrier sand islands</dc:title>
+                <dc:date>2004-10-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lagoon-3d-barrier-sand-islands/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lagoon-3d-barrier-sand-islands/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, lagoon, barrier, sislands</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of lagoon base with barrier sand islands</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_6d4c31caf27218947dd00a510633b367" y2="145.77" gradientUnits="userSpaceOnUse" x2="304.68" y1="-34.193" x1="239.18">
+  <stop stop-color="#BEAA54" offset="0"/>
+  <stop stop-color="#BEAA54" offset=".2079"/>
+  <stop stop-color="#AFB283" offset=".2917"/>
+  <stop stop-color="#A1B9AF" offset=".3826"/>
+  <stop stop-color="#98BDCB" offset=".4532"/>
+  <stop stop-color="#95BFD5" offset=".4944"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" d="m313.78 16.393s-3.821-3.599-11.182 1.162c-12.001 7.763-47.266-2.43-58.994 3.237-30.615 14.792-92.826-7.307-98.901-8.131-4.493-.613-3.149-1.896-8.324-1.133-5.172.765-32.929 9.404-39.644 11.406-4.094 1.221-74.558 19.238-71.487 21.68 3.899 3.1 6.219 6.444 13.382 8.283 7.161 1.837 19.125 1.433 21.991 1.66s59.271-.738 53.727 3.875c-5.56 4.614-33.14 27.119-33.14 27.119l23.513 3.069 11.311 7.1h326.13l58.07-28.504v-50.823h-186.46z" fill="url(#ian_symbols_6d4c31caf27218947dd00a510633b367)"/>
+ <linearGradient id="ian_symbols_37938842c9cfa974e1df54e89c302f5e" y2="320.38" gradientUnits="userSpaceOnUse" x2="180.29" gradientTransform="matrix(.8617 0 0 1 63.857 -112.73)" y1="192.96" x1="180.29">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" stroke-miterlimit="2" d="m89.349 83.942c4.189-.346 9.442-3.177 9.442-3.177s3.975 2.765 8.805 2.528c4.806-.256 7.972-2.729 7.972-2.729s3.734 2.91 8.4 2.675c4.687-.257 8.136-2.731 8.136-2.731s5.021 3.277 9.162 2.731c4.164-.583 7.828-2.782 7.828-2.782s3.377 2.945 8.472 2.836c5.09-.107 8.16-2.729 8.16-2.729s4.568 2.965 8.898 2.783c4.331-.162 8.047-2.783 8.047-2.783s5.017 3.164 8.753 2.675c3.76-.51 7.975-2.731 7.975-2.731s3.757 3.077 8.66 2.731c4.878-.384 8.041-2.782 8.041-2.782s4.233 3.184 8.736 2.836c4.473-.363 8.137-2.836 8.137-2.836s4.496 3.328 8.828 2.836c4.306-.51 7.997-2.729 7.997-2.729s5.16 3.402 9.704 2.621c4.594-.84 7.163-2.729 7.163-2.729s5.231 3.328 8.877 2.836c3.663-.51 7.996-2.785 7.996-2.785s3.354 2.895 8.661 2.731c5.307-.202 7.971-2.877 7.971-2.877s4.685 3.167 8.664 2.931c3.997-.256 8.209-2.674 8.209-2.674s2.948 2.418 8.256 2.566c5.305.107 8.592-2.823 8.592-2.823s3.781 2.985 8.611 2.675c4.832-.308 6.579-2.805 6.579-2.805v127.42l-259.73-6.023v-117.69z" fill="url(#ian_symbols_37938842c9cfa974e1df54e89c302f5e)"/>
+ <path stroke="#967D5F" stroke-width=".5" stroke-miterlimit="2" d="m94.865 82.569s25.349-5.986 38.327-13.301c6.291-3.545 56.833-31.824 39.271-33.085-4.488-.323-17.553.397-32.312-1.204-12.729-1.383-14.298-4.468-27.462-4.818 14.8-1.469 14.874 1.033 27.867.802 13.328-.235 27.318-3.825 38.773-4.013 22.623-.373 33.564 12.942 64.182-1.851 11.726-5.665 48.619 3.729 60.62-4.036 7.358-4.76 15.235 1.119 14.476-5.875s-30.9-3.615-33.9-4.105c-14.512-2.368-55.305-3.782-68.624-8.222-11.489-3.832-71.488-2.208-80.32-2.559l-134.31 44.369 63.524 28.915 29.881 8.983z" fill="#96AD85"/>
+ <linearGradient id="ian_symbols_c4a63d42b5ce3e4411175c63d35c4d90" y2="161.56" gradientUnits="userSpaceOnUse" x2="447.78" y1="56.434" x1="398.76">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path stroke="#0083B7" stroke-width=".5" stroke-miterlimit="2" d="m500.25 16.393c-3.935 2.54-10.12 2.093-10.12 2.093s-2.565 3.518-6.387 5.714c-3.855 2.188-9.387.937-9.387.937s-2.44 3.742-6.479 5.872c-4.069 2.124-9.301.899-9.301.899s-1.999 3.474-6.408 5.784c-4.447 2.284-9.188.968-9.188.968s-3.051 3.73-6.365 5.707c-3.3 1.949-9.254 1.057-9.254 1.057s-2.427 3.896-6.412 5.785c-3.974 1.904-9.428 1.016-9.428 1.016s-1.827 3.637-6.544 5.78c-4.72 2.144-9.054.794-9.054.794s-2.548 3.49-6.209 5.699c-3.655 2.16-9.654 1.168-9.654 1.168s-2.239 3.656-6.521 5.773c-4.269 2.086-8.92.915-8.92.915s-1.974 3.538-6.367 5.705c-4.42 2.152-7.953 2.147-9.171 2.171v127.36l151.16-79.198.01-112z" fill="url(#ian_symbols_c4a63d42b5ce3e4411175c63d35c4d90)"/>
+ <linearGradient id="ian_symbols_df4408c087dd1c5491ff8d59a82131e1" y2="120.54" gradientUnits="userSpaceOnUse" x2="414.93" y1="120.54" x1=".25">
+  <stop stop-color="#957A66" offset="0"/>
+  <stop stop-color="#A99176" offset=".1341"/>
+  <stop stop-color="#D3C49A" offset=".4547"/>
+  <stop stop-color="#EEE4B1" offset=".6972"/>
+  <stop stop-color="#F8F0B9" offset=".8315"/>
+  <stop stop-color="#F8F0B9" offset="1"/>
+ </linearGradient>
+ <path stroke="#967D5F" stroke-width=".5" stroke-miterlimit="2" d="m389.05 186.74s-39.968 20.852-39.97 20.855c.002-.004-348.83 0-348.83 0v-162.69s73.066 22.447 98.541 35.856c9.795 5.157 28.796 65.79 53.932 75.506 25.657 9.918 59.869 5.668 84.104 0 25.947-6.068 32.127-11.031 44.188-25.506 10.909-13.086 16.966-47.575 29.882-57.245 15.098-11.305 42.908-21.785 62.704-29.711 29.081-11.642 33.523-12.041 40.391-8.029 6.305 3.687-21.004 15.66-28.272 19.674-5.793 3.198-36.957 17.766-36.642 24.775.42 9.246 24.83 90.856 39.98 106.52z" fill="url(#ian_symbols_df4408c087dd1c5491ff8d59a82131e1)"/>
+ <path stroke="#967D5F" stroke-width=".5" d="m467.63 16.393c-5.533-1.009-14.75-4.31-23.047-2.69-5.149 1.002-8.381 8.229-12.388 10.646-2.539 1.534-4.4 2.934-4.55 3.803-.504 2.91 4.139 5.02 8.481 4.416 4.35-.602 34.92-15.554 31.51-16.175z" fill="#F8F0B9"/>
+ <ellipse cy="185.26" cx="326.22" rx=".676" ry=".67" fill="#231F20"/>
+ <circle cy="140.37" cx="329.91" r=".675" fill="#231F20"/>
+ <circle cy="92.189" cx="326.88" r=".675" fill="#231F20"/>
+ <circle cy="92.189" cx="342.03" r=".675" fill="#231F20"/>
+ <path d="m354.21 105.44c0 .369-.303.67-.678.67-.37 0-.673-.301-.673-.67 0-.371.303-.672.673-.672.38 0 .68.30.68.67z" fill="#231F20"/>
+ <circle cy="121.1" cx="347.48" r=".675" fill="#231F20"/>
+ <circle cy="183.72" cx="371.11" r=".676" fill="#231F20"/>
+ <circle cy="175.29" cx="352.33" r=".675" fill="#231F20"/>
+ <ellipse cy="161.44" cx="365.05" rx=".677" ry=".67" fill="#231F20"/>
+ <circle cy="147.59" cx="359.6" r=".676" fill="#231F20"/>
+ <circle cy="131.33" cx="359.6" r=".676" fill="#231F20"/>
+ <circle cy="145.79" cx="345.66" r=".676" fill="#231F20"/>
+ <circle cy="123.7" cx="321.23" r=".676" fill="#231F20"/>
+ <circle cy="91.587" cx="306.89" r=".676" fill="#231F20"/>
+ <circle cy="163.25" cx="334.76" r=".676" fill="#231F20"/>
+ <circle cy="120.49" cx="302.65" r=".676" fill="#231F20"/>
+ <path d="m260.51 178.3c0 .373-.303.674-.677.674-.371 0-.674-.301-.674-.674 0-.369.303-.67.674-.67.38.01.68.31.68.67z" fill="#231F20"/>
+ <circle cy="183.93" cx="242.87" r=".676" fill="#231F20"/>
+ <path d="m212.04 178.3c0 .373-.302.674-.676.674-.373 0-.676-.301-.676-.674 0-.369.303-.67.676-.67.38.01.68.31.68.67z" fill="#231F20"/>
+ <path d="m182.96 183.93c0 .371-.303.672-.678.672-.369 0-.674-.301-.674-.672s.305-.672.674-.672c.38-.01.68.30.68.67z" fill="#231F20"/>
+ <path d="m334.22 113.27c0 .371-.303.672-.679.672-.37 0-.673-.301-.673-.672s.303-.672.673-.672c.38 0 .68.30.68.67z" fill="#231F20"/>
+ <circle cy="200.79" cx="229.54" r=".676" fill="#231F20"/>
+ <circle cy="201.79" cx="315.37" r=".676" fill="#231F20"/>
+ <path d="m206.8 197.58c0 .371-.304.672-.678.672-.37 0-.674-.301-.674-.672s.304-.672.674-.672c.37-.01.68.30.68.67z" fill="#231F20"/>
+ <ellipse cy="196.51" cx="274.08" rx=".676" ry=".67" fill="#231F20"/>
+ <circle cy="140.37" cx="286.29" r=".676" fill="#231F20"/>
+ <path d="m250.46 200.63c0 .373-.305.674-.677.674s-.675-.301-.675-.674c0-.369.303-.67.675-.67s.68.30.68.67z" fill="#231F20"/>
+ <circle cy="198.38" cx="164.12" r=".676" fill="#231F20"/>
+ <ellipse cy="204" cx="183.5" rx=".676" ry=".67" fill="#231F20"/>
+ <circle cy="189.75" cx="296.59" r=".676" fill="#231F20"/>
+ <path d="m283.4 171.01c0 .369-.302.67-.677.67-.37 0-.675-.301-.675-.67 0-.371.305-.672.675-.672.38 0 .68.30.68.67z" fill="#231F20"/>
+ <circle cy="169.27" cx="300.22" r=".675" fill="#231F20"/>
+ <circle cy="160.52" cx="320.89" r=".676" fill="#231F20"/>
+ <circle cy="104.23" cx="311.74" r=".675" fill="#231F20"/>
+ <circle cy="147.31" cx="303.16" r=".676" fill="#231F20"/>
+ <path d="m265.36 155.82c0 .367-.302.67-.673.67-.374 0-.678-.303-.678-.67 0-.373.304-.674.678-.674.36 0 .67.30.67.67z" fill="#231F20"/>
+ <line y2="207.59" x1="349.08" x2="349.08" stroke="#967D5F" stroke-miterlimit="2" y1="80.226" stroke-width=".5" fill="none"/>
+ <path d="m326.75 69.305c10.5-4.817 6.205-13.785 19.589-18.468 9.507-3.327 13.251 3.711 20.983.689" stroke="#967D5F" stroke-linecap="round" stroke-miterlimit="2" stroke-width=".5" fill="#F8F0B9"/>
+ <path d="m367.64 53.647c10.5-4.818 6.206-13.785 19.589-18.469 9.508-3.326 13.251 3.713 20.983.689" stroke="#967D5F" stroke-linecap="round" stroke-miterlimit="2" stroke-width=".5" fill="#F8F0B9"/>
+ <path stroke="#967D5F" stroke-width=".5" stroke-miterlimit="2" d="m348.76 79.542c-14.336 0-22.228-11.216-35.744-7.527" fill="none"/>
+ <path stroke="#967D5F" stroke-width=".5" stroke-linecap="round" d="m435.75 21.028c-1.41 2.193-3.779 4.573-4.603 7.069" fill="#F8F0B9"/>
+</svg>

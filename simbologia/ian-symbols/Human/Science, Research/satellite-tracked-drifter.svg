@@ -1,0 +1,96 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="125" height="500" viewBox="0 0 125 500" xml:space="preserve">
+            <title>Satellite-tracked drifter</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Satellite-tracked drifter</ian_image_library:title>
+                <ian_image_library:descr>Illustration of satellite-tracked drifter, a remote sensing instrument.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>research, science, monitor, drifter, inertial oscillations, spatial, Gulf of Mexico, scientific, research, experimental, monitoring, test, equipment, satellite, parabolic, antenna, microwaves, communication, data, transmission, technology</ian_image_library:contains>
+                    <ian_image_library:when>2012-06-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d07dccab258e3dc46d19c78c606fcbd4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Satellite-tracked drifter</dc:title>
+                <dc:date>2012-06-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/satellite-tracked-drifter/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/satellite-tracked-drifter/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>research, science, monitor, drifter, inertial oscillations, spatial, Gulf of Mexico, scientific, research, experimental, monitoring, test, equipment, satellite, parabolic, antenna, microwaves, communication, data, transmission, technology</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of satellite-tracked drifter, a remote sensing instrument.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" x1="62.979" y1="116.437" x2="62.979" y2="204.175"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" d="M56.107,33.563c0,0-0.997-34.626,13.536-33.274
+	c14.541,1.393,11.117,34.654,11.117,34.654L56.107,33.563z"/>
+<path fill="#FFFFFF" stroke="#000000" stroke-width="0.5" d="M28.031,71.997c0,23.17,15.979,43.332,37.152,42.955
+	c22.101-0.394,41.157-19.785,41.157-42.955c0-23.169-17.528-41.953-39.155-41.953C45.561,30.044,28.031,48.828,28.031,71.997z"/>
+<path fill="#ED1C24" stroke="#000000" stroke-width="0.5" d="M34.1,49.554c10.959,1.041,62.96,5.565,69.478,6.936
+	c4.119,12.694,4.307,23.944-4.453,39.207c-8.777-0.838-56.353-4.511-67.983-6.389C26.071,76.121,27.634,59.121,34.1,49.554z"/>
+<polygon fill="#636466" stroke="#000000" stroke-width="0.5" points="63.271,131.642 48.467,110.66 80.188,111.599 "/>
+<path fill="#123256" d="M63.671,500.25c67.83,0,58.675-19.379,58.675-19.379s-54.907-26.303-1.851-49.834l2.771-15.686
+	c0,0-17.99-23.996,1.848-64.593l-6.461-11.077c0,0-50.753-22.609,2.768-47.984l1.846-11.07c0,0-16.921-19.842-0.311-70.133H3.006
+	c16.609,50.291-1.159,70.133-1.159,70.133l1.848,11.07c53.518,25.375,2.763,47.984,2.763,47.984L0,350.759
+	c19.838,40.597,1.848,64.593,1.848,64.593l2.769,15.686c53.063,23.531-1.848,49.834-1.848,49.834S-4.151,500.25,63.671,500.25z"/>
+<path stroke="#808285" stroke-width="0.5" d="M123.654,212.565c0,7.517-27.166,13.61-60.675,13.61
+	c-33.504,0-60.671-6.094-60.671-13.61c0-7.513,27.167-13.61,60.671-13.61C96.488,198.955,123.654,205.052,123.654,212.565z"/>
+<path fill="#BCBEC0" d="M122.19,287.081c-57.215,27.686-119.272-0.043-119.272-0.043l-0.543-3.252c0,0,63.15,27.685,120.365,0
+	L122.19,287.081z"/>
+<path d="M87.432,261.709c0,12.989-10.534,23.526-23.527,23.526c-12.996,0-23.53-10.537-23.53-23.526
+	c0-13.003,10.534-23.537,23.53-23.537C76.897,238.172,87.432,248.707,87.432,261.709z"/>
+<path d="M88.358,399.203c0,12.996-10.537,23.53-23.533,23.53c-12.99,0-23.53-10.534-23.53-23.53c0-12.995,10.54-23.527,23.53-23.527
+	C77.821,375.675,88.358,386.208,88.358,399.203z"/>
+<path fill="#BCBEC0" d="M121.012,343.725c-57.215,27.688-116.91,0-116.91,0l-1.832,2.934c0,0,63.027,27.326,120.242-0.361
+	L121.012,343.725z"/>
+<path fill="#BCBEC0" d="M121.963,422.733c-57.215,27.686-118.812,0-118.812,0l-0.441-2.498c0,0,62.48,27.686,119.694,0
+	L121.963,422.733z"/>
+</svg>

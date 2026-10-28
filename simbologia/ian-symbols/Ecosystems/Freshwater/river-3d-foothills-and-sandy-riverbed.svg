@@ -1,0 +1,214 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="338" viewBox="0 0 502 338" xml:space="preserve">
+            <title>River 3D: foothills and sandy riverbed</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>River 3D: foothills and sandy riverbed</ian_image_library:title>
+                <ian_image_library:descr>Illustration of river base with foothills and sandy riverbed</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater river, stream, tributary, foothills, floodplain, sandy riverbed, bottom, sediment, deposition</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-178b13f096a8a044ed59ec0d16dedc73">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>River 3D: foothills and sandy riverbed</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/river-3d-foothills-and-sandy-riverbed/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/river-3d-foothills-and-sandy-riverbed/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater river, stream, tributary, foothills, floodplain, sandy riverbed, bottom, sediment, deposition</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of river base with foothills and sandy riverbed</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_900a23097982e1a419876e8606f82893" height="72" viewBox="4.85 -75.617 72 72" width="72" patternUnits="userSpaceOnUse" y="620.131" x="-48.75" overflow="visible">
+   <polygon points="4.85 -3.617 4.85 -75.617 76.85 -75.617 76.85 -3.617" fill="none"/>
+   <polygon points="4.85 -3.617 4.85 -75.617 76.85 -75.617 76.85 -3.617" fill="#fff"/>
+   <line y2="-62.867" x1="10.6" x2="7.85" stroke="#000" y1="-64.867" stroke-width=".3" fill="none"/>
+   <line y2="-6.867" x1="9.1" x2="6.85" stroke="#000" y1="-8.617" stroke-width=".3" fill="none"/>
+   <line y2="-67.867" x1="78.1" x2="74.85" stroke="#000" y1="-68.617" stroke-width=".3" fill="none"/>
+   <line y2="-55.117" x1="76.85" x2="74.35" stroke="#000" y1="-56.867" stroke-width=".3" fill="none"/>
+   <line y2="-51.617" x1="79.6" x2="76.6" stroke="#000" y1="-51.617" stroke-width=".3" fill="none"/>
+   <line y2="-45.867" x1="76.35" x2="73.6" stroke="#000" y1="-44.117" stroke-width=".3" fill="none"/>
+   <line y2="-34.367" x1="78.6" x2="76.6" stroke="#000" y1="-35.867" stroke-width=".3" fill="none"/>
+   <line y2="-26.117" x1="76.1" x2="73.35" stroke="#000" y1="-23.867" stroke-width=".3" fill="none"/>
+   <line y2="-13.617" x1="78.1" x2="73.85" stroke="#000" y1="-12.867" stroke-width=".3" fill="none"/>
+   <line y2="-12.867" x1="68.35" x2="66.1" stroke="#000" y1="-14.617" stroke-width=".3" fill="none"/>
+   <line y2="-30.617" x1="76.6" x2="73.6" stroke="#000" y1="-30.617" stroke-width=".3" fill="none"/>
+   <line y2="-60.941" x1="62.85" x2="60.956" stroke="#000" y1="-58.117" stroke-width=".3" fill="none"/>
+   <line y2="-62.181" x1="32.85" x2="31.196" stroke="#000" y1="-59.617" stroke-width=".3" fill="none"/>
+   <line y2="-66.742" x1="47.891" x2="49.744" stroke="#000" y1="-64.061" stroke-width=".3" fill="none"/>
+   <line y2="-5.729" x1="72.814" x2="73.928" stroke="#000" y1="-2.769" stroke-width=".3" fill="none"/>
+   <line y2="-5.909" x1="67.976" x2="67.35" stroke="#000" y1="-2.633" stroke-width=".3" fill="none"/>
+   <line y2="-30.441" x1="61.85" x2="59.956" stroke="#000" y1="-27.617" stroke-width=".3" fill="none"/>
+   <line y2="-58.617" x1="53.504" x2="51.85" stroke="#000" y1="-56.053" stroke-width=".3" fill="none"/>
+   <line y2="-4.776" x1="52.762" x2="52.876" stroke="#000" y1="-1.779" stroke-width=".3" fill="none"/>
+   <line y2="-7.992" x1="45.391" x2="47.244" stroke="#000" y1="-5.311" stroke-width=".3" fill="none"/>
+   <line y2="-5.43" x1="37.062" x2="35.639" stroke="#000" y1="-3.375" stroke-width=".3" fill="none"/>
+   <line y2="-37.491" x1="55.165" x2="57.518" stroke="#000" y1="-34.828" stroke-width=".3" fill="none"/>
+   <line y2="-5.193" x1="20.795" x2="22.12" stroke="#000" y1="-3.242" stroke-width=".3" fill="none"/>
+   <line y2="-8.965" x1="14.097" x2="15.008" stroke="#000" y1="-4.747" stroke-width=".3" fill="none"/>
+   <line y2="-4.225" x1="9.736" x2="8.073" stroke="#000" y1="-1.91" stroke-width=".3" fill="none"/>
+   <line y2="-8.571" x1="31.891" x2="32.005" stroke="#000" y1="-5.573" stroke-width=".3" fill="none"/>
+   <line y2="-68.867" x1="12.1" x2="15.6" stroke="#000" y1="-70.367" stroke-width=".3" fill="none"/>
+   <line y2="-58.117" x1="9.35" x2="9.6" stroke="#000" y1="-54.867" stroke-width=".3" fill="none"/>
+   <line y2="-28.117" x1="12.85" x2="14.35" stroke="#000" y1="-31.867" stroke-width=".3" fill="none"/>
+   <line y2="-41.117" x1="10.1" x2="12.35" stroke="#000" y1="-37.367" stroke-width=".3" fill="none"/>
+   <line y2="-68.617" x1="34.1" x2="31.85" stroke="#000" y1="-71.117" stroke-width=".3" fill="none"/>
+   <line y2="-68.367" x1="38.35" x2="41.6" stroke="#000" y1="-71.117" stroke-width=".3" fill="none"/>
+   <line y2="-69.117" x1="55.1" x2="58.35" stroke="#000" y1="-71.117" stroke-width=".3" fill="none"/>
+   <line y2="-61.867" x1="57.35" x2="55.35" stroke="#000" y1="-65.117" stroke-width=".3" fill="none"/>
+   <line y2="-68.617" x1="64.35" x2="69.35" stroke="#000" y1="-66.367" stroke-width=".3" fill="none"/>
+   <line y2="-61.117" x1="71.85" x2="69.35" stroke="#000" y1="-62.867" stroke-width=".3" fill="none"/>
+   <line y2="-67.867" x1="23.6" x2="23.6" stroke="#000" y1="-70.867" stroke-width=".3" fill="none"/>
+   <line y2="-65.367" x1="20.6" x2="17.35" stroke="#000" y1="-65.867" stroke-width=".3" fill="none"/>
+   <line y2="-58.117" x1="24.85" x2="25.35" stroke="#000" y1="-61.367" stroke-width=".3" fill="none"/>
+   <line y2="-66.617" x1="25.85" x2="29.35" stroke="#000" y1="-65.867" stroke-width=".3" fill="none"/>
+   <line y2="-56.117" x1="14.1" x2="16.85" stroke="#000" y1="-54.117" stroke-width=".3" fill="none"/>
+   <line y2="-15.617" x1="12.35" x2="12.6" stroke="#000" y1="-11.617" stroke-width=".3" fill="none"/>
+   <line y2="-22.367" x1="12.1" x2="14.35" stroke="#000" y1="-19.867" stroke-width=".3" fill="none"/>
+   <line y2="-13.367" x1="26.1" x2="23.6" stroke="#000" y1="-9.867" stroke-width=".3" fill="none"/>
+   <line y2="-45.367" x1="34.6" x2="32.1" stroke="#000" y1="-47.117" stroke-width=".3" fill="none"/>
+   <line y2="-43.367" x1="62.6" x2="59.85" stroke="#000" y1="-41.867" stroke-width=".3" fill="none"/>
+   <line y2="-36.367" x1="31.6" x2="27.85" stroke="#000" y1="-35.617" stroke-width=".3" fill="none"/>
+   <line y2="-24.617" x1="36.35" x2="34.35" stroke="#000" y1="-26.117" stroke-width=".3" fill="none"/>
+   <line y2="-16.367" x1="33.85" x2="31.1" stroke="#000" y1="-14.117" stroke-width=".3" fill="none"/>
+   <line y2="-11.117" x1="37.1" x2="35.1" stroke="#000" y1="-9.867" stroke-width=".3" fill="none"/>
+   <line y2="-20.867" x1="34.35" x2="31.35" stroke="#000" y1="-20.867" stroke-width=".3" fill="none"/>
+   <line y2="-54.867" x1="44.6" x2="42.1" stroke="#000" y1="-56.617" stroke-width=".3" fill="none"/>
+   <line y2="-51.367" x1="47.35" x2="44.35" stroke="#000" y1="-51.367" stroke-width=".3" fill="none"/>
+   <line y2="-45.617" x1="44.1" x2="41.35" stroke="#000" y1="-43.867" stroke-width=".3" fill="none"/>
+   <line y2="-30.617" x1="43.35" x2="42.6" stroke="#000" y1="-33.117" stroke-width=".3" fill="none"/>
+   <line y2="-25.867" x1="43.85" x2="41.1" stroke="#000" y1="-23.617" stroke-width=".3" fill="none"/>
+   <line y2="-16.867" x1="44.35" x2="42.35" stroke="#000" y1="-15.617" stroke-width=".3" fill="none"/>
+   <line y2="-31.1" x1="67.823" x2="64.823" stroke="#000" y1="-31.1" stroke-width=".3" fill="none"/>
+   <line y2="-30.867" x1="27.1" x2="29.6" stroke="#000" y1="-32.617" stroke-width=".3" fill="none"/>
+   <line y2="-55.117" x1="31.85" x2="34.85" stroke="#000" y1="-55.117" stroke-width=".3" fill="none"/>
+   <line y2="-39.117" x1="19.6" x2="22.1" stroke="#000" y1="-40.867" stroke-width=".3" fill="none"/>
+   <line y2="-35.617" x1="16.85" x2="19.85" stroke="#000" y1="-35.617" stroke-width=".3" fill="none"/>
+   <line y2="-29.867" x1="20.1" x2="22.85" stroke="#000" y1="-28.117" stroke-width=".3" fill="none"/>
+   <line y2="-44.178" x1="52.1" x2="54.484" stroke="#000" y1="-42.617" stroke-width=".3" fill="none"/>
+   <line y2="-48.325" x1="52.437" x2="54.821" stroke="#000" y1="-50.146" stroke-width=".3" fill="none"/>
+   <line y2="-51.117" x1="59.572" x2="59.35" stroke="#000" y1="-54.133" stroke-width=".3" fill="none"/>
+   <line y2="-9.928" x1="50.185" x2="53.234" stroke="#000" y1="-10.055" stroke-width=".3" fill="none"/>
+   <line y2="-14.075" x1="51.187" x2="53.571" stroke="#000" y1="-15.896" stroke-width=".3" fill="none"/>
+   <line y2="-16.823" x1="58.322" x2="59.445" stroke="#000" y1="-19.883" stroke-width=".3" fill="none"/>
+   <line y2="-30.367" x1="53.1" x2="50.6" stroke="#000" y1="-32.117" stroke-width=".3" fill="none"/>
+   <line y2="-25.617" x1="52.85" x2="49.6" stroke="#000" y1="-24.617" stroke-width=".3" fill="none"/>
+   <line y2="-10.867" x1="61.85" x2="59.1" stroke="#000" y1="-9.117" stroke-width=".3" fill="none"/>
+   <line y2="-36.367" x1="69.35" x2="66.6" stroke="#000" y1="-34.617" stroke-width=".3" fill="none"/>
+   <line y2="-22.117" x1="67.1" x2="65.1" stroke="#000" y1="-23.617" stroke-width=".3" fill="none"/>
+   <line y2="-45.928" x1="24.435" x2="27.484" stroke="#000" y1="-46.055" stroke-width=".3" fill="none"/>
+   <line y2="-50.075" x1="25.437" x2="27.821" stroke="#000" y1="-51.896" stroke-width=".3" fill="none"/>
+   <line y2="-46.575" x1="62.6" x2="65.321" stroke="#000" y1="-47.117" stroke-width=".3" fill="none"/>
+   <line y2="-16.617" x1="19.85" x2="20.35" stroke="#000" y1="-19.867" stroke-width=".3" fill="none"/>
+   <line y2="-22.617" x1="21.85" x2="25.35" stroke="#000" y1="-21.867" stroke-width=".3" fill="none"/>
+   <line y2="-62.117" x1="37.6" x2="41.6" stroke="#000" y1="-62.867" stroke-width=".3" fill="none"/>
+   <line y2="-38.6" x1="38.323" x2="38.823" stroke="#000" y1="-42.1" stroke-width=".3" fill="none"/>
+   <line y2="-53.867" x1="69.35" x2="66.85" stroke="#000" y1="-52.617" stroke-width=".3" fill="none"/>
+   <line y2="-59.367" x1="14.85" x2="18.1" stroke="#000" y1="-62.117" stroke-width=".3" fill="none"/>
+   <line y2="-44.367" x1="9.6" x2="7.1" stroke="#000" y1="-46.117" stroke-width=".3" fill="none"/>
+   <line y2="-50.117" x1="20.6" x2="18.6" stroke="#000" y1="-51.617" stroke-width=".3" fill="none"/>
+   <line y2="-73.492" x1="46.141" x2="47.994" stroke="#000" y1="-70.811" stroke-width=".3" fill="none"/>
+   <line y2="-43.242" x1="69.391" x2="71.244" stroke="#000" y1="-40.561" stroke-width=".3" fill="none"/>
+   <line y2="-52.117" x1="38.641" x2="39.35" stroke="#000" y1="-49.311" stroke-width=".3" fill="none"/>
+   <line y2="-19.617" x1="25.141" x2="25.85" stroke="#000" y1="-16.811" stroke-width=".3" fill="none"/>
+   <line y2="-31.367" x1="36.6" x2="34.6" stroke="#000" y1="-32.867" stroke-width=".3" fill="none"/>
+   <line y2="-67.867" x1="6.1" x2="2.85" stroke="#000" y1="-68.617" stroke-width=".3" fill="none"/>
+   <line y2="-55.117" x1="4.85" x2="2.35" stroke="#000" y1="-56.867" stroke-width=".3" fill="none"/>
+   <line y2="-51.617" x1="7.6" x2="4.6" stroke="#000" y1="-51.617" stroke-width=".3" fill="none"/>
+   <line y2="-34.367" x1="6.6" x2="4.6" stroke="#000" y1="-35.867" stroke-width=".3" fill="none"/>
+   <line y2="-13.617" x1="6.1" x2="1.85" stroke="#000" y1="-12.867" stroke-width=".3" fill="none"/>
+   <line y2="-30.617" x1="4.6" x2="1.6" stroke="#000" y1="-30.617" stroke-width=".3" fill="none"/>
+   <line y2="-77.729" x1="72.814" x2="73.928" stroke="#000" y1="-74.769" stroke-width=".3" fill="none"/>
+   <line y2="-77.909" x1="67.976" x2="67.35" stroke="#000" y1="-74.633" stroke-width=".3" fill="none"/>
+   <line y2="-76.776" x1="52.762" x2="52.876" stroke="#000" y1="-73.779" stroke-width=".3" fill="none"/>
+   <line y2="-77.43" x1="37.062" x2="35.639" stroke="#000" y1="-75.375" stroke-width=".3" fill="none"/>
+   <line y2="-77.193" x1="20.795" x2="22.12" stroke="#000" y1="-75.242" stroke-width=".3" fill="none"/>
+   <line y2="-76.225" x1="9.736" x2="8.073" stroke="#000" y1="-73.91" stroke-width=".3" fill="none"/>
+   <line y2="-24.367" x1="10.1" x2="6.35" stroke="#000" y1="-23.617" stroke-width=".3" fill="none"/>
+   <line y2="-21.1" x1="73.217" x2="71.323" stroke="#000" y1="-18.276" stroke-width=".3" fill="none"/>
+   <line y2="-42.389" x1="28.823" x2="29.505" stroke="#000" y1="-39.6" stroke-width=".3" fill="none"/>
+   <line y2="-37.117" x1="49.6" x2="47.6" stroke="#000" y1="-38.617" stroke-width=".3" fill="none"/>
+   <line y2="-76.6" x1="60.323" x2="62.323" stroke="#000" y1="-73.6" stroke-width=".3" fill="none"/>
+   <line y2="-4.6" x1="60.323" x2="62.323" stroke="#000" y1="-1.6" stroke-width=".3" fill="none"/>
+  </pattern>
+ </defs>
+ <path d="m141.14 51.571s-12.03 10.333-18.203 18.263c-6.171 7.931-48.478 68.063-48.478 68.063s-27.663 40.889-42.35 68.786c-11.615 22.067 28.204 32.626 28.204 32.626s74.715-8.608 82.032-11.635c27.345-11.289 214.51-15.439 214.51-15.439l-44.31-155.33-171.41-5.339z" fill="#A99264"/>
+ <linearGradient id="ian_symbols_2d55cc88d8b6ab0451eba49b897bde94" y2="307.62" gradientUnits="userSpaceOnUse" x2="207.98" y1="-11.986" x1="293.62">
+  <stop stop-color="#F8F0B9" offset=".3315"/>
+  <stop stop-color="#D8E19A" offset=".8146"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m500.25 52.517s-70.899-2.787-88.019-5.957c-17.118-3.17-51.989-47.551-77.351-46.283-25.36 1.268-34.236 22.825-57.061 25.361s-3.17-22.824-38.675-20.923c-35.505 1.902-76.717 24.093-76.717 24.093l-28.471 15.271-18.771 9.471-53.497 74.412s-48.626 80.872-61.439 119.23c48.396.685 6.208 11.383 25.972 10.66 26.877-.986 21.078-7.404 41.619-7.653 28.908-.346 138.57 4.335 141.4 4.083 19.649-1.754 67.836 4.368 122.79 0 11.887-.95 83.286.292 96.653 0l71.57-201.76z" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_2d55cc88d8b6ab0451eba49b897bde94)"/>
+ <path stroke="#967D5F" stroke-width=".5" d="m232.36 124.27c19.365-6.132 43.037-9.292 49.255-12.978 10.689-6.331-41.364-5.979-57.507-13.537-6.454-3.021-11.834-16.405-5.706-19.184 7.638-3.457 24.136-5.219 34.593-7.703 20.353-6.127 56.637-9.564 81.631-9.892 21.224-.272 54.138-11.685 57.965-10.763 1.297.312-41.719 13.854-57.408 15.503-10.446 1.095-19.938 2.348-27.656 4.136-5.35 1.238-51.762 12.081-48.285 19.853 6.308 11.506 49.126 1.81 63.805 21.405 9.4 12.548-69.694 20.039-80.293 26.943-16.069 10.472 120.11 18.996 147.19 27.629 18.055 5.751 28.563 20.021 19.243 32.548-2.783 3.74-10.106 12.948-37.193 24.167-6.928 2.873-18.483 11.318-25.505 12.576-7.464 1.342-77.77 14.134-116.79 19.312-15.307 2.029-21.864 0-21.864 0 8.118-2.215 29.541-25.264 58.365-32.279 12.361-3.009 26.034-6.295 33.939-13.19 11.894-10.357 66.275-22.418 23.88-32.775-36.852-9.005-106.76-15.949-120.63-28.57l-1.58-2.164c-3.85-4.45 21.91-19.86 30.57-21.04z" fill="#A4A96B"/>
+ <path stroke-linejoin="round" d="m155.03 49.708c11.273-2.16 11.085-5.181 20.15-6.623 1.292-.203 4.789-.153 5.978-.104 9.516.361 11.306 8.541 14.873 9.16" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m170.43 61.691c11.271-2.155 11.672-7.955 20.739-9.397 1.296-.203 4.788-.153 5.979-.109 9.514.367 11.57 8.664 15.14 9.277" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m213.58 37.658c16.064-3.076 15.794-7.381 28.71-9.437 1.843-.287 6.825-.218 8.52-.143 13.557.515 16.292 12.185 21.376 13.066" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m235.51 54.731c16.062-3.07 16.632-11.333 29.549-13.388 1.848-.287 6.821-.218 8.521-.154 13.552.52 16.483 12.343 21.571 13.215" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m361.99 70.453c14.092-2.699 13.856-6.479 25.186-8.276 1.619-.258 5.988-.193 7.474-.134 11.896.456 14.165 10.672 18.625 11.45" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m381.23 85.432c14.09-2.695 14.593-9.946 25.925-11.75 1.62-.252 5.984-.188 7.476-.133 11.89.456 14.461 10.828 18.924 11.596" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m348.79 103.73c20.079-3.849 19.741-9.228 35.884-11.794 2.304-.361 8.531-.272 10.649-.183 16.945.644 20.157 15.242 26.514 16.341" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <path stroke-linejoin="round" d="m376.2 125.07c20.078-3.839 20.791-14.167 36.939-16.732 2.308-.361 8.524-.272 10.646-.193 16.942.649 20.604 15.429 26.963 16.524" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="none"/>
+ <linearGradient id="ian_symbols_c816438f236a6e84c9c5bac1137773b0" y2="50.606" gradientUnits="userSpaceOnUse" x2="307.05" y1="336.01" x1="307.05">
+  <stop stop-color="#69C7EC" offset="0"/>
+  <stop stop-color="#79CDED" offset=".0942"/>
+  <stop stop-color="#A3DCF0" offset=".3753"/>
+  <stop stop-color="#C1E7F2" offset=".6299"/>
+  <stop stop-color="#D3EEF4" offset=".8466"/>
+  <stop stop-color="#DAF0F4" offset="1"/>
+ </linearGradient>
+ <path stroke="#66B3E3" stroke-width=".5" d="m195.38 336.01s-28.986-71.497 11.943-81.726h.983c21.659-4.361 35.439-23.862 59.651-29.44 12.47-2.873 26.034-6.296 33.939-13.186 11.896-10.362 66.277-22.418 23.883-32.781-36.853-9-103.31-16.475-122.4-31.408-4.531-3.763 22.087-19.189 30.735-20.363 19.366-6.132 43.041-9.292 49.258-12.978 10.691-6.331-39.054-7.341-55.192-14.895-6.454-3.022-9.01-11.417-2.878-14.196 33.586-15.221 77.658-20.08 113.39-22.175 21.576-1.273 41.319-10.51 53.712-12.26-16.912 5.978-38.185 14.439-53.451 16.742-11.371 1.719-21.674 3.497-29.669 5.344-5.354 1.239-51.761 12.081-48.289 19.858 6.311 11.501 48.314 1.06 62.703 20.878 5.563 7.658-68.588 20.561-79.187 27.466-16.069 10.476 120.1 18.996 147.19 27.625 18.055 5.76 28.567 20.026 19.243 32.553-2.779 3.745-14.986 12.898-18.765 25.881-3.783 12.982 36.505 27.335 36.505 27.335v81.726h-233.28z" fill="url(#ian_symbols_c816438f236a6e84c9c5bac1137773b0)"/>
+ <path stroke="#967D5F" stroke-width=".5" d="m362.82 282.51c-8.196 1.159-18.224 4.889-30.344 8.029-23.518 6.097-12.402 27.98-63.271 30.27-26.054 1.168-51.442-1.604-69.109 1.688-17.666 3.292-14.176 13.513-14.176 13.513h242.77s3.727-11.374.414-15.313c-1.54-1.83-8.458 1.801-11.008 1.958-8.033.496-2.693-8.612-9.181-18.979-6.103-9.765-5.032-20.066-13.896-23.445-14.89-5.69-13.03-.43-32.19 2.27z" fill="url(#ian_symbols_900a23097982e1a419876e8606f82893)"/>
+ <path stroke-linejoin="round" d="m110.11 243.48c19.536 9.188 70.235 8.021 97.211 10.812-40.93 10.229-11.943 81.726-11.943 81.726h-195.13v-88.815s90.325-12.91 109.86-3.72z" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" fill="#F8F0B9"/>
+ <polygon stroke-linejoin="round" fill="#F8F0B9" stroke="#967D5F" stroke-linecap="round" stroke-width=".5" points="500.25 52.517 500.25 116.35 428.68 336.01 428.68 254.29"/>
+ <path stroke="#66B3E3" stroke-width=".5" d="m207.52 254.56c1.367.904 3.235 1.809 5.248 1.809 4.024 0 7.313-3.616 7.313-3.616s1.146 2.709 6.9 3.616c5.752.905 8.054-3.616 8.054-3.616s1.889 2.709 5.917 3.616c4.026.905 6.901-3.616 6.901-3.616s1.724 3.616 6.174 3.616c4.446 0 7.628-3.616 7.628-3.616s1.729 4.521 5.752 3.616c4.027-.907 7.478-3.616 7.478-3.616s2.302 4.521 6.326 3.616c4.027-.907 7.479-3.616 7.479-3.616s2.3 4.521 7.479 3.616c5.176-.907 6.323-3.616 6.323-3.616s2.303 4.521 8.054 3.616c5.752-.907 8.628-3.616 8.628-3.616s2.301 4.521 6.328 3.616c4.025-.907 6.9-3.616 6.9-3.616s2.301 3.616 6.9 3.616c4.601 0 7.478-3.616 7.478-3.616s2.303 5.424 8.627 3.616c6.327-1.809 8.053-3.616 8.053-3.616s2.875 3.616 6.902 3.616c4.025 0 8.053-3.616 8.053-3.616s4.023 4.521 8.627 3.616c4.602-.907 8.626-3.616 8.626-3.616s2.876 3.616 8.053 3.616c5.179 0 7.48-3.616 7.48-3.616s4.023 3.616 9.201 3.616c5.176 0 7.849-1.809 7.849-1.809" fill="none"/>
+</svg>

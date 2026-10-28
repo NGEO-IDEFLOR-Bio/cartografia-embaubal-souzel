@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="347" viewBox="0 0 501 347" xml:space="preserve">
+            <title>Inputs: iron stained water</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Inputs: iron stained water</ian_image_library:title>
+                <ian_image_library:descr>Illustration of iron input via water</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>inputs, flows, iron, stained, water</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a14d977b665689e44d3ba6fe165c0172">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Inputs: iron stained water</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/inputs-iron-stained-water/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/inputs-iron-stained-water/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>inputs, flows, iron, stained, water</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of iron input via water</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path d="M437.86,237.337c21.927-17.2,24.432-20.712,51.317-40.733l-29.603,134.104c-52.171,5.23-83.365,13.634-146.125,16.095
+	c22.106-23.235,31.269-29.476,49.465-48.637C330.522,192.401,73.073,46.765,0,15.167C133.021,8.228,398.312,130.087,437.86,237.337z
+	"/>
+<path fill="#F29126" stroke="#000000" stroke-width="5" d="M443.946,224.943c22.652-17.772,25.136-21.263,51.82-40.701
+	l-30.07,134.04c-52.011,4.68-83.206,13.125-145.954,15.545c22.42-22.632,31.587-28.882,49.465-48.639
+	C336.634,180.03,79.397,33.821,6.611,2.785C139.632-4.175,404.327,117.694,443.946,224.943z"/>
+</svg>

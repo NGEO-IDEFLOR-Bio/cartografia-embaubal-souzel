@@ -1,0 +1,103 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="428" viewBox="0 0 502 428" xml:space="preserve">
+            <title>Water: drainage 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water: drainage 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a second type of drainage pipe, partially underground</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, drainage, pipe, stormwater, drain, 2</ian_image_library:contains>
+                    <ian_image_library:when>2003-06-12</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-59f07b753dc884e49527adfd9cb99fec">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water: drainage 2</dc:title>
+                <dc:date>2003-06-12</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-drainage-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-drainage-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, drainage, pipe, stormwater, drain, 2</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a second type of drainage pipe, partially underground</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#000" stroke-width="1.1599" stroke-dasharray="5.3712,5.3712" points="3.348 193.23 .999 53.775 64.811 96.66 64.049 232.24 3.348 193.23" fill="none"/>
+ <polygon stroke="#000" stroke-width="1.1599" stroke-dasharray="5.3712,5.3712" points="174.04 174.31 171.72 30.616 64.811 93.978 64.049 234.56 174.04 174.31" fill="none"/>
+ <polygon points="1.106 56.263 96.625 .646 172.18 32.322 65.315 98 1.106 56.263" fill="#939598"/>
+ <polygon stroke="#000" stroke-width="1.1599" points="1.106 56.263 96.625 .646 172.18 32.322 65.315 98 1.106 56.263" fill="none"/>
+ <path stroke="#000" stroke-width="1.1599" stroke-dasharray="5.3712,5.3712" d="m358.85 227.98c-27.021-11.199-176.97-86.124-211.81-100.42-33.666-24.328-70.087 17.001-51.284 62.182 44.639 28.575 189.09 110.87 250.57 143.7 8.6-30.12 17.23-71.46 12.52-105.46z" fill="none"/>
+ <linearGradient id="ian_symbols_11eb82751677fc14c9e80f09c0b559b6" y2="758.67" gradientUnits="userSpaceOnUse" x2="198.98" gradientTransform="matrix(-1.0123 0 0 -.9992 522.99 1053.5)" y1="758.67" x1="27.576">
+  <stop stop-color="#E6E7E8" offset="0"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <polygon points="325.95 254.64 498.99 169.29 498.99 340 326.35 421.52 325.95 254.64" fill="url(#ian_symbols_11eb82751677fc14c9e80f09c0b559b6)"/>
+ <polygon stroke="#000" stroke-width="1.1599" points="325.95 254.64 498.99 169.29 498.99 340 326.35 421.52 325.95 254.64" fill="none"/>
+ <path stroke="#fff" stroke-width="1.9332" d="m26.549 54.343l39.913 23.953" fill="none"/>
+ <path stroke="#fff" stroke-width="1.9332" d="m48.088 41.214l39.549 24.338" fill="none"/>
+ <path stroke="#fff" stroke-width="1.9332" d="m69.219 28.063l39.538 24.36" fill="none"/>
+ <path stroke="#fff" stroke-width="1.9332" d="m93.097 14.934l39.549 24.338" fill="none"/>
+ <polygon points="298.93 241.91 467.67 157.3 496.26 169.29 322.42 254.64 298.93 241.91" fill="#D1D3D4"/>
+ <polygon stroke="#000" stroke-width="1.1599" points="298.93 241.91 467.67 157.3 496.26 169.29 322.42 254.64 298.93 241.91" fill="none"/>
+ <polygon points="298.16 414.55 327.11 422.67 326.35 254.64 298.54 243.06 298.16 414.55" fill="#808285"/>
+ <polygon stroke="#000" stroke-width="1.1599" points="298.16 414.55 327.11 422.67 326.35 254.64 298.54 243.06 298.16 414.55" fill="none"/>
+ <path d="m420.7 245.37c23.866 0 43.056 22.418 43.056 50.211 0 27.428-19.189 50.222-43.056 50.222-23.502 0-42.671-22.794-42.671-50.222-.01-27.79 19.16-50.21 42.67-50.21z" fill="#6D6E71"/>
+ <linearGradient id="ian_symbols_4fedc401db5acb44f9701084caf6211d" y2="797.3" gradientUnits="userSpaceOnUse" x2="173.88" gradientTransform="matrix(-.5806 .8185 -.8292 -.5731 1126.9 758.67)" y1="797.3" x1="-59.894">
+  <stop stop-color="#B99B79" offset="0"/>
+  <stop stop-color="#8F704C" offset="1"/>
+ </linearGradient>
+ <path d="m396.81 255.03c6.271 2.714 18.793 17.774 34.047 26.666 12.946 14.663 25.057 30.109 39.945 53.279 1.18 1.941 17.216 16.251 25.057 56.786 25.454 16.991-50.897 44.043-69.679 32.834-4.698-5.009-19.974-86.134-42.284-102.75-7.83-13.9-12.54-52.91 12.91-66.82z" fill="url(#ian_symbols_4fedc401db5acb44f9701084caf6211d)"/>
+ <linearGradient id="ian_symbols_814306f91113d3041519f7ac9e4b6b3a" y2="750.75" gradientUnits="userSpaceOnUse" x2="119.9" gradientTransform="matrix(-.9969 .1735 -.1758 -.984 647.63 1050.4)" y1="750.75" x1="28.154">
+  <stop stop-color="#E4D3C0" offset="0"/>
+  <stop stop-color="#BFA07D" offset="1"/>
+ </linearGradient>
+ <path d="m465.7 318.36c10.576 12.775 17.634 27.824 15.655 64.134-25.846-23.18-13.302-22.021-41.089-62.943-14.866-20.08-21.56-22.021-29.755-54.48 20.74 11.98 42.27 37.09 55.18 53.29z" fill="url(#ian_symbols_814306f91113d3041519f7ac9e4b6b3a)"/>
+</svg>

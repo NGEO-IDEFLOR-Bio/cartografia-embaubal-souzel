@@ -1,0 +1,102 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="417" height="501" viewBox="0 0 417 501" xml:space="preserve">
+            <title>Manufacturing factory building</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Manufacturing factory building</ian_image_library:title>
+                <ian_image_library:descr>Illustration of manufacturing factory building</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, industry, manufacturing, production, factory, building</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-4af9689b0276cc74a55f8b3dda15b47f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Manufacturing factory building</dc:title>
+                <dc:date>2005-02-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/manufacturing-factory-building/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/manufacturing-factory-building/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, industry, manufacturing, production, factory, building</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of manufacturing factory building</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_5a60031c850f3084912931b30614c84c" y2="35.015" gradientUnits="userSpaceOnUse" x2="293.79" y1="262.32" x1="66.477">
+  <stop stop-color="#E4E0E3" offset=".0056"/>
+  <stop stop-color="#E4E0E3" offset=".4775"/>
+  <stop stop-color="#BFBBB4" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_5a60031c850f3084912931b30614c84c)" stroke="#28666E" stroke-linecap="round" stroke-width=".1" points="388.19 129.42 164.43 .05 .05 90.993 .05 195.9 230.85 335.7 230.85 234.34"/>
+ <polyline stroke-linejoin="round" stroke="#28666E" stroke-width=".1" points="230.85 234.34 388.19 129.42 388.19 234.34 230.85 335.7 230.85 234.34" fill="#AAA89B"/>
+ <polygon stroke-linejoin="round" stroke="#28666E" stroke-width=".1" points="39.744 94.083 159.78 23.977 345.94 131.59 228.56 207.12" fill="#00677A"/>
+ <line stroke-linejoin="round" x1=".05" y2="234.34" x2="230.85" stroke="#28666E" y1="90.993" stroke-width=".1" fill="none"/>
+ <polygon stroke-linejoin="round" fill="#E4E0E3" stroke="#28666E" stroke-linecap="round" stroke-width=".1" points="69.993 419.66 69.993 269.32 213.37 346.23 213.37 500.05"/>
+ <linearGradient id="ian_symbols_cbefd1c5cfbfdf24b1d8a723374c99f8" y2="363.68" gradientUnits="userSpaceOnUse" x2="213.37" y1="363.68" x1="416.16">
+  <stop stop-color="#AAA89B" offset=".0056"/>
+  <stop stop-color="#BFBBB4" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" stroke="#28666E" stroke-width=".1" points="416.16 377.73 416.16 227.31 213.37 346.23 213.37 500.05" fill="url(#ian_symbols_cbefd1c5cfbfdf24b1d8a723374c99f8)"/>
+ <linearGradient id="ian_symbols_8a86bd970226e6148dfa44e8f6455642" y2="151.21" gradientUnits="userSpaceOnUse" x2="340.06" y1="345.33" x1="145.94">
+  <stop stop-color="#E4E0E3" offset=".0056"/>
+  <stop stop-color="#AAA89B" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m267.57 153.87l-188.22 109.65s-9.711 4.722-9.363 5.799c.354 1.001 8.977 4.798 8.977 4.798s132.27 72.108 134.4 72.108c2.122 0 3.177-1.851 3.177-1.851l199.61-117.07-148.58-73.44z" stroke="#28666E" stroke-linecap="round" stroke-width=".1" fill="url(#ian_symbols_8a86bd970226e6148dfa44e8f6455642)"/>
+ <path stroke-linejoin="round" stroke="#28666E" stroke-width=".1" d="m268 167.17l-166.09 96.122s-8.161 3.938-7.889 4.875c.315.838 7.541 4.026 7.541 4.026s111.15 60.585 112.93 60.585c1.779 0 2.666-1.566 2.666-1.566l175.68-102.28-124.84-61.76z" fill="#00677A"/>
+ <polygon stroke-linejoin="round" fill="#E4E0E3" stroke="#28666E" stroke-linecap="round" stroke-width=".1" points="199.37 152.19 199.37 225.6 288.53 276.28 288.53 197.59"/>
+ <polygon stroke-linejoin="round" stroke="#28666E" stroke-width=".1" points="349.74 167.9 349.74 241.31 288.53 276.28 288.53 197.59" fill="#AAA89B"/>
+ <linearGradient id="ian_symbols_1f1d896fec1b2244b93428a96ac0ac6f" y2="126.38" gradientUnits="userSpaceOnUse" x2="308.21" y1="193.71" x1="240.89">
+  <stop stop-color="#E4E0E3" offset=".0056"/>
+  <stop stop-color="#AAA89B" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_1f1d896fec1b2244b93428a96ac0ac6f)" stroke="#28666E" stroke-linecap="round" stroke-width=".1" points="349.74 167.9 288.53 197.59 199.37 152.19 261.07 126.1"/>
+ <polygon stroke-linejoin="round" stroke="#28666E" stroke-width=".1" points="333.92 168.2 288.96 189.87 218.4 154.04 262.23 134.61" fill="#00677A"/>
+</svg>

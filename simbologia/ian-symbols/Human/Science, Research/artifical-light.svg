@@ -1,0 +1,115 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="294" height="500" viewBox="0 0 294 500" xml:space="preserve">
+            <title>Artifical light</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Artifical light</ian_image_library:title>
+                <ian_image_library:descr>Illustration of artificial light</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, artifical, light, manipulation, color, spectrum</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-cd0e5f60d96c09247d4dce0fbe01de10">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Artifical light</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/artifical-light/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/artifical-light/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, artifical, light, manipulation, color, spectrum</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of artificial light</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m205.65 24.301c-4.01-8.985-28.019-14.123-28.019-14.123s2.005-1.051-3.999-4.91c-6-3.848-8.01-5.268-22.01-5.268-14.015 0-18.024 1.42-24.019 5.268-6.016 3.859-2.016 4.91-2.016 4.91s-26.024 3.848-34.023 12.833c-8.008 8.975 118.09 10.264 114.09 1.29z" fill="#231F20"/>
+ <linearGradient id="ian_symbols_4370c82d819e0ff465a50c53495a2dff" y2="447.96" gradientUnits="userSpaceOnUse" x2="-419.32" gradientTransform="matrix(-1 0 0 -1 -270.91 487.05)" y1="475.25" x1="-419.32">
+  <stop stop-color="#fff" offset=".1966"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <path d="m204.45 39.096s9.148-6.287 1.832-14.698c-7.338-8.411-38.457-12.595-58.596-12.595-20.117 0-49.404 8.389-56.73 12.595-7.327 4.206 0 14.698 0 14.698h113.5z" fill="url(#ian_symbols_4370c82d819e0ff465a50c53495a2dff)"/>
+ <path d="m201.68 51.182s10.297-6.309 2.06-14.708c-8.238-8.4-30.892-12.606-53.534-12.606-22.653 0-46.477 6.59-53.544 12.606-12.346 10.514 0 14.708 0 14.708h105.01z" fill="#231F20"/>
+ <linearGradient id="ian_symbols_6ab52101c604f0c46d9646ab5e98e8e1" y2="432.75" gradientUnits="userSpaceOnUse" x2="-418.23" gradientTransform="matrix(-1 0 0 -1 -270.91 487.05)" y1="460.07" x1="-418.23">
+  <stop stop-color="#fff" offset=".1966"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <path d="m203.35 54.303s9.159-6.297 1.832-14.708c-7.316-8.411-38.435-12.606-58.573-12.606-20.128 0-49.426 8.4-56.742 12.606-7.338 4.206 0 14.708 0 14.708h113.48z" fill="url(#ian_symbols_6ab52101c604f0c46d9646ab5e98e8e1)"/>
+ <path d="m203.9 67.993s10.807-6.308 2.168-14.698c-8.66-8.422-32.44-12.605-56.232-12.605-23.802 0-48.808 6.59-56.232 12.605-12.974 10.503 0 14.698 0 14.698h110.29z" fill="#231F20"/>
+ <linearGradient id="ian_symbols_fb3aa7205d4f31e46dff87efddcc4a47" y2="415.94" gradientUnits="userSpaceOnUse" x2="-419.32" gradientTransform="matrix(-1 0 0 -1 -270.91 487.05)" y1="443.27" x1="-419.32">
+  <stop stop-color="#fff" offset=".1966"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <path d="m204.45 71.114s9.148-6.33 1.832-14.708c-7.338-8.411-38.457-12.617-58.596-12.617-20.117 0-49.404 8.4-56.73 12.617-7.327 4.195 0 14.708 0 14.708h113.5z" fill="url(#ian_symbols_fb3aa7205d4f31e46dff87efddcc4a47)"/>
+ <path d="m203.9 86.917s10.807-6.308 2.168-14.719c-8.66-8.4-32.44-12.606-56.232-12.606-23.802 0-48.808 6.612-56.232 12.606-12.974 10.514 0 14.719 0 14.719h110.29z" fill="#231F20"/>
+ <linearGradient id="ian_symbols_0b3baf18fa6ec2a4a528bda7a0066f0b" y2="397.03" gradientUnits="userSpaceOnUse" x2="-419.32" gradientTransform="matrix(-1 0 0 -1 -270.91 487.05)" y1="424.34" x1="-419.32">
+  <stop stop-color="#fff" offset=".1966"/>
+  <stop stop-color="#000" offset="1"/>
+ </linearGradient>
+ <path d="m204.45 90.028s9.148-6.309 1.832-14.698c-7.338-8.422-38.457-12.617-58.596-12.617-20.117 0-49.404 8.411-56.73 12.617-7.327 4.184 0 14.698 0 14.698h113.5z" fill="url(#ian_symbols_0b3baf18fa6ec2a4a528bda7a0066f0b)"/>
+ <linearGradient id="ian_symbols_c99f664274f236f4999c3214a01f323a" y2="289.34" gradientUnits="userSpaceOnUse" x2="293.56" y1="289.34" x1="2.7661">
+  <stop stop-color="#943895" offset=".0843"/>
+  <stop stop-color="#4A58AA" offset=".1428"/>
+  <stop stop-color="#156FBA" offset=".1904"/>
+  <stop stop-color="#0078C0" offset=".2135"/>
+  <stop stop-color="#00A6E9" offset=".339"/>
+  <stop stop-color="#41AD49" offset=".4888"/>
+  <stop stop-color="#fd0" offset=".6404"/>
+  <stop stop-color="#F99D1C" offset=".809"/>
+  <stop stop-color="#D2232A" offset=".9719"/>
+ </linearGradient>
+ <path d="m250.97 457.38c27.499-27.455 42.598-63.961 42.598-102.79l-.618-13.375c-1.821-19.987-7.674-39.042-17.331-56.623-.108-.976-54.759-98.971-54.759-160.2l-1.843-18.123c-2.98-12.085-9.158-18.231-18.35-18.231 0 0-17.972-9.939-51.626-9.343-33.655.596-53.36 9.343-53.36 9.343-9.235 0-15.402 6.146-18.339 18.231l-1.864 18.123c0 61.229-54.639 159.22-55.203 160.2-9.235 17.581-15.055 36.635-16.876 56.623l-.629 13.375c0 38.836 15.11 75.331 42.554 102.79 17.212 17.212 38.576 29.915 61.782 36.732 13.267 3.902 27.076 5.886 41.047 5.886 38.86-.01 75.37-15.15 102.82-42.63z" fill="url(#ian_symbols_c99f664274f236f4999c3214a01f323a)"/>
+ <path opacity=".4" d="m259.13 375.08c-3.306-8.151-33.297-7.761-33.449-4.412-.487 11.24-.314 21.916-1.939 33.069-2.233 15.121-9.907 35.205-21.971 43.508 10.937 2.666 34.099-17.603 42.239-29.156 11.65-16.53 16.54-39.63 15.12-43.01z" fill="#fff"/>
+ <path opacity=".1" d="m132.38 425.06c-24.333 22.925-64.665 19.641-90.104-7.381-25.482-27.021-26.404-67.483-2.081-90.408 24.333-22.914 64.643-19.608 90.126 7.403 25.45 27 26.36 67.48 2.06 90.39z" fill="#fff"/>
+ <path opacity=".1" d="m153.15 438.01c-34.468 32.462-89.377 30.153-122.7-5.203-33.351-35.378-32.462-90.342 2.016-122.84 34.468-32.452 89.356-30.143 122.72 5.235 33.31 35.36 32.38 90.33-2.04 122.81z" fill="#fff"/>
+ <path opacity=".1" d="m177.86 444.61c-40.093 37.773-105.74 33.211-146.66-10.199-40.96-43.476-41.687-109.28-1.583-147.08 40.093-37.741 105.7-33.178 146.69 10.253 40.94 43.44 41.59 109.25 1.55 147.03z" fill="#fff"/>
+ <path opacity=".4" d="m259.96 360.82c3.002-3.924-31.011-18.523-33.026-10.362-2.006 8.118-6.688-26.317-4.899-30.512 1.811-4.206 30.988 2.872 34.642 10.102 3.64 7.24-.13 35.21 3.29 30.77z" fill="#fff"/>
+ <path opacity=".2" d="m105.7 400.59c-13.548 12.768-35.996 10.925-50.163-4.108-14.188-15.044-14.708-37.568-1.16-50.347 13.549-12.747 35.985-10.915 50.184 4.129 14.17 15.03 14.68 37.57 1.14 50.33z" fill="#fff"/>
+</svg>

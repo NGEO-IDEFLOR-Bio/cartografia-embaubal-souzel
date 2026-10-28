@@ -1,0 +1,108 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="247" viewBox="0 0 501 247" xml:space="preserve">
+            <title>Coastline 2D: stepped shoreline with variable water quality</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coastline 2D: stepped shoreline with variable water quality</ian_image_library:title>
+                <ian_image_library:descr>Illustration of coastline base of stepped shoreline with variable water quality</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, stepped, shoreline, water, quality, variable, gradient</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0b9eb02ad5e54144291d7a6780d6be4f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coastline 2D: stepped shoreline with variable water quality</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coastline-2d-stepped-shoreline-with-variable-water-quality/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coastline-2d-stepped-shoreline-with-variable-water-quality/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, coastline, ocean, stepped, shoreline, water, quality, variable, gradient</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of coastline base of stepped shoreline with variable water quality</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_a95d498ad57a54e445c66c20c2c24999" y2="4219.4" gradientUnits="userSpaceOnUse" x2="4157.4" gradientTransform="matrix(.63 0 0 .63 -2349.6 -2650)" y1="4600.6" x1="4157.4">
+  <stop stop-color="#AB6C17" offset="0"/>
+  <stop stop-color="#A26A1E" offset=".013"/>
+  <stop stop-color="#6D5E4A" offset=".0949"/>
+  <stop stop-color="#58595B" offset=".1348"/>
+  <stop stop-color="#0097DC" offset=".4045"/>
+  <stop stop-color="#0A9BDE" offset=".4177"/>
+  <stop stop-color="#31ACE5" offset=".4763"/>
+  <stop stop-color="#52BBEB" offset=".5391"/>
+  <stop stop-color="#6EC7F0" offset=".6059"/>
+  <stop stop-color="#83D0F4" offset=".6782"/>
+  <stop stop-color="#92D7F7" offset=".7586"/>
+  <stop stop-color="#9ADBF9" offset=".8536"/>
+  <stop stop-color="#9DDCF9" offset="1"/>
+ </linearGradient>
+ <path d="m39.089 19.637c7.372-1.027 21.055-8.395 21.055-8.395s6.994 8.215 15.496 7.515c8.46-.758 9.087-3.406 9.465-3.406.46 0 4.566-4.704 4.566-4.704s6.574 8.647 14.783 7.948c8.252-.758 14.323-8.107 14.323-8.107s8.838 9.726 16.123 8.107c7.329-1.73 13.779-8.271 13.779-8.271s5.948 8.754 14.911 8.433c8.963-.326 14.364-8.11 14.364-8.11s8.042 8.811 15.666 8.27c7.622-.486 14.156-8.27 14.156-8.27s8.835 9.405 15.411 7.948c6.616-1.513 14.032-8.107 14.032-8.107s6.615 9.133 15.242 8.107c8.586-1.135 14.157-8.271 14.157-8.271s7.453 9.458 15.366 8.433c7.875-1.083 14.328-8.433 14.328-8.433s7.917 9.889 15.536 8.433c7.583-1.516 14.071-8.11 14.071-8.11s9.089 10.108 17.089 7.784c8.082-2.487 12.607-8.106 12.607-8.106s9.21 9.889 15.621 8.433c6.446-1.516 14.071-8.27 14.071-8.27s5.904 8.591 15.244 8.107c9.34-.596 14.028-8.54 14.028-8.54s8.251 9.403 15.245 8.702c7.038-.758 14.448-7.947 14.448-7.947s5.195 7.189 14.534 7.621c9.341.326 15.121-8.376 15.121-8.376s6.656 8.862 15.16 7.944c8.5-.917 10.91-7.407 10.91-6.379v235h-460.37c-.084 0-.531-226.98-.531-226.98z" fill="url(#ian_symbols_a95d498ad57a54e445c66c20c2c24999)"/>
+ <linearGradient id="ian_symbols_cbc3bbbf5a514ad4dd760ff81fb8ca40" y2="4400.2" gradientUnits="userSpaceOnUse" x2="3926.4" gradientTransform="matrix(.63 0 0 .63 -2349.6 -2650)" y1="4400.2" x1="4322.3">
+  <stop stop-color="#9DDCF9" offset="0"/>
+  <stop stop-color="#9AD6E9" offset=".1073"/>
+  <stop stop-color="#95CCCD" offset=".3262"/>
+  <stop stop-color="#91C5BA" offset=".5478"/>
+  <stop stop-color="#8FC0AE" offset=".7713"/>
+  <stop stop-color="#8EBFAA" offset="1"/>
+ </linearGradient>
+ <path d="m125.92 22.141c7.429-1.169 21.827-11.816 21.827-11.816s5.161 9.461 13.729 8.665c8.53-.863 16.253-8.236 16.253-8.236s6.09 7.944 14.182 8.542c8.275.608 14.775-9.458 14.775-9.458s8.224 10.602 15.571 8.758c7.386-1.968 14.12-7.053 14.12-7.053s8.659 10.142 16.999 6.532c9.159-3.967 12.112-8.544 12.112-8.544s9.108 11.832 16.547 9.765c7.683-2.136 13.346-8.97 13.346-8.97s8.907 10.091 15.537 8.433c6.669-1.723 14.695-7.03 14.695-7.03s5.938 8.124 14.633 6.956c8.654-1.292 14.997-7.141 14.997-7.141s8.438 6.771 16.324 7.447c1.193 240.38-245.11 214.93-245.11 214.93-.09 0-.54-211.78-.54-211.78z" fill="url(#ian_symbols_cbc3bbbf5a514ad4dd760ff81fb8ca40)"/>
+ <linearGradient id="ian_symbols_25a04c948f9302b4fd3dd3b71e228637" y2="73.296" gradientUnits="userSpaceOnUse" x2="147.88" y1="73.296" x1="67.744">
+  <stop stop-color="#D4A585" offset="0"/>
+  <stop stop-color="#D1A687" offset=".2791"/>
+  <stop stop-color="#C7AA8C" offset=".5016"/>
+  <stop stop-color="#B6B095" offset=".7045"/>
+  <stop stop-color="#9FB9A1" offset=".8946"/>
+  <stop stop-color="#8EBFAA" offset="1"/>
+ </linearGradient>
+ <path d="m67.744 21.052c7.372-1.025 21.633-11.521 21.633-11.521s5.642 9.766 14.145 9.064c8.46-.758 14.812-9.674 14.812-9.674s6.565 9.853 14.774 9.153c8.252-.759 14.775-9.457 14.775-9.457s-14.351 136.56-46.454 129.06c-25.61-5.98-33.686-116.63-33.686-116.63z" fill="url(#ian_symbols_25a04c948f9302b4fd3dd3b71e228637)"/>
+ <path d="m0 0s60.302 4.9 72.71 15.964c7.449 6.638 64.233 84.485 77.985 83.312 16.251-1.393 93.938 7.393 96.718 9.246 8.081 5.392 109.21 9.127 112.69 11.616 31.294 22.417 44.064 81.099 78.572 100.81 33.323 19.038 29.805 3.207 61.329 7.17v18.5h-500.01v-246.62z" fill="#E7D9CD"/>
+</svg>

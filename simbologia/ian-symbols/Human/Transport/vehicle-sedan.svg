@@ -1,0 +1,88 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="192" viewBox="0 0 502 192" xml:space="preserve">
+            <title>Vehicle: sedan</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Vehicle: sedan</ian_image_library:title>
+                <ian_image_library:descr>Illustration of motor vehicle with exhaust</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>transportation, commute, car, sedan, exhaust, motor, vehicle, road, highway, commerce, traffic, congestion, economy</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6b0b0047db4c58d47524d2bcbbca12f8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Vehicle: sedan</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/vehicle-sedan/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/vehicle-sedan/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>transportation, commute, car, sedan, exhaust, motor, vehicle, road, highway, commerce, traffic, congestion, economy</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of motor vehicle with exhaust</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="389.62 151.81 236.57 151.81 235.79 142.63 233.54 134.22 231.09 128.52 227.17 122.14 222.91 116.65 218.44 112.63 211.61 108.7 205.45 106.58 196.72 105.24 189.33 105.24 182.72 106.24 177.8 107.69 171.41 111.05 164.7 116.2 159.55 121.12 155.74 126.29 152.16 132.77 150.02 139.71 149.02 146.99 149.02 151.47 124.39 151.47 120.69 151.14 118.24 149.9 116.78 148.56 116.1 146.22 115.99 143.63 115.99 68.396 116.34 65.61 117.23 63.47 119.13 61.685 121.25 60.674 123.5 60.341 153.16 60.341 155.85 59.556 158.54 58.211 160.11 56.867 212.94 3.235 215.96 1.449 218.55 .557 220.9 .224 342.71 .224 403.72 56.308 494.85 72.762 497.65 73.88 498.66 74.558 499.77 76.58 500 78.806 500 146.55 499.88 148 499.33 149.34 497.87 150.8 495.97 151.91 492.94 152.15 476.93 152.15 476.6 143.63 475.03 135.9 472.68 129.3 467.53 120.68 462.05 115.09 456.34 110.17 449.96 107.25 444.25 105.24 437.19 103.88 428.91 103.66 422.42 104.78 414.91 107.25 407.86 111.39 402.04 116.44 397.56 122.36 393.76 129.08 391.63 135.12 390.06 141.29 389.5 147.32 389.62 151.81" fill="#3B3795"/>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width=".4473" points="389.62 151.81 236.57 151.81 235.79 142.63 233.54 134.22 231.09 128.52 227.17 122.14 222.91 116.65 218.44 112.63 211.61 108.7 205.45 106.58 196.72 105.24 189.33 105.24 182.72 106.24 177.8 107.69 171.41 111.05 164.7 116.2 159.55 121.12 155.74 126.29 152.16 132.77 150.02 139.71 149.02 146.99 149.02 151.47 124.39 151.47 120.69 151.14 118.24 149.9 116.78 148.56 116.1 146.22 115.99 143.63 115.99 68.396 116.34 65.61 117.23 63.47 119.13 61.685 121.25 60.674 123.5 60.341 153.16 60.341 155.85 59.556 158.54 58.211 160.11 56.867 212.94 3.235 215.96 1.449 218.55 .557 220.9 .224 342.71 .224 403.72 56.308 494.85 72.762 497.65 73.88 498.66 74.558 499.77 76.58 500 78.806 500 146.55 499.88 148 499.33 149.34 497.87 150.8 495.97 151.91 492.94 152.15 476.93 152.15 476.6 143.63 475.03 135.9 472.68 129.3 467.53 120.68 462.05 115.09 456.34 110.17 449.96 107.25 444.25 105.24 437.19 103.88 428.91 103.66 422.42 104.78 414.91 107.25 407.86 111.39 402.04 116.44 397.56 122.36 393.76 129.08 391.63 135.12 390.06 141.29 389.5 147.32 389.62 151.81" fill="none"/>
+ <path d="m229.4 152.25c0 21.391-16.46 38.963-36.721 38.963-20.154 0-36.726-17.572-36.726-38.963 0-21.487 16.572-38.953 36.726-38.953 20.26 0 36.72 17.46 36.72 38.95z" fill="#3B3795"/>
+ <path d="m211.49 153.03c0 10.861-8.281 19.595-18.583 19.595-10.297 0-18.584-8.733-18.584-19.595 0-10.852 8.287-19.702 18.584-19.702 10.3.01 18.58 8.86 18.58 19.71z" fill="#fff"/>
+ <path d="m469.77 151.02c0 21.498-16.562 38.964-36.727 38.964-20.25 0-36.715-17.466-36.715-38.964s16.465-38.963 36.715-38.963c20.17 0 36.73 17.46 36.73 38.96z" fill="#3B3795"/>
+ <path d="m451.74 151.81c0 10.862-8.28 19.702-18.594 19.702-10.174 0-18.455-8.84-18.455-19.702 0-10.754 8.281-19.583 18.455-19.583 10.3-.01 18.58 8.82 18.58 19.58z" fill="#fff"/>
+ <polygon points="281.13 57.652 281.13 6.708 230.3 6.708 226.72 7.494 223.36 9.741 221.34 12.312 200.19 58.211 200.63 57.878 280.79 57.878 281.13 57.652" fill="#fff"/>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width=".4473" points="281.13 57.652 281.13 6.708 230.3 6.708 226.72 7.494 223.36 9.741 221.34 12.312 200.19 58.211 200.63 57.878 280.79 57.878 281.13 57.652" fill="none"/>
+ <polygon points="288.85 6.601 288.85 57.426 392.19 57.426 339.56 6.601 288.85 6.601" fill="#fff"/>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width=".4473" points="288.85 6.601 288.85 57.426 392.19 57.426 339.56 6.601 288.85 6.601" fill="none"/>
+ <path d="m91.526 134.55c2.334-5.248 1.56-11.797-2.344-16.572-3.613-4.42-9.012-6.388-14.303-5.743-.462-3.742-2.033-7.388-4.549-10.464-4.882-5.979-12.271-8.657-19.304-7.711l-.968-1.452c-1.387-1.71-3.194-2.721-5.114-3.065 0 0 1.296-8.593-9.018-18.369-10.378-9.787-22.391-2.904-23.713 3.441-2.135.161-4.388 1.14-6.184 2.613-3.796 3.108-4.936 8.216-3.086 12.55-3.592 3.495-3.99 9.367-.667 13.433 0 0 5.334 7.979 23.057 6.614 0 0 2.27 10.464 15.282 10.389 13.05-.086 13.604 8.13 12.411 11.023l3.377 1.087s8.668-7.249 14.744-.021c0 0 1.032 1.269 1.667 3.635 0 0 2.323 6.582 10.13 3.817 0 0 4.001-2.247 5.167 3.076 1.221 5.28 5.544 4.688 6.781 1.635 1.301-3.06.323-8.2-3.366-9.93z" fill="#939598"/>
+ <path d="m81.965 133.43c1.194-16.594-14.669-12.335-14.669-12.335-6.614-19.024-20.541-10.808-20.541-10.808l-3.538-1.076c-3.119-13.561-15.863-11.518-17.81-11.055-1.936.398-4.269.602-4.269.602-2.527.43-13.153-.946-14.153-11.109-.817-10.195 9.302-9.302 9.302-9.302-.032-2.463 1.484-3.926 1.484-3.926 3.764-4.947 10.475-1.495 10.475-1.495 13.724 7.505 11.712 21.303 11.712 21.303 2.689-.667 5.592.183 7.442 2.462.839 1.011 1.237 2.205 1.441 3.291 6.108-1.947 12.991-.097 17.314 5.184 2.684 3.291 3.893 7.463 3.549 11.475l2.473 1.086c4.141-1.86 9.195-.785 12.217 2.904 0 0 4.764 4.646.925 14.002l-3.354-1.2z" fill="#E6E7E8"/>
+ <path stroke="#005E35" stroke-width=".5648" d="m95.634 141.32h19.326" fill="none"/>
+</svg>

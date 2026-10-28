@@ -1,0 +1,105 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="502" viewBox="0 0 501 502" xml:space="preserve">
+            <title>Bacteroidetes</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Bacteroidetes</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Bacteroidetes</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>Bacteroidetes, Bacteria</ian_image_library:contains>
+                    <ian_image_library:when>2008-12-22</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1edad57663f90654751b42b42888bc6a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Bacteroidetes</dc:title>
+                <dc:date>2008-12-22</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/bacteroidetes/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/bacteroidetes/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>Bacteroidetes, Bacteria</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Bacteroidetes</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <radialGradient id="ian_symbols_2e67745e2df9f5e42d11b131f664b9e6" gradientUnits="userSpaceOnUse" cy="250" cx="250" r="250">
+  <stop stop-color="#140A0A" offset=".6011"/>
+  <stop stop-color="#201515" offset=".6334"/>
+  <stop stop-color="#3E3233" offset=".691"/>
+  <stop stop-color="#706163" offset=".7672"/>
+  <stop stop-color="#B4A1A4" offset=".8584"/>
+  <stop stop-color="#B5A2A5" offset=".8596"/>
+  <stop stop-color="#C1B0B3" offset=".8724"/>
+  <stop stop-color="#D6C6CA" offset=".8986"/>
+  <stop stop-color="#E4D7DA" offset=".9269"/>
+  <stop stop-color="#ECE0E4" offset=".9585"/>
+  <stop stop-color="#EFE3E7" offset="1"/>
+ </radialGradient>
+ <path d="m397.56 364.04c10.411-16.136 20.526-4.932 31.202-13.935 7.562-6.339 5.228-16.189 12.514-23.597 13.626-13.879 51.136-28.33 33.085-52.632 7.176-3.742 16.157-6.241 23.675-9.972 10.653-30.245-25.227-73.445-33.052-98.644-6.494-20.664-8.761-26.52-29.441-38.142-21.077-11.81-41.307-24.692-56.957-42.137-15.178-16.905-25.678-30.113-47.074-40.806-20.14-10.055-42.8-34.307-63.56-38.066-23.18-4.188-60.05-7.952-81.788-5.134-22.32 2.867-28.308 9.157-49.208 13.361-12.25 2.466-32.127 9.834-43.2 16.576-16.466 10.065-48.593 34.416-47.118 54.469 1.343 18.089 20.45 42.996 25.568 60.848 7.539 26.327 8.078 33.47-13.824 49.633-13.417 9.9-28.099 8.244-42.616 17.577-25.259 16.245-14.54 36.431-6.34 57.552 11.7 30.201-.528 71.684 15.695 97.658 16.862 26.987 30.542 52.246 60.413 66.599 33.965 16.344 65.487 33.14 99.397 49.021 53.039 24.83 73.433 13.307 128.72 11.436 10.545-.363 42.848 6.923 50.805-2.366 6.098-7.132.045-18.358 2.355-26.987 5.58-20.934 30.014-23.796 39.292-43.464 7.27-15.52 15.16-53.83-8.55-58.85z" fill="url(#ian_symbols_2e67745e2df9f5e42d11b131f664b9e6)"/>
+ <radialGradient id="ian_symbols_3266108cdc5ecc3455aaa04025806464" fx="227.39" fy="283.73" gradientUnits="userSpaceOnUse" cy="317.11" cx="192.05" r="367.95">
+  <stop stop-color="#140A0A" offset="0"/>
+  <stop stop-color="#1F1415" offset=".1095"/>
+  <stop stop-color="#3C2E33" offset=".3023"/>
+  <stop stop-color="#6B5862" offset=".554"/>
+  <stop stop-color="#87727F" offset=".691"/>
+  <stop stop-color="#8C7684" offset="1"/>
+ </radialGradient>
+ <path d="m419.83 307.29c58.894-86.405-33.383-176.72-56.957-200.29-66.75-66.753-180.64-113.9-239.55-47.129-58.917 78.557 17.676 147.29 74.622 196.36 33.39 31.43 162.97 137.47 221.89 51.06z" fill="url(#ian_symbols_3266108cdc5ecc3455aaa04025806464)"/>
+ <radialGradient id="ian_symbols_cea417b76f843c5491a3296b6f310dfe" fx="266.66" fy="250.35" gradientUnits="userSpaceOnUse" cy="311.22" cx="286.29" r="282.77">
+  <stop stop-color="#140A0A" offset="0"/>
+  <stop stop-color="#1F1415" offset=".1095"/>
+  <stop stop-color="#3C2E33" offset=".3023"/>
+  <stop stop-color="#6B5862" offset=".554"/>
+  <stop stop-color="#87727F" offset=".691"/>
+  <stop stop-color="#8C7684" offset="1"/>
+ </radialGradient>
+ <path d="m345.21 456.52c-49.088 66.764-170.83-25.512-208.15-47.117-37.3-21.605-117.81-100.15-68.723-170.83 62.834-64.815 162.99 25.524 180.67 35.341 17.65 9.83 145.27 115.86 96.2 182.61z" fill="url(#ian_symbols_cea417b76f843c5491a3296b6f310dfe)"/>
+</svg>

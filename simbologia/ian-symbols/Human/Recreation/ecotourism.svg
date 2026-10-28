@@ -1,0 +1,90 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="414" viewBox="0 0 500 414" xml:space="preserve">
+            <title>Ecotourism</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Ecotourism</ian_image_library:title>
+                <ian_image_library:descr>Icon representing ecotourism.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>economy, revenue, tourists, environment, sustainability, birding, binoculars</ian_image_library:contains>
+                    <ian_image_library:when>2016-05-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0da057c92093f6b405a3e32c63b8c5ce">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Ecotourism</dc:title>
+                <dc:date>2016-05-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/ecotourism/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/ecotourism/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>economy, revenue, tourists, environment, sustainability, birding, binoculars</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Icon representing ecotourism.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<title>Layer 1</title>
+	<path id="ian_symbols_29f3405c0b1fa474518e3a1f22f7b751" fill="#0976BC" d="M0,264.3C38.3,208,76.6,151.7,114.9,95.4c-3.5,28.3,5.5,50.6,29.3,68
+		c-10.7,15.9-21.2,31.5-31.7,47.1c37.2-8.9,73.7-17.5,109.1-25.9c-5.1-4.4-12.1-10.6-19.6-17.2c7.3-6.1,15.6-10.1,19.4-16.7
+		c6.2-10.8,10.3-23.1,13.7-35.1c2.3-7.9,3.1-16.2,13.4-16.7c10.2-0.5,13.4,6.6,14.3,15.3c2.3,23.2,13.6,40.5,35.8,52.8
+		c-7.8,7-14.7,13.1-20.1,17.9c35.3,8.4,71.8,17,108.8,25.7c-10.5-15.6-21.2-31.4-32.1-47.5c23.4-17.8,32.7-40.6,24.9-71.6
+		c3.2,3.4,5.2,5,6.6,7c35.2,51.5,70.5,103.1,105.6,154.7c9.9,14.6,10.2,27.5,1.4,39.3c-9,12.1-22,15.4-39.2,9.6
+		c-32.6-10.9-65.2-21.9-99.6-33.5c0,48.9,0,96.5,0,144.9c-70.7,0-140,0-210.2,0c0-47.9,0-95.3,0-144.7c-5.5,1.8-9.7,3.1-13.8,4.4
+		c-26.4,8.9-52.8,17.7-79.1,26.6C24.4,309,16.2,306.6,0,284.3C0,277.6,0,270.9,0,264.3L0,264.3z"/>
+	<path id="ian_symbols_e98d9e20a08ca074ed0932387511ca7a" fill="#0976BC" d="M318,50.9c-41.6,3-41.6,3-53.9,18.2c-10,0-18.9,0-29.8,0c-10.5-20.9-32.1-17.4-52.3-17.6
+		c4.5-28.3,33.9-50.7,66.9-51.5C281.4-0.7,312,21.5,318,50.9z"/>
+	<path id="ian_symbols_c1655e5ad1cc1dd47568a8aacb52c15c" fill="#0976BC" d="M322.7,159.4c-27.2-0.2-47.8-21.3-47.5-48.8c0.3-26.4,21.4-47,48.2-46.9
+		c26.5,0.1,47.5,21,47.7,47.6C371.2,138.3,349.9,159.5,322.7,159.4L322.7,159.4z M345.6,111.6c0-13-9.6-22.7-22.5-22.7
+		c-12.7,0-23,10.1-23,22.6c0,12.4,10.3,22.8,22.9,22.9C335.7,134.4,345.6,124.5,345.6,111.6z"/>
+	<path id="ian_symbols_608bdb49fac638e43df1b5d64bcb9dc0" fill="#0976BC" d="M175.4,159.4c-26.7,0-47.7-20.7-47.8-47.2c-0.2-27.3,20.7-48.4,47.9-48.4s48.4,21.5,48,48.5
+		C223.1,138.8,202.2,159.4,175.4,159.4z M198,111.7c0.1-13.1-9.5-22.8-22.4-22.8c-12.7-0.1-23,10-23.1,22.5
+		c-0.1,12.4,10.2,22.8,22.8,22.9C188,134.5,197.9,124.6,198,111.7z"/>
+</g>
+</svg>

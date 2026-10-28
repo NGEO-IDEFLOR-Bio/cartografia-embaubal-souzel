@@ -1,0 +1,91 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="506" height="506" viewBox="0 0 506 506" xml:space="preserve">
+            <title>Receding shoreline</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Receding shoreline</ian_image_library:title>
+                <ian_image_library:descr>Illustration of receding shoreline</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>environmental, degradation, receding, shoreline, beach, coast, erosion, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1f566600f1413714d1541db9d39600a8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Receding shoreline</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/receding-shoreline/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/receding-shoreline/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>environmental, degradation, receding, shoreline, beach, coast, erosion, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of receding shoreline</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_102e7ca57b8a8c54897be580abc12a59" y2="252.77" gradientUnits="userSpaceOnUse" x2="502.79" y1="252.77" x1="2.8081">
+  <stop stop-color="#E4EDF7" offset="0"/>
+  <stop stop-color="#B3D0EA" offset="1"/>
+ </linearGradient>
+ <rect height="499.98" width="499.98" stroke="#231F20" y="2.786" x="2.808" stroke-width="5.5718" fill="url(#ian_symbols_102e7ca57b8a8c54897be580abc12a59)"/>
+ <linearGradient id="ian_symbols_b5ced402d3e54664b5a8c9aa81fed556" y2="351.05" gradientUnits="userSpaceOnUse" x2="502.79" y1="351.05" x1="2.7856">
+  <stop stop-color="#61B6DB" offset="0"/>
+  <stop stop-color="#94CDE9" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" stroke-width="5.5718" d="m502.79 502.76v-268.98c-22.979 2.619-60.385 6.129-112.21 8.605-7.33.352-14.911.683-22.813.991-24.86.924-45.648.891-63.059.088-116.61-5.271-80.572-44.13-80.572-44.13s-47.833.858-78.592 9.244c-45.943 12.59-86.045 34.6-130.9 36.06-4.105.132-8.045.165-11.864.132v258h500z" fill="url(#ian_symbols_b5ced402d3e54664b5a8c9aa81fed556)"/>
+ <path stroke-linejoin="round" d="m502.79 54.883c-208.31 36.162-389.99 62.925-494.96 72.06-1.684.143-3.357.374-5.041.539" stroke="#636466" stroke-linecap="round" stroke-dasharray="44.5741" stroke-width="5.5718" fill="none"/>
+ <linearGradient id="ian_symbols_52cd1d71c7b2bf1475ef0a471cc9b658" y2="215.32" gradientUnits="userSpaceOnUse" x2="252.79" y1="502.76" x1="252.79">
+  <stop stop-color="#967D5F" offset="0"/>
+  <stop stop-color="#D7BD9C" offset="1"/>
+ </linearGradient>
+ <path stroke="#636466" stroke-width="5.5718" d="m502.79 502.76v-287.44c-174.62 44.538-321.8 84.419-416.05 92.629-26.555 2.311-54.694 5.371-83.946 8.936v185.87h500z" fill="url(#ian_symbols_52cd1d71c7b2bf1475ef0a471cc9b658)"/>
+ <line stroke-linejoin="round" x1="282.61" y2="183.6" x2="404.48" stroke="#636466" stroke-linecap="round" y1="108.66" stroke-width="11.144" fill="none"/>
+ <path d="m400.33 181.05l-24.331 19.358c17.585-2.927 41.809-1.012 60.086 2.62-11.478-14.659-24.139-35.425-29.471-52.417l-6.29 30.44z" fill="#636466"/>
+</svg>

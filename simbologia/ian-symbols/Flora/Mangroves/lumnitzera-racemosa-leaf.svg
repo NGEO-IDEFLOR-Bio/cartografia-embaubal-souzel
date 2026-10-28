@@ -1,0 +1,101 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="147" viewBox="0 0 501 147" xml:space="preserve">
+            <title>Lumnitzera racemosa leaf</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lumnitzera racemosa leaf</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Lumnitzera racemosa leaf</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Myrtales, Combretaceae, Lumnitzera, racemosa, Indo-Pacific</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-91616b5d62f9d93421f40507a6667797">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lumnitzera racemosa leaf</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lumnitzera-racemosa-leaf/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lumnitzera-racemosa-leaf/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, mangrove, leaf, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Rosidae, Myrtales, Combretaceae, Lumnitzera, racemosa, Indo-Pacific</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Lumnitzera racemosa leaf</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_490e422ebd6330941510f40ded5ad962" y2="69.306" gradientUnits="userSpaceOnUse" x2="572.34" gradientTransform="matrix(.576 0 0 .576 171.81 32.85)" y1="69.306" x1="-253.58">
+  <stop stop-color="#34AC4C" offset="0"/>
+  <stop stop-color="#74BF42" offset=".4455"/>
+  <stop stop-color="#A3CE3B" offset=".8156"/>
+  <stop stop-color="#B5D338" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7382" d="m29.732 72.363s96.347-34.041 151.42-45.169c48.234-9.743 169.5-26.745 185.42-26.317 108.4 2.892 141.31 51.558 130.67 60.846-10.605 9.312-22.569 15.946-22.569 15.946s27.885-6.634 23.907 2.665c-3.986 9.288-5.276 31.348-30.555 42.483-34.302 15.117-99.049 19.721-135.58 21.415-110.52 5.113-204.41-36.02-217.7-40.008-13.29-3.99-85.008-31.867-85.008-31.867z" fill="url(#ian_symbols_490e422ebd6330941510f40ded5ad962)"/>
+ <linearGradient id="ian_symbols_65a2b410561e54c489dbcc7fa2683c86" y2="82.927" gradientUnits="userSpaceOnUse" x2="178.89" gradientTransform="matrix(.8 0 0 .8 50.796 9.0132)" y1="82.927" x1="-64.281">
+  <stop stop-color="#7EBB45" offset=".1412"/>
+  <stop stop-color="#84BD49" offset=".1463"/>
+  <stop stop-color="#A3CA5E" offset=".1767"/>
+  <stop stop-color="#BFD670" offset=".2112"/>
+  <stop stop-color="#D5DF7F" offset=".2501"/>
+  <stop stop-color="#E6E68A" offset=".2956"/>
+  <stop stop-color="#F1EA92" offset=".3518"/>
+  <stop stop-color="#F8ED97" offset=".4307"/>
+  <stop stop-color="#FAEE98" offset=".6497"/>
+  <stop stop-color="#496E6E" offset=".9096"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="1.7382" d="m.869 68.577s38.525-9.298 74.375-2.655c35.863 6.644 107.59 14.615 116.87 15.942 9.302 1.321-74.368 3.976-83.677 3.976-9.274 0-107.57 1.341-107.57 1.341v-18.604z" fill="url(#ian_symbols_65a2b410561e54c489dbcc7fa2683c86)"/>
+ <path stroke="#FFFCDF" stroke-width="1.7382" d="m193.06 84.309s58.433-3.975 77.03-3.975c18.591 0 38.519-2.665 49.145-2.665 10.619 0 65.065 2.665 84.986 2.665 19.922 0 55.785-7.306 55.785-7.306" fill="none"/>
+ <radialGradient id="ian_symbols_c1161a92b30844f4d97c5b71b2fea803" gradientUnits="userSpaceOnUse" cy="82.378" cx="523.9" gradientTransform="matrix(.8 0 0 .8 49.515 8.5488)" r="11.028">
+  <stop stop-color="#7EBB45" offset="0"/>
+  <stop stop-color="#496E6E" offset="1"/>
+ </radialGradient>
+ <path d="m479.93 74.451c0 2.926-5.058 5.282-11.291 5.282-6.24 0-11.285-2.356-11.285-5.282 0-2.917 5.045-5.279 11.285-5.279 6.23-.001 11.29 2.362 11.29 5.279z" fill="url(#ian_symbols_c1161a92b30844f4d97c5b71b2fea803)"/>
+</svg>

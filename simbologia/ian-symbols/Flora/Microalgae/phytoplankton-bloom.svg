@@ -1,0 +1,81 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="411" viewBox="0 0 501 411" xml:space="preserve">
+            <title>Phytoplankton bloom</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Phytoplankton bloom</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of a Phytoplankton blooom</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>microalgae, algae, Harmfal, algal, bloom, phytoplankton, HAB</ian_image_library:contains>
+                    <ian_image_library:when>2001-06-12</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-04ace9596ba9ecc421902ea5cd0afd9b">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Phytoplankton bloom</dc:title>
+                <dc:date>2001-06-12</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/phytoplankton-bloom/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/phytoplankton-bloom/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>microalgae, algae, Harmfal, algal, bloom, phytoplankton, HAB</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of a Phytoplankton blooom</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m138.21 161.6s-11.729 32.277 0 44.006c11.739 11.739 17.609 26.408 38.147 14.658 20.527-11.718 26.397-26.387 20.527-38.126-5.858-11.739-26.407-29.337-26.407-29.337" fill="#00AA4F"/>
+ <path d="m5.213 110.26s-11.729 32.278 0 44.017c11.739 11.729 17.598 26.397 38.137 14.669 20.528-11.739 26.397-26.408 20.528-38.147-5.859-11.729-26.397-29.337-26.397-29.337" fill="#00AA4F"/>
+ <path d="m138.21 8.799s-11.729 32.278 0 44.017c11.739 11.729 17.609 26.397 38.147 14.658 20.527-11.729 26.397-26.397 20.527-38.136-5.88-11.74-26.41-29.338-26.41-29.338" fill="#00AA4F"/>
+ <path d="m288.81 211.96s-11.729 32.278 0 44.006c11.739 11.739 17.598 26.408 38.146 14.68 20.528-11.75 26.397-26.408 20.528-38.147-5.87-11.729-26.408-29.337-26.408-29.337" fill="#00AA4F"/>
+ <path d="m439.17 249.62s-11.739 32.277 0 44.006c11.729 11.739 17.599 26.397 38.137 14.669 20.538-11.739 26.408-26.397 20.538-38.147-5.858-11.729-26.408-29.326-26.408-29.326" fill="#00AA4F"/>
+ <path d="m396.39 347.4s-11.739 32.277 0 44.006c11.729 11.75 17.598 26.408 38.136 14.669 20.539-11.729 26.408-26.397 20.539-38.137-5.87-11.729-26.408-29.338-26.408-29.338" fill="#00AA4F"/>
+</svg>

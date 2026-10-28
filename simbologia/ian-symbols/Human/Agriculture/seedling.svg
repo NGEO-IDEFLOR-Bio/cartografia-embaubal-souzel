@@ -1,0 +1,119 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="402" height="501" viewBox="0 0 402 501" xml:space="preserve">
+            <title>Seedling</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seedling</ian_image_library:title>
+                <ian_image_library:descr>Illustration of seedling</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>agriculture, agricultural, industry, farming, production, landuse, cultivation, seedling, greenhouse, nursery, plant, sprouting, leaves, potted</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d272db69adcf9584917f6e7cd21fa581">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seedling</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seedling/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seedling/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>agriculture, agricultural, industry, farming, production, landuse, cultivation, seedling, greenhouse, nursery, plant, sprouting, leaves, potted</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of seedling</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_add54c009b50a1a4b96fa7e2953d2420" y2="181.73" gradientUnits="userSpaceOnUse" x2="398.65" y1="181.73" x1="3.4814">
+  <stop stop-color="#C5A480" offset="0"/>
+  <stop stop-color="#DCC8B1" offset=".3146"/>
+  <stop stop-color="#A4917B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m398.65 181.72c0 41.331-88.476 74.839-197.58 74.839-109.14 0-197.59-33.508-197.59-74.839 0-41.32 88.454-74.828 197.59-74.828 109.11 0 197.58 33.51 197.58 74.83z" fill="url(#ian_symbols_add54c009b50a1a4b96fa7e2953d2420)"/>
+ <path stroke="#231F20" stroke-width=".25" d="m9.5 205.34c21.633-32.438 99.184-56.448 191.57-56.448 92.376 0 169.93 24.01 191.59 56.469l-16.5 35.528-182.68 40.088-173.14-41.38-10.84-34.26z" fill="#867B6B"/>
+ <linearGradient id="ian_symbols_06570d2fa4b77a947da4d4e8c318f51a" y2="349.11" gradientUnits="userSpaceOnUse" x2="384.12" y1="314.79" x1="-8.1606">
+  <stop stop-color="#C5A480" offset="0"/>
+  <stop stop-color="#DCC8B1" offset=".7753"/>
+  <stop stop-color="#A4917B" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m362.24 439.09c0 33.702-72.165 61.04-161.17 61.04-89.015 0-161.17-27.338-161.17-61.04l-36.419-257.37c0 41.331 88.454 74.839 197.59 74.839 109.11 0 197.58-33.508 197.58-74.839l-36.41 257.37z" fill="url(#ian_symbols_06570d2fa4b77a947da4d4e8c318f51a)"/>
+ <linearGradient id="ian_symbols_39475bf35149d14451a9129cb7c03bf1" y2="57.761" gradientUnits="userSpaceOnUse" x2="401.11" y1="57.761" x1="215.35">
+  <stop stop-color="#859D6A" offset=".1011"/>
+  <stop stop-color="#A9C386" offset=".6734"/>
+  <stop stop-color="#B8D392" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m401.11 68.587c0-3.566-23.751-26.949-31.553-34.75-7.79-7.791-25.154-15.495-38.294-21.503-13.097-6.051-21.276-7.91-40.04-8.277-18.79-.346-32.978 6.386-32.978 6.386s-21.168 8.244-26.928 13.333c-5.803 5.1-9.466 11.13-9.466 21.071 0 9.898 12.983 16.284 12.983 16.284s-10.622 3.199-14.15 4.257c-3.555 1.07-5.327 3.901-5.327 7.088 0 3.199 5.327 8.147 10.271 12.783 4.977 4.57 15.598 9.433 25.183 12.642 9.563 3.199 26.57 11.076 35.788 12.513 9.238 1.416 23.388 1.416 33.329 0 9.94-1.437 16.295-4.257 23.404-7.11 7.067-2.831 14.89-8.255 19.493-11.086 4.593-2.831 1.675-7.337 9.099-11.238 7.48-3.895 29.2-8.855 29.2-12.389z" fill="url(#ian_symbols_39475bf35149d14451a9129cb7c03bf1)"/>
+ <linearGradient id="ian_symbols_465b341f6480d3a4dd8ab70be2b68e55" y2="137.89" gradientUnits="userSpaceOnUse" x2="362.47" y1="137.89" x1="170.7">
+  <stop stop-color="#9DB87C" offset=".1011"/>
+  <stop stop-color="#9EB97E" offset=".1135"/>
+  <stop stop-color="#A9C594" offset=".2894"/>
+  <stop stop-color="#B0CEA4" offset=".4807"/>
+  <stop stop-color="#B5D3AD" offset=".6988"/>
+  <stop stop-color="#B6D5B0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m362.47 63.606s-115.56-3.198-124.06-1.07c-8.515 2.129-16.673 6.753-19.147 9.584s-8.515 13.831-9.584 14.166c-1.059.378-3.906-9.909-3.906-12.037 0-2.129-2.48-2.831-3.885-1.059-1.416 1.761-2.112 9.217-2.474 10.622-.346 1.448-1.416 2.853-3.199 1.794-1.783-1.07-9.206-13.129-13.469-16.316-4.241-3.198-12.043-8.158-12.043-8.158l6.019 17.732s9.563 8.147 11.692 10.276c2.128 2.129 1.069 5.414 3.539 5.781 2.48.346 2.847 1.675 4.263 3.782 1.405 2.128-1.416 111.32-1.416 111.32s5.414 4.257 9.325 4.603c3.912.356 9.812-2.129 9.812-2.129s-3.539-109.54-3.188-113.08c.367-3.544 6.04-10.276 8.147-12.404 2.139-2.129 4.365-4.604 7.563-9.207 3.188-4.614 6.278-6.743 11.572-7.812 5.33-1.054 124.45-6.381 124.45-6.381z" fill="url(#ian_symbols_465b341f6480d3a4dd8ab70be2b68e55)"/>
+ <linearGradient id="ian_symbols_e959e1b7a78037445963d0f7b0638de0" y2="55.644" gradientUnits="userSpaceOnUse" x2=".125" y1="55.644" x1="186.44">
+  <stop stop-color="#859D6A" offset=".1011"/>
+  <stop stop-color="#A9C386" offset=".6734"/>
+  <stop stop-color="#B8D392" offset="1"/>
+ </linearGradient>
+ <path stroke="#58595B" stroke-width=".25" d="m.169 66.458c1.075-2.128 15.955-13.734 24.124-19.763 8.142-6.008 35.896-30.579 44.767-33.778 8.86-3.187 21.157-11.237 49.51-12.642 28.375-1.416 40.078 7.434 51.413 14.89 11.335 7.434 15.592 20.541 16.294 24.799.724 4.257-1.059 13.021-3.89 14.782-2.82 1.783-9.93 4.625-9.93 7.445 0 2.831 8.861 17.743 7.11 24.096-1.783 6.397-6.397 11.356-11.713 14.188-5.327 2.831-18.088 6.397-25.544 4.268-7.423-2.139-13.464-1.07-16.641 0-3.177 1.059-8.866 4.96-12.761 5.673-3.901.692-14.544 1.416-21.265-.367-6.743-1.761-21.276-7.445-28.364-11.346-7.088-3.89-26.582-16.641-30.844-18.423-4.252-1.783-7.083-3.198-10.983-4.603-3.893-1.428-22.349-7.091-21.285-9.22z" fill="url(#ian_symbols_e959e1b7a78037445963d0f7b0638de0)"/>
+ <path stroke="#B6D5B0" stroke-width=".25" stroke-linecap="round" d="m27.124 62.915s90.031-9.93 135.75 1.416" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" stroke-linecap="round" d="m136.3 16.462c24.82 26.592 25.155 46.798 25.155 46.798" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" stroke-linecap="round" d="m82.426 20.719s53.152-2.129 55.626 39.688" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" stroke-linecap="round" d="m50.15 39.866s39.002-4.257 45.015 18.413" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" stroke-linecap="round" d="m92.886 100.83c35.269-9.563 44.14-39.937 44.14-39.937" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" stroke-linecap="round" d="m78.871 91.614c29.078-7.078 37.214-31.206 37.214-31.206" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" stroke-linecap="round" d="m52.273 76.021c8.877-1.07 15.976-15.614 15.976-15.614" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" d="m334.47 26.381c-38.29-.681-49.28 35.464-49.28 35.464" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" d="m250.08 61.131s4.257-25.166 30.481-39.699" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" d="m256.47 68.22s9.919 27.306 29.072 33.681" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" d="m292.64 65.843c2.345 5.176 15.781 28.116 42.535 30.028" fill="none"/>
+ <path stroke="#B6D5B0" stroke-width=".25" d="m327.74 62.536s5.651-11.335 21.967-9.552" fill="none"/>
+</svg>

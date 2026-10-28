@@ -1,0 +1,117 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="266" viewBox="0 0 501 266" xml:space="preserve">
+            <title>River 3D: comparison healthy vs eutrophic</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>River 3D: comparison healthy vs eutrophic</ian_image_library:title>
+                <ian_image_library:descr>3D comparison of a healthy vs eutrophic river system.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>freshwater, coastal, river, healthy, eutrophic, good, bad</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-09</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-c8ee8a056c4e5c84b11eb20c7421cb5d">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>River 3D: comparison healthy vs eutrophic</dc:title>
+                <dc:date>2010-03-09</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/river-3d-comparison-healthy-vs-eutrophic/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/river-3d-comparison-healthy-vs-eutrophic/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>freshwater, coastal, river, healthy, eutrophic, good, bad</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>3D comparison of a healthy vs eutrophic river system.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#BBD6E3" points="349.385,18.982 317.561,0.228 181.227,0.228 149.928,18.796 0,107.741 2.575,114.964 
+	498.12,114.964 500,107.741 "/>
+<path fill="#A0B992" d="M318.298,16.994c1.881,3.882-3.899,7.894,0.472,15.996c4.541,8.418,15.085,5.103,22.809,9.602
+	c14.097,8.212,14.792,16.564,20.012,20.74c5.221,4.176,17.242,4.459,23.316,6.96c8.755,3.605,12.009,9.499,20.094,12.992
+	c12.617,5.452,41.85,4.756,64.121,14.5c7.001,3.063,23.732,19.955,23.732,19.955l0,0l-38.849-2.257l-28.975-1.128l-29.464,1.642
+	l-15.769,0.364l-14.915-0.014l-51.456,0.126c0,0-41.823,0.622-53.329-0.914c-11.504-1.536,31.471-14.538,34.678-29.606
+	c2.682-12.591-23.672-11.619-23.471-22.794c0.146-8.153,6.611-10.951,9.585-18.637c3.278-8.484-25.438-15.64-16.812-31.911
+	C305.08-2.076,316.305,12.884,318.298,16.994z"/>
+<path fill="#AEC6A8" d="M258.235,20.772c11.136-1.392,20.88-4.176,32.016-5.568c19.461-1.082,39.298,0.472,59.134,3.778
+	L317.561,0.228H181.227l-31.299,18.568C185.976,16.732,221.848,25.321,258.235,20.772z"/>
+<linearGradient id="ian_symbols_0cee0e51348e928429e5ec54beb77890" gradientUnits="userSpaceOnUse" x1="125" y1="107.7412" x2="125" y2="248.7305">
+	<stop  offset="0.0056" style="stop-color:#9FC3D6"/>
+	<stop  offset="1" style="stop-color:#84B2CA"/>
+</linearGradient>
+<path fill="url(#ian_symbols_0cee0e51348e928429e5ec54beb77890)" d="M250,248.73H0V107.741c0,0,3.239,4.403,10.477,4.923c7.24,0.518,12.907-4.923,12.907-4.923
+	s4.921,5.106,12.876,4.923c7.951-0.246,12.372-4.923,12.372-4.923s5.39,4.944,12.305,4.92c5.982-0.021,12.982-4.92,12.982-4.92
+	s5.274,4.708,11.94,4.923c7.954,0.254,12.979-4.923,12.979-4.923s6.951,4.944,11.981,4.92c5.597-0.026,13.301-4.92,13.301-4.92
+	s5.421,4.896,12.152,4.923c7.094,0.026,13.133-4.923,13.133-4.923s6.021,4.944,11.982,4.92c6.605-0.026,13.227-4.92,13.227-4.92
+	s5.63,4.944,12.201,4.92c6.791-0.026,13.081-4.92,13.081-4.92s5.17,4.802,12.055,4.923c7.396,0.129,12.979-4.923,12.979-4.923
+	s5.663,4.802,11.949,4.923c5.73,0.105,13.12-4.923,13.12-4.923V248.73z"/>
+<linearGradient id="ian_symbols_8435a58a849fcd34890fcdadc271c724" gradientUnits="userSpaceOnUse" x1="375" y1="107.7412" x2="375" y2="248.7305">
+	<stop  offset="0.0056" style="stop-color:#7CA682"/>
+	<stop  offset="0.2288" style="stop-color:#82A984"/>
+	<stop  offset="0.4485" style="stop-color:#91B18B"/>
+	<stop  offset="0.5674" style="stop-color:#A0B992"/>
+	<stop  offset="0.7135" style="stop-color:#BEAA54"/>
+	<stop  offset="1" style="stop-color:#BEAA54"/>
+</linearGradient>
+<path fill="url(#ian_symbols_8435a58a849fcd34890fcdadc271c724)" d="M500,248.73H250V107.741c0,0,3.24,4.403,10.476,4.923c7.241,0.518,12.909-4.923,12.909-4.923
+	s4.921,5.106,12.875,4.923c7.951-0.246,12.373-4.923,12.373-4.923s5.39,4.944,12.305,4.92c5.983-0.021,12.982-4.92,12.982-4.92
+	s5.275,4.708,11.941,4.923c7.954,0.254,12.979-4.923,12.979-4.923s6.951,4.944,11.981,4.92c5.596-0.026,13.3-4.92,13.3-4.92
+	s5.421,4.896,12.151,4.923c7.096,0.026,13.134-4.923,13.134-4.923s6.02,4.944,11.981,4.92c6.605-0.026,13.228-4.92,13.228-4.92
+	s5.631,4.944,12.202,4.92c6.788-0.026,13.079-4.92,13.079-4.92s5.171,4.802,12.055,4.923c7.396,0.129,12.979-4.923,12.979-4.923
+	s5.663,4.802,11.949,4.923c5.73,0.105,13.12-4.923,13.12-4.923V248.73z"/>
+<linearGradient id="ian_symbols_99963cd35fcd43e4cd9527153bed4f9c" gradientUnits="userSpaceOnUse" x1="249.9995" y1="121.0195" x2="249.9995" y2="263.9023">
+	<stop  offset="0.0056" style="stop-color:#E3CBB4"/>
+	<stop  offset="1" style="stop-color:#A78B6F"/>
+</linearGradient>
+<path fill="url(#ian_symbols_99963cd35fcd43e4cd9527153bed4f9c)" d="M461.656,143.64c-10.987,25.866-62.223,68.333-88.165,74.266
+	c-24.631,5.637-89.514,24.6-122.016,24.322v-0.012c-1.171-0.035-2.311-0.088-3.384-0.178c-50.78-4.279-90.875-13.088-135.339-29.879
+	c-19.46-7.346-60.415-51.863-70.748-65.593C25.212,124.252,0,130.57,0,130.57v133.332h500V121.02
+	C493.539,121.846,469.254,125.761,461.656,143.64z"/>
+<line fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="8.3519" x1="250" y1="0.75" x2="250" y2="263.902"/>
+</svg>

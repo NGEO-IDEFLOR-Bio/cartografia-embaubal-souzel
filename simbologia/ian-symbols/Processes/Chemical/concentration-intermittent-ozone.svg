@@ -1,0 +1,76 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="519" height="519" viewBox="0 0 519 519" xml:space="preserve">
+            <title>Concentration: intermittent ozone</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: intermittent ozone</ian_image_library:title>
+                <ian_image_library:descr>Illustration of intermittent ozone concentration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>chemical, processes, concentration, intermittent, ozone, O3</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-252b8394daaa9474118ff43d72232913">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: intermittent ozone</dc:title>
+                <dc:date>2003-11-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-intermittent-ozone/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-intermittent-ozone/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>chemical, processes, concentration, intermittent, ozone, O3</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of intermittent ozone concentration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#00B1EB" stroke-width="18.575" stroke-dasharray="111.453,111.453,111.453,111.453,111.453,111.453" d="m509.29 259.14c0 137.99-111.92 249.85-249.99 249.85-138.06 0-250.01-111.86-250.01-249.85-.002-137.97 111.94-249.85 250-249.85 138.08-.002 250 111.88 250 249.85z" fill="#fff"/>
+ <path d="m296.88 358.53l24.038-2.929c.764 6.161 2.817 10.863 6.15 14.106 3.333 3.255 7.373 4.893 12.12 4.893 5.105 0 9.382-1.953 12.872-5.858 3.473-3.894 5.218-9.157 5.218-15.779 0-6.262-1.661-11.222-4.994-14.903-3.321-3.659-7.384-5.488-12.188-5.488-3.153 0-6.912.617-11.301 1.852l2.738-20.032c6.723.179 11.852-1.291 15.392-4.388 3.541-3.097 5.303-7.216 5.303-12.367 0-4.366-1.302-7.856-3.899-10.448-2.599-2.604-6.066-3.905-10.387-3.905-4.253 0-7.89 1.481-10.908 4.433-3.019 2.963-4.859 7.272-5.516 12.939l-22.82-3.894c1.594-7.9 3.995-14.196 7.204-18.91 3.21-4.725 7.688-8.428 13.422-11.121 5.746-2.693 12.188-4.052 19.314-4.052 12.187 0 21.973 3.906 29.329 11.705 6.065 6.375 9.107 13.579 9.107 21.625 0 11.402-6.195 20.503-18.596 27.304 7.361 1.583 13.23 5.163 17.646 10.707 4.394 5.543 6.604 12.221 6.604 20.065 0 11.379-4.141 21.075-12.434 29.088-8.282 8.013-18.59 12.03-30.929 12.03-11.694 0-21.391-3.389-29.089-10.145s-12.15-15.6-13.38-26.53z" fill="#00B1EB"/>
+ <path d="m171.18 231.67c0-18.315 2.722-33.398 8.147-45.249 5.426-11.84 12.53-20.649 21.283-26.451s19.37-8.708 31.838-8.708c18.057 0 32.78 6.879 44.182 20.649 11.374 13.792 17.058 33.375 17.058 58.816 0 25.722-6.016 45.81-18.068 60.286-10.583 12.782-24.942 19.19-43.06 19.19-18.304 0-32.736-6.318-43.307-18.977-12.03-14.47-18.07-34.32-18.07-59.56zm26.44-1.06c0 17.731 3.355 31.03 10.044 39.862 6.711 8.866 15.026 13.287 24.925 13.287 9.988 0 18.248-4.388 24.813-13.186 6.587-8.776 9.864-22.276 9.864-40.479 0-17.844-3.215-31.041-9.595-39.592-6.374-8.541-14.735-12.816-25.082-12.816-10.325 0-18.742 4.309-25.217 12.917-6.51 8.65-9.74 21.96-9.74 40.01z" fill="#00B1EB"/>
+</svg>

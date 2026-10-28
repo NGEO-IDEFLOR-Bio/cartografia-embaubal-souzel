@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="158" viewBox="0 0 501 158" xml:space="preserve">
+            <title>Island: steep with rocky shore</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Island: steep with rocky shore</ian_image_library:title>
+                <ian_image_library:descr>Illustration of steep island with rocky shore</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, islsteep, rocky, shore, ocean</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f13f128a20c619949da7a3e6fc1a12b4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Island: steep with rocky shore</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/island-steep-with-rocky-shore/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/island-steep-with-rocky-shore/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, islsteep, rocky, shore, ocean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of steep island with rocky shore</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m43.682 100.96c-28.017 6.679-50.17 22.692-41.946 29.956 8.235 7.281 68.897 8.989 68.897 8.989s36.816 5.931 62.905 5.996c26.098.061 28.172-3.566 53.55-6.154 25.368-2.588 51.768-1.093 64.201.521 12.437 1.61 49.984 5.633 49.984 5.633s46.107 12.504 65.899 11.977c19.795-.524 68.89-14.975 68.89-14.975l29.959-8.996s27.915-5.461 32.95-11.974c5.03-6.526-8.861-14.399-31.952-17.976-23.09-3.58-395.32-9.681-423.34-3.01z" fill="#E0F3FD"/>
+ <linearGradient id="ian_symbols_671b7badd0b39014f173f20193ce99b2" y2="69.019" gradientUnits="userSpaceOnUse" x2="392.71" y1="69.019" x1="34.531">
+  <stop stop-color="#ADB77B" offset="0"/>
+  <stop stop-color="#6A8A7F" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m37.697 117.95c11.97-13.99 25.949-41.946 25.949-41.946l35.947-35.938s24.218-18.472 39.943-25.963 40.938-9.483 51.916-9.974c10.979-.518 34.939 5.481 49.913 3.979 14.985-1.496 47.935-7.981 47.935-7.981l43.929 1.993 6.982 11.232 26.962 52.667 25.54 27.226-5.565 22.698-23.974 21.971s-23.957-5.999-35.934-5.999c-11.978 0-45.932-5.978-45.932-5.978s-29.949-4.002-35.938-2.003c-5.984 2.003-49.923-7.991-49.923-7.991l-35.7 9.74-59.911.741-22.211-4.49-25.963-3.985c-.002.01-25.965 13.98-13.968.01z" stroke="#594A42" stroke-linecap="round" stroke-width=".25" fill="url(#ian_symbols_671b7badd0b39014f173f20193ce99b2)"/>
+ <path stroke-linejoin="round" d="m333.23 2.118l29.945 15.979s14.73 4.239 23.974 7.981c9.229 3.739 25.963 21.968 25.963 21.968s12.471 12.23 19.965 17.972c7.49 5.735 17.972 13.98 23.961 19.975 5.988 5.981 9.983 17.965 9.983 17.965l5.999 17.976-29.959 9.98-27.956 1.993-23.96 2.002-27.97 2.003s23.473-30.212 21.98-39.943c-1.495-9.74-13.979-23.97-13.979-23.97l-21.968-33.944s-9.729-12.227-11.983-17.972c-2.24-5.733-3.99-19.963-3.99-19.963z" stroke="#594A42" stroke-linecap="round" stroke-width=".25" fill="#726658"/>
+ <linearGradient id="ian_symbols_0efc5f364971fde4156b8b3a0c109fb9" y2="80.007" gradientUnits="userSpaceOnUse" x2="253.46" y1="141.9" x1="253.46">
+  <stop stop-color="#231F20" offset=".1939"/>
+  <stop stop-color="#594A42" offset="1"/>
+ </linearGradient>
+ <path d="m45.665 117.93c1.404.291 4.906-3.624 5.603-3.552.701.064 7.352 1.238 9.321 1.025s11.04.535 11.04.535 17.972 8.479 27.966 7.984c9.984-.5 25.388-5.999 29.949-5.992 4.561.014 13.977 5.745 23.96 5.992 9.984.25 35.947-9.987 35.947-9.987h21.968s35.761 5.102 37.943 5.999c2.179.9 23.957 0 23.957 0s27.231-2.747 31.969-1.499c4.757 1.242-4.825 8.144 1.918 9.903 6.736 1.75 32.013-.413 32.013-.413l27.956-5.995s9.733 3.241 17.981 1.993c8.231-1.242 13.977-15.972 13.977-15.972s6.983-3.488 9.984-5.989c2.997-2.5 2.236-14.73 5.988-17.972 3.738-3.245 10.725-5.999 13.977-2.003 3.251 4.002-5.742 14.23-7.988 19.975-2.25 5.735 7.988 9.981 7.988 9.981l19.975-3.992 18.628-4.521 7.217 19.583-31.454 10.326-28.207 2.345-32.087 4.219-33.944 1.993-31.951-1.993-37.95-5.998-39.919-1.993s-37.964-5.721-39.943-5.978-30.98 1.021-30.98 1.021l-38.921.971h-59.925s-35.71-.335-37.575-3.796c-.916-1.7 12.201-6.47 13.605-6.19z" fill="url(#ian_symbols_0efc5f364971fde4156b8b3a0c109fb9)"/>
+</svg>

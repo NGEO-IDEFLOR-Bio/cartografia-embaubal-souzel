@@ -1,0 +1,97 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="114" viewBox="0 0 502 114" xml:space="preserve">
+            <title>Estuary 2D: subtropical</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: subtropical</ian_image_library:title>
+                <ian_image_library:descr>Illustration of subtropical estuary base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, subtropical, climate, socean</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b61ca2e0964b162461529c23f0250bf1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: subtropical</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-subtropical/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-subtropical/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, subtropical, climate, socean</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of subtropical estuary base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_3dc3232af6dc3584c99ff9c4ec4bdadc" height="49.852" viewBox="0 -49.852 49.852 49.852" width="49.852" patternUnits="userSpaceOnUse" y="511.704" x="-31.777" overflow="visible">
+   <polygon points="0 0 0 -49.853 49.853 -49.853 49.853 0" fill="none"/>
+   <polygon points="49.853 0 0 0 0 -49.853 49.853 -49.853" fill="#fff"/>
+   <path d="m17.779-37.738c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m29.616-20.762c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m31.796-32.131c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.336 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m7.954-17.181c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m16.237-25.745c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m21.05-7.992c0 .336-.272.609-.609.609-.335 0-.607-.273-.607-.609 0-.335.272-.608.607-.608.336-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m38.337-16.245c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.336-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m46.28-44.435c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m28.215-45.665c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m44.878-27.614c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336-.001.609.271.609.608z" fill="#231F20"/>
+   <path d="m3.296-3.164c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.336 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m8.411-43.344c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.337 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m42.698-6.59c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+  </pattern>
+ </defs>
+ <path stroke="#000" stroke-width=".5" d="m494.58 39.709c-1.658 1.408-4.752 2.253-8.857 2.253-4.107 0-7.202-.845-8.858-2.253-1.656 1.408-4.748 2.253-8.855 2.253-4.109 0-7.203-.845-8.857-2.253-1.659 1.408-4.749 2.253-8.857 2.253s-7.201-.845-8.859-2.253c-1.655 1.408-4.749 2.253-8.857 2.253-4.105 0-7.2-.845-8.855-2.253-1.656 1.408-4.751 2.253-8.856 2.253-4.11 0-7.201-.845-8.858-2.253-1.657 1.408-4.748 2.253-8.859 2.253-4.105 0-7.196-.845-8.855-2.253-1.657 1.408-4.751 2.253-8.857 2.253-4.111 0-7.2-.845-8.858-2.253-1.658 1.408-4.75 2.253-8.857 2.253s-7.202-.845-8.858-2.253c-1.657 1.408-4.751 2.253-8.856 2.253-4.11 0-7.202-.845-8.857-2.253-1.659 1.408-4.749 2.253-8.859 2.253-4.107 0-7.197-.845-8.855-2.253-1.657 1.408-4.751 2.253-8.858 2.253-4.108 0-7.201-.845-8.857-2.253-1.656 1.408-4.747 2.253-8.858 2.253-4.106 0-7.2-.845-8.857-2.253-1.657 1.408-4.747 2.253-8.856 2.253-4.107 0-7.202-.845-8.858-2.253-1.655 1.408-4.749 2.253-8.855 2.253-4.109 0-7.2-.845-8.856-2.253-1.658 1.408-4.75 2.253-8.861 2.253-4.106 0-7.196-.845-8.854-2.253-1.658 1.408-4.752 2.253-8.859 2.253-4.109 0-7.199-.845-8.857-2.253-1.658 1.408-4.75 2.253-8.858 2.253-4.109 0-7.202-.845-8.858-2.253-1.655 1.408-4.75 2.253-8.855 2.253-4.11 0-7.201-.845-8.857-2.253-1.658 1.408-4.75 2.253-8.86 2.253-4.106 0-7.197-.845-8.854-2.253-1.658 1.408-4.752 2.253-8.858 2.253-4.108 0-7.2-.845-8.858-2.253-1.658 1.408-4.75 2.253-8.858 2.253v63.925h368.9v-64.125c-2.53-.324-4.48-1.038-5.67-2.056z" fill="#007DB0"/>
+ <path d="m254.93 53.708c.226 0 .226-3 0-3s-.23 3 0 3z"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 93.77c-17.145-.223-34.271-.93-51.245-2.441-10.319-.018-21.366-1.727-30.606-1.72-29.425.03-59.165-2.047-88.023-6.541-18.129-2.823-38.143-10.253-55.197-16.93-15.07-5.902-26.156-19.669-41.125-25.866-4.189-1.734-8.492-3.178-12.868-4.428-3.525-.482-7.037-.838-10.433-1.174-14.787-1.463-29.314-2.377-44.007-3.824-32.3-3.185-57.26-23.036-88.834-26.385-25.619-2.714-51.624-3.819-77.646-4.207v112.65h500v-19.13z" fill="#DFCAAB"/>
+ <path stroke="#000" stroke-width=".5" d="m449 91.328c-10.319-.018-21.366-1.727-30.606-1.72-29.425.03-59.165-2.047-88.023-6.541-18.129-2.823-38.143-10.253-55.197-16.93-15.07-5.902-26.156-19.669-41.125-25.866-4.189-1.734-8.492-3.178-12.868-4.428-3.525-.482-7.037-.838-10.433-1.174-14.787-1.463-29.314-2.377-44.007-3.824-32.3-3.184-57.26-23.035-88.834-26.384-7.82-.829-15.683-1.493-23.564-2.048 19.963 5.98 40.158 16.833 56.072 27.085 11.868 7.644 21.109 17.621 33.152 24.805 18.328 10.931 40.993 12.926 60.785 16.332 20.074 3.454 38.606 11.69 57.342 18.31 15.421 5.448 31.444 5.073 47.443 6.693 31.456 3.188 63.464-1.107 94.664 1.851 31.858 3.021 64.203 4.033 96.459 4.318v-8.04c-17.14-.223-34.26-.93-51.24-2.442z" fill="url(#ian_symbols_3dc3232af6dc3584c99ff9c4ec4bdadc)"/>
+</svg>

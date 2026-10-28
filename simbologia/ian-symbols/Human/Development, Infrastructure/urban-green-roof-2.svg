@@ -1,0 +1,500 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="441" viewBox="0 0 501 441" xml:space="preserve">
+            <title>Urban: green roof 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: green roof 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of building (shops) with an eco-friendly green roof, covered with vegetation and a growing medium, planted over a waterproofing membrane</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, green, roof, 2, vegetation, eco-friendly, shops, boutiques</ian_image_library:contains>
+                    <ian_image_library:when>2008-11-07</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f6ca0b563323d6b4c594aba3d1b10510">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: green roof 2</dc:title>
+                <dc:date>2008-11-07</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-green-roof-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-green-roof-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, green, roof, 2, vegetation, eco-friendly, shops, boutiques</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of building (shops) with an eco-friendly green roof, covered with vegetation and a growing medium, planted over a waterproofing membrane</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_c60b60bc403a62d43d8277b4b502757b" height="22.585" viewBox="1 -23.585 22.584 22.585" width="22.584" patternUnits="userSpaceOnUse" y="650.268" x="-50.487" overflow="visible">
+   <polygon points="1 -1 23.584 -1 23.584 -23.585 1 -23.585" fill="none"/>
+   <polygon points="23.584 -1 1 -1 1 -23.585 23.584 -23.585" fill="#869F5E"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m19.838-2.499c.105-.971 1.454-.985 1.927-1.391" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m19.089-2.927c.501-.634.521-1.166 1.391-1.499" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m18.447-2.393c-.516-.66.117-1.493.107-2.247" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m9.563-4.747c-.167.758-.373 1.573-.321 2.354" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m9.563-2.499c.289-.471.592-.873.963-1.284" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m8.814-2.499c.044-.855-.731-1.795-1.285-2.354" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m14.701-7.423c-.447.856-.342 1.362-.321 2.249" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m15.022-5.068c.029-.462.647-.826.963-1.069" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m12.56-7.102c.748-.138 1.028.862 1.177 1.392" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m7.208-11.703c.271.254.619.168.937.511.321.347 1.096 1.273.562 1.736" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m9.349-9.777c-.015-.704.403-1.488.643-2.141" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m9.884-9.563c.076-.249.313-.424.535-.534" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m18.447-9.349c.139-.827-.868-1.341-1.499-1.499" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m18.875-9.67c-.046-.509.296-.971.535-1.392" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m19.517-9.242c.171-.477.745-.66 1.178-.855" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m12.881-14.594c-.396-.6-.665-.873-1.392-1.07" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m13.416-14.915c-.139-.297-.13-.644-.106-.963" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m14.166-14.486c.207-.418.643-.756.963-1.07" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m5.817-16.521c.586-.311-1.206-1.382-1.392-1.498" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m6.245-16.734c.216-.543-.003-1.464 0-2.034" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m6.673-16.093c-.016.107-.016.111-.001.014.165-.432.515-.69.857-.978" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m19.731-18.447c.059-.633-.877-1.107-1.284-1.392" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m20.374-19.09c-.387-.277.231-1.623.321-1.926" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m20.909-18.019c.005-.476.571-.888.856-1.179" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m4.104-6.887c-.074-.714-1.196-1.19-1.713-1.499" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m4.318-7.423c-.018-.606-.417-1.154-.428-1.819" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m4.96-6.994c-.06-.642.166-1.137.429-1.713" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m11.489-20.16c-.058-.289-.292-.606-.428-.855" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m12.025-19.731c.316-.521.388-1.501.535-2.141" fill="none"/>
+   <path stroke="#5C873B" stroke-width=".1" stroke-linecap="round" d="m12.453-19.09c-.046-.645.889-1.255 1.285-1.604" fill="none"/>
+  </pattern>
+ </defs>
+ <polygon stroke-linejoin="round" fill="#0E424D" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="201.26 350.87 201.26 439.52 13.311 307.88 13.311 221.88"/>
+ <linearGradient id="ian_symbols_55db489eecc92ee465bc173f011b9dc1" y2="247.82" gradientUnits="userSpaceOnUse" x2="18.548" y1="328.5" x1="75.04">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_55db489eecc92ee465bc173f011b9dc1)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="23.955 244.04 23.955 305.21 66.509 334.47 66.509 266.65"/>
+ <linearGradient id="ian_symbols_c3e389fb18c52974e56f68b0d01ae1c7" y2="314.26" gradientUnits="userSpaceOnUse" x2="126.49" y1="415.25" x1="197.2">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_c3e389fb18c52974e56f68b0d01ae1c7)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="134.98 386.32 134.98 308.31 188.18 342.45 188.18 421.57"/>
+ <path stroke-linejoin="round" d="m230.74 367.05l28.146-22.395v92.639s-8.865-11.066-28.807-11.066c-16.628 0-28.818 13.291-28.818 13.291v-88.657l29.48 16.19z" stroke="#052526" stroke-linecap="round" stroke-width=".0275" fill="#224A51"/>
+ <polygon stroke-linejoin="round" fill="#437B98" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="487.62 159.82 487.62 229.41 258.88 437.3 258.88 344.66"/>
+ <polygon stroke-linejoin="round" fill="#0E424D" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="231.16 240.11 231.16 351.47 13.386 209.79 13.386 125.04"/>
+ <polyline stroke-linejoin="round" fill="#437B98" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="231.16 240.11 488.51 76.16 488.51 152.87 231.16 351.47"/>
+ <polygon stroke-linejoin="round" fill="#FCFDFC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="488.51 76.16 231.16 240.11 13.386 125.04 292.13 21.519"/>
+ <linearGradient id="ian_symbols_82f0325005bd1b14bd29ab809a133e3f" y2="263.7" gradientUnits="userSpaceOnUse" x2="287.98" y1="309.4" x1="242.29">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_82f0325005bd1b14bd29ab809a133e3f)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="255.28 322.4 255.28 264.84 275.7 251.42 275.7 307.54"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="273.22 253.28 255.28 264.84 255.28 289.11 273.22 277.14"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="275.7 251.42 272.61 253.46 272.61 309.79 275.7 307.54"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="259.74 317.21 255.32 316.08 255.32 322.49 260.07 323.62 277.23 310.89 277.23 304.77"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="259.74 317.21 255.32 316.08 272.92 304.2 277.32 304.77"/>
+ <linearGradient id="ian_symbols_8126fbad84c11044c113b60701f06fe0" y2="265.04" gradientUnits="userSpaceOnUse" x2="-366.76" gradientTransform="matrix(-1 0 0 1 -191.73 0)" y1="310.73" x1="-412.45">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_8126fbad84c11044c113b60701f06fe0)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="207.74 323.72 207.74 266.18 187.32 252.76 187.32 308.88"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="189.8 254.61 207.74 266.18 207.74 290.43 189.8 278.47"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="187.32 252.76 190.41 254.79 190.41 311.12 187.32 308.88"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="203.27 318.53 207.69 317.4 207.69 323.83 202.95 324.96 185.79 312.22 185.79 306.1"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="203.27 318.53 207.69 317.4 190.08 305.53 185.69 306.1"/>
+ <linearGradient id="ian_symbols_1cfdd944662d4c74fdeea21a6d0367e2" y2="247.82" gradientUnits="userSpaceOnUse" x2="-337.63" gradientTransform="matrix(-1 0 0 1 -191.73 0)" y1="292.1" x1="-381.91">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_1cfdd944662d4c74fdeea21a6d0367e2)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="177.58 304.7 177.58 248.93 157.8 235.92 157.8 290.3"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="160.2 237.72 177.58 248.93 177.58 272.44 160.2 260.83"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="157.8 235.92 160.8 237.89 160.8 292.48 157.8 290.3"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="173.28 299.67 177.56 298.58 177.56 304.8 172.95 305.89 156.32 293.56 156.32 287.62"/>
+ <path stroke="#000" stroke-width=".0275" d="m269.44 27.877c-.537-.89-.688-2.279-.667-3.288 1.92-1.573 3.276-6.369 5.87-5.415.098-.325.217-.651.314-.977 1.161-.108 1.758-.738 2.94-.89 1.172-.173 2.604.857 2.652-1.855.267.499.863.705 1.134 1.161 1.585-3.429 2.577-.173 3.928.108.771.174 1.129-.542 1.878-.488.173-.271.391-.423.65-.445.717.087.488 1.237.847 1.367 1.226.467 3.233-.13 4.123.261.716.325.911 1.53 1.584 1.942.651.391 1.53.423 2.235.597-.803 3.233 1.454 3.798 2.246 6.13 1.074 3.092.444 5.349-2.192 7.498-1.27 1.02-1.671.445-2.929.868-.641.217-.857 1.128-1.596 1.237-.9.13-2.631 1.107-3.331 1.085-1.92-.087-4.855 1.389-6.943-1.389-3.809 1.389-3.592-2.018-5.469-2.561-.63-.185-.673.738-1.465.325-.564-.304-.9-1.714-1.237-1.888-1.296-.64-2.463 1.215-3.017-1.237l-1.54-2.146z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m258.04 44.217c-1.334-1.932-4.806-1.758-5.701-2.018-.884-.26-.201-1.237-.136-1.714-.912-.174-1.942.152-2.843-.217-.673-.26-3.255-1.258-2.225-1.823 1.025-.542 2.04-1.324 1.855-3.06.738-.108 1.004-.542 1.758-.185-.065-.466.212-1.259.174-1.725 1.671-.217 1.096-2.354 2.181-3.494.694-.738 1.378 0 2.083-.564.618-.499.781-1.758 1.411-2.3 1.703-1.443 2.539.5 4.329.087.998-.239.813-1.53 1.942-1.563.499-.021 1.106 1.248 1.898 1.378 1.323.228 3.314-1.27 4.807-1.313 1.497-.065 3.119-.206 4.427.456.662.347 1.161 1.172 1.79 1.486.771.38 1.346-.325 2.095.423 1.041 1.02.467 3.266 2.181 3.483-.065.456.228 1.237.163 1.703 1.627.586 5.771 3.299 4.394 6.033-.661 1.313-2.994 1.161-4.03 1.128-.624-.021-.559-.694-1.297-.542-.488.108-1.053 1.063-1.529 1.323-.651.348-1.194.348-1.855.586-.163.217-.304.445-.439.694-.017.022-1.655.022-1.471-.076-1.15.532-2.062 1.519-3.461 1.964-1.454.466-2.767.597-4.313.347-1.145-.195-3.098.13-3.868-.499-.01.002-2.99 1.933-4.33.002z" fill="#5C873B"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="173.28 299.67 177.56 298.58 160.49 287.07 156.23 287.62"/>
+ <linearGradient id="ian_symbols_474ccae21d7a47543dcca688915d03e6" y2="216.87" gradientUnits="userSpaceOnUse" x2="-287.29" gradientTransform="matrix(-1 0 0 1 -191.73 0)" y1="258.39" x1="-328.82">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_474ccae21d7a47543dcca688915d03e6)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="125.28 270.2 125.28 217.91 106.73 205.7 106.73 256.71"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="108.98 207.38 125.28 217.91 125.28 239.94 108.98 229.07"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="106.73 205.7 109.54 207.56 109.54 258.75 106.73 256.71"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="121.23 265.49 125.25 264.46 125.25 270.29 120.93 271.31 105.34 259.75 105.34 254.18"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="121.23 265.49 125.25 264.46 109.25 253.67 105.24 254.18"/>
+ <linearGradient id="ian_symbols_b02ec35187b6773449102bf17ccadf6e" y2="201.1" gradientUnits="userSpaceOnUse" x2="-261.49" gradientTransform="matrix(-1 0 0 1 -191.73 0)" y1="242.14" x1="-302.53">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_b02ec35187b6773449102bf17ccadf6e)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="99.136 253.81 99.136 202.13 80.788 190.07 80.788 240.46"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="83.023 191.74 99.136 202.13 99.136 223.91 83.023 213.16"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="80.788 190.07 83.565 191.89 83.565 242.49 80.788 240.46"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="95.121 249.14 99.087 248.14 99.087 253.91 94.828 254.92 79.41 243.47 79.41 237.98"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="95.121 249.14 99.087 248.14 83.284 237.47 79.334 237.98"/>
+ <linearGradient id="ian_symbols_b59c8f2d739e94b42d76aa58b25faa56" y2="179.49" gradientUnits="userSpaceOnUse" x2="-220.96" gradientTransform="matrix(-1 0 0 1 -191.73 0)" y1="217.06" x1="-258.54">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_b59c8f2d739e94b42d76aa58b25faa56)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="56.125 227.75 56.125 180.43 39.34 169.38 39.34 215.54"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="41.369 170.92 56.125 180.43 56.125 200.37 41.369 190.53"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="39.34 169.38 41.879 171.06 41.879 217.39 39.34 215.54"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="52.469 223.48 56.104 222.55 56.104 227.84 52.198 228.76 38.082 218.3 38.082 213.26"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="52.469 223.48 56.104 222.55 41.619 212.79 38 213.26"/>
+ <linearGradient id="ian_symbols_058ca55738ebba34f5e6a9f414046141" y2="167.74" gradientUnits="userSpaceOnUse" x2="-203.45" gradientTransform="matrix(-1 0 0 1 -191.73 0)" y1="202.46" x1="-238.17">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_058ca55738ebba34f5e6a9f414046141)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="36.183 212.72 36.183 167.31 20.081 159.38 20.081 201"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="22.034 160.84 36.183 167.31 36.183 186.45 22.034 177"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="20.081 159.38 22.511 160.99 22.511 202.78 20.081 201"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="32.667 208.62 36.145 207.73 36.145 212.8 32.407 213.7 18.866 203.65 18.866 198.81"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="32.667 208.62 36.145 207.73 22.256 198.37 18.79 198.81"/>
+ <linearGradient id="ian_symbols_d0bae2b74198a22421fc2871b7abe185" y2="242.7" gradientUnits="userSpaceOnUse" x2="316.89" y1="286.91" x1="272.67">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_d0bae2b74198a22421fc2871b7abe185)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="285.25 299.49 285.25 243.81 305.01 230.82 305.01 285.11"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="302.61 232.62 285.25 243.81 285.25 267.28 302.61 255.7"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="305.01 230.82 302.01 232.79 302.01 287.3 305.01 285.11"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="289.56 294.47 285.28 293.38 285.28 299.59 289.87 300.68 306.48 288.36 306.48 282.44"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="289.56 294.47 285.28 293.38 302.32 281.88 306.58 282.44"/>
+ <linearGradient id="ian_symbols_c6b02a010d2b94f45d295c21a35d75ae" y2="226.06" gradientUnits="userSpaceOnUse" x2="340.02" y1="267.75" x1="298.33">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_c6b02a010d2b94f45d295c21a35d75ae)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="310.18 279.6 310.18 227.11 328.82 214.86 328.82 266.06"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="326.55 216.56 310.18 227.11 310.18 249.24 326.55 238.33"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="328.82 214.86 325.99 216.71 325.99 268.12 328.82 266.06"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="314.25 274.87 310.21 273.85 310.21 279.71 314.54 280.73 330.21 269.12 330.21 263.53"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="314.25 274.87 310.21 273.85 326.29 263.01 330.29 263.53"/>
+ <linearGradient id="ian_symbols_7cb41a87f7165a34010a8a44af0e6ba1" y2="195.64" gradientUnits="userSpaceOnUse" x2="380.88" y1="235.43" x1="341.09">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_7cb41a87f7165a34010a8a44af0e6ba1)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="352.41 246.75 352.41 196.63 370.19 184.94 370.19 233.81"/>
+ <linearGradient id="ian_symbols_323154706147fec441c72e0c6e73f71e" y2="327.2" gradientUnits="userSpaceOnUse" x2="326.53" y1="395.01" x1="258.72">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_323154706147fec441c72e0c6e73f71e)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="311.85 312.52 272.63 348.44 272.63 408.92 311.85 374.54"/>
+ <linearGradient id="ian_symbols_8e57798e664f33845183d14b0e854204" y2="287.72" gradientUnits="userSpaceOnUse" x2="372.15" y1="355.04" x1="304.83">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_8e57798e664f33845183d14b0e854204)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="357.73 273.3 318.5 309.2 318.5 368.7 357.73 334.31"/>
+ <linearGradient id="ian_symbols_4dc4b78e5ea8def4b1ae229670600127" y2="249.53" gradientUnits="userSpaceOnUse" x2="416.41" y1="316.26" x1="349.67">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_4dc4b78e5ea8def4b1ae229670600127)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="402.27 235.4 363.05 271.3 363.05 329.64 402.27 295.25"/>
+ <linearGradient id="ian_symbols_c16c9c7f7d614ab4c91e73bd99b2da32" y2="186.57" gradientUnits="userSpaceOnUse" x2="493.08" y1="244.5" x1="435.15">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_c16c9c7f7d614ab4c91e73bd99b2da32)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="480.73 174.22 446.84 205.26 446.84 256.19 480.73 226.46"/>
+ <linearGradient id="ian_symbols_153319f9be3ef45439059f994c00baaa" y2="223.24" gradientUnits="userSpaceOnUse" x2="452.61" y1="280.04" x1="395.81">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_153319f9be3ef45439059f994c00baaa)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="440.84 211.46 406.93 242.49 406.93 291.17 440.84 261.44"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="368.04 186.55 352.41 196.63 352.41 217.76 368.04 207.34"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="370.19 184.94 367.5 186.71 367.5 235.77 370.19 233.81"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="356.3 242.23 352.44 241.26 352.44 246.83 356.57 247.82 371.52 236.73 371.52 231.4"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="356.3 242.23 352.44 241.26 367.77 230.91 371.61 231.4"/>
+ <linearGradient id="ian_symbols_7c37175bd0fa95b4fdf1f4d4972e881e" y2="180.78" gradientUnits="userSpaceOnUse" x2="402.96" y1="219.73" x1="364.02">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_7c37175bd0fa95b4fdf1f4d4972e881e)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="375.09 230.81 375.09 181.75 392.49 170.31 392.49 218.16"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="390.39 171.89 375.09 181.75 375.09 202.44 390.39 192.24"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="392.49 170.31 389.86 172.04 389.86 220.08 392.49 218.16"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="378.88 226.39 375.13 225.44 375.13 230.91 379.17 231.86 393.8 221.01 393.8 215.79"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="378.88 226.39 375.13 225.44 390.13 215.3 393.88 215.79"/>
+ <linearGradient id="ian_symbols_49a19b4fff25fb54e102df11b1283588" y2="166.97" gradientUnits="userSpaceOnUse" x2="422.92" y1="204.55" x1="385.34">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_49a19b4fff25fb54e102df11b1283588)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="396.02 215.23 396.02 167.91 412.82 156.86 412.82 203.02"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="410.78 158.39 396.02 167.91 396.02 187.85 410.78 178.01"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="412.82 156.86 410.28 158.54 410.28 204.87 412.82 203.02"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="399.71 210.96 396.06 210.03 396.06 215.3 399.97 216.24 414.08 205.78 414.08 200.73"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="399.71 210.96 396.06 210.03 410.54 200.26 414.17 200.73"/>
+ <linearGradient id="ian_symbols_f6e4bad616b96a6481e1c7737ba0e7de" y2="144.26" gradientUnits="userSpaceOnUse" x2="453.85" y1="178.97" x1="419.13">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_f6e4bad616b96a6481e1c7737ba0e7de)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="429.01 188.85 429.01 145.12 444.51 134.92 444.51 177.57"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="442.63 136.34 429.01 145.12 429.01 163.57 442.63 154.46"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="444.51 134.92 442.16 136.47 442.16 179.28 444.51 177.57"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="432.38 184.91 429.02 184.06 429.02 188.94 432.63 189.79 445.68 180.12 445.68 175.46"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="432.38 184.91 429.02 184.06 442.4 175.03 445.74 175.46"/>
+ <linearGradient id="ian_symbols_2c51c2fa0246cdc4157f00bf55233ba6" y2="132.92" gradientUnits="userSpaceOnUse" x2="470.62" y1="164.99" x1="438.54">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_2c51c2fa0246cdc4157f00bf55233ba6)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="447.67 174.12 447.67 133.71 461.99 124.29 461.99 163.69"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="460.27 125.59 447.67 133.71 447.67 150.74 460.27 142.35"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="461.99 124.29 459.83 125.7 459.83 165.26 461.99 163.69"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="450.79 170.47 447.68 169.69 447.68 174.18 451 174.98 463.08 166.04 463.08 161.75"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="450.79 170.47 447.68 169.69 460.06 161.34 463.13 161.75"/>
+ <linearGradient id="ian_symbols_a24983ed5be67d74a92640fd8a26cbfc" y2="122.49" gradientUnits="userSpaceOnUse" x2="486.55" y1="153.14" x1="455.9">
+  <stop stop-color="#5A7882" offset=".264"/>
+  <stop stop-color="#58757F" offset=".2934"/>
+  <stop stop-color="#2E4D4F" offset=".7736"/>
+  <stop stop-color="#1E3E3F" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_a24983ed5be67d74a92640fd8a26cbfc)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="464.62 161.86 464.62 123.25 478.31 114.24 478.31 151.9"/>
+ <polygon stroke-linejoin="round" fill="#C4DBE7" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="476.65 115.5 464.62 123.25 464.62 139.52 476.65 131.5"/>
+ <polygon stroke-linejoin="round" fill="#1E3E3F" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="478.31 114.24 476.24 115.61 476.24 153.4 478.31 151.9"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="467.59 158.37 464.63 157.62 464.63 161.92 467.81 162.68 479.33 154.13 479.33 150.03"/>
+ <polygon stroke-linejoin="round" fill="#F1EFEC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="467.59 158.37 464.63 157.62 476.46 149.66 479.4 150.03"/>
+ <linearGradient id="ian_symbols_82f7f58190aefee44df71717fd198263" y2="193.51" gradientUnits="userSpaceOnUse" x2="500.01" y1="193.51" x1="449.05">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#AD2E38" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_82f7f58190aefee44df71717fd198263)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="487.62 165.13 500.01 189.07 463.23 221.88 449.05 197.05"/>
+ <linearGradient id="ian_symbols_72695d803887ad9449aaf6dc28a425a2" y2="211.02" gradientUnits="userSpaceOnUse" x2="463.23" y1="211.02" x1="449.05">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_72695d803887ad9449aaf6dc28a425a2)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="449.05 197.05 463.23 221.88 451.25 224.98"/>
+ <linearGradient id="ian_symbols_fff0e8699f1621840166536bac9d084a" y2="238" gradientUnits="userSpaceOnUse" x2="459.25" y1="238" x1="382.11">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#AD2E38" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_fff0e8699f1621840166536bac9d084a)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="446.38 200.16 459.25 224.98 398.69 275.85 382.12 251.13"/>
+ <linearGradient id="ian_symbols_35c311ee8d8faaa4b578895587136998" y2="317.58" gradientUnits="userSpaceOnUse" x2="330.21" y1="317.58" x1="313.35">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_35c311ee8d8faaa4b578895587136998)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="317.79 302.06 330.21 333.09 313.35 331.51"/>
+ <linearGradient id="ian_symbols_c53a3d34aefc5a44694d0514f3a77bab" y2="261.22" gradientUnits="userSpaceOnUse" x2="398.69" y1="261.22" x1="381.84">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_c53a3d34aefc5a44694d0514f3a77bab)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="381.84 246.58 398.69 275.85 381.84 274.26"/>
+ <linearGradient id="ian_symbols_704783d15e9b63a445296d4111c37a6f" y2="292.8" gradientUnits="userSpaceOnUse" x2="394.97" y1="292.8" x1="317.39">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#AD2E38" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_704783d15e9b63a445296d4111c37a6f)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="379.01 252.46 379.02 252.48 394.97 279.49 330.26 333.14 317.39 301.67"/>
+ <linearGradient id="ian_symbols_6295c1070970edd4b112c294d37e92c6" y2="340.9" gradientUnits="userSpaceOnUse" x2="328.03" y1="340.9" x1="269.96">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#AD2E38" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_6295c1070970edd4b112c294d37e92c6)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="316.06 304.32 328.03 335.81 277.06 377.47 269.96 340.23"/>
+ <linearGradient id="ian_symbols_62c5a0665ec6b0b4cdd69c5691c91813" y2="358.85" gradientUnits="userSpaceOnUse" x2="277.06" y1="358.85" x1="260.21">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_62c5a0665ec6b0b4cdd69c5691c91813)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="269.96 340.23 270.31 342.01 277.06 377.47 260.21 375.69"/>
+ <linearGradient id="ian_symbols_d79ff9ecc43f1e14a99d3c6fef7e50cf" y2="129.68" gradientUnits="userSpaceOnUse" x2="465.44" y1="129.68" x1="57.634">
+  <stop stop-color="#869F5E" offset=".0169"/>
+  <stop stop-color="#5C873B" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_d79ff9ecc43f1e14a99d3c6fef7e50cf)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="57.634 140.32 230.52 224.54 465.44 77.82 305.88 34.821"/>
+ <pattern id="ian_symbols_4b781950befd0b44497caa7cf07c1149" xlink:href="#ian_symbols_c60b60bc403a62d43d8277b4b502757b" patternTransform="matrix(3.0588 0 0 3.0588 16301 17703)"></pattern>
+ <polygon opacity=".8" stroke-linejoin="round" points="57.634 140.32 230.52 224.54 465.44 77.82 305.88 34.821" stroke="#052526" stroke-linecap="round" stroke-width=".0275" fill="url(#ian_symbols_4b781950befd0b44497caa7cf07c1149)"/>
+ <linearGradient id="ian_symbols_06b79f9c12152a947d4741721d1fd854" y2="345.55" gradientUnits="userSpaceOnUse" x2="198.15" y1="345.55" x1="124.35">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_06b79f9c12152a947d4741721d1fd854)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="198.15 347.33 185.31 382.79 124.35 339.79 135.88 308.31"/>
+ <linearGradient id="ian_symbols_bdda1010f19cfaf42dc235e083f3c7bd" y2="365.06" gradientUnits="userSpaceOnUse" x2="199.92" y1="365.06" x1="185.31">
+  <stop stop-color="#661A17" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_bdda1010f19cfaf42dc235e083f3c7bd)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="198.15 347.33 185.31 382.79 199.92 379.68"/>
+ <linearGradient id="ian_symbols_edff630de38bf104d157e8f1cf811087" y2="260.89" gradientUnits="userSpaceOnUse" x2="67.833" y1="260.89" x1=".0137">
+  <stop stop-color="#862A28" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_edff630de38bf104d157e8f1cf811087)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="67.833 260 54.975 295.46 .014 257.78 11.542 226.31"/>
+ <linearGradient id="ian_symbols_ee0846c2bf254f54117821cade945d1a" y2="277.73" gradientUnits="userSpaceOnUse" x2="69.612" y1="277.73" x1="54.975">
+  <stop stop-color="#661A17" offset="0"/>
+  <stop stop-color="#7C2423" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_ee0846c2bf254f54117821cade945d1a)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="67.833 260 54.975 295.46 69.612 292.36"/>
+ <polygon stroke-linejoin="round" fill="#B4917E" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="122.8 95.539 279.93 158.28 371.03 105.08 216.77 51.227"/>
+ <polygon stroke-linejoin="round" fill="#FCFDFC" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="196.82 52.55 134.32 29.938 220.1 .014 285.26 20.629"/>
+ <linearGradient id="ian_symbols_d8ace2c608f7b134f110328a051467e5" y2="26.282" gradientUnits="userSpaceOnUse" x2="273.29" y1="26.282" x1="146.96">
+  <stop stop-color="#869F5E" offset=".0169"/>
+  <stop stop-color="#5C873B" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_d8ace2c608f7b134f110328a051467e5)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="146.96 30.611 220.1 4.006 273.29 20.629 196.82 48.557"/>
+ <pattern id="ian_symbols_4794bccaa9d588c4d17a6ae14c4173e5" xlink:href="#ian_symbols_c60b60bc403a62d43d8277b4b502757b" patternTransform="matrix(3.0588 0 0 3.0588 16301 17703)"></pattern>
+ <polygon opacity=".7" stroke-linejoin="round" points="146.96 30.611 220.1 4.006 273.29 20.629 196.82 48.557" stroke="#052526" stroke-linecap="round" stroke-width=".0275" fill="url(#ian_symbols_4794bccaa9d588c4d17a6ae14c4173e5)"/>
+ <linearGradient id="ian_symbols_04fc7aa13d4fdb943163f0d4d7ddc75e" y2="116.38" gradientUnits="userSpaceOnUse" x2="131" y1="116.38" x1="35.26">
+  <stop stop-color="#869F5E" offset=".0169"/>
+  <stop stop-color="#5C873B" offset="1"/>
+ </linearGradient>
+ <polygon stroke-linejoin="round" fill="url(#ian_symbols_04fc7aa13d4fdb943163f0d4d7ddc75e)" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="35.26 127.68 51.21 136.34 131 103.08 111.05 96.428"/>
+ <polygon stroke-linejoin="round" fill="#002726" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="13.386 209.79 231.16 351.47 231.77 373.74 2.873 224.64"/>
+ <polygon stroke-linejoin="round" fill="#206981" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="488.51 152.87 231.16 351.47 231.77 373.74 494.71 164"/>
+ <polygon stroke-linejoin="round" fill="#0E424D" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="134.32 95.767 134.32 29.938 196.82 52.55 196.82 69.173 187.52 65.18 187.52 114.39"/>
+ <polygon stroke-linejoin="round" fill="#437B98" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="187.52 114.39 187.52 65.18 273.96 31.935 273.96 76.486"/>
+ <polygon stroke-linejoin="round" fill="#206981" stroke="#052526" stroke-linecap="round" stroke-width=".0275" points="196.82 61.729 196.82 52.55 285.26 20.629 285.26 29.081"/>
+ <path stroke="#000" stroke-width=".0275" d="m110.63 95.875c-.759-1.258-.977-3.211-.966-4.655 2.734-2.235 4.655-9.038 8.333-7.682.152-.478.304-.933.467-1.389 1.638-.163 2.485-1.042 4.156-1.269 1.66-.228 3.7 1.215 3.781-2.637.374.716 1.221 1.02 1.611 1.671 2.224-4.883 3.646-.261 5.566.152 1.096.239 1.606-.771 2.658-.706.25-.391.554-.597.933-.64 1.009.13.694 1.769 1.194 1.953 1.736.651 4.589-.184 5.859.369 1.02.445 1.291 2.17 2.246 2.756.922.553 2.165.607 3.168.846-1.139 4.59 2.051 5.382 3.185 8.691 1.524 4.405.646 7.595-3.108 10.644-1.79 1.454-2.376.641-4.156 1.248-.9.314-1.215 1.595-2.257 1.747-1.28.195-3.732 1.584-4.73 1.541-2.734-.141-6.901 1.964-9.857-1.975-5.409 1.975-5.1-2.865-7.774-3.635-.879-.25-.944 1.052-2.062.445-.819-.423-1.28-2.42-1.758-2.647-1.839-.922-3.483 1.703-4.286-1.78l-2.19-3.035z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m90.662 115.31c-1.899-2.756-6.83-2.485-8.083-2.865-1.258-.369-.293-1.769-.206-2.441-1.302-.25-2.745.207-4.025-.293-.966-.391-4.622-1.801-3.168-2.593 1.465-.792 2.897-1.888 2.631-4.34 1.058-.174 1.449-.792 2.501-.271-.087-.672.314-1.779.239-2.452 2.376-.314 1.573-3.342 3.114-4.947.977-1.042 1.953 0 2.935-.803.901-.727 1.123-2.496 2.023-3.266 2.409-2.051 3.592.716 6.142.119 1.41-.336 1.15-2.17 2.734-2.213.738-.033 1.59 1.769 2.713 1.953 1.877.314 4.709-1.791 6.825-1.866 2.126-.087 4.438-.293 6.282.651.944.478 1.638 1.66 2.55 2.105 1.085.532 1.91-.456 2.962.586 1.465 1.476.657 4.666 3.092 4.958-.086.64.31 1.769.228 2.409 2.322.835 8.192 4.698 6.239 8.583-.944 1.855-4.253 1.638-5.707 1.584-.895-.021-.803-.977-1.839-.77-.7.152-1.502 1.519-2.186 1.877-.933.499-1.693.499-2.626.835-.228.314-.434.64-.607 1.009-.043 0-2.376 0-2.105-.12-1.627.749-2.93 2.159-4.904 2.789-2.083.662-3.949.846-6.13.478-1.627-.271-4.405.195-5.479-.694.012-.02-4.23 2.71-6.129-.02z" fill="#5C873B"/>
+ <linearGradient id="ian_symbols_530ab943670e79c43d61ef526fc13326" y2="111.85" gradientUnits="userSpaceOnUse" x2="297.59" y1="111.85" x1="250.7">
+  <stop stop-color="#C4DBE7" offset="0"/>
+  <stop stop-color="#83CEED" offset="1"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m297.59 111.85c0 7.671-10.492 13.899-23.437 13.899-12.955 0-23.448-6.228-23.448-13.899s10.493-13.888 23.448-13.888c12.94-.004 23.44 6.218 23.44 13.888z" stroke="#052526" stroke-linecap="round" stroke-width=".0275" fill="url(#ian_symbols_530ab943670e79c43d61ef526fc13326)"/>
+ <path stroke="#000" stroke-width=".0275" d="m62.125 126.07c-.412-1.931-2.203-1.498-3.331-2.062-1.817-.912-1.855-1.193-3.146-2.517-1.823-1.866-4.177-4.623-4.101-6.489.076-1.855 1.334-7.66 2.69-6.9 1.362.749 4.34-3.993 7.227-4.688 3.114-.749 4.958-2.43 8.04-2.55 2.647-.087 4.524-1.4 7.334-2.615 2.116-.901 7.595-2.17 7.855-.087.261 2.083 4.557 4.134 6.152 5.229 2.951 2.019 4.969 7.465 5.229 8.854.271 1.378-2.962 2.062-3.157 4.112 1.432 4.752-.754 4.557-2.734 5.208-2.951.955-5.349.966-8.04 2.485-3.423 1.953-9.982 4.872-14.007.998-1.845-1.541-3.689 3.472-4.872 3.038-1.209-.42-.721-.08-1.139-2.01z" fill="#709346"/>
+ <linearGradient id="ian_symbols_f570391540b92e04a1e7c76bb759ceec" y2="94.362" gradientUnits="userSpaceOnUse" x2="293.39" y1="94.362" x1="274.96">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m275.94 96.646c-.189-.38-.765-.868-.884-1.345-.293-1.15.098-.586.261-1.552.217-1.27.325-3.418 1.866-2.68.542-2.799 3.624-.391 4.676-2.669.684.759 1.628-.12 2.518-.065.879.043 1.996.456 2.93.716.271.087.944.336 1.204.434.065-.206.195-.326.374-.369.537.239.375.651.668.89.119.108.868.727.954.803.488.51 1.313.629.689 1.595.516.152 1.025.033 1.535.163-.064.868-.64 1.497-.792 2.539.716.26 1.346.803 1.443 1.866-.944.629-.998.597-1.541 1.28-.336.412-2.213.651-2.68.89-1.454.705-1.975 1.172-3.511 1.248-.797.043-1.307-.466-1.915-.542-.77-.119-1.421.217-2.289.12-.873-.109-3.548-.043-3.873-1.248l-1.64-2.074z" fill="url(#ian_symbols_f570391540b92e04a1e7c76bb759ceec)"/>
+ <linearGradient id="ian_symbols_dec1605e84d4dbf4b51d6d8c505d119c" y2="99.771" gradientUnits="userSpaceOnUse" x2="302.75" y1="99.771" x1="284.31">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m285.32 102.06c-.207-.379-.781-.879-.901-1.334-.282-1.161.108-.597.271-1.563.206-1.258.314-3.429 1.866-2.68.543-2.811 3.624-.38 4.66-2.669.689.771 1.644-.119 2.522-.076.879.054 2.008.466 2.919.738.282.076.966.325 1.216.434.075-.217.206-.336.379-.38.532.239.353.651.662.9.119.087.879.716.955.792.488.51 1.313.64.684 1.595.521.152 1.03.033 1.552.163-.076.857-.641 1.508-.814 2.539.728.271 1.356.813 1.465 1.855-.954.629-1.009.607-1.552 1.28-.336.423-2.202.673-2.68.89-1.454.716-1.964 1.183-3.493 1.259-.814.043-1.335-.456-1.938-.542-.754-.12-1.432.217-2.272.119-.879-.098-3.57-.043-3.885-1.248l-1.62-2.08z" fill="url(#ian_symbols_dec1605e84d4dbf4b51d6d8c505d119c)"/>
+ <linearGradient id="ian_symbols_234230403563e5b48d1aafd49ecbad10" y2="82.069" gradientUnits="userSpaceOnUse" x2="285.73" y1="82.069" x1="269.55">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m273.4 86.967c-.151-.694-.803-.543-1.215-.738-.651-.336-.673-.434-1.15-.922-.656-.684-1.52-1.682-1.486-2.354.032-.673.478-2.778.977-2.506.499.271 1.584-1.443 2.62-1.704 1.145-.271 1.807-.89 2.924-.922.966-.043 1.649-.51 2.664-.944.765-.336 2.756-.803 2.859-.043.086.759 1.66 1.498 2.245 1.899 1.063.738 1.802 2.712 1.889 3.222.098.5-1.074.749-1.15 1.498.521 1.714-.261 1.649-.987 1.888-1.063.348-1.942.348-2.93.901-1.237.705-3.624 1.769-5.078.358-.673-.564-1.345 1.27-1.779 1.107-.41-.165-.23-.035-.38-.740z" fill="url(#ian_symbols_234230403563e5b48d1aafd49ecbad10)"/>
+ <path stroke="#000" stroke-width=".0275" d="m290.72 108.95c-.195-.369-.771-.868-.885-1.334-.287-1.161.104-.597.266-1.552.201-1.27.326-3.429 1.866-2.691.532-2.799 3.624-.38 4.677-2.669.673.77 1.628-.108 2.507-.065.873.043 2.007.456 2.918.727.293.076.966.336 1.216.434.075-.206.206-.336.38-.38.525.239.357.651.661.901.131.098.879.716.955.792.488.521 1.313.64.694 1.606.505.152 1.021.021 1.541.152-.081.868-.641 1.508-.813 2.539.721.282 1.355.814 1.464 1.866-.954.629-1.009.597-1.551 1.281-.337.412-2.214.651-2.67.89-1.464.716-1.975 1.172-3.504 1.258-.814.043-1.34-.466-1.921-.553-.771-.119-1.443.217-2.289.12-.879-.098-3.57-.043-3.885-1.237l-1.64-2.09z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m273.21 91.112c-.662-.955-2.387-.868-2.826-.998-.429-.13-.104-.619-.07-.847-.445-.086-.955.065-1.4-.108-.336-.13-1.616-.629-1.106-.89.51-.282 1.009-.673.922-1.519.358-.065.499-.282.868-.108-.032-.217.108-.607.076-.846.836-.108.554-1.161 1.085-1.726.358-.358.694 0 1.025-.271.32-.26.396-.879.7-1.139.856-.716 1.27.25 2.159.032.478-.108.385-.749.954-.77.25-.011.543.618.944.684.651.108 1.639-.629 2.376-.651.722-.021 1.541-.108 2.181.228.337.163.575.575.885.727.385.195.667-.152 1.036.217.521.51.239 1.617 1.085 1.725-.043.228.098.619.076.836.813.293 2.854 1.638 2.17 2.994-.325.641-1.476.564-1.985.554-.304-.011-.282-.347-.641-.271-.238.054-.531.532-.759.651-.326.173-.586.173-.923.293-.081.108-.151.228-.217.347-.011.011-.813.011-.728-.033-.563.26-1.02.749-1.714.966-.716.228-1.367.293-2.127.163-.575-.087-1.529.076-1.909-.239 0-.001-1.48.954-2.13-.001z" fill="#5C873B"/>
+ <linearGradient id="ian_symbols_309c76f05beda204d94cbcc5919fdb28" y2="124.04" gradientUnits="userSpaceOnUse" x2="71.088" y1="124.04" x1="30.342">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m32.537 129.09c-.434-.824-1.714-1.92-1.969-2.951-.635-2.561.233-1.324.591-3.45.456-2.789.705-7.573 4.123-5.914 1.183-6.217 8.007-.857 10.33-5.902 1.508 1.682 3.613-.271 5.555-.163 1.931.108 4.432 1.009 6.467 1.605.607.185 2.11.749 2.669.966.152-.466.445-.738.841-.835 1.177.532.809 1.432 1.47 1.986.271.217 1.942 1.584 2.116 1.769 1.085 1.117 2.881 1.399 1.519 3.526 1.14.336 2.268.054 3.407.336-.152 1.921-1.421 3.342-1.791 5.631 1.606.597 2.989 1.791 3.223 4.112-2.089 1.389-2.224 1.324-3.429 2.821-.727.934-4.872 1.476-5.902 1.975-3.233 1.573-4.362 2.604-7.736 2.778-1.791.086-2.94-1.02-4.264-1.215-1.682-.25-3.168.488-5.045.26-1.931-.217-7.877-.087-8.588-2.734l-3.587-4.62z" fill="url(#ian_symbols_309c76f05beda204d94cbcc5919fdb28)"/>
+ <path stroke="#000" stroke-width=".0275" d="m257.29 92.262c-.055-.5-.51-.434-.787-.619-.418-.282-.418-.358-.71-.727-.391-.521-.89-1.28-.814-1.747.076-.466.564-1.877.879-1.649.325.228 1.216-.857 1.953-.944.803-.109 1.313-.467 2.083-.401.673.054 1.183-.207 1.932-.423.554-.163 1.964-.315 1.975.217 0 .521 1.009 1.172 1.378 1.498.673.586 1.009 2.018 1.025 2.376.038.358-.797.423-.911.922.212 1.237-.331 1.128-.841 1.226-.771.152-1.367.076-2.095.38-.911.391-2.647.911-3.542-.174-.407-.456-1.025.76-1.308.608s-.18-.044-.22-.543z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m261.55 94.421c-.357-.575-.45-1.454-.439-2.105 1.242-1.009 2.11-4.091 3.771-3.483.065-.206.142-.413.206-.629.738-.065 1.123-.456 1.889-.564.748-.108 1.671.542 1.703-1.193.174.326.554.456.727.749 1.01-2.203 1.649-.119 2.518.076.488.108.727-.347 1.204-.326.108-.173.25-.26.424-.282.455.054.314.803.525.879.798.293 2.089-.076 2.664.174.456.195.581.977 1.021 1.237.412.25.971.271 1.427.38-.516 2.083.938 2.441 1.448 3.938.684 1.986.282 3.439-1.411 4.807-.813.673-1.073.304-1.893.575-.396.141-.537.716-1.015.792-.575.087-1.682.716-2.138.694-1.226-.065-3.114.89-4.448-.89-2.463.89-2.312-1.302-3.532-1.649-.385-.108-.418.478-.933.207-.353-.207-.581-1.096-.787-1.205-.824-.412-1.573.781-1.947-.803l-.98-1.379z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m223.62 115.29c-.309-.51-.396-1.302-.396-1.888 1.118-.911 1.888-3.667 3.385-3.114.065-.185.12-.38.185-.564.662-.065 1.003-.423 1.692-.51.662-.098 1.487.499 1.53-1.063.141.282.488.412.651.672.9-1.975 1.476-.108 2.246.065.439.087.651-.314 1.074-.293.108-.152.228-.238.379-.25.423.043.282.706.488.781.706.271 1.866-.065 2.376.152.412.185.521.879.911 1.107.369.239.879.25 1.27.347-.445 1.866.846 2.192 1.302 3.526.618 1.79.26 3.071-1.259 4.308-.727.597-.966.26-1.692.51-.358.12-.488.64-.901.706-.521.086-1.519.64-1.931.629-1.096-.055-2.789.792-3.982-.803-2.192.803-2.073-1.172-3.152-1.476-.363-.108-.385.434-.83.195-.336-.185-.521-.998-.716-1.085-.738-.369-1.411.694-1.736-.716l-.88-1.27z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m217.27 127.76c-.174-.282-.217-.695-.207-1.009.575-.478.993-1.942 1.78-1.649.032-.098.065-.206.098-.304.358-.033.537-.217.9-.271.358-.043.792.26.814-.564.076.152.26.217.336.358.488-1.042.787-.054 1.204.033.228.043.347-.163.575-.152.054-.087.119-.13.195-.13.211.022.152.369.25.413.38.141.998-.043 1.27.086.217.087.271.456.477.586.207.12.467.13.684.185-.25.987.445 1.161.684 1.866.326.944.141 1.639-.662 2.29-.391.304-.51.13-.9.26-.185.065-.25.347-.478.38-.282.043-.803.336-1.02.336-.586-.033-1.492.412-2.116-.434-1.172.434-1.107-.607-1.676-.781-.19-.043-.201.239-.45.108-.163-.098-.271-.521-.369-.575-.391-.195-.749.358-.922-.379l-.45-.68z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m303.08 131.44c-.163-.271-.218-.694-.218-.998.597-.488 1.021-1.942 1.796-1.66.038-.087.07-.195.104-.293.342-.032.531-.228.89-.271.357-.054.803.26.824-.564.076.152.25.217.337.347.478-1.042.792-.043 1.193.043.238.043.353-.173.575-.152.054-.087.119-.13.206-.141.217.033.151.38.249.423.38.13.987-.043 1.27.076.217.098.271.467.478.597.195.108.467.13.684.173-.249.987.445 1.172.684 1.866.325.955.13 1.639-.673 2.3-.38.304-.51.13-.89.26-.195.065-.271.347-.488.369-.282.043-.809.347-1.009.336-.586-.033-1.486.423-2.132-.423-1.156.423-1.091-.607-1.666-.781-.189-.054-.2.228-.444.098-.174-.098-.271-.521-.38-.575-.391-.195-.743.369-.923-.369l-.47-.69z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m305.18 88.801c-.163-.271-.217-.694-.206-.998.58-.488.998-1.942 1.79-1.66.033-.087.065-.195.098-.293.348-.033.537-.228.9-.271.358-.043.792.261.814-.564.075.152.26.217.336.347.478-1.042.792-.043 1.193.043.239.043.348-.174.575-.152.055-.087.13-.13.206-.13.212.021.152.369.244.412.386.13.993-.043 1.275.076.217.098.271.467.478.597.195.108.466.13.684.174-.25.987.434 1.161.684 1.877.325.944.124 1.638-.673 2.29-.38.304-.511.13-.89.26-.201.065-.261.347-.488.38-.271.032-.804.336-1.021.336-.575-.043-1.476.413-2.115-.434-1.161.434-1.096-.619-1.671-.781-.195-.054-.195.239-.45.098-.169-.098-.267-.51-.375-.575-.38-.195-.737.369-.911-.369l-.47-.663z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m235.16 95.647c-.163-.271-.217-.695-.206-.999.586-.488.999-1.953 1.791-1.649.032-.109.065-.207.098-.304.347-.043.542-.228.9-.282.358-.043.792.271.803-.564.076.152.271.217.358.358.461-1.042.781-.054 1.183.043.239.043.347-.163.575-.163.054-.076.13-.13.206-.13.217.022.141.38.25.413.38.152.987-.033 1.27.087.211.086.271.466.478.586.189.13.456.13.667.184-.233.987.445 1.161.7 1.877.326.944.13 1.627-.672 2.278-.38.314-.516.141-.89.271-.195.065-.261.336-.488.379-.271.033-.803.326-1.02.326-.586-.033-1.476.423-2.105-.423-1.172.423-1.107-.618-1.671-.781-.206-.054-.206.228-.445.098-.185-.086-.282-.521-.38-.564-.401-.206-.759.358-.922-.391l-.48-.650z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m252.51 103.21c-.857-1.248-3.082-1.128-3.656-1.292-.564-.173-.13-.803-.087-1.106-.602-.119-1.248.087-1.823-.13-.434-.173-2.094-.825-1.432-1.172.662-.358 1.302-.857 1.193-1.975.466-.076.651-.347 1.128-.119-.043-.293.13-.803.108-1.107 1.074-.141.7-1.508 1.4-2.246.445-.456.89 0 1.334-.358.401-.326.51-1.128.911-1.476 1.096-.922 1.639.326 2.789.054.629-.152.521-.977 1.237-.998.325-.022.716.803 1.226.89.836.13 2.116-.825 3.082-.857s2.007-.13 2.843.293c.423.228.737.76 1.145.955.493.25.873-.206 1.34.271.673.662.304 2.105 1.399 2.246-.032.282.152.792.108 1.085 1.053.38 3.711 2.127 2.821 3.884-.423.836-1.92.738-2.582.716-.401-.011-.369-.456-.825-.347-.325.065-.684.684-.998.846-.423.228-.76.228-1.183.38-.113.141-.195.293-.271.445-.021.011-1.074.011-.954-.043-.738.336-1.335.977-2.225 1.259-.934.304-1.779.379-2.767.217-.738-.13-1.997.087-2.485-.314.01-.02-1.9 1.22-2.77-.02z" fill="#5C873B"/>
+ <path stroke="#000" stroke-width=".0275" d="m244.05 110.54c-.195-.879-1.009-.684-1.519-.933-.814-.412-.841-.542-1.421-1.139-.83-.846-1.899-2.094-1.855-2.93.033-.846.591-3.472 1.215-3.136.618.336 1.964-1.79 3.277-2.116 1.399-.336 2.235-1.096 3.635-1.15 1.193-.043 2.04-.629 3.32-1.183.944-.413 3.429-.987 3.548-.033.119.933 2.062 1.866 2.777 2.354 1.329.922 2.24 3.375 2.365 4.004.131.629-1.334.933-1.432 1.866.65 2.148-.326 2.062-1.237 2.354-1.324.434-2.409.434-3.624 1.118-1.551.89-4.514 2.213-6.342.456-.83-.694-1.666 1.573-2.197 1.378-.59-.20-.35-.04-.54-.91z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m215.77 121.12c-.07-.781-.797-.694-1.199-.977-.678-.445-.689-.553-1.123-1.139-.624-.814-1.416-2.018-1.297-2.745.12-.727.89-2.94 1.389-2.583.499.358 1.898-1.356 3.06-1.497 1.259-.141 2.062-.716 3.288-.608 1.042.087 1.845-.336 3.005-.672.868-.261 3.082-.499 3.082.336 0 .836 1.595 1.845 2.17 2.354 1.058.934 1.595 3.168 1.628 3.722.043.554-1.259.673-1.433 1.465.326 1.932-.51 1.758-1.334 1.91-1.193.239-2.137.13-3.277.597-1.432.597-4.145 1.443-5.544-.282-.651-.694-1.617 1.193-2.062.965-.46-.25-.29-.09-.37-.86z" fill="#709346"/>
+ <linearGradient id="ian_symbols_c8799787122bb64409099101d7371c19" y2="117.49" gradientUnits="userSpaceOnUse" x2="215.83" y1="117.49" x1="198.16">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m202.36 122.85c-.174-.77-.879-.597-1.335-.813-.705-.369-.738-.478-1.248-.999-.716-.749-1.66-1.844-1.622-2.582.021-.738.537-3.027 1.069-2.734.542.304 1.709-1.584 2.864-1.855 1.226-.293 1.964-.966 3.179-1.009 1.063-.043 1.812-.564 2.918-1.042.836-.358 3.017-.857 3.114-.032.108.824 1.801 1.638 2.431 2.072 1.171.803 1.975 2.962 2.083 3.516.108.542-1.172.813-1.259 1.627.564 1.888-.293 1.801-1.085 2.062-1.161.379-2.126.391-3.19.987-1.345.771-3.949 1.931-5.544.401-.738-.619-1.47 1.378-1.937 1.193-.46-.19-.26-.05-.43-.81z" fill="url(#ian_symbols_c8799787122bb64409099101d7371c19)"/>
+ <linearGradient id="ian_symbols_2ac346ec429ede245d412ef3b785a21b" y2="112.57" gradientUnits="userSpaceOnUse" x2="256.47" y1="112.57" x1="238.03">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m239.03 114.85c-.195-.369-.77-.868-.89-1.324-.293-1.172.108-.597.271-1.563.206-1.258.314-3.429 1.861-2.68.526-2.811 3.618-.38 4.666-2.669.689.76 1.644-.119 2.512-.076.879.043 2.018.456 2.93.738.282.076.965.325 1.204.434.076-.217.206-.336.391-.38.532.239.353.64.662.9.119.087.879.716.955.792.488.51 1.313.64.684 1.595.521.152 1.031.021 1.552.152-.076.868-.64 1.519-.814 2.55.727.271 1.345.814 1.464 1.855-.954.629-1.009.607-1.562 1.28-.326.412-2.203.673-2.669.89-1.465.716-1.975 1.183-3.494 1.259-.814.043-1.335-.456-1.932-.542-.759-.12-1.438.217-2.278.119-.879-.098-3.57-.043-3.885-1.248l-1.61-2.09z" fill="url(#ian_symbols_2ac346ec429ede245d412ef3b785a21b)"/>
+ <path stroke="#000" stroke-width=".0275" d="m245.93 123.73c-.206-.38-.781-.879-.9-1.345-.293-1.15.108-.586.26-1.563.217-1.259.326-3.418 1.877-2.669.526-2.81 3.613-.39 4.666-2.669.684.759 1.628-.119 2.518-.076.879.054 2.007.456 2.93.727.271.087.954.347 1.193.434.076-.206.206-.326.391-.369.531.238.369.64.673.89.108.108.868.716.943.803.499.51 1.313.629.694 1.595.511.141 1.031.032 1.541.163-.065.857-.656 1.497-.803 2.539.716.26 1.346.803 1.454 1.855-.944.629-1.01.597-1.563 1.28-.326.423-2.192.662-2.669.89-1.454.716-1.976 1.183-3.505 1.259-.792.043-1.324-.467-1.926-.554-.754-.108-1.427.217-2.279.13-.863-.108-3.553-.043-3.879-1.248l-1.6-2.07z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m309.94 114.27c-.781-1.128-2.789-1.02-3.31-1.172-.51-.152-.125-.727-.076-.998-.537-.108-1.128.087-1.649-.119-.391-.163-1.888-.738-1.291-1.053.597-.325 1.183-.781 1.074-1.779.434-.065.586-.326 1.02-.108-.032-.271.131-.727.098-.999.966-.13.641-1.367 1.27-2.029.413-.423.798 0 1.205-.326.368-.293.455-1.02.824-1.334.987-.835 1.476.304 2.507.043.575-.13.478-.879 1.117-.901.304-.011.651.727 1.106.803.771.13 1.915-.727 2.789-.771.862-.033 1.807-.108 2.565.271.38.206.662.684 1.042.857.445.217.792-.185 1.204.25.597.597.282 1.899 1.259 2.018-.032.261.13.727.098.988.966.347 3.363 1.92 2.55 3.504-.38.749-1.736.662-2.333.64-.347 0-.325-.391-.759-.304-.282.054-.597.607-.879.759-.38.207-.694.207-1.074.348-.098.119-.185.26-.25.401-.011.011-.977.011-.857-.043-.672.304-1.204.879-2.018 1.139-.83.271-1.59.347-2.49.195-.673-.108-1.79.087-2.235-.282-.01-.01-1.75 1.1-2.52-.01z" fill="#5C873B"/>
+ <linearGradient id="ian_symbols_523917348c2e7e04fd87054b2dbfc058" y2="125.87" gradientUnits="userSpaceOnUse" x2="276.66" y1="125.87" x1="258.21">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m259.22 128.15c-.194-.379-.77-.868-.9-1.345-.293-1.15.108-.586.271-1.552.212-1.27.314-3.429 1.866-2.68.531-2.811 3.624-.391 4.666-2.669.684.76 1.638-.119 2.517-.065.868.043 2.008.456 2.919.716.276.087.966.348 1.199.445.081-.217.223-.336.396-.38.532.239.369.651.673.89.108.108.868.716.955.803.488.51 1.302.641.684 1.606.51.152 1.025.022 1.541.152-.071.868-.641 1.498-.814 2.539.728.271 1.356.803 1.465 1.866-.943.629-1.009.586-1.563 1.28-.325.412-2.191.651-2.669.89-1.465.706-1.964 1.172-3.493 1.248-.804.043-1.341-.467-1.932-.554-.76-.108-1.433.228-2.278.13-.879-.098-3.575-.043-3.885-1.248l-1.64-2.08z" fill="url(#ian_symbols_523917348c2e7e04fd87054b2dbfc058)"/>
+ <path stroke="#000" stroke-width=".0275" d="m291.21 115.85c-.189-.379-.775-.878-.884-1.345-.293-1.15.098-.597.26-1.563.206-1.258.326-3.417 1.866-2.669.543-2.81 3.624-.391 4.677-2.669.673.76 1.628-.13 2.507-.076.878.054 2.007.456 2.929.727.282.086.955.336 1.205.434.075-.206.206-.325.385-.369.526.239.374.64.656.89.131.108.879.716.966.803.488.499 1.313.629.684 1.595.516.152 1.031.021 1.541.163-.065.857-.641 1.498-.803 2.539.727.26 1.355.803 1.453 1.855-.943.629-1.009.597-1.551 1.28-.337.413-2.203.662-2.67.89-1.464.716-1.975 1.183-3.51 1.259-.798.033-1.318-.467-1.915-.553-.771-.109-1.432.217-2.289.13-.874-.108-3.559-.054-3.885-1.248l-1.63-2.07z" fill="#B5B253"/>
+ <path stroke="#000" stroke-width=".0275" d="m289.44 127.83c-.857-1.248-3.082-1.128-3.646-1.302-.58-.173-.146-.803-.098-1.106-.586-.108-1.247.108-1.822-.13-.435-.173-2.095-.814-1.438-1.172.667-.347 1.318-.846 1.198-1.964.478-.076.635-.358 1.123-.119-.043-.304.146-.803.114-1.107 1.074-.141.705-1.519 1.41-2.246.445-.466.89 0 1.324-.358.412-.326.499-1.128.911-1.476 1.096-.933 1.628.326 2.777.043.651-.152.521-.977 1.237-.999.348-.011.716.803 1.227.89.856.141 2.137-.814 3.092-.847.955-.043 2.008-.13 2.843.293.423.228.738.749 1.15.955.499.239.868-.206 1.346.271.661.651.304 2.105 1.399 2.235-.044.293.136.803.098 1.096 1.053.38 3.711 2.116 2.815 3.874-.418.846-1.915.749-2.577.716-.401 0-.357-.434-.835-.347-.32.065-.673.694-.977.857-.424.228-.771.228-1.193.38-.098.13-.195.282-.282.456-.011 0-1.063 0-.944-.065-.737.347-1.323.977-2.225 1.258-.933.304-1.779.391-2.767.228-.737-.119-1.985.087-2.474-.314.01.01-1.93 1.25-2.78.01z" fill="#5C873B"/>
+ <path stroke="#000" stroke-width=".0275" d="m275.32 132.08c-.185-.868-.999-.673-1.509-.922-.824-.423-.835-.532-1.421-1.139-.825-.847-1.888-2.094-1.866-2.94.043-.836.607-3.461 1.231-3.114.613.326 1.958-1.812 3.261-2.126 1.404-.336 2.245-1.107 3.635-1.15 1.204-.043 2.05-.629 3.314-1.172.96-.423 3.444-.998 3.564-.054.113.944 2.062 1.877 2.788 2.365 1.324.922 2.246 3.375 2.354 4.004.119.629-1.334.933-1.432 1.866.65 2.148-.337 2.062-1.237 2.354-1.335.423-2.42.434-3.635 1.118-1.541.89-4.514 2.213-6.326.456-.846-.694-1.671 1.573-2.213 1.378-.50-.22-.28-.06-.48-.94z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m272.7 137.89c-.656-.966-2.37-.857-2.815-.998-.439-.13-.098-.619-.064-.857-.445-.087-.955.087-1.4-.098-.353-.141-1.616-.629-1.106-.9.51-.282 1.009-.651.922-1.519.358-.054.488-.271.868-.087-.032-.239.108-.629.076-.857.836-.109.554-1.161 1.085-1.726.348-.369.694 0 1.025-.282.32-.25.396-.868.7-1.128.856-.716 1.27.238 2.159.032.478-.119.385-.749.943-.771.261-.011.554.619.944.684.651.109 1.649-.629 2.376-.662.738-.022 1.552-.087 2.191.239.337.173.564.575.885.727.385.184.667-.152 1.036.206.521.521.228 1.627 1.085 1.736-.043.217.098.608.076.835.803.293 2.854 1.639 2.17 2.984-.325.651-1.476.575-1.985.564-.314-.011-.282-.348-.641-.271-.249.054-.531.532-.771.651-.314.174-.574.174-.911.293-.076.109-.151.217-.217.347-.011 0-.825 0-.728-.043-.563.26-1.02.759-1.714.976-.716.228-1.367.293-2.138.174-.564-.098-1.519.065-1.898-.25.02.01-1.47.96-2.14.01z" fill="#5C873B"/>
+ <path stroke="#000" stroke-width=".0275" d="m325.63 98.284c-.412-.607-1.486-.553-1.769-.629-.282-.087-.065-.391-.055-.543-.281-.054-.607.055-.879-.054-.217-.086-1.02-.401-.694-.575.315-.174.63-.423.586-.955.229-.032.315-.173.543-.065-.032-.141.065-.391.054-.532.511-.076.348-.738.673-1.096.218-.228.435 0 .662-.174.185-.163.238-.553.445-.716.531-.445.781.163 1.345.021.304-.076.261-.467.608-.488.151 0 .347.391.597.434.412.065 1.02-.391 1.486-.413.478-.021.977-.065 1.389.141.217.109.369.369.564.467.228.119.412-.098.64.13.337.325.152 1.02.684 1.085-.021.152.065.391.044.531.521.185 1.801 1.042 1.378 1.888-.195.412-.934.358-1.259.347-.185 0-.163-.217-.401-.163-.163.021-.337.325-.478.412-.217.108-.358.108-.575.185-.065.065-.098.141-.152.217l-.444-.032c-.348.173-.641.477-1.074.618-.467.141-.879.185-1.356.109-.358-.055-.955.043-1.204-.152 0 .002-.93.598-1.35.002z" fill="#5C873B"/>
+ <path stroke="#000" stroke-width=".0275" d="m312.99 123.02c-.406-.597-1.492-.542-1.763-.619-.271-.087-.065-.391-.044-.542-.293-.065-.607.043-.89-.065-.206-.087-1.015-.401-.694-.575.325-.163.641-.412.575-.944.238-.043.314-.185.554-.065-.022-.152.064-.391.054-.543.521-.065.331-.738.684-1.085.217-.239.435 0 .651-.173.195-.163.238-.553.444-.716.521-.456.792.152 1.346.022.314-.076.25-.478.607-.488.152-.011.348.379.586.423.423.076 1.042-.391 1.509-.412.472-.011.971-.065 1.383.152.195.108.348.369.554.456.238.12.423-.098.65.13.315.325.152 1.031.684 1.096-.021.141.055.38.044.532.51.174 1.801 1.031 1.378 1.888-.217.412-.934.358-1.259.347-.185-.011-.185-.217-.401-.174-.163.033-.325.336-.478.413-.217.108-.38.108-.575.184-.064.076-.098.141-.151.217 0 .011-.511.011-.445-.022-.369.163-.662.467-1.096.619-.439.141-.862.173-1.34.098-.358-.054-.966.043-1.199-.152.02-.03-.92.58-1.35-.03z" fill="#5C873B"/>
+ <path stroke="#000" stroke-width=".0275" d="m244.56 137.77c-.412-.607-1.503-.553-1.769-.629-.282-.087-.065-.391-.043-.542-.293-.055-.613.043-.89-.065-.217-.087-1.02-.391-.705-.564.325-.174.651-.423.586-.955.228-.043.314-.173.553-.065-.022-.152.065-.391.043-.542.532-.065.347-.727.694-1.085.217-.228.423 0 .64-.174.195-.163.239-.542.445-.716.532-.456.792.152 1.356.021.304-.076.239-.478.597-.488.163 0 .347.401.586.434.423.076 1.036-.401 1.502-.412.467-.022.982-.055 1.389.141.211.109.363.369.559.467.239.119.423-.098.651.13.326.326.152 1.02.667 1.085-.011.141.082.391.07.532.51.195 1.801 1.042 1.367 1.888-.206.412-.933.369-1.258.347-.201 0-.179-.217-.401-.163-.152.032-.336.325-.488.401-.195.108-.369.119-.575.195-.043.065-.087.13-.136.217-.011 0-.516 0-.456-.021-.364.163-.646.478-1.08.607-.456.152-.868.185-1.346.108-.363-.065-.977.043-1.204-.152-.01-.02-.95.57-1.37-.02z" fill="#5C873B"/>
+ <path stroke="#000" stroke-width=".0275" d="m210.34 108.81c-.412-.608-1.497-.542-1.769-.629-.282-.076-.065-.391-.043-.532-.282-.065-.607.043-.89-.065-.211-.087-1.02-.401-.7-.575.32-.173.646-.412.581-.955.228-.033.314-.174.553-.054-.021-.152.065-.391.054-.542.521-.065.336-.738.678-1.096.223-.228.439.011.656-.163.185-.163.239-.553.445-.727.521-.445.792.163 1.346.033.314-.076.25-.478.607-.499.152 0 .347.39.586.434.413.076 1.042-.39 1.508-.412.456-.011.966-.065 1.378.152.206.108.358.358.564.456.228.12.412-.098.651.13.314.326.141 1.031.673 1.096-.011.141.065.38.054.532.51.174 1.801 1.031 1.367 1.888-.195.412-.922.347-1.259.347-.185-.011-.174-.217-.391-.174-.163.033-.336.336-.488.413-.206.108-.38.108-.575.185-.054.076-.098.141-.141.217-.016 0-.521 0-.456-.021-.358.163-.651.466-1.085.607-.445.141-.868.185-1.346.108-.363-.054-.965.043-1.204-.152.01 0-.92.59-1.35 0z" fill="#5C873B"/>
+ <path stroke="#000" stroke-width=".0275" d="m273.73 143.36c-.064-.77-.792-.684-1.204-.965-.673-.445-.673-.564-1.128-1.14-.619-.824-1.411-2.018-1.292-2.745.131-.727.89-2.951 1.39-2.582.51.347 1.898-1.356 3.064-1.498 1.254-.152 2.067-.716 3.282-.607 1.042.087 1.845-.336 3.006-.673.879-.26 3.081-.499 3.092.336 0 .835 1.585 1.845 2.159 2.354 1.074.933 1.596 3.168 1.639 3.722.033.553-1.27.662-1.443 1.465.337 1.931-.51 1.758-1.323 1.91-1.204.239-2.148.13-3.288.597-1.421.597-4.145 1.432-5.544-.282-.646-.705-1.617 1.183-2.067.955-.46-.25-.28-.09-.35-.86z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m234.64 129.68c-.054-.488-.51-.445-.781-.619-.423-.282-.434-.358-.716-.716-.391-.542-.9-1.302-.813-1.757.07-.467.559-1.877.879-1.649.325.228 1.215-.868 1.942-.955.814-.086 1.324-.456 2.094-.391.673.055 1.177-.217 1.931-.434.554-.152 1.964-.304 1.975.217 0 .532 1.003 1.183 1.378 1.498.662.607 1.003 2.018 1.031 2.387.032.347-.803.434-.922.933.217 1.237-.326 1.118-.835 1.215-.771.152-1.367.087-2.094.38-.911.379-2.653.911-3.548-.185-.413-.434-1.02.759-1.302.619-.28-.15-.17-.06-.22-.56z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m256.79 145.44c-.044-.488-.511-.445-.771-.619-.429-.282-.429-.347-.716-.727-.401-.521-.9-1.291-.825-1.747.076-.467.575-1.888.89-1.649.326.228 1.204-.868 1.953-.955.803-.087 1.313-.456 2.083-.391.673.065 1.183-.217 1.932-.434.554-.152 1.964-.304 1.964.217 0 .532 1.009 1.183 1.378 1.498.684.607 1.021 2.029 1.042 2.387.027.348-.803.423-.912.934.207 1.237-.336 1.117-.856 1.215-.76.152-1.367.087-2.084.38-.911.38-2.647.922-3.548-.185-.401-.434-1.03.76-1.313.619-.28-.17-.16-.07-.21-.56z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m291.26 136.57c-.049-.499-.516-.434-.771-.619-.434-.282-.434-.358-.716-.727-.407-.521-.911-1.28-.836-1.747.076-.467.575-1.877.885-1.649.32.228 1.21-.857 1.958-.955.809-.098 1.308-.456 2.095-.391.673.054 1.172-.206 1.92-.423.554-.163 1.964-.314 1.964.217 0 .521 1.021 1.172 1.39 1.497.672.586 1.009 2.018 1.041 2.376.021.358-.803.423-.933.922.217 1.237-.315 1.129-.836 1.227-.771.152-1.367.076-2.1.379-.906.391-2.642.912-3.531-.173-.412-.456-1.031.759-1.313.607s-.19-.05-.22-.55z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m326.7 123.77c-.032-.488-.499-.434-.771-.607-.423-.282-.423-.358-.716-.738-.401-.521-.911-1.281-.813-1.747.064-.466.563-1.877.878-1.649s1.205-.857 1.953-.944c.792-.098 1.303-.466 2.095-.391.661.054 1.161-.217 1.92-.434.543-.163 1.953-.314 1.953.217 0 .521 1.021 1.172 1.389 1.497.673.597 1.021 2.018 1.042 2.376s-.792.423-.934.933c.218 1.237-.314 1.117-.824 1.226-.771.152-1.367.065-2.094.369-.912.391-2.647.922-3.537-.173-.435-.445-1.031.759-1.313.607-.29-.17-.18-.06-.23-.56z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m293.22 88.334c-.054-.5-.51-.456-.771-.629-.434-.282-.434-.347-.716-.716-.391-.532-.9-1.291-.824-1.758.075-.466.563-1.877.879-1.649.325.239 1.215-.868 1.952-.955.804-.087 1.324-.456 2.1-.391.668.065 1.178-.206 1.915-.423.554-.163 1.976-.314 1.976.217s1.02 1.172 1.378 1.498c.672.597 1.02 2.029 1.041 2.376s-.813.434-.922.933c.217 1.237-.326 1.118-.836 1.215-.781.152-1.378.087-2.094.391-.922.369-2.658.911-3.537-.185-.423-.445-1.031.759-1.313.607-.30-.140-.19-.043-.24-.531z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m307.5 101.13c-.044-.488-.51-.445-.771-.618-.423-.282-.435-.347-.716-.727-.402-.521-.917-1.292-.836-1.747.076-.466.575-1.877.89-1.649.325.228 1.216-.868 1.953-.955.813-.087 1.324-.456 2.094-.391.673.065 1.183-.217 1.927-.434.548-.152 1.958-.304 1.958.217 0 .532 1.02 1.183 1.389 1.497.673.608 1.009 2.029 1.042 2.387.032.347-.803.423-.923.933.218 1.237-.325 1.118-.846 1.215-.76.152-1.367.086-2.095.379-.911.38-2.637.922-3.537-.184-.412-.434-1.03.759-1.313.618-.28-.15-.16-.06-.21-.55z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m224.51 106.02c-.054-.499-.51-.445-.781-.629-.423-.282-.434-.347-.716-.716-.391-.532-.901-1.292-.814-1.758.06-.456.564-1.866.868-1.649.325.239 1.226-.857 1.953-.955.813-.087 1.324-.456 2.105-.391.656.065 1.171-.206 1.92-.423.542-.163 1.964-.314 1.964.217s1.02 1.172 1.389 1.497c.662.597 1.009 2.029 1.031 2.376.033.358-.803.434-.922.934.217 1.237-.314 1.128-.835 1.215-.77.152-1.367.087-2.094.391-.912.38-2.647.912-3.538-.185-.423-.444-1.036.76-1.313.619-.28-.13-.18-.03-.21-.52z" fill="#709346"/>
+ <path stroke="#000" stroke-width=".0275" d="m324.78 113.05c-.098-.792-.922-.716-1.421-1.009-.76-.467-.781-.575-1.302-1.183-.749-.846-1.683-2.083-1.541-2.821.119-.738.977-2.973 1.552-2.604.597.369 2.17-1.345 3.504-1.465 1.477-.13 2.398-.705 3.787-.575 1.215.109 2.138-.304 3.472-.629 1.01-.25 3.57-.456 3.592.391 0 .846 1.866 1.91 2.539 2.43 1.248.977 1.888 3.266 1.942 3.841.064.564-1.443.651-1.639 1.454.434 1.986-.542 1.78-1.486 1.932-1.389.217-2.496.086-3.787.553-1.638.586-4.773 1.378-6.434-.391-.76-.716-1.834 1.193-2.365.944-.50-.23-.30-.07-.40-.86z" fill="#709346"/>
+ <linearGradient id="ian_symbols_29744f33b22d6a04a9139c91be65ada3" y2="147.06" gradientUnits="userSpaceOnUse" x2="286.23" y1="147.06" x1="270.04">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m273.89 151.96c-.151-.694-.803-.542-1.215-.749-.651-.336-.673-.434-1.14-.912-.667-.684-1.519-1.682-1.497-2.354.032-.673.488-2.778.987-2.517.499.282 1.573-1.443 2.609-1.693 1.145-.282 1.817-.89 2.935-.933.966-.033 1.639-.499 2.658-.944.781-.336 2.768-.792 2.865-.033.087.76 1.648 1.498 2.234 1.888 1.063.738 1.802 2.712 1.899 3.222.098.51-1.085.749-1.161 1.498.531 1.725-.261 1.66-.987 1.899-1.063.347-1.942.347-2.919.9-1.236.705-3.624 1.769-5.089.358-.673-.564-1.345 1.259-1.779 1.107-.43-.18-.25-.07-.40-.76z" fill="url(#ian_symbols_29744f33b22d6a04a9139c91be65ada3)"/>
+ <linearGradient id="ian_symbols_682e3891079a72f42519b22ac1c874e6" y2="107.1" gradientUnits="userSpaceOnUse" x2="355.61" y1="107.1" x1="336.97">
+  <stop stop-color="#869F5E" offset="0"/>
+  <stop stop-color="#B5B253" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width=".0275" d="m341.42 112.53c-.195-.781-.944-.608-1.422-.825-.748-.369-.759-.488-1.302-1.02-.76-.749-1.758-1.866-1.725-2.604.032-.749.553-3.082 1.128-2.777.575.293 1.801-1.606 3.038-1.888 1.291-.304 2.072-.977 3.342-1.02 1.129-.043 1.899-.564 3.093-1.042.856-.369 3.157-.89 3.276-.043.098.825 1.898 1.66 2.571 2.105 1.227.803 2.072 2.995 2.192 3.548.108.554-1.248.835-1.313 1.66.575 1.91-.314 1.823-1.161 2.083-1.236.391-2.245.391-3.353 1.009-1.442.781-4.177 1.953-5.87.401-.759-.629-1.551 1.4-2.05 1.215-.51-.18-.31-.04-.46-.81z" fill="url(#ian_symbols_682e3891079a72f42519b22ac1c874e6)"/>
+</svg>

@@ -1,0 +1,117 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="384" height="500" viewBox="0 0 384 500" xml:space="preserve">
+            <title>Coral polyp</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Coral polyp</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a coral polyp</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>coral, polyp, Cnidaria, sessile, form</ian_image_library:contains>
+                    <ian_image_library:when>2005-05-03</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-fbe71abbbe404d24f97f1467806b03ea">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Coral polyp</dc:title>
+                <dc:date>2005-05-03</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/coral-polyp/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/coral-polyp/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>coral, polyp, Cnidaria, sessile, form</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a coral polyp</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_647e6cdee3022f14690bb7feef8643dd">
+	<g>
+			<linearGradient id="ian_symbols_d6002324df796a4491e76aae450c65cc" gradientUnits="userSpaceOnUse" x1="1829.6125" y1="287.0929" x2="1829.6125" y2="2522.4856" gradientTransform="matrix(0.1992 0 0 -0.1992 -168.0732 557.1889)">
+			<stop  offset="0.0169" style="stop-color:#D8C0A3"/>
+			<stop  offset="1" style="stop-color:#BBA998"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_d6002324df796a4491e76aae450c65cc)" d="M20.844,58.107c-10.4,8.51-17.013,31.116-8.505,52.843c8.505,21.742,25.507,53.794,34.966,77.428
+			c9.454,23.629,17.016,56.863,17.963,81.433c0.929,24.585,0.929,76.56-2.846,102.072c-3.795,25.527,6.628,56.725,7.569,69.957
+			c0.936,13.227-10.408,27.39-5.672,37.807c4.731,10.393,15.126,17.001,41.587,17.948c26.468,0.951,51.036-2.912,77.499-3.868
+			c26.461-0.951,55.762-0.858,79.396,2.922c23.622,3.78,37.797,4.726,50.09,0.946c12.278-3.78,20.788-9.437,21.737-20.801
+			c0.941-11.339-19.921-58.573-18.038-77.482c1.885-18.923,1.03-72.79,5.748-99.244c4.735-26.473,17.006-67.118,28.35-83.178
+			c11.351-16.065,27.409-61.442,32.147-78.457c4.716-17.011-2.848-83.722-7.577-83.722c-4.716,0-38.76,91.297-38.76,91.297
+			l-216.42,24.571l-90.733-85.08c0,0,1.885-35.92-8.503-27.409L20.844,58.107z"/>
+			<radialGradient id="ian_symbols_3be2f79046e07334453faf603c483939" cx="1797.5237" cy="2003.588" r="877.3298" gradientTransform="matrix(0.1992 0 0 -0.1992 -168.0732 557.1889)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0169" style="stop-color:#D8C0A3"/>
+			<stop  offset="1" style="stop-color:#D8C0A3"/>
+		</radialGradient>
+		<path fill="url(#ian_symbols_3be2f79046e07334453faf603c483939)" d="M117.24,145.055c0,0,0.956-28.35-0.949-37.797c-1.883-9.452-25.588-43.484-30.316-54.823
+			c-4.731-11.344-6.533-22.531,0.088-23.473c6.606-0.946,18.816,12.129,28.27,25.36c9.447,13.236,41.749,67.104,49.303,67.104
+			c7.562,0,15.984-10.388,15.05-26.458c-0.956-16.06,5.665-65.216,5.665-65.216S194.746-4.276,204.193,0.45
+			c9.464,4.73,14.337,24.571,16.227,37.802c1.885,13.241-7.716,69.006-5.841,74.663c1.905,5.682,6.547,14.183,13.16,13.241
+			c6.621-0.951,24.659-38.744,31.28-44.425c6.606-5.672,10.388-8.496,16.072-15.129c5.658-6.613,21.725-45.361,30.236-45.361
+			s6.606,24.571,2.831,37.802c-3.787,13.241-19.053,52.941-23.715,58.603c-4.635,5.672-13.141,17.962-6.525,18.908
+			c6.618,0.941,19.852,0,26.454-6.628c6.628-6.609,16.08-21.732,27.431-39.68c11.329-17.963,17.936-34.969,22.673-40.656
+			c4.723-5.657,5.677-7.471,15.124-4.643c9.44,2.829,10.388,16.938,10.388,26.385c0,9.452-17.008,80.335-28.353,91.689
+			c-11.337,11.339-40.651,24.566-50.09,24.566c-9.445,0-24.569,9.447-25.524,18.903c-0.929,9.447,1.902,21.737,11.344,30.238
+			c9.452,8.515,32.132,13.241,44.437,16.075c12.273,2.838,25.507,17.011,12.273,23.629c-13.222,6.608-46.303,3.78-62.375-2.838
+			c-16.075-6.613-29.463-23.625-43.641-31.189c-14.176-7.555-12.136-18.903-22.529-15.114c-10.39,3.78-10.775,11.775-10.39,19.85
+			c0.943,19.84-14.176,46.312-19.848,53.862c-5.672,7.564-29.313,15.594-37.817,15.124c-17.008-0.941,19.855-51.97,19.855-64.265
+			c0-12.29-1.892-30.243-15.131-29.301c-13.215,0.941-25.507,1.888-37.793,7.559c-12.293,5.667-38.746,17.963-67.103,12.286
+			c-19.85-7.555-45.362-5.677-47.259-15.114c-1.902-9.452,58.581-19.85,72.778-21.742c14.168-1.888,26.468-0.941,27.409-13.231
+			c0.949-12.291-24.571-20.796-33.088-29.297c-8.518-8.5-17.006-22.683-28.346-34.978C27.509,115.754,6.706,66.755,19.94,55.416
+			c13.241-11.334,61.439,58.441,71.83,70.731c10.402,12.28,25.521,18.903,25.521,18.903L117.24,145.055z"/>
+			<linearGradient id="ian_symbols_b2dc73433bfaae8451ca266696f8d80e" gradientUnits="userSpaceOnUse" x1="1811.514" y1="1783.4503" x2="1811.514" y2="2000.3867" gradientTransform="matrix(0.1992 0 0 -0.1992 -168.0732 557.1889)">
+			<stop  offset="0.0169" style="stop-color:#D8C0A3"/>
+			<stop  offset="1" style="stop-color:#BBA998"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_b2dc73433bfaae8451ca266696f8d80e)" d="M158.822,180.965c1.905-7.554,15.136-25.517,36.876-21.737c21.737,3.794,31.177,15.133,31.177,20.8
+			c0,5.672-24.563,19.85-37.797,21.732c-13.251,1.907-32.14-13.222-30.26-20.791L158.822,180.965z"/>
+		<path fill="#8B8178" d="M240.229,156.442l-0.236-0.085c0.048-0.136,1.251-3.39,6.535-7.499c4.861-3.781,14.249-9.006,31.37-12.427
+			l0.049,0.246c-17.073,3.411-26.425,8.614-31.265,12.378C241.456,153.121,240.24,156.409,240.229,156.442z"/>
+		<path fill="#8B8178" d="M142.647,159.28c-3.707-8.339-25.219-14.047-25.436-14.103l0.064-0.243
+			c0.218,0.057,21.846,5.795,25.602,14.243L142.647,159.28z"/>
+	</g>
+</g>
+</svg>

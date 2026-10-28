@@ -1,0 +1,85 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="233" viewBox="0 0 501 233" xml:space="preserve">
+            <title>Treated Effluent</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Treated Effluent</ian_image_library:title>
+                <ian_image_library:descr>Illustration of Treated Effluent</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>inputs, flows, treated, effluent</ian_image_library:contains>
+                    <ian_image_library:when>2003-11-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-cae05a013de55c34d11045c8f949f9d3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Treated Effluent</dc:title>
+                <dc:date>2003-11-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/treated-effluent/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/treated-effluent/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>inputs, flows, treated, effluent</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of Treated Effluent</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_4cbb28c11b79c1a481e2ef3630ea0c6a" y2="178.29" gradientUnits="userSpaceOnUse" x2="202.52" gradientTransform="matrix(1.44 0 0 1.44 -246.81 -126.51)" y1="178.29" x1="389.97">
+  <stop stop-color="#ABA9A9" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".1565" d="m.078 36.556h386v155.89h-1.253c-8.781 17.629-91.782 31.434-192.37 31.434-99.333 0-182.31-13.805-191.13-31.434h-1.252v-155.89z" fill="url(#ian_symbols_4cbb28c11b79c1a481e2ef3630ea0c6a)"/>
+ <linearGradient id="ian_symbols_a39185d9b38bb8f4e5881f7e63c6965d" y2="111.49" gradientUnits="userSpaceOnUse" x2="427.34" gradientTransform="matrix(1.44 0 0 1.44 -246.81 -126.51)" y1="111.49" x1="159.55">
+  <stop stop-color="#58595B" offset="0"/>
+  <stop stop-color="#fff" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".1565" d="m192.46.078c106.87 0 193.62 15.09 193.62 33.939 0 18.882-86.749 33.972-193.62 33.972-105.62 0-192.38-15.09-192.38-33.972-.002-18.849 86.758-33.939 192.38-33.939z" fill="url(#ian_symbols_a39185d9b38bb8f4e5881f7e63c6965d)"/>
+ <path d="m466.63 168.44c12.671-9.926 14.109-11.963 29.635-23.534l-17.095 77.488c-30.125 3.007-48.157 7.866-84.417 9.294 12.77-13.423 18.064-17.019 28.578-28.11-18.718-61.08-167.45-145.24-209.67-163.48 76.85-4.023 230.13 66.38 252.98 128.34z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width=".5478" d="m470.13 161.29c13.107-10.264 14.523-12.29 29.951-23.512l-17.367 77.434c-30.061 2.702-48.07 7.583-84.319 8.967 12.944-13.074 18.239-16.67 28.568-28.088-18.83-60.76-167.42-145.22-209.49-163.14 76.87-4.021 229.76 66.374 252.66 128.34z" fill="#ED1C24"/>
+</svg>

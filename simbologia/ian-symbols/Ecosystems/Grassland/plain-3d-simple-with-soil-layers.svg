@@ -1,0 +1,118 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="326" viewBox="0 0 501 326" xml:space="preserve">
+            <title>Plain 3D: simple with soil layers</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Plain 3D: simple with soil layers</ian_image_library:title>
+                <ian_image_library:descr>Illustration of simple plains base with soil layers</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, terrestrial, grasslplains, prairie, range, savanna, pasture, meadow, soil, layers, sediment, horizons</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-943df306dc497e448d189ca7f28e1394">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Plain 3D: simple with soil layers</dc:title>
+                <dc:date>2005-02-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/plain-3d-simple-with-soil-layers/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/plain-3d-simple-with-soil-layers/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, terrestrial, grasslplains, prairie, range, savanna, pasture, meadow, soil, layers, sediment, horizons</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of simple plains base with soil layers</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_3359108641425e34652e7a50cf0d9631" y2="195.95" gradientUnits="userSpaceOnUse" x2="372.03" y1="210.79" x1="380.6">
+  <stop stop-color="#837C58" offset=".2921"/>
+  <stop stop-color="#827758" offset=".382"/>
+  <stop stop-color="#796A54" offset=".4607"/>
+  <stop stop-color="#7C6C53" offset=".6742"/>
+  <stop stop-color="#62542C" offset=".8034"/>
+ </linearGradient>
+ <polygon points="253.21 284.33 499.41 141.14 499.41 122.41 253.21 265.6" fill="url(#ian_symbols_3359108641425e34652e7a50cf0d9631)"/>
+ <linearGradient id="ian_symbols_2fa11d86bcfec134e5128fc3f44b28ed" y2="212.52" gradientUnits="userSpaceOnUse" x2="365.81" y1="250.42" x1="386.82">
+  <stop stop-color="#AB926F" offset=".6517"/>
+  <stop stop-color="#E0CEAF" offset="1"/>
+ </linearGradient>
+ <path d="m253.21 324.48l246.2-143.2v-42.819s-22.755 12.49-39.831 23.165c-17.078 10.674-58.931 39.389-76.974 47.448-18.046 8.059-68.904 39.054-82.781 45.47-13.876 6.417-46.614 27.112-46.614 27.112v42.83z" fill="url(#ian_symbols_2fa11d86bcfec134e5128fc3f44b28ed)"/>
+ <path d="m253.21 324.48l246.2-143.2v-30.775s-86.186 55.539-96.97 61.751c-10.786 6.213-40.746 19.109-70.089 35.412-29.341 16.303-79.141 46.032-79.141 46.032v30.79z" fill="#BDAD6E"/>
+ <linearGradient id="ian_symbols_ba81a4336a32a4e4b1977c0836c7f323" y2="194.21" gradientUnits="userSpaceOnUse" x2="131.91" y1="211.55" x1="121.89">
+  <stop stop-color="#837C58" offset=".2921"/>
+  <stop stop-color="#827758" offset=".382"/>
+  <stop stop-color="#796A54" offset=".4607"/>
+  <stop stop-color="#7C6C53" offset=".6742"/>
+  <stop stop-color="#62542C" offset=".8034"/>
+ </linearGradient>
+ <polygon points="253.21 287.37 .586 140.16 .586 118.39 253.21 265.6" fill="url(#ian_symbols_ba81a4336a32a4e4b1977c0836c7f323)"/>
+ <linearGradient id="ian_symbols_3836bc5e0bc3d294314f37fdfa5e1561" y2="210.22" gradientUnits="userSpaceOnUse" x2="131.95" y1="227.63" x1="121.89">
+  <stop stop-color="#AB926F" offset=".382"/>
+  <stop stop-color="#E0CEAF" offset="1"/>
+ </linearGradient>
+ <path d="m253.21 303.45l-252.62-147.21v-21.765s60.465 36.844 77.459 44.969c16.994 8.124 81.646 50.51 98.696 60.154 17.051 9.645 76.47 42.088 76.47 42.088v21.76z" fill="url(#ian_symbols_3836bc5e0bc3d294314f37fdfa5e1561)"/>
+ <path d="m253.21 314.58l-252.62-147.2v-21.77s62.179 35.962 78.392 44.648c16.213 8.687 72.11 45.226 95.909 59.004 23.799 13.777 78.325 43.558 78.325 43.558v21.76z" fill="#BDAD6E"/>
+ <linearGradient id="ian_symbols_01c6e21536ff3e04799bce747d28ef98" y2="231.32" gradientUnits="userSpaceOnUse" x2="131.91" y1="248.67" x1="121.89">
+  <stop stop-color="#AB9B73" offset=".2472"/>
+  <stop stop-color="#978861" offset=".8652"/>
+ </linearGradient>
+ <path d="m253.21 324.48l-252.62-147.21v-21.765s55.129 33.84 71.654 41.754c16.524 7.914 78.031 53.604 99.124 61.472 21.092 7.868 81.848 43.984 81.848 43.984v21.78z" fill="url(#ian_symbols_01c6e21536ff3e04799bce747d28ef98)"/>
+ <linearGradient id="ian_symbols_f84e4d4b1f998584f1f37bd57663394e" y2="231.42" gradientUnits="userSpaceOnUse" x2="370.35" y1="252.94" x1="382.28">
+  <stop stop-color="#AB9B73" offset=".2472"/>
+  <stop stop-color="#978861" offset=".8652"/>
+ </linearGradient>
+ <path d="m253.21 324.48l246.2-143.2v-21.408s-86.397 56.636-97.243 62.969c-10.846 6.334-54.201 26.952-65.641 33.539-11.438 6.586-83.316 46.688-83.316 46.688v21.41z" fill="url(#ian_symbols_f84e4d4b1f998584f1f37bd57663394e)"/>
+ <linearGradient id="ian_symbols_3a9645aafd78c3645d018cd896376a66" y2="247.59" gradientUnits="userSpaceOnUse" x2="203.71" y1="13.522" x1="288.9">
+  <stop stop-color="#8EAB63" offset="0"/>
+  <stop stop-color="#A2AC7E" offset=".9494"/>
+ </linearGradient>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width="1.1732" points="253.21 265.6 499.41 122.41 253.21 .532 .586 118.39 253.21 265.6" fill="url(#ian_symbols_3a9645aafd78c3645d018cd896376a66)"/>
+ <polygon stroke-linejoin="bevel" stroke="#231F20" stroke-width="1.1732" points="253.21 324.48 499.41 181.29 499.41 122.41 253.21 265.6" fill="none"/>
+ <polygon stroke="#231F20" stroke-width="1.1732" points="253.21 324.48 .586 177.27 .586 118.39 253.21 265.6" fill="none"/>
+</svg>

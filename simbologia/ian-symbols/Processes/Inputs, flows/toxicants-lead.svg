@@ -1,0 +1,87 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="495" height="496" viewBox="0 0 495 496" xml:space="preserve">
+            <title>Toxicants; lead</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Toxicants; lead</ian_image_library:title>
+                <ian_image_library:descr>Illustration of lead toxicants</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>inputs, flows, lead, toxicants</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-31e36b7d3fecc034c5d8023dcdf1a29f">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Toxicants; lead</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/toxicants-lead/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/toxicants-lead/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>inputs, flows, lead, toxicants</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of lead toxicants</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<polygon fill="#FFF200" stroke="#000000" stroke-width="20" stroke-miterlimit="3.8637" points="14.143,247.099 247.116,14.142 
+	480.077,247.099 247.116,480.056 14.143,247.099 "/>
+<path d="M168.408,295.267V182.183h42.68c7.518,0,13.254,0.362,17.213,1.086c5.56,0.932,10.21,2.687,13.972,5.286
+	c3.751,2.599,6.778,6.24,9.064,10.923c2.298,4.683,3.438,9.838,3.438,15.442c0,9.619-3.07,17.767-9.19,24.435
+	c-6.142,6.668-17.219,10.002-33.242,10.002H183.28v45.909H168.408z M183.28,236h29.305c9.695,0,16.583-1.798,20.651-5.407
+	c4.08-3.608,6.109-8.675,6.109-15.211c0-4.727-1.195-8.785-3.598-12.163c-2.401-3.356-5.549-5.593-9.465-6.679
+	c-2.533-0.669-7.194-0.998-14.005-0.998H183.28V236z"/>
+<path d="M281.459,295.267h-12.985V182.183h13.929v40.25c5.846-7.392,13.314-11.088,22.384-11.088c5.029,0,9.794,1.031,14.28,3.06
+	c4.485,2.04,8.17,4.891,11.076,8.576c2.896,3.685,5.166,8.138,6.795,13.336c1.65,5.209,2.473,10.77,2.473,16.692
+	c0,14.071-3.454,24.951-10.375,32.627c-6.92,7.677-15.223,11.516-24.906,11.516c-9.63,0-17.187-4.058-22.67-12.174V295.267z
+	 M281.086,253.635c0,9.837,1.327,16.934,4.003,21.31c4.365,7.15,10.255,10.726,17.696,10.726c6.06,0,11.291-2.632,15.711-7.918
+	c4.403-5.265,6.613-13.128,6.613-23.58c0-10.704-2.117-18.601-6.351-23.7c-4.233-5.089-9.344-7.644-15.354-7.644
+	c-6.054,0-11.285,2.632-15.705,7.907C283.292,236.021,281.086,243.644,281.086,253.635z"/>
+</svg>

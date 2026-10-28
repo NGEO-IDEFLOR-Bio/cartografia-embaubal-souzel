@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="285" height="501" viewBox="0 0 285 501" xml:space="preserve">
+            <title>Dead Avicennia</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Dead Avicennia</ian_image_library:title>
+                <ian_image_library:descr>Illustration of dead Avicennia</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>plant, tree, shrub, mangrove, dead, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Asteridae, Lamiales, Acanthaceae, Avicennia, sp. estuarine</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1a525397d52233d4a5156828ec3ab077">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Dead Avicennia</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Diana Kleine
+Marine Botany UQ</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/dead-avicennia/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/dead-avicennia/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>plant, tree, shrub, mangrove, dead, Plantae, vascular, Magnoliophyta, angiosperm, flowering plant, Magnoliopsida, dicot, Asteridae, Lamiales, Acanthaceae, Avicennia, sp. estuarine</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of dead Avicennia</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_8e142f1b0a24a084b9a6e20ac567c097" y2="1072.9" gradientUnits="userSpaceOnUse" x2="367.96" gradientTransform="matrix(-.2703 0 0 .2703 384.19 -39.543)" y1="1072.9" x1="1411.1">
+  <stop stop-color="#7B766A" offset="0"/>
+  <stop stop-color="#AAA576" offset="1"/>
+ </linearGradient>
+ <path stroke="#000" stroke-width="1.7227" d="m94.067 498.86c20.323-5.944 40.955-10.205 55.305-13.802 0-10.776 1.396-54.891.559-73.632-4.354-60.568-2.803-178.41 6.813-195.99 20.265-36.187 106.68-93.555 126.58-147.74-5.555-13.492-18.707-14.693-26.241-9.559-8.313 6.002-29.78 28.324-53.892 52.031-29.717 29.306-14.485-90.062-43.29-108.09 21.628 57.563-31.634 176.69-44.208 175.57-6.753-4.397-6.817-4.758-27.503-35.46-4.98-5.636-18.806-22.799-24.364-27.123-28.486-22.199-54.824-35.635-62.462-32.213 18.452 23.381 71.919 64.595 74.517 79.124l-52.788 41.72c4.098 6.915 59.544-32.556 59.544-32.556-1.343.952 7.598 54.706 5.151 57.875l6.282 269.84z" fill="url(#ian_symbols_8e142f1b0a24a084b9a6e20ac567c097)"/>
+</svg>

@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="514" height="514" viewBox="0 0 514 514" xml:space="preserve">
+            <title>Concentration: low turbidity</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Concentration: low turbidity</ian_image_library:title>
+                <ian_image_library:descr>Illustration of low turbidity concentration</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, concentration, low, turbidity, particulate, water, clarity</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-68b72cd85ecd1634b1ba9a12eaacb214">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Concentration: low turbidity</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/concentration-low-turbidity/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/concentration-low-turbidity/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, concentration, low, turbidity, particulate, water, clarity</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of low turbidity concentration</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width="12.431" stroke-dasharray="37.2947,37.2947,37.2947,37.2947,37.2947" d="m506.22 256.21c0 138.06-111.92 250-250.01 250-138.07-.01-249.99-111.94-249.99-250s111.92-249.99 249.99-249.99c138.08-.004 250.01 111.93 250.01 249.99z" fill="#99816A"/>
+ <path d="m149.75 363.74c0 15.793-12.777 28.559-28.547 28.559-15.76 0-28.537-12.766-28.537-28.559 0-15.727 12.777-28.525 28.537-28.525 15.77 0 28.55 12.8 28.55 28.52z" fill="#8D6025"/>
+ <path d="m145.62 132.92c0 15.726-12.777 28.503-28.537 28.503-15.759 0-28.525-12.777-28.525-28.503 0-15.76 12.766-28.559 28.525-28.559 15.76 0 28.54 12.8 28.54 28.56z" fill="#8D6025"/>
+ <path d="m381.48 96.624c0 15.759-12.767 28.537-28.536 28.537-15.76 0-28.537-12.777-28.537-28.537 0-15.749 12.767-28.547 28.537-28.547 15.78 0 28.54 12.766 28.54 28.548z" fill="#8D6025"/>
+ <path d="m287.26 285.53c0 15.76-12.777 28.525-28.537 28.525-15.77 0-28.536-12.766-28.536-28.525s12.755-28.559 28.536-28.559c15.76-.01 28.54 12.77 28.54 28.55z" fill="#8D6025"/>
+ <path d="m434.76 367.74c0 15.76-12.777 28.536-28.537 28.536-15.771 0-28.536-12.776-28.536-28.536 0-15.748 12.755-28.548 28.536-28.548 15.76 0 28.54 12.77 28.54 28.55z" fill="#8D6025"/>
+</svg>

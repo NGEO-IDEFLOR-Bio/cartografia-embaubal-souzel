@@ -1,0 +1,114 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="281" height="501" viewBox="0 0 281 501" xml:space="preserve">
+            <title>Seagrass leaf with encrusting epiphytes</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass leaf with encrusting epiphytes</ian_image_library:title>
+                <ian_image_library:descr>Illustration of seagrass leaf with encrusting epiphytes</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, leaf, encrusting, encrusted, epiphytes</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b6732d0888ece7c4152fec0c24304bb8">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass leaf with encrusting epiphytes</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-leaf-with-encrusting-epiphytes/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-leaf-with-encrusting-epiphytes/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, leaf, encrusting, encrusted, epiphytes</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of seagrass leaf with encrusting epiphytes</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_482024f25caf7c04f525b558e6dd82d6" y2="-3281.5" gradientUnits="userSpaceOnUse" x2="-3493.1" gradientTransform="matrix(2.1717 0 0 2.1717 7726.6 7655.6)" y1="-3517.1" x1="-3493.1">
+  <stop stop-color="#E9E739" offset="0"/>
+  <stop stop-color="#4B8868" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width="4.9304" d="m34.482 396.99s14.657-82.131 47.527-168.02c32.851-83.91 104.11-202.62 133.27-220.89 29.194-18.267 76.732 10.993 58.443 45.597-18.223 34.658-69.437 89.547-100.41 157.12-31.016 67.496-58.454 127.87-58.454 155.16 0 27.417-36.709 130.2-36.709 130.2l-42.598-29.314-32.195-24.88 31.124-44.98z" fill="url(#ian_symbols_482024f25caf7c04f525b558e6dd82d6)"/>
+ <linearGradient id="ian_symbols_921c852de295826411a676644d7c832f" y2="8.7822" gradientUnits="userSpaceOnUse" x2="1165.3" gradientTransform="matrix(.2059 .3646 -.3991 .3064 -43.166 -236.99)" y1="8.7822" x1="880.49">
+  <stop stop-color="#3A3B97" offset="0"/>
+  <stop stop-color="#47439B" offset=".017"/>
+  <stop stop-color="#6656A5" offset=".0655"/>
+  <stop stop-color="#8267AD" offset=".1204"/>
+  <stop stop-color="#9875B4" offset=".1824"/>
+  <stop stop-color="#A97FB9" offset=".2549"/>
+  <stop stop-color="#B487BC" offset=".3445"/>
+  <stop stop-color="#BB8BBE" offset=".4702"/>
+  <stop stop-color="#BD8CBF" offset=".8192"/>
+ </linearGradient>
+ <path stroke-linejoin="round" stroke="#231F20" stroke-width="1.0341" d="m215.76 5.122c7.612 2.595 9.281 3.849 11.517 9.945-3.937 14.614-21.571 30.711-17.559 45.945l1.091.808c-3.664 4.798-7.961 19.827-12.781 27.188-1.549 2.105-3.664 5.943-5.453 8.234-1.996.338-8.267 3.555-9.881 5.648-1.744.088-4.308 1.07-6.085 1.167-9.771 12.673-15.661 27.145-25.934 40.515l-1.112-.84c-.371.447-5.388 2.421-5.911 3.13-1.091-.807-4.319 1.145-5.431.24-7.045 9.237-12.498 20.852-18.889 29.14.993 5.475 4.471 9.281 8.332 12.258 1.047-1.407 3.392-1.799 4.471-3.195 19.739-5.289 16.435 24.734-.142 28.922-4.308 1.058-12.792 1.483-15.497-.654-5.388 3.61-10.393 6.347-15.922 13.501.763.545-.48 2.912.6 3.773-2.116 2.759-3.479 7.154-6.325 10.851-3.457-.425-6.172-2.519-8.91-4.657 0-1.123-.589-2.639-.567-3.784 2.29-2.966 4.667-12.116 6.423-15.17 4.199-10.371 16.13-20.197 20.514-31.55 6.413-16.293 18.3-30.612 25.847-46.077 2.628-4.952 18.474-20.623 17.089-26.031 2.148-2.76 2.847-4.439 2.279-7.492.349-.448 1.592-3.185 2.094-3.872-.567-.404-.021-2.171-.589-2.629 1.091-1.396 5.823-9.836 4.7-10.644 5.54-7.144 10.47-15.845 15.9-22.967-.49-.437 7.034-15.934 8.093-17.308.872-2.606 5.834-7.558 6.38-9.783l-.393-.284 4.231-5.485c-1.255-1.004 9.51-17.286 11.112-19.369 2.46-3.982 4.93-8.648 6.7-9.488z" fill="url(#ian_symbols_921c852de295826411a676644d7c832f)"/>
+ <linearGradient id="ian_symbols_86aa9b42b302d13481ed01636ff6b892" y2="1250.8" gradientUnits="userSpaceOnUse" x2="1256.7" gradientTransform="matrix(.3682 .1959 -.2128 .3096 -86.598 -234.01)" y1="1250.8" x1="1097.9">
+  <stop stop-color="#3A3B97" offset="0"/>
+  <stop stop-color="#47439B" offset=".017"/>
+  <stop stop-color="#6656A5" offset=".0655"/>
+  <stop stop-color="#8267AD" offset=".1204"/>
+  <stop stop-color="#9875B4" offset=".1824"/>
+  <stop stop-color="#A97FB9" offset=".2549"/>
+  <stop stop-color="#B487BC" offset=".3445"/>
+  <stop stop-color="#BB8BBE" offset=".4702"/>
+  <stop stop-color="#BD8CBF" offset=".8192"/>
+ </linearGradient>
+ <path stroke-linejoin="round" stroke="#231F20" stroke-width=".8945" d="m122.95 297.57c-7.656-2.868-9.837-3.141-15.9-1.451-7.263 9.052-5.126 26.272-18.976 31.354l-1.407-.219c-.556 4.33-7.917 13.774-9.434 19.859-.24 1.832-1.352 4.82-1.636 6.871 1.309 1.254 3.839 6.106 3.588 7.993 1.32 1.015 2.53 2.825 3.861 3.872-1.494 11.254-7.165 21.375-8.725 33.252l1.407.195c-.055.404 2.399 4.068 2.355 4.69 1.396.186 2.52 2.824 3.948 3.01-1.047 8.211-5.082 16.696-6.085 24.069-4.668 2.104-10 2.039-15.039 1.373.207-1.254-1.341-2.693-1.189-3.904-11.407-13.218-30.078 2.923-20.35 13.829 2.596 2.803 8.79 7.623 12.367 8.048 1.603 4.613 3.501 8.616 2.683 14.974-.993-.119-1.68 1.657-3.141 1.472-.316 2.487-2.399 5.323-2.813 8.595 2.922 1.646 6.521 2.126 10.142 2.606.774-.546 2.301-.927 3.076-1.482.371-2.673 5.017-8.322 5.845-10.722 4.101-7.22 1.919-18.343 6.587-26.054 6.565-11.266 7.569-24.483 12.716-35.923 1.451-3.741.403-19.739 5.278-21.604.327-2.476.96-3.632 3.544-4.799.054-.359 1.047-2.344 1.123-2.966.72.087 1.571-1.047 2.312-.927.153-1.232 2.508-7.831 3.959-7.646.796-6.369 3.173-13.152 3.98-19.478.742.055 5.867-11.363 6.02-12.618 1.221-1.712.916-6.75 2.072-8.069l.479.076.655-4.951c1.636.239 4.929-13.316 5.125-15.159.92-3.23 2.38-6.79 1.57-8.16z" fill="url(#ian_symbols_86aa9b42b302d13481ed01636ff6b892)"/>
+ <linearGradient id="ian_symbols_43fcdd1fb4ca979475974486ae3df710" y2="-282.37" gradientUnits="userSpaceOnUse" x2="1874.1" gradientTransform="matrix(.0548 .2856 -.2811 .0819 -61.406 -189.65)" y1="-282.37" x1="1563.8">
+  <stop stop-color="#3A3B97" offset="0"/>
+  <stop stop-color="#47439B" offset=".017"/>
+  <stop stop-color="#6656A5" offset=".0655"/>
+  <stop stop-color="#8267AD" offset=".1204"/>
+  <stop stop-color="#9875B4" offset=".1824"/>
+  <stop stop-color="#A97FB9" offset=".2549"/>
+  <stop stop-color="#B487BC" offset=".3445"/>
+  <stop stop-color="#BB8BBE" offset=".4702"/>
+  <stop stop-color="#BD8CBF" offset=".8192"/>
+ </linearGradient>
+ <path stroke-linejoin="round" stroke="#231F20" stroke-width=".66" d="m167.54 215.81c-3.479-4.166-4.635-4.951-8.942-5.289-7.842 4.744-13.229 17.994-23.458 18.049l-.786-.513c-2.006 3.043-10.055 8.081-13.305 12.138-.851 1.287-2.683 3.195-3.643 4.657.305 1.254-.076 5.54-.916 6.816.393 1.124.415 2.77.807 3.882-5.246 7.939-12.542 13.873-18.082 22.237l.786.502c-.197.316-.142 3.653-.437 4.089.785.523.415 2.781 1.232 3.305-3.817 5.747-9.499 10.917-12.923 16.108-3.599.294-6.772-1.189-9.532-3.01.567-.84.218-2.312.786-3.195-1.745-12.738-19.172-5.824-17.515 4.831.436 2.737 2.312 7.917 4.264 9.215-.818 3.839-1.211 7.296-4.177 11.746-.545-.338-1.658.785-2.421.262-1.156 1.734-3.512 3.305-5.039 5.595 1.145 1.996 3.097 3.294 5.061 4.603.698-.164 1.767-.088 2.443-.251 1.243-1.876 6.216-4.82 7.612-6.391 5.246-4.21 8.245-12.978 14.047-17.45 8.255-6.554 13.959-16.064 21.462-23.109 2.334-2.399 7.874-14.472 11.517-14.548 1.156-1.756 1.963-2.432 3.958-2.596.207-.272 1.538-1.45 1.821-1.897.404.284 1.363-.349 1.745-.076.6-.862 4.504-5.093 5.322-4.581 2.945-4.471 6.979-8.855 9.924-13.305.393.218 7.896-6.816 8.484-7.688 1.363-.938 3.152-4.766 4.318-5.42l.284.164 2.269-3.457c.927.6 8.113-8.528 8.986-9.848 1.76-2.07 4.03-4.36 4.06-5.55z" fill="url(#ian_symbols_43fcdd1fb4ca979475974486ae3df710)"/>
+</svg>

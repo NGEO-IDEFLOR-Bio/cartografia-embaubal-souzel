@@ -1,0 +1,99 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="477" viewBox="0 0 501 477" xml:space="preserve">
+            <title>Water: water pipe 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Water: water pipe 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of an upright water pipe</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, water, pipe</ian_image_library:contains>
+                    <ian_image_library:when>2004-01-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a9c70bf223fd0e14b52c1b13f46b4b5a">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Water: water pipe 2</dc:title>
+                <dc:date>2004-01-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/water-water-pipe-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/water-water-pipe-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, water, pipe</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of an upright water pipe</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_ddc3bfa291e99be4f978a4dadc07d597" y2="-2835.3" gradientUnits="userSpaceOnUse" x2="-3366.8" gradientTransform="matrix(.315 .003 -.0018 .2673 1521.5 1067.3)" y1="-2835.3" x1="-3806.4">
+  <stop stop-color="#E6E7E8" offset="0"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".7333" d="m327.61 129.67s-6.415 224.94-8.213 311.45c-.904 43.408 153.82 48.346 154.21-3.489.671-103.85 6.203-314.54 6.203-314.54-49.26 54.84-152.2 6.58-152.2 6.58z" fill="url(#ian_symbols_ddc3bfa291e99be4f978a4dadc07d597)"/>
+ <linearGradient id="ian_symbols_97abbafa43bf4314b9efd0c244ce9e6a" y2="-3386.4" gradientUnits="userSpaceOnUse" x2="-3289.3" gradientTransform="matrix(.315 .003 -.0018 .2673 1521.5 1067.3)" y1="-3386.4" x1="-3780.5">
+  <stop stop-color="#E6E7E8" offset="0"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".7333" d="m320.93 106.77s-6.788 51.005-7.618 70.677c-1.021 23.566 182.18 28.748 181.43.596-.691-23.588 5.256-71.401 5.256-71.401-57.58 12-179.07.12-179.07.12z" fill="url(#ian_symbols_97abbafa43bf4314b9efd0c244ce9e6a)"/>
+ <path stroke="#231F20" stroke-width=".7333" d="m500.36 104.24c-.064 8.607-40.249 15.183-89.775 14.714-49.505-.468-89.626-7.799-89.572-16.406.042-8.586 40.27-15.172 89.774-14.704 49.55.481 89.64 7.811 89.58 16.404z" fill="#CDCFD0"/>
+ <linearGradient id="ian_symbols_3ff2a5f5e5ab17d46d25b7dea21d9b60" y2="-2477.4" gradientUnits="userSpaceOnUse" x2="-4458.4" gradientTransform="matrix(.2575 .2012 -.068 .2089 1099.3 1596.5)" y1="-2672.9" x1="-4393.3">
+  <stop stop-color="#E6E7E8" offset="0"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".7333" d="m253.51 340.48c-26.76-33.41-179.23-216.74-213.65-259.84-36.644-39.912-54.507-94.152-23.877-77.023 47.42 53.59 197.56 228.5 260.76 303.36-2.37 16.05-8.27 34.08-23.23 33.5z" fill="url(#ian_symbols_3ff2a5f5e5ab17d46d25b7dea21d9b60)"/>
+ <linearGradient id="ian_symbols_e7df13c5ba778c9441d3fdd90cc1c120" y2="-2638" gradientUnits="userSpaceOnUse" x2="-3871.3" gradientTransform="matrix(.315 .003 -.0018 .2673 1521.5 1067.3)" y1="-2819.6" x1="-3864.7">
+  <stop stop-color="#E6E7E8" offset="0"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".7333" d="m276.82 350.75c-21.034-4.83-25.779-31.833-25.875-36.418-.148-10.65 10.479-27.141 25.099-21.928 7.319 2.606 39.291 8.288 58.048-6.149 19.002-14.683 26.131 4.266 30.876 17.448 4.681 13.204-3.341 23.673-6.182 27.322-5.6 7.15-48 27.5-81.97 19.73z" fill="url(#ian_symbols_e7df13c5ba778c9441d3fdd90cc1c120)"/>
+ <linearGradient id="ian_symbols_761c44fb36fa0c44c5312250b30ac262" y2="-2742.2" gradientUnits="userSpaceOnUse" x2="-3663.8" gradientTransform="matrix(.315 .003 -.0018 .2673 1521.5 1067.3)" y1="-2923.4" x1="-3767.3">
+  <stop stop-color="#E6E7E8" offset="0"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".7333" d="m339.05 343.2s40.93-20.811 56.271-29.567c15.268-8.724-12.49-60.825-30.886-50.356s-59.325 31.291-59.325 31.291c20.57-6.65 33.95 48.64 33.95 48.64z" fill="url(#ian_symbols_761c44fb36fa0c44c5312250b30ac262)"/>
+</svg>

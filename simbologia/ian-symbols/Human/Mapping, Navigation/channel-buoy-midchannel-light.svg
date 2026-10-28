@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="472" height="502" viewBox="0 0 472 502" xml:space="preserve">
+            <title>Channel buoy: midchannel, light</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Channel buoy: midchannel, light</ian_image_library:title>
+                <ian_image_library:descr>Illustration of midchannel, lighted channel buoy</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, nautical, coastal, channel, buoy, midchannel, lighted</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e51ba47d9f037fc4554726f734be8a11">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Channel buoy: midchannel, light</dc:title>
+                <dc:date>2005-03-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/channel-buoy-midchannel-light/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/channel-buoy-midchannel-light/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, nautical, coastal, channel, buoy, midchannel, lighted</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of midchannel, lighted channel buoy</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#000" stroke-width=".5" d="m450.88 438.02c0 17.631-13.984 31.972-40.502 38.12v-414.33h-91.003v-61.56h-152.98v61.564h-90.927v417.44c-16.884-3.042-35.674-10.38-45.231-19.774-4.654-4.503-10.022-12.036-10.022-21.463h-19.97c0 12.869 5.368 25.175 15.867 35.598 16.971 16.571 41.508 26.637 71.749 26.637 29.916 0 56.91-9.546 73.881-25.381 16.819 15.835 43.889 25.381 73.719 25.381 29.991 0 56.909-9.546 73.881-25.381 16.895 15.835 43.965 25.381 73.805 25.381 30.229 0 54.777-10.065 71.748-26.637 10.586-10.423 15.867-22.729 15.867-35.598h-19.9z" fill="#D71920"/>
+ <rect height="41.594" width="113.04" stroke="#000" y="20.22" x="186.37" stroke-width=".5" fill="#fff"/>
+ <path stroke="#000" stroke-width=".5" d="m236.25 480.4h-.789c-28.325 0-54.074-10.26-65.504-26.095l-8.215-11.56-8.367 11.56c-11.365 15.835-37.103 26.095-65.514 26.095h-.704v-199.55h149.09v199.55z" fill="#fff"/>
+ <rect height="183.51" width="149.09" stroke="#000" y="80.604" x="87.162" stroke-width=".5" fill="#fff"/>
+ <path d="m403.7 261.19h-32.092l-12.761-35.328h-58.663l-12.063 35.328h-31.968l56.196-154.82h32.514l58.83 154.82zm-54.72-61.65l-20.262-57.148-19.525 57.148h39.78z" fill="#fff"/>
+</svg>

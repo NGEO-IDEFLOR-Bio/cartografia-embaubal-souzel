@@ -1,0 +1,177 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="348" viewBox="0 0 501 348" xml:space="preserve">
+            <title>Inputs: sediments and nutrients</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Inputs: sediments and nutrients</ian_image_library:title>
+                <ian_image_library:descr>Illustration of sediment and nutrient input</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>inputs, flows, sediment, nutrient</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-7561e306873c9b14d9e158197577c668">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Inputs: sediments and nutrients</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/inputs-sediments-and-nutrients/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/inputs-sediments-and-nutrients/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>inputs, flows, sediment, nutrient</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of sediment and nutrient input</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path d="M437.865,237.338c21.927-17.199,24.432-20.711,51.318-40.733L459.58,330.71c-52.172,5.23-83.366,13.635-146.126,16.096
+	c22.106-23.236,31.269-29.476,49.465-48.638C330.526,192.404,73.074,46.766,0,15.167C133.023,8.228,398.315,130.088,437.865,237.338
+	z"/>
+<linearGradient id="ian_symbols_caa50c50ae38785491c674b98ab9f71c" gradientUnits="userSpaceOnUse" x1="450.5005" y1="331.0415" x2="105.461" y2="-80.1605">
+	<stop  offset="0" style="stop-color:#A6582B"/>
+	<stop  offset="0.0388" style="stop-color:#A7582B"/>
+	<stop  offset="0.0536" style="stop-color:#AC572B"/>
+	<stop  offset="0.0642" style="stop-color:#B4552A"/>
+	<stop  offset="0.0729" style="stop-color:#C05128"/>
+	<stop  offset="0.0804" style="stop-color:#CF4627"/>
+	<stop  offset="0.087" style="stop-color:#E13124"/>
+	<stop  offset="0.0899" style="stop-color:#ED1C24"/>
+	<stop  offset="0.0917" style="stop-color:#E42B24"/>
+	<stop  offset="0.0979" style="stop-color:#D14426"/>
+	<stop  offset="0.105" style="stop-color:#C25028"/>
+	<stop  offset="0.113" style="stop-color:#B5552A"/>
+	<stop  offset="0.1226" style="stop-color:#AC572B"/>
+	<stop  offset="0.1352" style="stop-color:#A7582B"/>
+	<stop  offset="0.1629" style="stop-color:#A6582B"/>
+	<stop  offset="0.1981" style="stop-color:#A7582B"/>
+	<stop  offset="0.2108" style="stop-color:#AC572B"/>
+	<stop  offset="0.2198" style="stop-color:#B4552A"/>
+	<stop  offset="0.2272" style="stop-color:#C05128"/>
+	<stop  offset="0.2335" style="stop-color:#CF4727"/>
+	<stop  offset="0.2389" style="stop-color:#E03224"/>
+	<stop  offset="0.2416" style="stop-color:#ED1C24"/>
+	<stop  offset="0.2463" style="stop-color:#E32E24"/>
+	<stop  offset="0.2606" style="stop-color:#CD4827"/>
+	<stop  offset="0.2756" style="stop-color:#BC5229"/>
+	<stop  offset="0.291" style="stop-color:#B0562A"/>
+	<stop  offset="0.3073" style="stop-color:#A8582B"/>
+	<stop  offset="0.3258" style="stop-color:#A6582B"/>
+	<stop  offset="0.3481" style="stop-color:#A8582B"/>
+	<stop  offset="0.3626" style="stop-color:#AE572A"/>
+	<stop  offset="0.375" style="stop-color:#B85429"/>
+	<stop  offset="0.3862" style="stop-color:#C74D28"/>
+	<stop  offset="0.3964" style="stop-color:#D93C25"/>
+	<stop  offset="0.4045" style="stop-color:#ED1C24"/>
+	<stop  offset="0.4064" style="stop-color:#E32C24"/>
+	<stop  offset="0.4125" style="stop-color:#D14526"/>
+	<stop  offset="0.4193" style="stop-color:#C15028"/>
+	<stop  offset="0.4271" style="stop-color:#B5552A"/>
+	<stop  offset="0.4365" style="stop-color:#AC572B"/>
+	<stop  offset="0.449" style="stop-color:#A7582B"/>
+	<stop  offset="0.4775" style="stop-color:#A6582B"/>
+	<stop  offset="0.5021" style="stop-color:#A7582B"/>
+	<stop  offset="0.5139" style="stop-color:#AC572B"/>
+	<stop  offset="0.523" style="stop-color:#B6552A"/>
+	<stop  offset="0.5306" style="stop-color:#C24F28"/>
+	<stop  offset="0.5375" style="stop-color:#D24326"/>
+	<stop  offset="0.5436" style="stop-color:#E62824"/>
+	<stop  offset="0.5449" style="stop-color:#ED1C24"/>
+	<stop  offset="0.5472" style="stop-color:#E03224"/>
+	<stop  offset="0.5519" style="stop-color:#CE4727"/>
+	<stop  offset="0.5573" style="stop-color:#C05128"/>
+	<stop  offset="0.5635" style="stop-color:#B4552A"/>
+	<stop  offset="0.5713" style="stop-color:#AC572B"/>
+	<stop  offset="0.5822" style="stop-color:#A7582B"/>
+	<stop  offset="0.6124" style="stop-color:#A6582B"/>
+	<stop  offset="0.633" style="stop-color:#A8582B"/>
+	<stop  offset="0.6465" style="stop-color:#AE572A"/>
+	<stop  offset="0.658" style="stop-color:#B85429"/>
+	<stop  offset="0.6684" style="stop-color:#C74D28"/>
+	<stop  offset="0.6779" style="stop-color:#D93C25"/>
+	<stop  offset="0.6854" style="stop-color:#ED1C24"/>
+	<stop  offset="0.6879" style="stop-color:#E03224"/>
+	<stop  offset="0.6929" style="stop-color:#CE4727"/>
+	<stop  offset="0.6987" style="stop-color:#C05128"/>
+	<stop  offset="0.7055" style="stop-color:#B4552A"/>
+	<stop  offset="0.7139" style="stop-color:#AC572B"/>
+	<stop  offset="0.7257" style="stop-color:#A7582B"/>
+	<stop  offset="0.7584" style="stop-color:#A6582B"/>
+	<stop  offset="0.7881" style="stop-color:#A7582B"/>
+	<stop  offset="0.799" style="stop-color:#AC572B"/>
+	<stop  offset="0.8069" style="stop-color:#B4552A"/>
+	<stop  offset="0.8133" style="stop-color:#C05128"/>
+	<stop  offset="0.8188" style="stop-color:#CF4727"/>
+	<stop  offset="0.8236" style="stop-color:#E03224"/>
+	<stop  offset="0.8258" style="stop-color:#ED1C24"/>
+	<stop  offset="0.8279" style="stop-color:#E03224"/>
+	<stop  offset="0.8322" style="stop-color:#CE4727"/>
+	<stop  offset="0.8371" style="stop-color:#C05128"/>
+	<stop  offset="0.8429" style="stop-color:#B4552A"/>
+	<stop  offset="0.85" style="stop-color:#AC572B"/>
+	<stop  offset="0.86" style="stop-color:#A7582B"/>
+	<stop  offset="0.8876" style="stop-color:#A6582B"/>
+	<stop  offset="0.9083" style="stop-color:#A7582B"/>
+	<stop  offset="0.9194" style="stop-color:#AD572B"/>
+	<stop  offset="0.9282" style="stop-color:#B6552A"/>
+	<stop  offset="0.9358" style="stop-color:#C34F28"/>
+	<stop  offset="0.9426" style="stop-color:#D44126"/>
+	<stop  offset="0.9488" style="stop-color:#E92324"/>
+	<stop  offset="0.9494" style="stop-color:#ED1C24"/>
+	<stop  offset="0.9544" style="stop-color:#DA3B25"/>
+	<stop  offset="0.9613" style="stop-color:#C74C27"/>
+	<stop  offset="0.9687" style="stop-color:#B95429"/>
+	<stop  offset="0.9768" style="stop-color:#AE572A"/>
+	<stop  offset="0.9863" style="stop-color:#A8582B"/>
+	<stop  offset="1" style="stop-color:#A6582B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_caa50c50ae38785491c674b98ab9f71c)" stroke="#000000" stroke-width="5" d="M443.951,224.946c22.652-17.772,25.136-21.264,51.82-40.702
+	l-30.069,134.042c-52.013,4.68-83.207,13.125-145.956,15.544c22.42-22.632,31.587-28.881,49.465-48.638
+	C336.637,180.032,79.398,33.821,6.611,2.785C139.633-4.175,404.331,117.696,443.951,224.946z"/>
+</svg>

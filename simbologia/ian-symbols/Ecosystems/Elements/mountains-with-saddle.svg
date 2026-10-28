@@ -1,0 +1,93 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="288" viewBox="0 0 502 288" xml:space="preserve">
+            <title>Mountains: with saddle</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mountains: with saddle</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mountains with saddle</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, terrestrial, mountains, saddle, division, ridge, gap, fold, geology, landscape, feature</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-db8597de823224c4059a3ac1ebb118f5">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mountains: with saddle</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mountains-with-saddle/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mountains-with-saddle/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, terrestrial, mountains, saddle, division, ridge, gap, fold, geology, landscape, feature</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mountains with saddle</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_2622a7691bc93ab4ed78cf11ea4b191d" y2="148.74" gradientUnits="userSpaceOnUse" x2="431.82" gradientTransform="matrix(.9865 .1635 -.1635 .9865 -23.282 4.2059)" y1="-57.29" x1="431.82">
+  <stop stop-color="#B49A7A" offset=".2697"/>
+  <stop stop-color="#A98F6E" offset=".9045"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m336.88 6.181c7.64 4.474 17.104 12.978 22.593 26.964 5.467 13.986 25.05 16.941 32.629 33.889 3.077 6.857 40.827 37.191 60.314 45.723 28.625 12.556 48.439 57.897 47.69 62.432-.477 2.833-40.929 20.435-65.775 27.468-15.463 4.386-31.9-21.339-52.634-17.622-35.325 6.319-71.291 25.234-71.291 25.234l-29.688-87.421s27.638-102.21 35.414-102.21c7.76-.016 13.12-18.939 20.76-14.459z" fill="url(#ian_symbols_2622a7691bc93ab4ed78cf11ea4b191d)"/>
+ <linearGradient id="ian_symbols_20c4f4f87370f494110e12698fb50f71" y2="95.733" gradientUnits="userSpaceOnUse" x2="239.01" gradientTransform="matrix(.9865 .1635 -.1635 .9865 -23.282 4.2059)" y1="-25.438" x1="239.01">
+  <stop stop-color="#A98F6E" offset=".2584"/>
+  <stop stop-color="#BEA584" offset=".7528"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m173.7 11.07s23.423 10.329 35.122 16.961c9.88 5.59 40.909 56.855 40.909 56.855l-65.66 50.721-10.37-124.54z" fill="url(#ian_symbols_20c4f4f87370f494110e12698fb50f71)"/>
+ <linearGradient id="ian_symbols_e48da939d58385440dd4cfaf28719230" y2="233.39" gradientUnits="userSpaceOnUse" x2="425.8" gradientTransform="matrix(.9865 .1635 -.1635 .9865 -23.282 4.2059)" y1="22.986" x1="425.8">
+  <stop stop-color="#A98F6E" offset="0"/>
+  <stop stop-color="#D4BB9A" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m326.03 90.028c7.633 4.473 21.945 19.14 27.413 33.153 5.481 13.972 48.201 20.277 55.8 37.218 7.565 16.955 87.538 10.697 86.285 18.316-.13.783-15.702 17.24-31.526 24.928-7.177 3.452-15.879-.108-23.409 1.505-9.138 1.954-16.737 8.757-20.55 8.858-3.541.109-13.809 1.58-23.328.865-5.938-.463-9.39 4.861-15.361 5.188-8.396.422-13.073 2.52-17.261 6.407-7.953 7.367 10.159 12.917-1.688 16.648-13.476 4.249-26.685 9.723-40.978 21.135-14.285 11.398-13.38 10.105-21.911 13.387-28.061 10.766-45.968 9.84-49.809 8.144-11.725-5.195 23.736-100.64 23.736-100.64s27.591-102.24 35.366-102.24c7.79-.004 9.58 2.638 17.23 7.118z" fill="url(#ian_symbols_e48da939d58385440dd4cfaf28719230)"/>
+ <linearGradient id="ian_symbols_6ee02acd46fdccc4edc5fad7e4ba1dae" y2="-8196.6" gradientUnits="userSpaceOnUse" x2="-7936.3" gradientTransform="matrix(-.9865 -.1635 -.1635 .9865 -9027.1 7085.1)" y1="-8520.2" x1="-7936.3">
+  <stop stop-color="#A98F6E" offset="0"/>
+  <stop stop-color="#D4BB9A" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m254.64 285.13c-1.995 1.035-14.033.729-19.971-3.316-4.862-3.274-12.849-8.361-14.483-9.145-3.364-1.593-40.936 11.623-49.645 8.402-9.199-3.404-175.63 4.556-170.29-13.332 7.859-26.49 27.55-24.58 36.75-42.41 9.22-17.826 24.383-60.002 44.647-92.733 6.795-10.949 28.523-48.508 36.783-60.941 23.505-35.427 29.238-56.175 52.375-61.452 16.097-1.498 26.964 87.81 35.68 84.153 12.031-5.019 25.575-9.042 39.274-23.287 11.153-11.623 24.322-16.369 33.596-26.351 13.755-14.823 35.265-37.77 42.312-41.474 10.977-5.761 13.932-2.798 15.212 2.941 1.532 2.819-10.704 2.567-6.462 18.173 4.215 15.62-20.169 37.668-14.619 60.125 4.719 19.059-23.675 68.594-20.359 86.768 4.767 26.146-34.917 82.424-33.5 82.554.01.01 1.3 26.8-7.29 31.34z" fill="url(#ian_symbols_6ee02acd46fdccc4edc5fad7e4ba1dae)"/>
+</svg>

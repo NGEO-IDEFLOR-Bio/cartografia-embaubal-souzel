@@ -1,0 +1,248 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="139" viewBox="0 0 502 139" xml:space="preserve">
+            <title>Reef 3D: coral atoll</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Reef 3D: coral atoll</ian_image_library:title>
+                <ian_image_library:descr>As per Darwin's theory about the formation of coral atolls, this illustration shows the remaining coral atoll following subsidence of the original volcanic island. </ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, ocean, reef, coral, atoll, lagoon, subsidence, volcanic island</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-a6c4767e4b39c824f91b73e81f39bc5c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Reef 3D: coral atoll</dc:title>
+                <dc:date>2005-02-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/reef-3d-coral-atoll/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/reef-3d-coral-atoll/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, ocean, reef, coral, atoll, lagoon, subsidence, volcanic island</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>As per Darwin's theory about the formation of coral atolls, this illustration shows the remaining coral atoll following subsidence of the original volcanic island. </dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+		<pattern  x="-145.8" y="-237.8" width="71.227" height="71.267" patternUnits="userSpaceOnUse" id="ian_symbols_1781eaa281b022e461e6daf23dcdd9b0" viewBox="1.981 -73.221 71.227 71.267" overflow="visible">
+		<g>
+			<polygon fill="none" points="1.981,-1.955 73.208,-1.955 73.208,-73.222 1.981,-73.222 			"/>
+			<polygon fill="#FFFFFF" points="2,-2 2,-73.188 73.187,-73.188 73.187,-2 			"/>
+			<g>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M73.205-57.708c0,0-10.474-0.12-15.35-0.056s-19.863,2.049-25.282,2
+					c-5.417-0.049-16.089-0.434-20.414-1.004S2-57.763,2-57.763"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M73.14-47.763c0,0-15.497-0.905-17.927-1s-23.361,1.998-24.806,2.485
+					c-1.445,0.487-5.941,0.655-8.93,0.481c-2.558-0.149-14.833-1.506-18.37-1.888C2.511-47.749,2-47.763,2-47.763"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M73.14-37.763H69.41c0,0-12.64,1.562-14.987,2
+					s-12.281,0.037-15.35-0.074s-12.293,0.418-15.807-0.076S8.009-37.369,6.026-37.61C4.042-37.851,2-37.763,2-37.763"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M73.14-24.763c0,0-0.786-0.011-2.233-0.279
+					c-1.026-0.191-2.537-0.646-3.661-0.721c-2.71-0.179-9.572,1.663-12.1,2.186s-19.322,1.593-22.029,1.509
+					c-2.395-0.074-24.694-2.164-29.883-2.638C2.552-24.77,2-24.763,2-24.763"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M73.14-11.763h-2.645c0,0-20.731,2.445-25.442,3.064
+					C40.339-8.08,29.864-7.101,21.196-8.763s-17.154-3-17.154-3H2"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M73.12-70.718c0,0-4.433-1.036-7.141-1.045s-31.202,4.221-35.144,4
+					c-3.943-0.221-11.081-1.254-15.055-2c-3.975-0.746-13.781-1-13.781-1"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="57.854" y1="-24.319" x2="58.216" y2="-10.425"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="27.646" y1="-73.172" x2="28.718" y2="-67.827"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="32.861" y1="-35.705" x2="34.986" y2="-22.205"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="21.727" y1="-36.205" x2="25.48" y2="-22.58"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="62.385" y1="-48.455" x2="60.507" y2="-36.705"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="70.641" y1="-48.08" x2="69.014" y2="-37.58"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M65.261-37.08c0,0-1.126,2.125-1.001,4.25s0.475,2.869,1.001,4
+					c0.528,1.131,3.253,2.25,2.003,4.375c-1.252,2.125-1.878,4.75-2.003,6.875c-0.124,2.125,0,6.25,0,6.25"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M41.117-47.58c0,0,0.626,4.125,0,6.75
+					c-0.625,2.625-2.002,5.25-2.002,8.625s2.377,9.375,2.377,9.375"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M50.125-48.455c0,0-1.752,10-0.252,12.75"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M46.873-22.955c0,0-0.626,2.485-0.5,5.467
+					c0.125,2.982,1.877,5.592,1.752,8.201L47.968-5.8L47.915-2"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M47.915-69.372c0,0,0,6.5-0.502,8.5c-0.5,2-1.668,4-1.668,4"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M65.762-48.392c0,0,0.5-4.5-0.166-7.167
+					c-0.667-2.667-2.67-5.666-2.67-8.333c0-1.808-0.076-5.528-0.125-7.739l0.042-1.556"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="39.907" y1="-56.038" x2="37.072" y2="-68.372"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="4.213" y1="-24.705" x2="2.711" y2="-11.705"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M29.066-22.372c1.166,4.5-2.633,14.292-2.633,14.292l1.216,6.076"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M18.059-45.872c0,0,0.665,3.501-0.336,5.834
+					c-1,2.333-4.837,6.499-5.17,8.166c-0.334,1.667-1.667,7.667-1.667,7.667"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M12.553-56.705c0,0-0.334,7.834-0.334,10.167
+					s-1.001,6.499-2.502,9.166"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M14.555-69.872c0,0,1.002,7.333,1.502,10s1.833,3.5,1.833,3.5"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M3.547-70.705c0,0,2.834,5.999,1.666,13.333"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M23.229-68.538c0,0,1.501,14.833,0.333,17.333s-0.001,3.333-0.166,5.5
+					c-0.167,2.167,4.336,10.167,4.336,10.167"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M32.401-67.872c0,0,1.836,4.334,1.169,7.334s-1.669,6-2.002,9
+					c-0.334,3,0.666,5,0.666,5"/>
+				<path fill="none" stroke="#000000" stroke-width="0.5" d="M19.059-36.038c0,0-3.002,4.499-3.336,7.666
+					c-0.335,3.167,1.834,6.5,1,9.5c-0.833,3-3.502,8.667-3.502,8.667"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="47.915" y1="-69.365" x2="47.968" y2="-73.188"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="61.843" y1="-10.819" x2="62.843" y2="-2"/>
+			</g>
+		</g>
+	</pattern>
+</defs>
+<linearGradient id="ian_symbols_d6d70d913f103aa4719e49446b38c7a4" gradientUnits="userSpaceOnUse" x1="250.2505" y1="75.8975" x2="250.2505" y2="0.0513" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#AFE1F9"/>
+	<stop  offset="0.3436" style="stop-color:#B2E2F9"/>
+	<stop  offset="0.6095" style="stop-color:#BAE6FB"/>
+	<stop  offset="0.8487" style="stop-color:#C8EAFA"/>
+	<stop  offset="1" style="stop-color:#D7F0FB"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_d6d70d913f103aa4719e49446b38c7a4)" stroke="#49B1D9" stroke-width="0.5" stroke-linejoin="round" points="500.25,64.338 67.073,76.097 
+	0.25,0.25 431.08,0.25 "/>
+<linearGradient id="ian_symbols_b34b6349c50b12f4a1ca542f229c6ffa" gradientUnits="userSpaceOnUse" x1="16.1177" y1="86.0957" x2="52.5735" y2="49.6398" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#74C2E6"/>
+	<stop  offset="0.9888" style="stop-color:#AFE1F9"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_b34b6349c50b12f4a1ca542f229c6ffa)" stroke="#49B1D9" stroke-width="0.5" stroke-linejoin="round" points="67.073,137.25 0.25,63.218 
+	0.25,0.25 67.073,64.338 "/>
+<linearGradient id="ian_symbols_52f626670b442f3435a18f59b346e1f9" gradientUnits="userSpaceOnUse" x1="283.6611" y1="137.0508" x2="283.6611" y2="64.1396" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#49B1D9"/>
+	<stop  offset="0.1742" style="stop-color:#49B1D9"/>
+	<stop  offset="0.8258" style="stop-color:#AFE1F9"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_52f626670b442f3435a18f59b346e1f9)" stroke="#49B1D9" stroke-width="0.5" stroke-linejoin="round" points="67.073,64.338 67.073,137.25 
+	500.25,132.54 500.25,64.338 "/>
+<path opacity="0.8" fill="#FFFFFF" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" enable-background="new    " d="
+	M47.521,110.177c0,0,5.21-2.14,8.333-7.834c2.833-5.166,5.999-9.867,10.688-13.396c4.69-3.527,8.993-7.261,10.75-11.375
+	c1.76-4.116,3.287-17.19,8.563-21.895c5.276-4.703,22.837,9.835,22.837,9.835l-4.104,24.694l-22.86,26.459l-12.311,13.521
+	l-7.034-5.869L47.521,110.177z"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M70.14,117.31
+	c-1.626-0.359-1.33-1.897-1.593-3.149c-0.306-1.446-1.576-2.503-2.541-3.708c-1.884-2.35-6.415-8.543-8.619-10.745"/>
+<line fill="none" stroke="#49B1D9" stroke-width="0.5" stroke-linejoin="round" x1="67.073" y1="69.042" x2="67.073" y2="137.25"/>
+<line fill="none" stroke="#49B1D9" stroke-width="0.5" stroke-linejoin="round" x1="111.605" y1="64.338" x2="77.612" y2="64.338"/>
+<linearGradient id="ian_symbols_8866916589e179e4456d0c23750de3bf" gradientUnits="userSpaceOnUse" x1="99.4878" y1="70.125" x2="118.1897" y2="51.4251" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#F9F4D7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_8866916589e179e4456d0c23750de3bf)" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M130.194,64.338
+	c-1.494-2.455-2.704-3.656-5.277-5.204c-2.933-1.764-5.06-2.361-9.75-4.125c-4.688-1.765-5.308-3.019-10.583-2.43
+	c-1.871,0.209-5.519,0.877-10.063,1.098c-3.073,0.148-6.035-0.018-7.833,1.166c-3.041,2.001,2.61,4.128,3.833,4.834
+	c1.625,0.938,4.146,3.895,6.404,4.661c11.929-2.004,22.94-0.627,33.27,3.654L130.194,64.338z"/>
+<linearGradient id="ian_symbols_94ab6de77a96a01439ede657ab9f8316" gradientUnits="userSpaceOnUse" x1="95.1011" y1="50.7524" x2="128.2184" y2="17.638" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#F9F4D7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_94ab6de77a96a01439ede657ab9f8316)" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M85.244,40.231
+	c-3.517-9.407,33.411-20.579,39.273-19.403c5.861,1.176,9.965,2.352,12.896,6.468c2.932,4.116-4.688,11.171-9.379,12.347
+	c-4.691,1.177-5.275,8.231-9.964,8.231c-4.7,0.001-29.318,1.765-32.836-7.643H85.244z"/>
+<linearGradient id="ian_symbols_030fd6ef30f65de419051217efff7728" gradientUnits="userSpaceOnUse" x1="190.7256" y1="50.8213" x2="242.8214" y2="-1.2788" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#F9F4D7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_030fd6ef30f65de419051217efff7728)" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M168.48,24.944
+	c1.173-5.292,3.518-6.468,10.552-8.231c7.034-1.764,33.411,1.764,45.134,1.764c11.723,0,34.583,1.177,38.687,2.353
+	c4.104,1.176,4.688,1.764,2.347,5.88c-2.347,4.116-3.517,3.528-9.966,2.352c-6.446-1.176-17.584-2.352-27.549-1.764
+	c-9.966,0.588-42.791,5.292-48.066,6.467c-5.27,1.177-12.3-3.527-11.13-8.819h-0.008V24.944z"/>
+<linearGradient id="ian_symbols_dce61c8a64603364817e9ef11329d243" gradientUnits="userSpaceOnUse" x1="299.625" y1="34.4253" x2="318.0591" y2="15.9942" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#F9F4D7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_dce61c8a64603364817e9ef11329d243)" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M290.99,25.532
+	c-1.173-2.353,1.757-2.939,4.688-3.528c2.93-0.588,21.102-1.176,23.444-1.176c2.347,0,6.449,1.176,6.449,4.116
+	c0,2.939,0.587,4.704-4.688,5.292s-17.586,0.588-21.103,0.588c-3.531,0-7.631-2.94-8.801-5.292H290.99L290.99,25.532z"/>
+<linearGradient id="ian_symbols_8e904d95aca694440de7e60a6db25408" gradientUnits="userSpaceOnUse" x1="347.5527" y1="37.5039" x2="364.9354" y2="20.1232" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#F9F4D7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_8e904d95aca694440de7e60a6db25408)" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M339.64,27.884
+	c1.172-2.939,2.344-4.116,5.274-4.116s7.62,2.353,11.14,1.177c3.516-1.177,12.309-1.765,14.065,0.588
+	c1.759,2.352,5.274,4.704,1.172,7.056c-4.104,2.353-10.551-1.176-15.825-1.176c-5.273,0-6.447,1.764-8.793,1.764
+	c-2.351,0-8.211-2.352-7.041-5.292L339.64,27.884L339.64,27.884z"/>
+<linearGradient id="ian_symbols_35f8a90473f46364b9aacce75d5cac26" gradientUnits="userSpaceOnUse" x1="413.5596" y1="62.8721" x2="440.5351" y2="35.8884" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#F9F4D7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#ian_symbols_35f8a90473f46364b9aacce75d5cac26)" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M467.17,67.583
+	c-0.325-0.967-1.805-5.391-2.094-6.185c-2.344-6.469-19.343-9.996-25.204-11.761c-5.862-1.764-7.621-8.23-12.896-12.935
+	c-5.274-4.704-11.138-6.467-18.759-7.645c-7.619-1.176-17.582-1.764-21.102,2.353c-3.518,4.116,4.104,9.407,8.207,11.171
+	c4.104,1.765,15.24,1.765,19.344,3.528c4.104,1.764,5.275,6.468,9.378,10.583c3.335,3.344,11.336,8.274,13.024,10.894
+	C445.829,60.022,456.529,62.727,467.17,67.583L467.17,67.583z"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M62.322,105.563
+	c0.009-1.355,2.123-4.428,3.052-5.146c1.248-0.97,2.974-1.685,4.393-2.38c3.516-1.719,4.217-6.082,7.445-8.368"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M51.739,112.548
+	c0.005-0.849,1.163-2.772,1.672-3.223c0.684-0.607,1.629-1.057,2.406-1.491c1.926-1.075,2.311-3.809,4.079-5.239"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M97.398,83.237
+	c-2.669,0.472-4.74-3.344-6.636-4.688c-1.808-1.287-9.357-7.478-11.542-7.494"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M86.087,99.187
+	c-0.056-2.021,0.411-2.557-1.271-3.862c-1.207-0.938-2.559-1.692-3.77-2.623c-1.113-0.854-2.657-1.761-3.606-2.724
+	c-1.101-1.115,0.609-4.115-3.323-7.461"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M92.81,80.605c1.396-1.27,2.376-3.33,2.625-5.226
+	c0.229-1.75,0.714-7.798,1.98-9.177"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M83.274,73.077
+	c1.396-1.302,2.376-3.417,2.625-5.362c0.229-1.795,0.714-8.001,1.98-9.416"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M73.657,112.382
+	c0-6.313,2.868-12.095,7.327-16.293c2.271-2.14,5.477-2.929,7.155-5.561c1.729-2.71,2.04-5.705,2.04-8.855
+	c0-1.164-0.63-2.656,0.006-3.537"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M64.539,108.616
+	c-2.726,1.456-3.048,3.264-2.384,5.861c0.596,2.337,1.146,4.41,1.146,6.906"/>
+<path fill="none" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M85.912,74.819
+	c-7.365,1.951-8.235,4.376-6.442,7.859c1.61,3.131,2.009,6.026,0.335,8.996"/>
+<path fill="url(#ian_symbols_1781eaa281b022e461e6daf23dcdd9b0)" stroke="#231F20" stroke-width="0.5" stroke-linejoin="round" d="M495.557,106.076
+	l0.003,0.004c-5.863-3.526-12.896-11.171-18.759-18.228c-5.143-6.188-8.419-16.594-10.744-23.498
+	c-10.666-3.184-23.098-4.895-32.335,0c0.391,0.603-2.778,3.504-4.323,5.449c-2.748,3.457-8.216,9.229-17.593,12.168
+	c-9.381,2.94-12.795,5.818-22.762,6.994c-6.531,0.771-33.244,0.938-59.037,2.041c-7.695,0.329-16.222,3.653-22.963,3.959
+	c-29.333,1.334-67.333,4.334-91.333,5.668c-24,1.332-49.852-9.351-54.581-10.367c-8.206-1.764-15.61-6.526-19.13-9.467
+	c-3.518-2.938-5.128-5.02-8.104-8.056c-0.27-0.274-3.495-8.065-3.703-8.407c-5.872-2.434-14.128-3.617-21.04-2.505
+	c-5.25,0.846-7.083,1.641-12.229,2.505c0.313,0.546,1.715,9.205,1.802,9.995c0.586,5.292-1.758,11.173-5.275,16.463
+	c-3.517,5.292-15.828,15.876-19.929,21.755c-4.104,5.881-6.421,8.008-6.421,13.301c0,5.289,5.248,6.689,5.248,6.689l63.306-7.055
+	c-0.002,0.003,2.885-1.93,7.227-4.835c61.535,5.692,356.195,4.245,356.195,4.245S501.417,109.606,495.557,106.076z"/>
+<linearGradient id="ian_symbols_5fa4a37a622869d401e89030c3071e98" gradientUnits="userSpaceOnUse" x1="33.6616" y1="51.2588" x2="33.6616" y2="137.0513" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#D7C39A"/>
+	<stop  offset="1" style="stop-color:#AA8D6B"/>
+</linearGradient>
+<polygon fill="url(#ian_symbols_5fa4a37a622869d401e89030c3071e98)" stroke="#7C5554" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" points="
+	67.073,137.25 0.25,63.218 0.25,51.458 67.073,125.49 "/>
+<linearGradient id="ian_symbols_5a352f653d8e2984a555dc0c61b644ed" gradientUnits="userSpaceOnUse" x1="283.6592" y1="110.2119" x2="283.6592" y2="137.0479" gradientTransform="matrix(1 0 0 1 0 0.1992)">
+	<stop  offset="0" style="stop-color:#D7C39A"/>
+	<stop  offset="1" style="stop-color:#AA8D6B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_5a352f653d8e2984a555dc0c61b644ed)" stroke="#7C5554" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+	M479.76,124.38c-16.438-1.246-39.436-4.176-52.399-9.178c-12.968-5.002-64.561,2.125-76.881-1.953
+	c-12.318-4.076-78.467-3.251-96.234-0.724c-17.771,2.526-84.532,3.108-107.516,8.547c-29.684,6.562-59.17,7.664-66.776,6.626
+	c-7.608-1.034-12.884-2.21-12.884-2.21v11.759h433.179v-16.463c-0.009-0.01-4.059,4.83-20.5,3.59L479.76,124.38z"/>
+</svg>

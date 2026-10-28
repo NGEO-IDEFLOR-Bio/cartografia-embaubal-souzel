@@ -1,0 +1,93 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="162" viewBox="0 0 501 162" xml:space="preserve">
+            <title>Lake</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Lake</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a generic lake, that can be added to any diagram.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>elements, ecosystem base, diagram, template, lake, pond, freshwater, </ian_image_library:contains>
+                    <ian_image_library:when>2012-05-14</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6b1605bdc0bb7b8459220a67af879ea7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Lake</dc:title>
+                <dc:date>2012-05-14</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/lake/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/lake/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>elements, ecosystem base, diagram, template, lake, pond, freshwater, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a generic lake, that can be added to any diagram.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_2732bf407f7a0174c52ee379fa083e97" gradientUnits="userSpaceOnUse" x1="0" y1="80.3467" x2="499.9985" y2="80.3467">
+	<stop  offset="0" style="stop-color:#2E5F2F"/>
+	<stop  offset="1" style="stop-color:#477E3B"/>
+</linearGradient>
+<path fill="url(#ian_symbols_2732bf407f7a0174c52ee379fa083e97)" d="M428.942,88.894c39.726-17.731,34.592-4.294,64.873-16.395c30.268-12.096-58.93-42.313-87.254-48.495
+	c-42.185-9.186-90.553-15.071-133.316-20.795C208.089-5.496,148.061,5.417,83.912,13.342C42.802,18.438,17.867,23.507,7.197,31.501
+	c-7.586,5.701-12.516,30.483,2.868,42.934c15.384,12.45,44.629,22.261,44.629,22.261s17.997,1.479,30.059,8.966
+	c12.062,7.478,22.191,12.982,22.191,12.982s32.302,26.157,54.886,26.072c22.585-0.092,46.846-0.986,59.069,2.452
+	c12.223,3.453,16.675,11.186,28.169,13.275c11.499,2.089,28.224-9.405,43.89-16.729c15.681-7.309,65.112-21.725,90.19-26.943
+	C408.227,111.543,428.942,88.894,428.942,88.894z"/>
+<linearGradient id="ian_symbols_e1eeca989a310034496cf5a8e7df98c8" gradientUnits="userSpaceOnUse" x1="282.7651" y1="115.0127" x2="279.3552" y2="17.3642">
+	<stop  offset="0" style="stop-color:#A3C8DB"/>
+	<stop  offset="1" style="stop-color:#8CC8E4"/>
+</linearGradient>
+<path fill="url(#ian_symbols_e1eeca989a310034496cf5a8e7df98c8)" d="M384.035,33.144c-17.932-4.51-36.465-1.354-55.537-2.459c-9.49-0.528-18.826-2.302-28.324-3.28
+	c-9.637-0.995-16.359-5.509-25.302-8.049c-17.458-4.996-36.924,4.44-53.056,7.91c-20.414,4.409-42.2,3.885-62.942,8.148
+	c-8.103,1.681-17.805,4.464-18.618,13.838c-0.663,7.863,1.773,19.74,7.301,25.221c0,0,13.533,18.529,27.688,23.256
+	c9.313,3.091,18.614,4.571,29.245,3.908c5.563-0.354,38.05,2.845,40.313,3.3c17.195,3.431,25.892,9.93,41.356,9.93
+	c18.872,0,32.472-11.379,51.352-23.973c18.88-12.577,61.143-15.206,78.442-30.926C433.266,44.233,401.659,37.584,384.035,33.144z"/>
+</svg>

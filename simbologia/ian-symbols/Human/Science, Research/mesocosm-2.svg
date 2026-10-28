@@ -1,0 +1,103 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="490" viewBox="0 0 502 490" xml:space="preserve">
+            <title>Mesocosm 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Mesocosm 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of mesocosm 2</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, laboratory, mesocosm, setup, biological, community, ecosystem</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-e6fa70ee621a64744d097a918c08a9b1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Mesocosm 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/mesocosm-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/mesocosm-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, laboratory, mesocosm, setup, biological, community, ecosystem</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of mesocosm 2</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_0a1ec142cbcb2bf4f9ce924b66a7d929" y2="90.237" gradientUnits="userSpaceOnUse" x2="98.861" gradientTransform="matrix(-1 0 0 1 99.111 0)" y1="90.237" x1="-401.13">
+  <stop stop-color="#BACDEA" offset="0"/>
+  <stop stop-color="#fff" offset=".6629"/>
+  <stop stop-color="#8F9194" offset=".9944"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m.25 90.242c0 38.489 111.92 69.673 250 69.673 138.07 0 249.99-31.185 249.99-69.673 0-38.478-111.92-69.684-249.99-69.684-138.08-.005-250 31.202-250 69.679z" fill="url(#ian_symbols_0a1ec142cbcb2bf4f9ce924b66a7d929)"/>
+ <path stroke="#0083B7" stroke-width=".5" d="m500.24 118.9c0 38.467-111.92 69.673-249.99 69.673s-250-31.207-250-69.673c0-38.489 111.92-69.685 250-69.685 138.07-.002 249.99 31.194 249.99 69.685z" fill="#95BFD5"/>
+ <linearGradient id="ian_symbols_f1fc95d8fc177b9415c4057166baf222" y2="468.07" gradientUnits="userSpaceOnUse" x2="249.38" y1="85.359" x1="249.38">
+  <stop stop-color="#95BFD5" offset="0"/>
+  <stop stop-color="#66ACCB" offset=".3396"/>
+  <stop stop-color="#0083B7" offset="1"/>
+ </linearGradient>
+ <path d="m3.539 117.14v293.52c0 31.69 106.16 57.408 243.32 57.408 137.18 0 248.36-25.718 248.36-57.408v-293.52c0-9.614-7.832-18.755-21.813-26.983-8.106-1.419-11.715-4.796-11.715-4.796s-9.866 5.665-21.658 5.412c-11.792-.231-19.855-5.412-19.855-5.412s-9.822 5.665-23.463 5.412c-13.617-.231-21.647-5.412-21.647-5.412s-12.221 6.534-25.267 5.412c-13.057-1.1-25.278-5.412-25.278-5.412s-7.039 5.665-18.039 5.412c-11.012-.231-25.278-5.412-25.278-5.412s-9.515 5.665-25.256 5.412c-15.752-.231-25.267-5.412-25.267-5.412s-7.37 5.236-16.247 5.412c-8.865.198-23.463-5.412-23.463-5.412s-2.222 4.378-16.247 5.412c-14.014 1.056-18.051-5.412-18.051-5.412s-6.809 6.105-19.844 5.412c-13.035-.671-25.267-5.412-25.267-5.412s-9.647 6.105-21.659 5.412c-12.012-.671-27.082-5.412-27.082-5.412s-11.44 5.665-21.648 5.412c-5.72-.132-11.825-1.815-16.104-3.267-16.931 8.908-21.518 18.974-21.518 29.634z" fill="url(#ian_symbols_f1fc95d8fc177b9415c4057166baf222)"/>
+ <linearGradient id="ian_symbols_4696b91ca2888274e948c82ffa7d5453" y2="290.11" gradientUnits="userSpaceOnUse" x2="500.25" y1="290.11" x1=".25">
+  <stop stop-color="#BACDEA" offset="0"/>
+  <stop stop-color="#fff" offset=".6629"/>
+  <stop stop-color="#8F9194" offset=".9944"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 91.42c0 38.478-111.94 69.673-250.01 69.673s-249.99-31.19-249.99-69.67v327.69c0 38.479 111.92 69.685 250 69.685 138.07 0 249.99-31.206 249.99-69.685v-327.7h.01z" fill="url(#ian_symbols_4696b91ca2888274e948c82ffa7d5453)"/>
+ <linearGradient id="ian_symbols_92e2a585ba68c74405138c8f52cf592e" y2="49.648" gradientUnits="userSpaceOnUse" x2="251.92" y1="49.648" x1="239.12">
+  <stop stop-color="#808285" offset="0"/>
+  <stop stop-color="#898B8E" offset=".1314"/>
+  <stop stop-color="#A1A3A5" offset=".344"/>
+  <stop stop-color="#C7C9CB" offset=".61"/>
+  <stop stop-color="#D1D3D4" offset=".6685"/>
+  <stop stop-color="#BDBFC1" offset=".8145"/>
+  <stop stop-color="#A7A9AC" offset="1"/>
+ </linearGradient>
+ <path d="m251.92 8.602c0-4.752-2.86-8.602-6.402-8.602-3.531 0-6.391 3.85-6.391 8.602v90.694h12.793v-90.694z" fill="url(#ian_symbols_92e2a585ba68c74405138c8f52cf592e)"/>
+ <path stroke="#0083B7" stroke-width=".5" d="m207.09 99.219c9.251 2.387 13.014-4.994 13.014-4.994s.285 6.193 9.548 4.994c9.251-1.199 9.251-4.994 9.251-4.994s1.804 3.795 8.129 4.994c6.347 1.199 11.912-4.994 11.912-4.994s1.552 4.994 7.723 4.994c6.159 0 7.711-4.994 7.711-4.994s3.465 6.193 13.013 4.994" fill="none"/>
+</svg>

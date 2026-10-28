@@ -1,0 +1,97 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="455" height="501" viewBox="0 0 455 501" xml:space="preserve">
+            <title>Seagrass: propagule colonisation</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Seagrass: propagule colonisation</ian_image_library:title>
+                <ian_image_library:descr>Illustration of propagule colonisation</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>seagrass, SAV, propagule, colonisation, colonization, allowed</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d534dddf4a67f1e46d0ef1fabceed35c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Seagrass: propagule colonisation</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/seagrass-propagule-colonisation/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/seagrass-propagule-colonisation/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>seagrass, SAV, propagule, colonisation, colonization, allowed</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of propagule colonisation</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_88aeb6b4c8032e649dbfb28411ae01cd" y2="479.64" gradientUnits="userSpaceOnUse" x2="-494.89" gradientTransform="matrix(.3186 .0871 -.0788 .3837 388.83 249.2)" y1="-478.16" x1="-494.89">
+  <stop stop-color="#E9E739" offset="0"/>
+  <stop stop-color="#4B8868" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".6055" d="m280.86 28.879c-.774 2.367-1.789 20.095-12.797 32.051-10.997 11.968-20.313 23.226-28.943 33.131-9.709 11.15-18.295 45.634-18.099 55.987.196 10.342.993 52.518 6.022 65.238 5.237 13.244 10.604 28.735 10.255 34.245-.371 5.455-4.069 37.692-7.506 46.954-3.469 9.328-11.891 31.354-15.731 38.729-3.84 7.364-17.368 39.208-17.368 39.208l-4.702 13.921 1.942 6.142s16.31-40.691 20.346-48.939c4.015-8.247 15.633-36.972 17.914-41.87 2.596-5.597 8.749-33.154 9.611-40.626.883-7.713 2.411-20.75-.938-28.081-1.8-3.96-10.222-29.685-11.248-38.379-1.004-8.509-4.909-41.794-.545-63.057 4.375-21.251 12.982-32.946 19.037-39.699 6.055-6.764 28.299-29.564 31.529-36.295 3.043-6.339 7.669-22.692 7.844-26.848.19-4.155-5.83-4.166-6.61-1.809z" fill="url(#ian_symbols_88aeb6b4c8032e649dbfb28411ae01cd)"/>
+ <linearGradient id="ian_symbols_e196414847ec02345929a17511608b2f" y2="309.69" gradientUnits="userSpaceOnUse" x2="765.59" gradientTransform="matrix(-.3906 0 0 .3906 492.64 261.47)" y1="-648.12" x1="765.59">
+  <stop stop-color="#E9E739" offset="0"/>
+  <stop stop-color="#4B8868" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".7217" d="m178.14 11.784c.338 2.477-2.695 19.833 7.211 34.245 9.928 14.433 18.044 27.721 25.703 39.546 8.619 13.299 10.364 48.798 7.659 58.704-2.706 9.928-13.659 50.369-22.539 61.289-9.24 11.39-19.157 24.906-20.052 30.317-.894 5.334-4.276 37.365-2.476 47.205 1.8 9.917 6.306 33.36 9.022 41.467 2.684 8.105 10.811 42.36 10.811 42.36l2.127 14.642-3.709 5.41s-9.229-43.484-11.946-52.507c-2.695-9.011-9.328-39.743-10.812-45.056-1.691-6.087-2.258-34.255-1.483-41.696.829-7.658 2.16-20.619 7.789-26.815 3.033-3.338 18.928-25.91 22.19-34.026 3.208-7.92 15.666-38.979 15.666-60.612 0-21.644-7.211-35.161-12.611-43.256-5.411-8.128-25.812-35.947-27.95-43.268-2.029-6.938-3.491-23.902-2.706-27.949.79-4.062 7.77-2.48 8.11-.003z" fill="url(#ian_symbols_e196414847ec02345929a17511608b2f)"/>
+ <linearGradient id="ian_symbols_2ac94f9d0130f4a43d9f74c5304293fd" y2="279.69" gradientUnits="userSpaceOnUse" x2="754" gradientTransform="matrix(-.3906 0 0 .3906 492.64 261.47)" y1="-701.51" x1="754">
+  <stop stop-color="#E9E739" offset="0"/>
+  <stop stop-color="#4B8868" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".7217" d="m226.83 57.439s2.706-33.044 2.706-46.562c0-13.516-3.622-11.705-5.411-7.211-2.247 5.618-.938-11.629-1.8 16.233-.906 28.834 0 26.128-1.517 35.445-1.156 7.179-12.011 26.139-18.928 36.961-6.524 10.222-19.822 34.855-25.539 45.667-4.451 8.465-11.105 34.855-9.316 47.466 1.811 12.623 3.011 24.645 8.422 35.456 5.411 10.812 12.622 36.056 16.223 53.173 3.611 17.139 6.316 40.561 5.422 54.088-.917 13.506-3.611 45.962-3.611 45.962l4.506 1.211s6.786-61.627 2.4-86.239c-5.411-30.339-10.888-50.358-13.822-59.184-3.72-11.16-13.211-39.361-12.316-48.372.895-9 0-22.233 8.422-41.761 8.619-20.03 27.034-49.573 32.434-55.877 5.43-6.325 10.82-23.758 11.74-26.464z" fill="url(#ian_symbols_2ac94f9d0130f4a43d9f74c5304293fd)"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m215.33 489.62s-1.353-2.705-2.706.896c-1.353 3.6-2.247 7.657-5.4 8.563-3.153.895-5.869.458-5.869.458s-.895-1.822 1.363-2.716c2.248-.895 4.037.894 5.848-2.248 1.811-3.152 1.353-5.857 3.6-6.316 2.28-.43 3.17 1.37 3.17 1.37z" fill="#895F3A"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m197.74 373.33l-4.604-.108s.338 9.459-.109 10.821c-.458 1.342.447 15.317.447 15.317s5.837 2.247 5.837.447c0-1.801.469-15.316.469-16.669 0-1.364 1.342-9.459 1.342-9.459l-3.39-.35z" fill="#895F3A"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m205.63 496.26s.458-4.058 3.164-5.858c2.695-1.811 4.506-5.421 4.506-9.021 0-3.61-1.353-24.327-1.353-26.139 0-1.789-.458-20.728-.458-23.423 0-2.717-1.789-28.854 1.811-31.103s6.873-5.52 5.978-6.873c-.916-1.353.338-2.596-3.731.108-4.058 2.706-6.306 3.612-7.2 6.765-.905 3.152-2.716 6.753-2.258 10.822.458 4.036 1.8 13.517 1.8 16.659 0 3.163 0 9.469-.447 11.728-.447 2.246-1.353 5.4-1.353 5.4l3.153 22.091-.895 16.223-2.71 12.62z" fill="#895F3A"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m212.25 448.98s4.953-7.657 7.211-9.021c2.258-1.353 5.411-5.847 5.411-5.847l7.211-2.259-4.516-1.812-1.8.896s-2.258 2.269-3.611 3.61c-1.353 1.353-4.953 4.059-5.858 5.869-.906 1.801-4.047 5.4-4.047 5.4v3.16z" fill="#895F3A"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m206.09 388.54l-3.6 6.764s-.905 8.117-.458 10.812c.458 2.705.905 9.021.905 10.374 0 1.354.895 6.296 1.353 11.259.458 4.965 1.8 10.822 1.8 12.622s1.353 9.47 1.8 12.165c.458 2.705 1.353 27.056 1.353 27.056l-5.411 19.822s-4.047-1.364-2.247-3.612c1.811-2.246 4.047-8.105 4.047-18.032 0-9.905-.447-17.564-1.342-20.717-.895-3.164-1.8-7.67-3.164-15.775-1.342-8.105-3.142-14.881-3.601-22.528-.436-7.67-3.153-19.844-1.353-22.55 1.8-2.68 9.91-7.64 9.91-7.64z" fill="#895F3A"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m189.87 374.58l3.611 13.964 1.353 9.469 4.953 33.809 5.848 29.729s0 24.339-.447 25.691c-.437 1.353-1.353 10.364-2.695 10.364-1.363 0-1.363-12.622-2.258-15.765-.916-3.164-1.353-15.774-2.706-19.822-1.353-4.068-3.6-16.69-4.047-23.892-.447-7.222-.905-25.691-1.363-27.045-.447-1.362-2.684-16.68-3.6-19.374-.895-2.717-2.248-8.117-2.248-10.822.02-2.7 3.62-6.31 3.62-6.31z" fill="#895F3A"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m184.92 384.94l3.601 6.765 6.316 29.291.447 19.375 4.953 27.493 3.6 27.502s-4.047 3.6-4.047 2.236c0-1.343-3.153-21.623-3.153-21.623l-4.963-27.949s-1.342-22.976-1.8-24.786c-.437-1.8-1.353-19.376-1.353-19.376l-3.61-18.91z" fill="#895F3A"/>
+ <path stroke="#231F20" stroke-width=".7217" d="m179.5 410.17s2.247 1.363 5.411 4.505c3.153 3.164 4.953 8.564 4.953 8.564s2.706 6.764 2.248 8.116c-.447 1.354-.895 9.797-.895 9.797s-.895-5.291-1.353-7.091c-.437-1.801-3.153-11.28-3.153-11.28l-4.964-6.754-4.495-4.953 2.24-.92z" fill="#895F3A"/>
+ <path d="m443.05 56.294l11.478 12.447c-46.758 26.739-98.752 67.911-156 123.53-57.231 55.616-100.92 107.57-131.07 155.88l-24.24 12.447c-20.128 10.615-33.776 18.514-40.976 23.652-2.858-7.801-9.076-20.586-18.677-38.357l-9.185-16.168c-13.103-23.248-25.277-40.43-36.537-51.547-11.244-11.12-23.877-18.51-37.841-22.17 23.587-19.026 45.22-28.55 64.889-28.55 16.823 0 35.5 17.39 56.042 52.18l10.157 17.466c36.917-47.314 84.319-93.286 142.22-137.96 57.89-44.66 114.48-78.944 169.74-102.85z" fill="#41AD49"/>
+</svg>

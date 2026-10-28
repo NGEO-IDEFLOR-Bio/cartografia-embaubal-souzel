@@ -1,0 +1,117 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="481" viewBox="0 0 500 481" xml:space="preserve">
+            <title>Flatworm</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Flatworm</ian_image_library:title>
+                <ian_image_library:descr>Illustration of flatworm</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>flatworm, Platyhelminthes, bilateral, unsegmented, invertebrate</ian_image_library:contains>
+                    <ian_image_library:when>2005-03-05</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-6d7868032b658f4421ba679a109596c3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Flatworm</dc:title>
+                <dc:date>2005-03-05</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/flatworm/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/flatworm/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>flatworm, Platyhelminthes, bilateral, unsegmented, invertebrate</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of flatworm</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_96a98829a869e22405613fc7115c1259">
+		<linearGradient id="ian_symbols_728f9accc51af1f469d84460587ae428" gradientUnits="userSpaceOnUse" x1="-2308.4202" y1="282.5811" x2="-1412.9716" y2="265.9483" gradientTransform="matrix(-0.1385 0.1431 -0.1431 -0.1385 35.4822 551.4171)">
+		<stop  offset="0" style="stop-color:#AF7A59"/>
+		<stop  offset="5.669570e-02" style="stop-color:#B17D5D"/>
+		<stop  offset="0.1295" style="stop-color:#B78768"/>
+		<stop  offset="0.2111" style="stop-color:#C1977B"/>
+		<stop  offset="0.2991" style="stop-color:#D0B09A"/>
+		<stop  offset="0.3913" style="stop-color:#E4D4C7"/>
+		<stop  offset="0.4654" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.5153" style="stop-color:#EBE2DF"/>
+		<stop  offset="0.6136" style="stop-color:#D3BDB6"/>
+		<stop  offset="0.7122" style="stop-color:#C2A39B"/>
+		<stop  offset="0.8099" style="stop-color:#B79189"/>
+		<stop  offset="0.9063" style="stop-color:#B0887F"/>
+		<stop  offset="1" style="stop-color:#AE857C"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_728f9accc51af1f469d84460587ae428)" d="M498.9,478.6c-16,16.6-188-79.2-205.9-93.9c-17.9-14.7-35.1-31.4-56.7-55.5
+		c-21.6-24.1-65.8-48.9-103-90c-12-15.5-51.5-71.6-64.7-84.5c-13.3-12.8-53.7-10.9-61.6-16c-7.9-5.1,0.1-30.7-0.6-37.9
+		c-0.8-7.2-6.6-26.3-6.3-44c0.4-17.6,7.2-38,15.5-47.9s32.5-9,44.9-8.6c12.4,0.4,23.3,8.4,33.7,6.9s23.3-9.5,35.3,2
+		c8.5,8.2,2.6,18.8,6,34.3c1.4,6.2,10.9,16.5,13.2,22.8c8.2,22.1,72.7,51.7,99.7,68.9s68.5,78.5,86.5,95.9
+		c17.9,17.3,35,24.2,60.9,53.2C421.7,313.4,511.1,467.3,498.9,478.6L498.9,478.6z"/>
+		<linearGradient id="ian_symbols_a7face1e48de0084a5cb5c31cfbe294f" gradientUnits="userSpaceOnUse" x1="-2096.7668" y1="426.171" x2="-1410.5847" y2="412.1517" gradientTransform="matrix(-0.1473 0.1523 -0.1358 -0.1314 37.1974 550.2593)">
+		<stop  offset="5.600000e-03" style="stop-color:#D2AD9E"/>
+		<stop  offset="0.1083" style="stop-color:#D4B1A2"/>
+		<stop  offset="0.218" style="stop-color:#D9BBAE"/>
+		<stop  offset="0.331" style="stop-color:#E3CEC3"/>
+		<stop  offset="0.4456" style="stop-color:#F2E8E4"/>
+		<stop  offset="0.507" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.5419" style="stop-color:#F0E6DE"/>
+		<stop  offset="0.584" style="stop-color:#E7D4C7"/>
+		<stop  offset="0.6335" style="stop-color:#E0C7B7"/>
+		<stop  offset="0.6942" style="stop-color:#DBBEAC"/>
+		<stop  offset="0.7782" style="stop-color:#D8B9A5"/>
+		<stop  offset="1" style="stop-color:#D8B7A4"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_a7face1e48de0084a5cb5c31cfbe294f)" d="M457,436.8c-13.1,13.5-164.4-75.2-180.3-88.5c-15.9-13.3-31.4-28.3-50.9-49.7
+		c-19.5-21.5-58.3-44.4-91.9-81.1c-10.9-13.7-47-63.3-58.9-74.8c-11.9-11.5-46.5-11.5-53.5-16.1c-7-4.7-1.1-26.2-2.1-32.4
+		c-0.9-6.1-6.7-22.8-7.2-37.8C11.8,41.1,16.8,24,23.6,15.8c6.7-8.2,27.5-6.4,38.2-5.5c10.6,0.9,20.3,8.1,29.2,7.3
+		c8.9-0.9,19.7-7.2,30.4,3.2c7.6,7.4,3,16.2,6.5,29.6c1.4,5.4,10,14.5,12.2,20c7.9,19.2,64.4,47.1,88.3,62.9s61.9,69.9,78,85.4
+		s31,22.1,54.4,47.9C384.2,292.4,467,427.6,457,436.8L457,436.8z"/>
+	<path fill="#606553" d="M33.8,73.6c1.9-2,15.1,4.3,14.5,10.2s-9.3,11.6-13.2,9C31.2,90.3,31.9,75.6,33.8,73.6z"/>
+	<path fill="#8A565D" d="M48.4,83.8c0.2-2.6-2.2-5.3-5.2-7.3c1.1,5,1.2,10.1,0.1,14.8C45.9,89.4,48.1,86.6,48.4,83.8z"/>
+	<path fill="#606553" d="M68.5,35.7c-1.9,2,4.8,14.9,10.7,14.2c5.9-0.8,11.3-9.6,8.6-13.5C85.1,32.5,70.4,33.8,68.5,35.7z"/>
+	<path fill="#8A565D" d="M79.2,49.9c-2.6,0.3-5.4-2.1-7.5-5c5.1,1,10.2,0.9,14.8-0.4C84.8,47.3,82,49.6,79.2,49.9z"/>
+</g>
+</svg>

@@ -1,0 +1,129 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="401" height="500" viewBox="0 0 401 500" xml:space="preserve">
+            <title>Sailboat 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Sailboat 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of sailboat</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>recreation, outdoors, water, sailboat, sailing</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-51995ec4604514b4ed3d15c41ba895ba">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Sailboat 2</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/sailboat-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/sailboat-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>recreation, outdoors, water, sailboat, sailing</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of sailboat</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_80b97794e4674ce40107d6d1b9c968ac">
+	<path fill="#939598" d="M244.3,465.1c0.1-3.8,0.6-7.1,1-10.7c1.2-0.1,2.2-1.3,3.4-1c1.8-4.3,0.1-6,0.1-10.3c0-3.8,1.8-6.9,4-6.9
+		c2.2,0,4,3.1,4,6.9c0,2.8-1.7,4-1.9,6c-0.5,5.4,1,15.4,1.5,21.1"/>
+		<linearGradient id="ian_symbols_4defee367b4af7741583d8556c1671ec" gradientUnits="userSpaceOnUse" x1="7613.2739" y1="683.7155" x2="8379.6211" y2="1126.1681" gradientTransform="matrix(8.320000e-02 0 0 9.470000e-02 -438.8198 169.9368)">
+		<stop  offset="0" style="stop-color:#E6E7E8"/>
+		<stop  offset="1" style="stop-color:#939598"/>
+	</linearGradient>
+	<polygon fill="url(#ian_symbols_4defee367b4af7741583d8556c1671ec)" points="156.2,451.1 167.7,452.3 205.6,0.2 195.8,0 	"/>
+	<g>
+		<path fill="#FFFFFF" d="M168.5,388.7l112.7,39.8c-70.3-40.4-87.6-201-76.4-418.7L168.5,388.7z"/>
+		<path d="M281.1,428.6l-112.7-39.8v-0.1L204.7,9.8h0.1c-2.9,56-3.8,107-2.6,151.7c1.2,47.4,4.6,89.2,10.3,124.3
+			c6,36.9,14.6,67.6,25.6,91c5.7,12.1,12.2,22.6,19.2,31.2C264.4,416.6,272.5,423.6,281.1,428.6L281.1,428.6z M168.6,388.7l112,39.6
+			c-8.4-5-16.3-11.8-23.4-20.3c-7.1-8.5-13.5-19-19.3-31.2c-11-23.4-19.6-54.1-25.6-91c-5.7-35-9.1-76.9-10.3-124.3
+			c-1.1-43.9-0.2-93.9,2.5-148.8L168.6,388.7z"/>
+	</g>
+	<polygon fill="#9BA2AA" points="279.6,433.9 166.7,393.8 168.2,388.4 281.1,428.5 	"/>
+	<g>
+		<path fill="#9BA2AA" d="M223.1,446.4c10-1.6,14.3-2.6,19.5,3.6c6.1,7.4,5.1,10.3,14.2,16.7l-32.8,0.1L223.1,446.4z"/>
+		<path d="M224,466.8L224,466.8l-1-20.4l0.1-0.1c0.5-0.1,0.9-0.1,1.3-0.2c9.1-1.5,13.3-2.1,18.2,3.8c2.2,2.6,3.4,4.7,4.6,6.5
+			c2.1,3.4,3.7,6,9.7,10.1v0.1L224,466.8z M223.1,446.5l0.9,20.2l32.5-0.1c-5.8-4-7.5-6.7-9.5-10.1c-1.1-1.8-2.4-3.9-4.6-6.5
+			c-4.9-5.9-9-5.2-18.1-3.8C224,446.3,223.6,446.4,223.1,446.5z"/>
+	</g>
+		<linearGradient id="ian_symbols_367593b1e296e4e439bbb98c56956e6e" gradientUnits="userSpaceOnUse" x1="5233.8452" y1="3142.8535" x2="10050.1895" y2="3142.8535" gradientTransform="matrix(8.320000e-02 0 0 9.470000e-02 -435.7396 174.5773)">
+		<stop  offset="0" style="stop-color:#FFFDEB"/>
+		<stop  offset="1" style="stop-color:#AB9732"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_367593b1e296e4e439bbb98c56956e6e)" d="M159.2,499.7l218.3-2.9l23.7-24.2l-149.3-7.8h-3.1l-9.3-4.9l-12.4-7.7l-1-3.9l-3.1-1.9l-97.8,1.9
+		l-0.1,5.5L0.4,444.4c0,36.8,29.8,43.6,34.5,47.7c3.4,1.7,55.7,7.9,123.7,7.9L159.2,499.7z"/>
+	<path fill="#A99231" d="M377.4,496.2l-218.6,3c-67.9,0-120.6-6.1-124-7.8c-4.7-4.1-34.3-10.5-34.3-47.4
+		C25.7,486.7,169.4,496.2,377.4,496.2z"/>
+	<path d="M400.3,473.7c-115.9,0-194.6-1.9-254.9-6.1c-31.5-2.2-58.4-5-82.3-8.7c-23.3-3.6-44-8-63.1-13.5v-0.1
+		c19.1,5.5,39.8,9.9,63.1,13.5c23.9,3.7,50.8,6.5,82.3,8.7C205.9,471.7,284.4,473.6,400.3,473.7L400.3,473.7z"/>
+	<path fill="#8D5E25" d="M226,464.2c-1.6,0-3.4-4.1-3.4-9.1h-37.4l4.5,9.2L226,464.2z"/>
+	<path fill="#8D5E25" d="M181.9,463.7c-16.3,0-34-5.1-34-8.5h29.9L181.9,463.7z"/>
+	<g>
+		<path fill="#FFFFFF" d="M57.7,421.8l-0.3-5.3c10.2-125.5,63.8-248.3,129-321.3c-59.5,106.5-73.7,155.6-137.1,353.1L57.7,421.8z"/>
+		<path d="M49.3,448.3L49.3,448.3L49.3,448.3l8.4-26.4l-0.3-5.3c4.9-60,20.1-122.4,43.9-180.4c11.3-27.5,24.4-53.7,38.9-77.7
+			c14.4-23.8,29.9-45.2,46.2-63.4l0.1,0.1c-28.4,50.9-46.4,88.5-63.9,134c-17.8,46.3-35.8,102.4-63,187.2
+			C56.3,426.6,52.9,437.2,49.3,448.3z M186.1,95.7c-16.1,18.1-31.5,39.3-45.8,62.9c-14.5,24-27.6,50.1-38.9,77.6
+			c-23.8,58-39,120.3-43.9,180.4l0.3,5c0.6-1.7,1.1-3.5,1.7-5.2c27.2-84.8,45.2-140.9,63-187.2C139.9,183.8,157.8,146.3,186.1,95.7z
+			"/>
+	</g>
+	<g>
+			<linearGradient id="ian_symbols_c3bb4c5b5abeee74c5e106ac0601e42a" gradientUnits="userSpaceOnUse" x1="972.9316" y1="-1277.8676" x2="1297.2125" y2="-1127.5883" gradientTransform="matrix(0.199 0 0 0.199 -103.6065 593.3577)">
+			<stop  offset="0" style="stop-color:#999999"/>
+			<stop  offset="0.2568" style="stop-color:#B6B6B6"/>
+			<stop  offset="0.7558" style="stop-color:#EBEBEB"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path fill="url(#ian_symbols_c3bb4c5b5abeee74c5e106ac0601e42a)" d="M160,392.2c-19.6-38.7-28.3-73.8-36.5-164.7c-20.1,52.1-40.7,115.2-74.2,219.7
+			C68,425,99.3,392.2,160,392.2z"/>
+		<path d="M49.3,447.3L49.3,447.3c32.4-101.5,53.7-166.9,74.1-219.8h0.1c4.2,46.1,8.5,77.6,14,101.9c5.2,23.1,12,41.9,22.5,62.8
+			l-0.1,0.1c-14.2,0-27.8,1.8-40.2,5.5c-10.8,3.2-21.2,7.8-30.8,13.7C71.6,422.2,59.2,435.6,49.3,447.3z M123.4,227.9
+			c-20.4,52.8-41.6,118.1-74,219.1c9.9-11.7,22.3-24.9,39.5-35.6c9.6-5.9,20-10.5,30.8-13.7c12.5-3.6,26-5.5,40.2-5.5
+			c-10.5-20.8-17.2-39.6-22.5-62.7C131.9,305.2,127.6,273.8,123.4,227.9z"/>
+	</g>
+</g>
+</svg>

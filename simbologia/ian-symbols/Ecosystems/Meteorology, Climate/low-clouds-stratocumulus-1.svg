@@ -1,0 +1,92 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="197" viewBox="0 0 501 197" xml:space="preserve">
+            <title>Low clouds: Stratocumulus 1</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Low clouds: Stratocumulus 1</ian_image_library:title>
+                <ian_image_library:descr>Illustration of stratocumulus clouds, belonging to a class characterized by large dark, rounded masses, usually in groups, lines, or waves. Weak convective currents create shallow cloud layers because of drier, stable air above preventing continued vertical development. Vast areas of subtropical and polar oceans are covered with massive sheets of stratocumuli.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>meteorology, climate, weather, atmosphere, sky, </ian_image_library:contains>
+                    <ian_image_library:when>2005-06-27</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8cdcf3ceb8ae82847da892bedd761ca7">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Low clouds: Stratocumulus 1</dc:title>
+                <dc:date>2005-06-27</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/low-clouds-stratocumulus-1/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/low-clouds-stratocumulus-1/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>meteorology, climate, weather, atmosphere, sky, </rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of stratocumulus clouds, belonging to a class characterized by large dark, rounded masses, usually in groups, lines, or waves. Weak convective currents create shallow cloud layers because of drier, stable air above preventing continued vertical development. Vast areas of subtropical and polar oceans are covered with massive sheets of stratocumuli.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_62b05566c1fa17a461ac0096d2a09b0e" y2="77.798" gradientUnits="userSpaceOnUse" x2="328.09" y1="9.9058" x1="340.06">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".6124"/>
+  <stop stop-color="#B4C6D3" offset="1"/>
+ </linearGradient>
+ <path stroke="#92AABD" stroke-width=".15" d="m247.76.078l49.91 7.737s20.602 15.473 30.353 15.473c9.772 0 16.292-9.665 28.208-9.665 11.939 0 35.795 6.756 47.744 7.726 11.911.97 39.043 32.885 45.545 29.017 6.509-3.868 13.006 14.492 8.669 17.391-4.337 2.92-44.474 2.909-52.048 3.879-7.597.97-3.254 2.898-10.861 3.857-7.586.98-33.597-13.544-39.049-9.665-5.42 3.868-22.768-1.929-28.208 1.929-5.409 3.879-13.017 7.736-13.017 7.736s-106.28-28.038-108.46-34.794c-2.166-6.788 6.508-29.986 15.193-30.956 8.68-.959 26.03-9.665 26.03-9.665z" fill="url(#ian_symbols_62b05566c1fa17a461ac0096d2a09b0e)"/>
+ <linearGradient id="ian_symbols_aef7ab8b44eea5f415934948a3d23749" y2="156.44" gradientUnits="userSpaceOnUse" x2="248.84" y1="42.503" x1="268.93">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".3764"/>
+  <stop stop-color="#B4C6D3" offset=".8595"/>
+ </linearGradient>
+ <path stroke="#92AABD" stroke-width=".15" d="m83.064 82.517c-4.336-4.342 11.939-21.69 21.706-23.855 9.773-2.166 26.021-13.016 34.706-13.016s5.42-14.115 15.193-17.369c9.756-3.244 18.436-3.244 32.54 0 14.104 3.254 23.866 17.369 39.048 17.369s30.375 10.839 45.567 8.685c15.171-2.177 20.602 1.077 28.197 2.166 7.586 1.067 33.629 30.364 47.733 32.54 14.094 2.166 43.38-6.519 49.888 0 6.519 6.498 13.038 27.11 21.712 30.364 8.674 3.265 17.337 34.706 4.331 39.059-13.026 4.332-138.85 4.332-138.85 4.332l-60.759-62.915-53.907 10.894-54.56-28.253s-28.209 4.342-32.546 0z" fill="url(#ian_symbols_aef7ab8b44eea5f415934948a3d23749)"/>
+ <linearGradient id="ian_symbols_d14c6b5cf45516b4892d18bca7300c6b" y2="207.55" gradientUnits="userSpaceOnUse" x2="254.34" y1="61.319" x1="241.55">
+  <stop stop-color="#FDFDFE" offset=".073"/>
+  <stop stop-color="#DDE3E9" offset=".5674"/>
+  <stop stop-color="#B8C8D5" offset=".8539"/>
+  <stop stop-color="#9EB4C5" offset="1"/>
+ </linearGradient>
+ <path stroke="#92AABD" stroke-width=".15" d="m.631 149.78c-3.243 7.585 8.674 13.016 10.85 17.358 2.15 4.332-9.751 5.409-4.332 10.84 5.409 5.419 73.744-5.431 82.428 0 8.668 5.419 36.882 3.254 43.391 10.839 6.508 7.607 21.701-14.104 34.728-10.839 13.005 3.254 24.944 9.762 36.861 10.839 11.949 1.088 24.955-8.674 54.24-4.332 29.287 4.332 45.557 14.104 54.23 8.674 8.674-5.42 43.391 3.265 58.572 2.166 15.192-1.088 46.655-14.093 62.947-13.016 16.248 1.088 49.86 3.265 56.385 4.342 6.519 1.088-4.331-7.585-4.331-10.839 0-3.265 20.612-6.508 10.85-15.192-9.762-8.674-11.938-7.586-34.716-6.508-22.789 1.078-21.712-1.088-28.188-4.332-6.519-3.265-3.275-9.773-13.038-15.192-9.767-5.431-44.489 9.751-56.396 4.332-11.938-5.431-33.639 5.43-47.744 2.176-14.098-3.254-27.119-20.612-36.871-21.701-9.773-1.066-14.104 4.353-21.701 2.166-7.596-2.166 2.161-9.751 6.52-15.182 4.332-5.419 9.762-29.275-6.52-30.374-16.259-1.088-26.021-11.928-34.716-13.016-8.674-1.078-9.762 15.182-19.524 15.182-9.768 0-14.094 15.192-21.679 15.192-7.607 0-6.519 6.508-17.369 6.508-10.839 0-19.524-14.104-28.203-13.027-8.668 1.099-18.431 7.607-19.519 13.027-1.088 5.431 4.326 18.436 10.851 19.524 6.508 1.099 21.679 1.088 30.364 0 8.695-1.066 24.944 2.166 26.043 13.027 1.077 10.84 4.331 20.612-8.685 21.69-13.005 1.078-28.198-10.85-34.717-8.685-6.498 2.177-10.851-16.27-17.348-15.182-6.508 1.077-9.762 8.674-17.369 6.508-7.575-2.166-9.751 5.42-26.032 2.166-16.259-3.254-22.778 10.861-36.872 8.685-14.099-2.19-40.142-5.44-43.385 2.16z" fill="url(#ian_symbols_d14c6b5cf45516b4892d18bca7300c6b)"/>
+</svg>

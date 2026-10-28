@@ -1,0 +1,92 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+            <title>Government 2</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Government 2</ian_image_library:title>
+                <ian_image_library:descr>Illustration of government.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>law, politics, politician, federal, Senate, House of Representatives</ian_image_library:contains>
+                    <ian_image_library:when>2012-03-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-dd285b14c7b8c284713282f20d5f91e1">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Government 2</dc:title>
+                <dc:date>2012-03-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/government-2/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/government-2/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>law, politics, politician, federal, Senate, House of Representatives</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of government.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<path fill="#ACD6F2" d="M498.171,250.995C498.171,389.063,386.243,501,248.175,501C110.098,501-1.829,389.063-1.829,250.995
+	S110.098,1,248.175,1C386.243,1,498.171,112.927,498.171,250.995z"/>
+<path fill="#939598" d="M404.895,381.343v-19.996h-16.346v-19.995h-21.576c0.096-11.98,0.433-59.188-0.023-77.972
+	c-0.502-21.083-4.877-76.907-5.08-79.498h12.197v-21.021h30.394v-11.598l-154.177-75.39l-154.168,75.39v11.598h30.388v21.021h12.354
+	c-0.183,2.654-4.238,61.428-5.082,79.498c-0.763,16.157-0.194,65.647-0.037,77.972h-21.716v19.995H95.675v19.996h-16.35v21.113
+	h341.918v-21.113H404.895z M329.681,263.38c-0.75,16.157-0.19,65.647-0.036,77.972h-27.978c0.095-11.98,0.43-59.188-0.023-77.972
+	c-0.496-21.083-4.872-76.907-5.076-79.498h38.207C334.591,186.536,330.535,245.311,329.681,263.38z M236.349,263.38
+	c-0.502-21.083-4.876-76.907-5.08-79.498h38.186c-0.184,2.654-4.228,61.428-5.07,79.498c-0.764,16.157-0.194,65.647-0.037,77.972
+	h-27.976C236.465,329.371,236.796,282.164,236.349,263.38z M171.043,263.38c-0.507-21.083-4.877-76.907-5.079-79.498h38.197
+	c-0.183,2.654-4.232,61.428-5.086,79.498c-0.754,16.157-0.192,65.647-0.037,77.972h-27.972
+	C171.162,329.371,171.496,282.164,171.043,263.38z"/>
+<path fill="#FFFFFF" d="M402.677,379.124v-19.995h-16.346v-19.994h-21.574c0.095-12.068,0.434-59.868-0.023-78.88
+	c-0.46-19.49-4.155-68.347-4.941-78.589h12.057v-21.021h30.395v-11.598L248.064,73.659L93.898,149.047v11.598h30.388v21.021h12.231
+	c-0.715,10.524-4.186,61.844-4.959,78.589c-0.763,16.353-0.193,66.465-0.037,78.88h-21.718v19.994H93.459v19.995H77.108v21.116
+	h341.918v-21.116H402.677z M327.464,260.255c-0.751,16.353-0.189,66.465-0.036,78.88h-27.979c0.095-12.068,0.431-59.868-0.022-78.88
+	c-0.455-19.49-4.149-68.347-4.936-78.589h37.942C331.718,192.19,328.247,243.51,327.464,260.255z M234.132,260.255
+	c-0.458-19.49-4.155-68.347-4.941-78.589h37.926c-0.714,10.524-4.176,61.844-4.95,78.589c-0.764,16.353-0.193,66.465-0.036,78.88
+	h-27.977C234.248,327.066,234.58,279.267,234.132,260.255z M168.827,260.255c-0.465-19.49-4.157-68.347-4.942-78.589h37.937
+	c-0.715,10.524-4.182,61.844-4.965,78.589c-0.754,16.353-0.191,66.465-0.036,78.88H168.85
+	C168.944,327.066,169.28,279.267,168.827,260.255z"/>
+</svg>

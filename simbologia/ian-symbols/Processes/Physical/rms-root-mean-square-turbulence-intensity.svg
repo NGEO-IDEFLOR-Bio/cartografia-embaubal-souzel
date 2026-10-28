@@ -1,0 +1,96 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="505" height="445" viewBox="0 0 505 445" xml:space="preserve">
+            <title>RMS (root mean square) turbulence intensity</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>RMS (root mean square) turbulence intensity</ian_image_library:title>
+                <ian_image_library:descr>Illustration of RMS (root mean square) turbulence intensity</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>physical, processes, RMS, root, mean, square, turbulence, turbulent, intensity, kinetic, energy</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-0768f01089757ce4d92c1e2766ecb131">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>RMS (root mean square) turbulence intensity</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/rms-root-mean-square-turbulence-intensity/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/rms-root-mean-square-turbulence-intensity/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>physical, processes, RMS, root, mean, square, turbulence, turbulent, intensity, kinetic, energy</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of RMS (root mean square) turbulence intensity</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_a958947be472bf6439b8ef35f5c0fcea" y2="4157.6" gradientUnits="userSpaceOnUse" x2="4103.9" gradientTransform="matrix(.63 0 0 .63 -2333.7 -2619.2)" y1="4863.7" x1="4103.9">
+  <stop stop-color="#0083B7" offset="0"/>
+  <stop stop-color="#0F89BA" offset=".0477"/>
+  <stop stop-color="#3899C2" offset=".1953"/>
+  <stop stop-color="#59A7C9" offset=".3468"/>
+  <stop stop-color="#74B2CE" offset=".5008"/>
+  <stop stop-color="#86B9D2" offset=".6584"/>
+  <stop stop-color="#91BED4" offset=".8218"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path stroke="#007198" stroke-width="3.6033" d="m1.96 42.03c24.316-1.108 52.426-38.554 52.426-38.554s26.152 38.97 65.488 38.555c43.462-.435 65.239-38.555 65.239-38.555s25.02 38.999 61.807 38.555c38.105-.435 65.522-38.555 65.522-38.555s30.757 38.491 65.127 38.555c29.111.078 57.891-38.555 57.891-38.555s29.506 43.354 66.342 38.564v399.55l-499.84-.02c-.356 0 0-399.54 0-399.54z" fill="url(#ian_symbols_a958947be472bf6439b8ef35f5c0fcea)"/>
+ <path stroke="#231F20" stroke-width="5.4528" stroke-miterlimit="3.8637" d="m233.78 82.152c-11.763 5.049-22.163 13.628-29.458 25.303-19.072 30.518-9.785 70.722 20.732 89.775s70.703 9.775 89.755-20.728c19.072-30.517 9.785-70.717-20.732-89.78-6.357-3.975-13.174-6.729-20.107-8.296" fill="none"/>
+ <path stroke="#231F20" stroke-width="4.6535" d="m249.8 74.452c-7.651 7.285-16.479 17.92-20.85 27.021l-1.035-17.627-12.08-12.853c9.63 3.091 23.4 4.009 33.96 3.462z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="4.0893" stroke-miterlimit="3.8637" d="m164.05 223.02c-8.828 3.789-16.621 10.225-22.1 18.979-14.297 22.886-7.329 53.032 15.557 67.329 22.885 14.292 53.017 7.334 67.319-15.552 14.297-22.886 7.324-53.032-15.557-67.324-4.771-2.983-9.883-5.054-15.083-6.216" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.4895" d="m176.06 217.25c-5.728 5.464-12.348 13.433-15.625 20.259l-.786-13.218-9.053-9.644c7.22 2.32 17.55 3 25.46 2.6z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="4.0893" stroke-miterlimit="3.8637" d="m315.33 223.02c-8.833 3.789-16.626 10.225-22.109 18.979-14.287 22.886-7.324 53.032 15.562 67.329 22.886 14.292 53.022 7.334 67.319-15.552s7.329-53.032-15.557-67.324c-4.771-2.983-9.878-5.054-15.078-6.216" fill="none"/>
+ <path stroke="#231F20" stroke-width="3.4895" d="m327.32 217.25c-5.728 5.464-12.349 13.433-15.625 20.259l-.786-13.218-9.043-9.644c7.22 2.32 17.55 3 25.45 2.6z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="3.0681" stroke-miterlimit="3.8637" d="m392.34 328.65c-6.631 2.856-12.476 7.676-16.582 14.243-10.737 17.168-5.508 39.795 11.66 50.508 17.168 10.723 39.78 5.508 50.508-11.66 10.736-17.173 5.508-39.785-11.66-50.508-3.584-2.246-7.417-3.789-11.328-4.673" fill="none"/>
+ <path stroke="#231F20" stroke-width="2.6177" d="m401.35 324.33c-4.302 4.091-9.277 10.082-11.738 15.199l-.576-9.917-6.792-7.24c5.42 1.75 13.17 2.27 19.11 1.96z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="3.0681" stroke-miterlimit="3.8637" d="m245.07 328.65c-6.631 2.856-12.476 7.676-16.582 14.243-10.737 17.168-5.508 39.795 11.66 50.508 17.168 10.723 39.785 5.508 50.507-11.66 10.732-17.173 5.508-39.785-11.66-50.508-3.584-2.246-7.417-3.789-11.328-4.673" fill="none"/>
+ <path stroke="#231F20" stroke-width="2.6177" d="m254.07 324.33c-4.302 4.091-9.277 10.082-11.738 15.199l-.576-9.917-6.792-7.24c5.43 1.75 13.18 2.27 19.11 1.96z" fill="#231F20"/>
+ <path stroke="#231F20" stroke-width="3.0681" stroke-miterlimit="3.8637" d="m97.721 328.65c-6.631 2.856-12.48 7.676-16.582 14.243-10.737 17.168-5.513 39.795 11.66 50.508 17.168 10.723 39.78 5.508 50.508-11.66 10.732-17.173 5.508-39.785-11.665-50.508-3.579-2.246-7.412-3.789-11.323-4.673" fill="none"/>
+ <path stroke="#231F20" stroke-width="2.6177" d="m106.72 324.33c-4.302 4.091-9.277 10.082-11.738 15.199l-.581-9.917-6.792-7.24c5.425 1.75 13.181 2.27 19.111 1.96z" fill="#231F20"/>
+</svg>

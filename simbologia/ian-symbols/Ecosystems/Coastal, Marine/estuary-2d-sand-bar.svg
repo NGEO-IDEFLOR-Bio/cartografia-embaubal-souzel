@@ -1,0 +1,108 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="142" viewBox="0 0 501 142" xml:space="preserve">
+            <title>Estuary 2D: sand bar</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: sand bar</ian_image_library:title>
+                <ian_image_library:descr>Illustration of estuary base with sand bar</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, sbar</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-42900de7bfe56f9405549ed087b796ba">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: sand bar</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-sand-bar/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-sand-bar/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, sbar</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of estuary base with sand bar</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs>
+  <pattern id="ian_symbols_5463a3f945096b04f9e44e6b3e6e7d0e" height="49.852" viewBox="0 -49.852 49.852 49.852" width="49.852" patternUnits="userSpaceOnUse" y="526.853" x="-60.218" overflow="visible">
+   <polygon points="0 0 0 -49.853 49.853 -49.853 49.853 0" fill="none"/>
+   <polygon points="49.853 0 0 0 0 -49.853 49.853 -49.853" fill="#fff"/>
+   <path d="m17.779-37.738c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m29.616-20.762c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m31.796-32.131c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.336 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m7.954-17.181c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.337 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m16.237-25.745c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m21.05-7.992c0 .336-.272.609-.609.609-.335 0-.607-.273-.607-.609 0-.335.272-.608.607-.608.336-.001.609.273.609.608z" fill="#231F20"/>
+   <path d="m38.337-16.245c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.336-.001.609.272.609.608z" fill="#231F20"/>
+   <path d="m46.28-44.435c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608s.272-.608.607-.608c.337 0 .609.272.609.608z" fill="#231F20"/>
+   <path d="m28.215-45.665c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m44.878-27.614c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.336-.001.609.271.609.608z" fill="#231F20"/>
+   <path d="m3.296-3.164c0 .336-.272.608-.609.608-.335 0-.607-.272-.607-.608 0-.335.272-.608.607-.608.336 0 .609.273.609.608z" fill="#231F20"/>
+   <path d="m8.411-43.344c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.337.272-.608.607-.608.337 0 .609.271.609.608z" fill="#231F20"/>
+   <path d="m42.698-6.59c0 .335-.272.608-.609.608-.335 0-.607-.273-.607-.608 0-.336.272-.608.607-.608.337 0 .609.272.609.608z" fill="#231F20"/>
+  </pattern>
+ </defs>
+ <linearGradient id="ian_symbols_7c9dd42b2f05fab4d18baa918b0ab895" y2="68.753" gradientUnits="userSpaceOnUse" x2="500.25" y1="68.753" x1="203.45">
+  <stop stop-color="#AD9768" offset="0"/>
+  <stop stop-color="#9C946F" offset=".0379"/>
+  <stop stop-color="#738E80" offset=".1439"/>
+  <stop stop-color="#4F898F" offset=".2562"/>
+  <stop stop-color="#32859B" offset=".3738"/>
+  <stop stop-color="#1C81A4" offset=".4987"/>
+  <stop stop-color="#0C7FAB" offset=".6342"/>
+  <stop stop-color="#037DAF" offset=".7881"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m496.11 38.357c-1.804 2.926-5.165 4.674-9.637 4.674-4.469 0-7.834-1.748-9.639-4.674-1.804 2.926-5.166 4.674-9.638 4.674-4.468 0-7.837-1.748-9.64-4.674-1.802 2.926-5.165 4.674-9.637 4.674-4.468 0-6.737-1.748-8.543-4.674-1.802 2.926-4.067 4.674-8.54 4.674-4.469 0-5.644-1.748-7.446-4.674-1.804 2.926-4.072 4.674-8.545 4.674-4.111 0-7.943-.843-9.605-2.249-1.657 1.406-3.656 2.249-7.771 2.249s-6.113-.843-7.773-2.249c-1.659 1.406-4.754 2.249-8.869 2.249-4.112 0-7.208-.843-8.866-2.249-1.664 1.406-4.754 2.249-8.869 2.249-4.113 0-7.211-.843-8.87-2.249-1.656 1.406-4.755 2.249-8.867 2.249-4.113 0-7.212-.843-8.869-2.249-1.662 1.406-4.759 2.249-8.868 2.249-4.115 0-7.21-.843-8.871-2.249-1.656 1.406-4.755 2.249-8.867 2.249-4.114 0-7.211-.843-8.871-2.249-1.657 1.406-4.754 2.249-8.87 2.249-4.11 0-7.207-.843-8.865-2.249-1.66 1.406-4.758 2.249-8.869 2.249s-7.21-.843-8.868-2.249c-1.658 1.406-4.757 2.249-8.87 2.249s-7.209-.843-8.867-2.249c-1.66 1.406-4.755 2.249-8.87 2.249-4.113 0-7.207-.843-8.868-2.249-1.658 1.406-4.756 2.249-8.869 2.249-4.114 0-7.209-.843-8.868-2.249-1.66 1.406-4.754 2.249-8.871 2.249v56.119h296.82v-57.229c-1.77-.803-3.18-2.011-4.14-3.564z" fill="url(#ian_symbols_7c9dd42b2f05fab4d18baa918b0ab895)"/>
+ <path stroke="#231F20" stroke-width=".5" stroke-dasharray="5.8796" d="m444.74 95.004c-6.646-1.282-14.973-13.411-18.553-19.334-4.035-6.679-8.233-14.281-12.766-20.719-5.412-7.683-12.637-9.208-21.112-8.174-10.1 1.231-13.879 6.013-20.316 14.825-3.813 5.223-8.03 11.091-12.378 15.859-5.714 6.27-13.027 9.208-19.585 13.604" fill="url(#ian_symbols_5463a3f945096b04f9e44e6b3e6e7d0e)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m500.25 95.439c-1.322.067-2.639.124-3.955.138-35.021.358-28.246-1.247-61.984-8.854-21.027-4.74-40.516-10.037-61.52-5.039-36.665 8.728-84.323 9.888-121.1-1.738-9.849-3.112-17.866-6.81-25.182-13.941-5.953-5.801-11.715-14.598-18.312-20.025-15.699-12.915-46.608-10.797-66.437-12.414-14.197-1.153-28.306-2.993-41.631-8.688-10.749-4.596-20.241-11.491-31.417-15.2-13.22-4.387-27.628-5.051-41.449-6.824-9.015-1.153-18.087-1.502-27.024-2.572v141.08h500v-45.921z" fill="#DFCAAB"/>
+ <path stroke="#231F20" stroke-width=".5" d="m285.95 91.917c12.853 2.168 25.678 3.025 38.483.234 5.575-1.215 11.162-2.653 16.445-4.798.347-.143.697-.301 1.045-.45-30.154 3.227-63.144 1.608-90.231-6.957-3.544-1.121-6.849-2.32-9.973-3.723 2.859 2.129 6.174 3.934 9.415 5.5 11.01 5.34 22.72 8.156 34.81 10.194z" fill="#9D5A44"/>
+</svg>

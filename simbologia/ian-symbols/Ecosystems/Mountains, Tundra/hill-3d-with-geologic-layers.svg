@@ -1,0 +1,114 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="426" height="300" viewBox="0 0 426 300" xml:space="preserve">
+            <title>Hill 3D: with geologic layers</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Hill 3D: with geologic layers</ian_image_library:title>
+                <ian_image_library:descr>Illustration of hill with geologic layers</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, terrestrial, landform, hill, mound, uplift, geologic, layers, sediment, soil, horizons</ian_image_library:contains>
+                    <ian_image_library:when>2005-02-16</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-d80735dfe38eb3b4f544e1122a53a96c">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Hill 3D: with geologic layers</dc:title>
+                <dc:date>2005-02-16</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/hill-3d-with-geologic-layers/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/hill-3d-with-geologic-layers/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, terrestrial, landform, hill, mound, uplift, geologic, layers, sediment, soil, horizons</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of hill with geologic layers</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path d="m215.59 280.27l209.86-122.04v-32.494s-21.558 6.892-28.364 5.287-15.387 2.938-20.69-3.664c-5.301-6.604-13.455-22.186-22.684-23.024s-8.341-.26-20.506 6.137c2.89-1.518-58.499 61.062-59.66 62.451-.81.373-34.639 43.197-36.704 44.376-3.604 2.06-21.25 26.477-21.25 26.477v36.47z" fill="#62542C"/>
+ <path d="m215.59 289.76l209.86-122.04v-36.495s-21.558 10.892-28.364 9.287c-6.807-1.604-15.387 2.939-20.69-3.664-5.301-6.604-13.455-22.186-22.684-23.023-9.229-.839-12.976 6.106-19.451 6.137-10.469.048-14.325 22.833-19.481 25.135-15.381 6.868-25.188 32.901-37.016 38.369-.81.374-2.064 4.304-6.493 9.661-2.939 3.558-8.638 7.742-12.337 11.936-1.779 2.019-3.5 7.201-5.135 9.153-6.555 7.822-11.729 11.393-13.794 12.575-3.604 2.059-8.243 14.692-10.947 16.284-11.042 6.491-13.466 10.191-13.466 10.191v36.49z" fill="#7C6C53"/>
+ <path d="m215.59 293.98l209.86-122.04v-36.495s-10.418 5.321-27.126 12.747c-4.59 2.041-15.411.941-23.979-2.658-8.567-3.599-8.909-21.667-17.219-16.62-8.311 5.046-18.009-7.064-24.298-2.557-6.291 4.508-6.814 16.106-14.632 26.214s-11.462 22.232-21.981 32.753c-2.184 2.184-6.199 6.251-10.01 10.743-2.027 2.394-3.242 4.906-5.76 7.318-3.348 3.206-7.964 4.574-11.558 8.219-4.472 4.536-8.991 11.113-13.202 15.06-2.015 1.892-5.016 2.517-6.853 4.009-5.54 4.504-9.024 8.364-11.479 10.165-10.507 7.706-21.763 16.647-21.763 16.647v36.51z" fill="#837C58"/>
+ <path d="m215.59 297.14l209.86-122.04v-36.495c-14.75 9.584-15.336 6.528-29.733 15.525-4.271 2.67-18.706 3.433-30.306-3.224-4.175-2.396-9.098-10.202-12.847-10.482-3.749-.279-11.132-3.17-15.394.35s-3.477 14.577-6.928 20.036c-1.883 2.978-3.441 13.872-6.443 15.429-6.639 3.442-9.091 24.164-12.733 25.791-3.184 1.422-9.889 3.76-16.473 8.427-3.277 2.321-5.732 6.808-9.285 8.893-3.669 2.156-7.385 1.211-10.939 3.365-4.447 2.697-5.803 4.351-10.189 6.892-6.032 3.493-13.078 4.657-16.821 8.251-3.746 3.596-9.75 9.532-15.321 13.245-5.568 3.713-16.445 9.543-16.445 9.543v36.5z" fill="#BDAD6E"/>
+ <linearGradient id="ian_symbols_19676d7538b7eb94fdc6e1543fd328ad" y2="193.9" gradientUnits="userSpaceOnUse" x2="303.1" y1="234.23" x1="326.39">
+  <stop stop-color="#AB926F" offset=".382"/>
+  <stop stop-color="#E0CEAF" offset="1"/>
+ </linearGradient>
+ <path d="m215.59 298.2l209.86-122.04v-26.229s-7.442 1.641-18.607 6.864c-5.381 2.518-11.626 7.486-18.321 10.432-4.774 2.102-12.041 4.485-16.372 6.343-4.333 1.855-7.119-3.435-11.05-6.187-2.776-1.944-5.925-2.374-9.6-1.318-2.218.64-2.471 3.296-4.796 6.938-1.363 2.137-4.904 4.614-6.334 7.22-5.885 10.724-9.646 23.66-10.738 24.289-9.192 5.294-24.731 14.334-49.743 28.228-25.013 13.895-64.297 39.231-64.297 39.231v26.24z" fill="url(#ian_symbols_19676d7538b7eb94fdc6e1543fd328ad)"/>
+ <polygon points="215.59 266.56 .25 141.1 .25 122.55 215.59 248.01" fill="#62542C"/>
+ <path d="m215.59 270.78l-215.34-125.46v-18.55s51.539 31.4 66.025 38.325 69.593 43.049 84.128 51.267c14.532 8.22 65.184 35.87 65.184 35.87v18.54z" fill="#7C6C53"/>
+ <path d="m215.59 275l-215.34-125.46v-18.549s51.539 31.4 66.025 38.325c14.486 6.924 69.593 43.049 84.128 51.267 14.532 8.219 65.184 35.869 65.184 35.869v18.54z" fill="#837C58"/>
+ <path d="m215.59 279.22l-215.34-125.47v-18.55s51.539 31.401 66.025 38.325c14.486 6.925 69.593 43.048 84.128 51.269 14.532 8.218 65.184 35.868 65.184 35.868v18.56z" fill="#BDAD6E"/>
+ <linearGradient id="ian_symbols_8af8b1ae8afc14c419eaafc06139b12c" y2="210.99" gradientUnits="userSpaceOnUse" x2="112.44" y1="226.19" x1="103.66">
+  <stop stop-color="#AB926F" offset=".382"/>
+  <stop stop-color="#E0CEAF" offset="1"/>
+ </linearGradient>
+ <path d="m215.59 290.81l-215.34-125.46v-18.549s53.001 30.648 66.82 38.052c13.82 7.403 61.466 38.544 81.753 50.287s66.764 37.123 66.764 37.123v18.55z" fill="url(#ian_symbols_8af8b1ae8afc14c419eaafc06139b12c)"/>
+ <linearGradient id="ian_symbols_1e2b6e3ac54aa0a4e5d243794ec2fcb6" y2="218.81" gradientUnits="userSpaceOnUse" x2="112.18" y1="233.57" x1="103.66">
+  <stop stop-color="#AB9B73" offset=".2472"/>
+  <stop stop-color="#978861" offset=".8652"/>
+ </linearGradient>
+ <path d="m215.59 298.2l-215.34-125.47v-18.548s46.993 28.841 61.077 35.585c14.086 6.746 66.512 45.685 84.491 52.391 17.98 6.705 69.769 37.484 69.769 37.484v18.57z" fill="url(#ian_symbols_1e2b6e3ac54aa0a4e5d243794ec2fcb6)"/>
+ <linearGradient id="ian_symbols_62e5135d760308d401ca88f56b2b9b1c" y2="213.84" gradientUnits="userSpaceOnUse" x2="312.32" y1="235.22" x1="324.66">
+  <stop stop-color="#AB9B73" offset=".2472"/>
+  <stop stop-color="#978861" offset=".8652"/>
+ </linearGradient>
+ <path d="m215.59 298.2l209.86-122.04v-18.245s-7.515 2.598-18.296 8.88c-8.902 5.186-26.137 15.584-29.951 18.078-3.815 2.495-11.317-.538-16.095 1.063-4.777 1.6-13.104 9.541-16.871 12.125s-10.525 15.733-20.429 20.683c-9.9 4.952-33.783 15.29-40.59 21.478s-67.627 39.733-67.627 39.733v18.25z" fill="url(#ian_symbols_62e5135d760308d401ca88f56b2b9b1c)"/>
+ <linearGradient id="ian_symbols_8ace001b2e9a9e14f9fed8abb13260ef" y2="232.64" gradientUnits="userSpaceOnUse" x2="173.36" y1="34.43" x1="245.5">
+  <stop stop-color="#6C9D5D" offset="0"/>
+  <stop stop-color="#8EAB63" offset=".6966"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m215.59 248.01s103.59-162.82 140.27-142.07c14.253 3.804 15.442 28.663 32.269 31.194 10.815-1.206 37.322-11.399 37.322-11.399l-210.92-102.57-214.28 99.39 215.34 125.46z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_8ace001b2e9a9e14f9fed8abb13260ef)"/>
+ <linearGradient id="ian_symbols_6310f0b309dfaf14154f5e1cd0e43ce6" y2="220.7" gradientUnits="userSpaceOnUse" x2="140.55" y1="16.823" x1="214.76">
+  <stop stop-color="#7BA360" offset=".0056"/>
+  <stop stop-color="#8EAB63" offset=".3483"/>
+  <stop stop-color="#A2AC7E" offset=".9494"/>
+ </linearGradient>
+ <path stroke-linejoin="round" d="m215.59 248.01s25.746-33.865 55.119-67.792c27.045-31.237 57.646-62.528 63.272-67.485 11.738-10.342 23.985-5.742 23.985-5.742s-160.26-97.309-171.16-100.34c-10.894-3.025-32.161-9.829-43.778-4.342-6.24 2.956-55.541 30.397-90.34 64.377-29.908 29.206-52.43 55.855-52.43 55.855l215.34 125.46z" stroke="#231F20" stroke-linecap="round" stroke-width=".5" fill="url(#ian_symbols_6310f0b309dfaf14154f5e1cd0e43ce6)"/>
+ <polyline stroke-linejoin="round" fill="none" stroke="#231F20" stroke-linecap="round" stroke-width=".5" points="215.59 248.01 215.59 298.2 425.45 176.15 425.45 125.74"/>
+ <polygon stroke-linejoin="round" fill="none" stroke="#231F20" stroke-linecap="round" stroke-width=".5" points="215.59 298.2 .25 172.73 .25 122.55 215.59 248.01"/>
+</svg>

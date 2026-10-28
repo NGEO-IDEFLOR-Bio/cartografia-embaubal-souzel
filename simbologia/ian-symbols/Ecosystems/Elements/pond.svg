@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="144" viewBox="0 0 502 144" xml:space="preserve">
+            <title>Pond</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Pond</ian_image_library:title>
+                <ian_image_library:descr>Illustration of pond</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, elements, aquatic, freshwater, lake, pond, waterbody, puddle, pool, basin</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-17</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-39f9d1e71609558445982b2722e1b136">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Pond</dc:title>
+                <dc:date>2010-03-17</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/pond/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/pond/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, elements, aquatic, freshwater, lake, pond, waterbody, puddle, pool, basin</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of pond</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <path stroke="#231F20" stroke-width=".25" d="m40.555 14.621c11.571-.212 16.176-7.682 26.723-9.546 9.615-1.711 20.097 0 29.786 0 21.869 0 44.254-.12 65.081-3.188 19.834-2.92 40.882 0 60.827 0 19.673 0 41.385-3.936 60.85-.042 14.648 2.944 28.02 12.577 42.875 15.88 16.545 3.664 33.081 4.863 50.853 4.863 8.655 0 18.755-1.767 26.723 1.583 8.738 3.668 8.452 4.904 14.931 9.542 14.92 10.685 35.4-3.581 51.364 6.325-4.733 4.808-13.556 5.172-19.317 6.75 2.528 1.167 7.082 1.818 10.505 1.481.281.978.364 1.979.263 3.041-15.802 10.164-35.092.245-51.207 9.735.06.771 7.58 1.892 7.516 2.639 13.804 7.313 23.031 3.132 37.141 6.985 13.269 3.622 32.001 8.549 44.605 14.247 1.56 12.167-24.661 14.852-31.217 18.464-11.529 6.362-24.526 18.57-36.831 19.447-19.124 1.365-37.584 8.286-56.551 11.146-19.88 2.98-37.81 7.959-58.682 7.959-11.101 0-24.144 2.754-35.134 0-11.257-2.823-20.558-12.863-31.004-17.578-16.831-7.595-40.435-4.374-57.515-3.119-9.596.711-21.592 2.418-31.041 0-6.201-1.573-24.028-8.53-27.193-18.174-6.183-18.842 12.591-11.949 15.539-21.522 4.503-14.625-19.35-9.625-26.746-9.625-13.084 0-22.819-4.909-35.249-6.371-9.491-1.117-20.462 3.049-29.735.069-20.578-6.602-38.563-20.651-58.577-29.348 2.531-15.761 15.945-13.685 25.486-13.685l14.93-7.967z" fill="#AA8D6B"/>
+ <linearGradient id="ian_symbols_efc02ce0408971e4c9d2b0e3f5f4939d" y2="-48.212" gradientUnits="userSpaceOnUse" x2="343.2" y1="156.92" x1="138.06">
+  <stop stop-color="#79A7B5" offset=".0787"/>
+  <stop stop-color="#949A8D" offset=".9831"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".25" d="m54.332 20.167c10.012-.171 13.989-6.39 23.124-7.945 8.323-1.43 17.389 0 25.781 0 18.926 0 38.299-.106 56.324-2.653 17.172-2.427 35.387 0 52.661 0 17.025 0 35.812-3.271 52.666-.033 12.684 2.437 21.994 3.926 34.856 6.681 14.312 3.055 30.894 10.58 46.275 10.58 7.493 0 16.241-1.467 23.134 1.324 7.557 3.063 6.75 7.576 12.918 7.954 13.666.821 40.361.517 54.193 8.78-4.106 4-21.459.798-26.441 2.113 2.182.964-2.408 1.504.549 1.232.249.808-12.401 3.742-12.503 4.609-8.535 3.188-15.4-.729-27.332 6.035.056.627 9.768 4.752 9.707 5.37 11.959 6.095 21.011 4.212 33.229 7.419 11.475 3.008 27.7 2.349 38.607 7.082 1.338 10.136-19.207 21.924-24.896 24.942-9.975 5.278-23.359 5.919-34.003 6.644-16.572 1.131-32.541 6.907-48.956 9.283-17.205 2.486-32.726 6.62-50.783 6.62-9.62 0-20.905-5.651-30.418-7.958-9.753-2.344-17.8-2.75-26.847-6.681-14.552-6.316-35-3.627-49.782-2.584-8.305.586-18.686 2.002-26.866 0-5.366-1.319 3.225-8.351.484-16.393-5.342-15.687 31.586-15.89 34.137-23.857 3.898-12.18-61.464-4.023-67.863-4.023-11.322 0-19.747-2.496-30.506-3.714-8.217-.923-17.717.95-25.735-1.532-17.809-5.49-33.385-14.017-50.705-21.26 2.187-13.126 13.804-11.405 22.063-11.405l12.925-6.629z" fill="url(#ian_symbols_efc02ce0408971e4c9d2b0e3f5f4939d)"/>
+</svg>

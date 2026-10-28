@@ -1,0 +1,118 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="346" height="500" viewBox="0 0 346 500" xml:space="preserve">
+            <title>Drinking water</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Drinking water</ian_image_library:title>
+                <ian_image_library:descr>Illustration of drinking water from treatment plant off-take</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>SEQ, South East Queensland, sanitation, potable water, safe, development, drink, tap</ian_image_library:contains>
+                    <ian_image_library:when>2013-09-26</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-8f0ed16f17c31144c5067a465db498a4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Drinking water</dc:title>
+                <dc:date>2013-09-26</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/drinking-water/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/drinking-water/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>SEQ, South East Queensland, sanitation, potable water, safe, development, drink, tap</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of drinking water from treatment plant off-take</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g id="ian_symbols_e932dcaac10c4c84c19ce1ac0debd01c">
+		<linearGradient id="ian_symbols_ea9578803d03e6d461d139f0f49feaed" gradientUnits="userSpaceOnUse" x1="1552.5029" y1="459.2217" x2="2988.3711" y2="-976.6466" gradientTransform="matrix(0.1992 0 0 0.1992 -279.1389 337.3443)">
+		<stop  offset="0" style="stop-color:#7BB5D7"/>
+		<stop  offset="0.1647" style="stop-color:#76B3D6"/>
+		<stop  offset="0.3644" style="stop-color:#65ACD4"/>
+		<stop  offset="0.5823" style="stop-color:#45A3D0"/>
+		<stop  offset="0.8115" style="stop-color:#0197CC"/>
+		<stop  offset="0.9887" style="stop-color:#048DC7"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_ea9578803d03e6d461d139f0f49feaed)" d="M45.598,209.817c0,0,72.187-78.805,92.905-121.137C150.929,66.277,173.348,0,173.348,0
+		s17.414,61.411,36.468,90.405c26.531,50.585,85.402,114.41,85.402,114.41l2.021,2.207c30.077,31.05,48.576,73.444,48.576,120.101
+		C345.816,422.577,268.42,500,172.892,500C77.45,500,0,422.577,0,327.123c0-44.909,17.172-85.886,45.341-116.691L45.598,209.817z"/>
+		<linearGradient id="ian_symbols_0edde2f45cbf462479fb812db0dc0045" gradientUnits="userSpaceOnUse" x1="1637.4639" y1="390.5752" x2="2833.0132" y2="-804.974" gradientTransform="matrix(0.1992 0 0 0.1992 -279.1389 337.3443)">
+		<stop  offset="0.0337" style="stop-color:#ACD0E9"/>
+		<stop  offset="0.5" style="stop-color:#7BB5D7"/>
+		<stop  offset="0.6148" style="stop-color:#76B3D6"/>
+		<stop  offset="0.7541" style="stop-color:#65ACD4"/>
+		<stop  offset="0.9054" style="stop-color:#45A3D0"/>
+		<stop  offset="1" style="stop-color:#1F9CCE"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_0edde2f45cbf462479fb812db0dc0045)" d="M59.048,232.33c0,0,60.625-65.374,78.064-100.539c10.344-18.624,29.178-73.705,29.178-73.705
+		s14.669,50.978,30.692,75.021c22.318,42.051,71.684,95.073,71.684,95.073l1.674,1.81c25.324,25.892,40.795,61.018,40.795,99.842
+		c0,79.318-64.984,143.61-145.164,143.61c-80.183,0-145.241-64.292-145.241-143.61c0-37.32,14.424-71.389,38.097-96.922
+		L59.048,232.33z"/>
+		<linearGradient id="ian_symbols_bd19ecca0ac17fc4c1b7b19a52a56342" gradientUnits="userSpaceOnUse" x1="1718.1182" y1="320.8057" x2="2451.3933" y2="-412.4694" gradientTransform="matrix(0.1992 0 0 0.1992 -279.1389 337.3443)">
+		<stop  offset="0.0337" style="stop-color:#ACD0E9"/>
+		<stop  offset="0.6067" style="stop-color:#7BB5D7"/>
+		<stop  offset="0.7333" style="stop-color:#76B3D6"/>
+		<stop  offset="0.8865" style="stop-color:#65ACD4"/>
+		<stop  offset="1" style="stop-color:#52A6D2"/>
+	</linearGradient>
+	<path fill="url(#ian_symbols_bd19ecca0ac17fc4c1b7b19a52a56342)" d="M70.478,289.136c0,0,37.146-40.101,47.863-61.645c6.393-11.396,17.908-45.24,17.908-45.24
+		s8.981,31.299,18.822,46.065c13.684,25.756,43.982,58.355,43.982,58.355l1.036,1.036c15.466,15.816,25,37.396,25,61.188
+		c0,48.701-39.844,88.091-89.074,88.091c-49.167,0-89.023-39.39-89.023-88.091c0-22.832,8.829-43.696,23.361-59.414L70.478,289.136z
+		"/>
+	<g>
+		<g>
+			<path fill="#0576BD" d="M59.135,252.434h47.307l17.035,90.256l24.93-90.256h47.147l24.977,90.109l17.047-90.109h47.102
+				l-35.547,161.202h-48.849l-28.278-101.493l-28.158,101.493H95.001L59.135,252.434z"/>
+			<path fill="#FFFFFF" d="M251.142,416.136h-52.756l-26.375-94.66l-26.262,94.66H92.996L56.018,249.934h52.497l15.421,81.706
+				l22.569-81.706h50.952l22.615,81.591l15.436-81.591h52.284L251.142,416.136z M202.183,411.136h44.941l34.444-156.202h-41.919
+				l-16.662,88.074l-4.865,0.203l-24.469-88.277H150.31l-24.423,88.422l-4.866-0.202l-16.651-88.22H62.252l34.754,156.202h44.941
+				L172,302.81L202.183,411.136z"/>
+		</g>
+	</g>
+</g>
+</svg>

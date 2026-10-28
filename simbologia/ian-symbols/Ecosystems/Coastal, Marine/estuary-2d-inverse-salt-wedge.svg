@@ -1,0 +1,107 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="111" viewBox="0 0 501 111" xml:space="preserve">
+            <title>Estuary 2D: inverse salt wedge</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Estuary 2D: inverse salt wedge</ian_image_library:title>
+                <ian_image_library:descr>Illustration of estuary base with inverse salt wedge</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, inverse, salt, wedge, salinity</ian_image_library:contains>
+                    <ian_image_library:when>2004-09-04</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-f21168a1df7a9fb4555f2d98b91ae6c3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Estuary 2D: inverse salt wedge</dc:title>
+                <dc:date>2004-09-04</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Jan Tilden
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/estuary-2d-inverse-salt-wedge/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/estuary-2d-inverse-salt-wedge/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, coastal, marine, estuary, inverse, salt, wedge, salinity</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of estuary base with inverse salt wedge</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_0ff038aa457a2ba4110532ba12d3cc0b" y2="56.158" gradientUnits="userSpaceOnUse" x2="579.74" y1="56.158" x1="-230.47">
+  <stop stop-color="#007DB0" offset="0"/>
+  <stop stop-color="#007DB0" offset=".0056"/>
+  <stop stop-color="#037EAF" offset=".1784"/>
+  <stop stop-color="#0E83AD" offset=".3255"/>
+  <stop stop-color="#1F8BA9" offset=".463"/>
+  <stop stop-color="#3896A4" offset=".5941"/>
+  <stop stop-color="#4B9EA0" offset=".6742"/>
+  <stop stop-color="#479CA1" offset=".7457"/>
+  <stop stop-color="#3996A4" offset=".8236"/>
+  <stop stop-color="#248DA8" offset=".9045"/>
+  <stop stop-color="#057FAF" offset=".987"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m497.26 16.313c-1.524 1.633-4.207 2.578-7.687 2.578-3.483 0-6.158-.945-7.68-2.578-1.531 1.633-4.207 2.578-7.695 2.578-3.481 0-6.157-.945-7.687-2.578-1.521 1.633-4.196 2.578-7.688 2.578-3.479 0-6.153-.945-7.684-2.578-1.523 1.633-4.199 2.578-7.68 2.578-3.49 0-6.166-.945-7.688-2.578-1.527 1.633-4.205 2.578-7.684 2.578-3.484 0-6.162-.945-7.69-2.579-1.438 1.538-2.196 2.348-7.092 2.559-4.896.21-8.051-1.508-9.43-1.046-7.361 2.77-30.363 2.77-34.963 7.388-7.362 7.387-82.35 2.77-91.55 5.541-43.061 12.606-41.702 16.254-85.569 22.625 27.6 7.917 101.49 17.905 129.6 21.065 35.231 3.964 70.736 2.458 105.9 6.872 14.54 1.825 29.29 6.181 43.801 8.93 9.425 1.781 19.783 2.592 29.155 5.76v-77.838c-1.25-.439-2.26-1.065-3-1.855z" fill="url(#ian_symbols_0ff038aa457a2ba4110532ba12d3cc0b)"/>
+ <polygon points="129.39 16.714 129.39 16.716 129.39 16.714" fill="#231F20"/>
+ <linearGradient id="ian_symbols_20fa5a10e938b0a4b5c69f9d478eac11" y2="33.962" gradientUnits="userSpaceOnUse" x2="576.22" y1="33.962" x1="-152.28">
+  <stop stop-color="#007DB0" offset="0"/>
+  <stop stop-color="#007DB0" offset=".0056"/>
+  <stop stop-color="#037FAF" offset=".2465"/>
+  <stop stop-color="#0E86AC" offset=".4515"/>
+  <stop stop-color="#1F91A7" offset=".6427"/>
+  <stop stop-color="#2393A6" offset=".6742"/>
+  <stop stop-color="#1F90A7" offset=".7818"/>
+  <stop stop-color="#1288AB" offset=".8988"/>
+  <stop stop-color="#007DB0" offset="1"/>
+ </linearGradient>
+ <path d="m405.54 16.788c-.013-.008-.024-.016-.033-.025-.034-.03-.069-.06-.101-.089-.017-.016-.037-.032-.057-.051-.015-.014-.027-.027-.044-.043-.037-.033-.074-.069-.11-.104-.01-.009-.019-.018-.029-.027-.026-.03-.057-.06-.085-.09-.015-.016-.03-.031-.045-.047-1.528 1.634-4.205 2.579-7.688 2.579-3.48 0-6.157-.945-7.685-2.579-1.528 1.634-4.203 2.579-7.689 2.579-3.48 0-6.155-.945-7.678-2.578-1.531 1.633-4.212 2.578-7.693 2.578-3.484 0-6.158-.945-7.686-2.578-1.525 1.633-4.207 2.578-7.68 2.578-3.49 0-6.165-.945-7.694-2.578-1.521 1.633-4.195 2.578-7.688 2.578-3.479 0-6.154-.945-7.687-2.578-1.521 1.633-4.204 2.578-7.688 2.578-3.472 0-6.154-.945-7.68-2.578-1.526 1.633-4.203 2.578-7.684 2.578-3.479 0-6.163-.945-7.688-2.578-1.529 1.633-4.204 2.578-7.687 2.578-3.488 0-6.164-.945-7.688-2.578-1.521 1.633-4.2 2.578-7.685 2.578-3.483 0-6.157-.945-7.688-2.579-1.526 1.634-4.203 2.579-7.685 2.579-3.481 0-6.16-.945-7.687-2.578-1.522 1.633-4.205 2.578-7.687 2.578s-6.158-.945-7.687-2.579c-1.528 1.634-4.204 2.579-7.686 2.579s-6.159-.945-7.687-2.578c-1.523 1.633-4.206 2.578-7.688 2.578s-6.157-.945-7.686-2.578c-1.522 1.633-4.205 2.578-7.688 2.578-3.481 0-6.156-.945-7.685-2.578-1.522 1.633-4.206 2.578-7.688 2.578s-6.158-.945-7.686-2.578c-1.522 1.633-4.205 2.578-7.688 2.578-3.479 0-6.152-.944-7.683-2.576-1.529 1.632-4.204 2.576-7.683 2.576s-6.16-.943-7.69-2.576c-1.529 1.633-4.203 2.576-7.683 2.576-3.482 0-6.163-.945-7.687-2.578-1.53 1.633-4.204 2.578-7.687 2.578-3.481 0-6.164-.945-7.687-2.578-.6.64-1.376 1.175-2.308 1.589 11.019 2.924 22.011 6.451 33.054 10.799 25.712 10.12 52.509 13.11 78.589 21.302 1.729.544 3.461 1.081 5.188 1.609 9.828-4.836 16.587-7.942 29.251-9.441 38.923-4.593 61.447-6.04 100.37-9.421 18.767-1.631 36.75-2.301 53.215-14.024-1.95-.291-3.58-.962-4.72-1.938z" fill="url(#ian_symbols_20fa5a10e938b0a4b5c69f9d478eac11)"/>
+ <path stroke="#231F20" stroke-dasharray="4.7037" d="m227.48 51.612c9.828-4.836 16.587-7.942 29.251-9.441 38.923-4.593 61.447-6.04 100.37-9.421 18.767-1.631 36.75-2.301 53.215-14.024" fill="none"/>
+ <path d="m410.34 18.715c-2.012-.292-3.649-.951-4.804-1.927 1.149.976 2.775 1.647 4.788 1.938 0-.002 0-.006.01-.011z" fill="#4A5864"/>
+ <path stroke="#231F20" stroke-width=".5" d="m427.24 79.868c-35.128-4.414-70.634-4.747-105.88-8.718-33.475-3.76-66.384-11.373-99.189-21.684-26.021-8.181-52.842-11.169-78.609-21.311-28.776-11.33-57.195-17.088-86.748-21.109-25.593-3.478-33.684-6.457-56.562-6.792v109.44h500v-14.18c-9.363-3.184-19.759-4.928-29.228-6.718-14.54-2.75-29.28-7.108-43.78-8.924z" fill="#CEB592"/>
+ <path stroke="#231F20" stroke-width=".5" d="m410.32 18.727c-2.013-.292-3.639-.962-4.788-1.938-.013-.008-.024-.016-.033-.025-.034-.03-.069-.06-.101-.089-.017-.016-.037-.032-.057-.051-.015-.014-.027-.027-.044-.043-.037-.033-.074-.069-.11-.104-.01-.009-.019-.018-.029-.027-.026-.03-.057-.06-.085-.09-.015-.016-.03-.031-.045-.047-1.528 1.634-4.205 2.579-7.688 2.579-3.48 0-6.157-.945-7.685-2.579-1.528 1.634-4.203 2.579-7.689 2.579-3.48 0-6.155-.945-7.678-2.578-1.531 1.633-4.212 2.578-7.693 2.578-3.484 0-6.158-.945-7.686-2.578-1.525 1.633-4.207 2.578-7.68 2.578-3.49 0-6.165-.945-7.694-2.578-1.521 1.633-4.195 2.578-7.688 2.578-3.479 0-6.154-.945-7.687-2.578-1.521 1.633-4.204 2.578-7.688 2.578-3.472 0-6.154-.945-7.68-2.578-1.526 1.633-4.203 2.578-7.684 2.578-3.479 0-6.163-.945-7.688-2.578-1.529 1.633-4.204 2.578-7.687 2.578-3.488 0-6.164-.945-7.688-2.578-1.521 1.633-4.2 2.578-7.685 2.578-3.483 0-6.157-.945-7.688-2.579-1.526 1.634-4.203 2.579-7.685 2.579-3.481 0-6.16-.945-7.687-2.578-1.522 1.633-4.205 2.578-7.687 2.578s-6.158-.945-7.687-2.579c-1.528 1.634-4.204 2.579-7.686 2.579s-6.159-.945-7.687-2.578c-1.523 1.633-4.206 2.578-7.688 2.578s-6.157-.945-7.686-2.578c-1.522 1.633-4.205 2.578-7.688 2.578-3.481 0-6.156-.945-7.685-2.578-1.522 1.633-4.206 2.578-7.688 2.578s-6.158-.945-7.686-2.578c-1.522 1.633-4.205 2.578-7.688 2.578-3.479 0-6.152-.944-7.683-2.576-1.529 1.632-4.204 2.576-7.683 2.576s-6.16-.943-7.69-2.576c-1.529 1.633-4.203 2.576-7.683 2.576-3.482 0-6.163-.945-7.687-2.578-1.53 1.633-4.204 2.578-7.687 2.578-3.481 0-6.164-.945-7.687-2.578-.6.64-1.376 1.175-2.308 1.589" fill="none"/>
+</svg>

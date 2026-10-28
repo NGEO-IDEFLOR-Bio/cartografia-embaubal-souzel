@@ -1,0 +1,122 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="456" height="500" viewBox="0 0 456 500" xml:space="preserve">
+            <title>Money symbol</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Money symbol</ian_image_library:title>
+                <ian_image_library:descr>This financial symbol represents money or the economy.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>money, financial, dollars, economy</ian_image_library:contains>
+                    <ian_image_library:when>2014-08-21</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-008550dcd966ea44fd292b6701fc25b2">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Money symbol</dc:title>
+                <dc:date>2014-08-21</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/money-symbol/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/money-symbol/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>money, financial, dollars, economy</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>This financial symbol represents money or the economy.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<radialGradient id="ian_symbols_c480ce479317ab04cdca05b5534e23e8" cx="218.7118" cy="251.7311" r="210.8321" gradientTransform="matrix(1.0811 0 0 1.0811 -8.5187 -22.1466)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFEDC7"/>
+	<stop  offset="0.2283" style="stop-color:#FFEBC4"/>
+	<stop  offset="0.4116" style="stop-color:#FFE5BB"/>
+	<stop  offset="0.5793" style="stop-color:#FCDCAB"/>
+	<stop  offset="0.7378" style="stop-color:#FACF96"/>
+	<stop  offset="0.8882" style="stop-color:#F7BF7C"/>
+	<stop  offset="1" style="stop-color:#F4B166"/>
+</radialGradient>
+<path fill="url(#ian_symbols_c480ce479317ab04cdca05b5534e23e8)" d="M455.861,250c0,125.874-102.046,227.931-227.931,227.931S0,375.874,0,250
+	C0,124.126,102.046,22.069,227.931,22.069S455.861,124.126,455.861,250z"/>
+<radialGradient id="ian_symbols_a84ff0357ad55f4401c794b4acc2f9f1" cx="227.9306" cy="250" r="201.498" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#6BA3BE"/>
+	<stop  offset="0.1696" style="stop-color:#65A0BC"/>
+	<stop  offset="0.3863" style="stop-color:#5597B6"/>
+	<stop  offset="0.6284" style="stop-color:#3589AB"/>
+	<stop  offset="0.8873" style="stop-color:#00799E"/>
+	<stop  offset="1" style="stop-color:#007198"/>
+</radialGradient>
+<path fill="url(#ian_symbols_a84ff0357ad55f4401c794b4acc2f9f1)" d="M208.042,275.887c-72.647-16.539-116.87-48.325-116.87-115.891
+	c0-61.735,43.138-106.052,116.87-112.763L205.772,0c5.72,0.534,12.532,2.37,18.809,2.37c6.166,0,12.976-1.836,18.703-2.37
+	l-2.276,47.233c27.789,0,78.924,11.798,99.897,29.949c-7.997,19.254-16.539,37.963-20.973,57.417h-8.003
+	c-12.532-35.247-43.677-58.496-70.922-58.496v122.59c67.466,17.629,123.681,39.042,123.681,116.77
+	c0,72.653-61.841,118.607-123.681,122.057l2.276,62.48c-5.727-0.757-12.537-2.37-18.703-2.37c-6.277,0-13.089,1.614-18.809,2.37
+	l2.27-62.48c-40.222,0-91.896-18.709-112.875-36.872c5.631-22.703,10.173-44.851,14.168-67.567h10.812
+	c8.536,35.782,41.946,68.659,87.895,75.558V275.887z"/>
+<linearGradient id="ian_symbols_2d876d4117a13ec4bdf2f03ec7c7ba52" gradientUnits="userSpaceOnUse" x1="157.0088" y1="133.4027" x2="208.0425" y2="133.4027">
+	<stop  offset="0.8465" style="stop-color:#FFEDC7"/>
+	<stop  offset="0.9139" style="stop-color:#FFECC5"/>
+	<stop  offset="0.9382" style="stop-color:#FFE8BF"/>
+	<stop  offset="0.9556" style="stop-color:#FEE1B4"/>
+	<stop  offset="0.9696" style="stop-color:#FCD8A4"/>
+	<stop  offset="0.9816" style="stop-color:#F9CC91"/>
+	<stop  offset="0.992" style="stop-color:#F6BE7B"/>
+	<stop  offset="1" style="stop-color:#F4B166"/>
+</linearGradient>
+<path fill="url(#ian_symbols_2d876d4117a13ec4bdf2f03ec7c7ba52)" d="M208.042,76.103c-22.704,0-51.034,18.709-51.034,57.739c0,27.991,20.973,48.325,51.034,56.861V76.103
+	z"/>
+<linearGradient id="ian_symbols_f8a8f0670a212c34edd69dcf5d00338d" gradientUnits="userSpaceOnUse" x1="241.0081" y1="345.0727" x2="296.5821" y2="345.0727">
+	<stop  offset="0" style="stop-color:#FFEDC7"/>
+	<stop  offset="0.9168" style="stop-color:#FFEDC6"/>
+	<stop  offset="0.9334" style="stop-color:#FFEAC3"/>
+	<stop  offset="0.949" style="stop-color:#FEE4B8"/>
+	<stop  offset="0.9642" style="stop-color:#FCDAA7"/>
+	<stop  offset="0.9792" style="stop-color:#F9CB8F"/>
+	<stop  offset="0.9938" style="stop-color:#F5BA74"/>
+	<stop  offset="1" style="stop-color:#F4B166"/>
+</linearGradient>
+<path fill="url(#ian_symbols_f8a8f0670a212c34edd69dcf5d00338d)" d="M241.008,408.639c27.789-1.28,55.574-25.063,55.574-61.934c0-34.491-18.163-58.474-55.574-65.197
+	V408.639z"/>
+</svg>

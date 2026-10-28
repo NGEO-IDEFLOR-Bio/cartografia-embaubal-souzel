@@ -1,0 +1,82 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="501" viewBox="0 0 500 501" xml:space="preserve">
+            <title>Inputs: nutrients (non-point source)</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Inputs: nutrients (non-point source)</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a non-point source nutrient input</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>input, flows, non-point, source, nutrients</ian_image_library:contains>
+                    <ian_image_library:when>2005-05-20</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b8572053232486e465c5acc2939a0dc9">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Inputs: nutrients (non-point source)</dc:title>
+                <dc:date>2005-05-20</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/inputs-nutrients-non-point-source/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/inputs-nutrients-non-point-source/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>input, flows, non-point, source, nutrients</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a non-point source nutrient input</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<linearGradient id="ian_symbols_b276c05c10f4dfc47df609f505a4094b" gradientUnits="userSpaceOnUse" x1="301.4956" y1="553.584" x2="301.4956" y2="-29.792" gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 -124.7086 301.6618)">
+	<stop  offset="0.1873" style="stop-color:#EC252C"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path opacity="0.86" fill="url(#ian_symbols_b276c05c10f4dfc47df609f505a4094b)" d="M2.5,308.551l403.252,160.308l-28.578,28.588l114.353-5.921l5.92-114.362
+	l-28.578,28.588L308.561,2.5c0,0-132.095-11.645-229.356,76.695C-18.076,167.535,2.5,308.551,2.5,308.551z"/>
+<polyline fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="2.5,308.551 
+	405.752,468.859 377.174,497.447 491.527,491.526 497.447,377.164 468.869,405.752 308.561,2.5 "/>
+</svg>

@@ -1,0 +1,80 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="344" height="501" viewBox="0 0 344 501" xml:space="preserve">
+            <title>North arrow 3</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>North arrow 3</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a north arrow</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>mapping, navigation, north, arrow</ian_image_library:contains>
+                    <ian_image_library:when>2010-03-09</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b5b98462ee6c93645524825a437bd4b3">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>North arrow 3</dc:title>
+                <dc:date>2010-03-09</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/north-arrow-3/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/north-arrow-3/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>mapping, navigation, north, arrow</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a north arrow</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M342.297,172.971l-143.079,28.246l-28.097,142.93l-29.945-142.93L0,171.319
+	l141.176-28.239L171.121,0l28.097,143.08L342.297,172.971L342.297,172.971z M171.121,172.971V11.597l-26.499,133.134
+	L171.121,172.971L171.121,172.971z M171.121,172.971H11.543l133.079,26.594L171.121,172.971L171.121,172.971z M197.723,199.565
+	l-26.602-26.594V330.85L197.723,199.565L197.723,199.565z M328.993,172.971l-131.271-28.24l-26.602,28.24H328.993L328.993,172.971z"
+	/>
+<path d="M124.296,381.23h29.266l45.262,88.823h0.34V381.23h22.801V500h-29.096l-45.432-88.817h-0.34V500h-22.801V381.23z"/>
+</svg>

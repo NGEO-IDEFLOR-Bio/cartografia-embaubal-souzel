@@ -1,0 +1,101 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="214" height="502" viewBox="0 0 214 502" xml:space="preserve">
+            <title>Sediment grab</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Sediment grab</ian_image_library:title>
+                <ian_image_library:descr>Illustration of sediment grab</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>science, scientific, research, experimental, test, equipment, field, gear, sediment, grab, collection, samples, inorganic, material, seafloor, ocean, bottom</ian_image_library:contains>
+                    <ian_image_library:when>2004-08-24</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-326d8734e040fbf435a96cdc33f313d4">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Sediment grab</dc:title>
+                <dc:date>2004-08-24</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/sediment-grab/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/sediment-grab/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>science, scientific, research, experimental, test, equipment, field, gear, sediment, grab, collection, samples, inorganic, material, seafloor, ocean, bottom</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of sediment grab</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon stroke="#231F20" points="153.64 485.02 129.8 468 150.57 463.58" fill="#8C8E90"/>
+ <linearGradient id="ian_symbols_597c320035228004e15684bc9d938ebe" y2="460.69" gradientUnits="userSpaceOnUse" x2="165.6" y1="460.69" x1="139.67">
+  <stop stop-color="#C0C2C4" offset="0"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" d="m139.67 466.63l13.967 18.387c14.729-16.275 15.992-42.555 3.059-48.672l-17.03 30.28z" fill="url(#ian_symbols_597c320035228004e15684bc9d938ebe)"/>
+ <linearGradient id="ian_symbols_3a468a4143abad24bd5274a3948bda00" y2="420.72" gradientUnits="userSpaceOnUse" x2="147.2" y1="451.4" x1="94.06">
+  <stop stop-color="#C0C2C4" offset="0"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <polygon stroke="#231F20" points="139.65 466.58 84.683 435.16 101.62 405.54 156.58 436.97" fill="url(#ian_symbols_3a468a4143abad24bd5274a3948bda00)"/>
+ <linearGradient id="ian_symbols_ec8b2fefa7bce4d4d12e38b65b10556e" y2="452.98" gradientUnits="userSpaceOnUse" x2="113.8" y1="474.35" x1="76.784">
+  <stop stop-color="#C0C2C4" offset="0"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" d="m119.94 500l-50.04-38.81c-7.827-7.142-7.5-26.203 1.023-34.03l42.086 24.45 6.93 48.39z" fill="url(#ian_symbols_ec8b2fefa7bce4d4d12e38b65b10556e)"/>
+ <linearGradient id="ian_symbols_cbccb67e321463f4e9eef7767f9c7c33" y2="475.49" gradientUnits="userSpaceOnUse" x2="139.67" y1="475.49" x1="106.82">
+  <stop stop-color="#C0C2C4" offset="0"/>
+  <stop stop-color="#8C8E90" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" d="m139.67 466.63l-19.73 33.37c-19.072-10.897-13.619-33.366-6.826-49.021l26.56 15.65z" fill="url(#ian_symbols_cbccb67e321463f4e9eef7767f9c7c33)"/>
+ <polygon stroke="#231F20" points="191.97 395.11 18.419 443.79 21.729 455.6 195.29 406.93" fill="#C0C2C4"/>
+ <path d="m0 453.03c0 6.26 5.095 11.344 11.344 11.344 6.259 0 11.354-5.084 11.354-11.344 0-6.259-5.095-11.343-11.354-11.343-6.249-.01-11.344 5.08-11.344 11.34zm5.672 0c0-3.135 2.547-5.682 5.672-5.682 1.524 0 2.95.587 4.006 1.665 1.089 1.078 1.666 2.493 1.666 4.017 0 3.125-2.536 5.672-5.671 5.672-3.126-.01-5.673-2.56-5.673-5.68z" fill="#231F20"/>
+ <path d="m99.064 348.52c0 6.26 5.084 11.354 11.333 11.354 3.037 0 5.878-1.187 8.033-3.32 2.145-2.155 3.32-5.008 3.32-8.034 0-6.248-5.095-11.343-11.354-11.343-6.25 0-11.336 5.09-11.336 11.34zm5.676 0c0-3.113 2.536-5.671 5.661-5.671 3.135 0 5.682 2.558 5.682 5.671 0 3.136-2.547 5.683-5.682 5.683-3.13 0-5.66-2.54-5.66-5.68z" fill="#231F20"/>
+ <path d="m189.59 399.92c0 6.26 5.095 11.354 11.354 11.354 3.026 0 5.878-1.187 8.022-3.331s3.32-4.997 3.32-8.023c0-6.259-5.095-11.343-11.343-11.343-6.25 0-11.35 5.08-11.35 11.34zm5.69 0c0-3.124 2.547-5.682 5.672-5.682 3.124 0 5.671 2.558 5.671 5.682 0 1.503-.588 2.939-1.654 4.007-1.066 1.077-2.504 1.654-4.017 1.654-3.13 0-5.67-2.52-5.67-5.66z" fill="#231F20"/>
+ <line y2="354.31" x2="104.62" stroke="#231F20" y1="443.49" x1="8.97" fill="none"/>
+ <line y2="391.07" x2="204.34" stroke="#231F20" y1="350.57" x1="117.55" fill="none"/>
+ <line x1="109.19" x2="109.18" stroke="#231F20" y1="339.2" stroke-width=".5" fill="none"/>
+</svg>

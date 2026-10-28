@@ -1,0 +1,100 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="500" height="461" viewBox="0 0 500 461" xml:space="preserve">
+            <title>Restroom</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Restroom</ian_image_library:title>
+                <ian_image_library:descr>Illustration of male and female restroom symbol.</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>restroom, male, female, sign, bathroom, water closet, toilet</ian_image_library:contains>
+                    <ian_image_library:when>2007-04-25</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-cc8b6251d022d5e49dcb216112b36913">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Restroom</dc:title>
+                <dc:date>2007-04-25</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/restroom/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/restroom/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>restroom, male, female, sign, bathroom, water closet, toilet</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of male and female restroom symbol.</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<g>
+	<g>
+		<rect x="240.612" y="4.129" fill="#007198" width="42.803" height="454.506"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#007198" d="M105.898,74.929c20.698,0,37.474-16.775,37.474-37.474C143.372,16.776,126.596,0,105.898,0
+				C85.219,0,68.443,16.776,68.443,37.455C68.443,58.153,85.219,74.929,105.898,74.929z"/>
+		</g>
+		<g>
+			<path fill="#007198" d="M100.363,312.438l0.019,131.055c0,23.568-35.315,23.568-35.315,0l-0.02-131.055H18.228l50.084-173.745
+				H60.45L30.951,237.94c-7.018,21.654-36.741,12.76-29.949-10.415l32.764-107.842c3.51-12.291,19.065-34.097,45.975-34.097h24.826
+				l0,0h26.702c26.685,0,42.315,21.993,46.35,34.097l32.764,107.729c6.549,23.175-22.931,32.764-29.968,10.189l-29.479-98.91h-8.52
+				l50.628,173.745h-47.024V443.66c0,23.4-35.185,23.288-35.185,0V312.438H100.363z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#007198" d="M373.243,85.456c-26.365,0-47.569,21.805-47.569,48.995v115.931c0,22.536,32.52,22.536,32.52,0V144.378
+				h7.694v293.69c0,30.137,43.31,29.255,43.31,0V266.125h7.449v171.943c0,29.255,43.554,30.137,43.554,0v-293.69h7.506v106.004
+				c0,22.705,32.351,22.705,32.295,0V135.146c0-25.07-19.197-49.633-48.151-49.633L373.243,85.456z"/>
+		</g>
+		<g>
+			<path fill="#007198" d="M412.743,74.929c20.698,0,37.474-16.775,37.474-37.474C450.216,16.776,433.441,0,412.743,0
+				c-20.679,0-37.454,16.776-37.454,37.455C375.289,58.153,392.064,74.929,412.743,74.929z"/>
+		</g>
+	</g>
+</g>
+</svg>

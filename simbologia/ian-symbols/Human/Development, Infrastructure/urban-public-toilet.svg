@@ -1,0 +1,86 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="380" viewBox="0 0 501 380" xml:space="preserve">
+            <title>Urban: public toilet</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Urban: public toilet</ian_image_library:title>
+                <ian_image_library:descr>Illustration of a restroom</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>development, infrastructure, building, bathroom, restroom, rest, stop, comfort, station, lavatory, toilet, washroom</ian_image_library:contains>
+                    <ian_image_library:when>1999-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-b2ec47fe4e5192c42d181a2643adc074">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Urban: public toilet</dc:title>
+                <dc:date>1999-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Catherine Collier
+Healthy Waterways Partnership</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/urban-public-toilet/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/urban-public-toilet/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>development, infrastructure, building, bathroom, restroom, rest, stop, comfort, station, lavatory, toilet, washroom</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of a restroom</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <polygon points="0 104.44 0 271.18 231.69 378.94 235.22 168.01 0 104.44" fill="#D7D2D1"/>
+ <polygon points="231.69 378.94 500 242.75 500 65.007 235.18 170.58 231.69 378.94" fill="#968C89"/>
+ <polygon points="47.298 294.37 49.301 180.56 87.968 192.74 81.804 306.55 47.298 294.37" fill="#AEA6A3"/>
+ <polygon points="294.72 171.62 294.72 218.38 329.26 204.09 329.26 155.35 294.72 171.62" fill="#58595B"/>
+ <polygon points="373.51 150.79 373.51 197.56 408.02 183.3 408.02 134.55 373.51 150.79" fill="#58595B"/>
+ <path d="m34.965 161.8c0 2.994-2.68 4.837-5.935 4.102-3.191-.714-5.738-3.644-5.738-6.563 0-2.898 2.547-4.784 5.738-4.155 3.255.64 5.935 3.61 5.935 6.62z"/>
+ <path d="m35.013 175.98l1.737.437v13.511l3.399.959v-16.452c0-2.855-1.939-5.615-4.299-6.137l-13.676-3.111c-2.152-.49-3.9 1.3-3.9 3.975v15.514l3.08.874v-12.946l1.587.394v33.596l4.965 1.705v-17.602l1.96.565v17.687l5.146 1.769v-34.72z"/>
+ <polygon points="135.44 336.43 137.45 222.61 176.1 234.81 169.95 348.61 135.44 336.43" fill="#AEA6A3"/>
+ <path d="m206.28 226.22c0 3.463-3.505 5.466-7.746 4.507-4.145-.949-7.438-4.369-7.438-7.683 0-3.313 3.292-5.359 7.438-4.539 4.25.80 7.75 4.27 7.75 7.71z"/>
+ <path d="m204.07 232.93c3.047.671 7.075 6.446 7.075 9.696v14.534l-4.401-1.226v-13.372l-2.237-.564-1.5 10.21 13.458 21.491-13.958-4.379-.661 11.305-6.553-2.206-.628-11.561-12.637-3.953 12.136-13.127-1.422-10.677-2.094-.543v12.871l-3.985-1.108v-13.702c0-3.058 3.729-6.798 6.563-6.148l10.85 2.47z"/>
+ <polygon points="235.76 170.72 500 65.007 231.39 0 0 104.44" fill="#E7E5E3"/>
+</svg>

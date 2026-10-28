@@ -1,0 +1,84 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="501" height="501" viewBox="0 0 501 501" xml:space="preserve">
+            <title>Poorly understood systems</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Poorly understood systems</ian_image_library:title>
+                <ian_image_library:descr>Illustration of poorly understood systems</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>management, poorly, understood, systems, unknown, uncertainty, ambiguous, complex, data</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-02</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-331b99349921eb54997b897b992f3cd0">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Poorly understood systems</dc:title>
+                <dc:date>2003-01-02</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title>Dieter Tracey
+Coastal CRC</dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/poorly-understood-systems/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/poorly-understood-systems/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>management, poorly, understood, systems, unknown, uncertainty, ambiguous, complex, data</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of poorly understood systems</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+<defs>
+</defs>
+<path fill="#D1D3D4" stroke="#000000" stroke-width="7.3892" d="M496.306,249.99c0,136.002-110.222,246.315-246.286,246.315
+	c-136.083,0-246.325-110.313-246.325-246.315C3.695,113.95,113.936,3.695,250.02,3.695C386.084,3.695,496.306,113.95,496.306,249.99
+	z"/>
+<path d="M172.943,336.265l-0.924-6.855c-4.522-26.92,0.452-56.087,19.199-86.674c15.043-25.992,26.449-42.824,26.449-67.931
+	c0-25.987-15.038-36.927-35.166-36.927c-11.358,0-22.832,3.175-30.081,8.693l-7.317-27.425c7.317-5.013,25.535-11.868,45.196-11.868
+	c45.629,0,63.414,30.6,63.414,63.005c0,33.247-19.18,58.767-34.204,83.878c-14.172,24.616-19.189,43.787-15.961,74.315l0.418,7.789
+	H172.943z M186.229,423.828c-12.781,0-22.369-10.487-22.369-25.073c0-15.5,10.03-26.006,22.803-26.006
+	c14.162,0,22.773,10.506,22.773,26.006c0,14.586-8.168,25.073-22.773,25.073H186.229z"/>
+</svg>

@@ -1,0 +1,78 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="513" height="513" viewBox="0 0 513 513" xml:space="preserve">
+            <title>Response, Bioassay; low; P</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>Response, Bioassay; low; P</ian_image_library:title>
+                <ian_image_library:descr><p>Illustration of a low P bioassay response</p></ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>biological, process, low, bioassay, response, P, phosphorus</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-1dddb203974a6124191435253616f233">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>Response, Bioassay; low; P</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/response-bioassay-low-p/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/response-bioassay-low-p/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>biological, process, low, bioassay, response, P, phosphorus</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description><p>Illustration of a low P bioassay response</p></dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <rect height="499.98" width="500" stroke="#231F20" stroke-dasharray="34.9107,34.9107,34.9107,34.9107,34.9107" y="5.818" x="5.818" stroke-width="11.637" fill="#B9DA95"/>
+ <path d="m130.12 397.72c0 16.387-13.296 29.66-29.683 29.66s-29.684-13.273-29.684-29.66c0-16.41 13.296-29.684 29.684-29.684 16.38 0 29.68 13.27 29.68 29.68z" fill="#00AA4F"/>
+ <path d="m403.9 115.55c0 16.387-13.291 29.672-29.672 29.672-16.41 0-29.688-13.285-29.688-29.672 0-16.398 13.278-29.683 29.688-29.683 16.38 0 29.67 13.285 29.67 29.683z" fill="#00AA4F"/>
+ <path d="m427.08 419.79c0 16.388-13.284 29.684-29.677 29.684-16.394 0-29.678-13.296-29.678-29.684 0-16.387 13.284-29.683 29.678-29.683 16.39 0 29.68 13.29 29.68 29.68z" fill="#00AA4F"/>
+ <path d="m199.08 319.81v-149.83h46.36c10.91 0 18.956.966 24.138 2.875 7.085 2.591 12.75 7.409 16.978 14.432 4.228 7.035 6.353 15.671 6.353 25.911 0 13.523-3.443 24.546-10.33 33.07-6.881 8.546-18.762 12.807-35.661 12.807h-31.468v60.73h-16.37zm16.37-78.55h31.797c10.006 0 17.342-2.262 21.979-6.785s6.955-11.341 6.955-20.456c0-5.909-1.148-10.978-3.421-15.205-2.295-4.205-5.045-7.091-8.296-8.659-3.227-1.568-9.068-2.353-17.523-2.353h-31.49v53.45z" fill="#D2232A"/>
+</svg>

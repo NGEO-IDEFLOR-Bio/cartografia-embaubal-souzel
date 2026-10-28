@@ -1,0 +1,79 @@
+
+        <svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" x="0px" y="0px" width="502" height="150" viewBox="0 0 502 150" xml:space="preserve">
+            <title>River 2D: shallow</title>
+            <desc xmlns:ian_image_library="https://ian.umces.edu/media-library/">
+                <ian_image_library:title>River 2D: shallow</ian_image_library:title>
+                <ian_image_library:descr>Illustration of shallow river base</ian_image_library:descr>
+                <ian_image_library:scene>
+                    <ian_image_library:contains>diagram, template, base, ecosystem, aquatic, freshwater, river, stream, tributary, shallow, channel, water, column</ian_image_library:contains>
+                    <ian_image_library:when>2003-01-01</ian_image_library:when>
+                </ian_image_library:scene>
+            </desc>
+            <metadata id="metadata-iil-ec83bd8909cd87147189972dbc96bcd9">
+                <rdf:RDF>
+                <cc:Work
+                rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license
+                rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+                <dc:title>River 2D: shallow</dc:title>
+                <dc:date>2003-01-01</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title></dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:rights>
+                <dc:publisher>
+                <cc:Agent>
+                    <dc:title>Integration and Application Network</dc:title>
+                </cc:Agent>
+                </dc:publisher>
+                <dc:identifier>https://ian.umces.edu/media-library/river-2d-shallow/</dc:identifier>
+                <dc:source>https://ian.umces.edu/media-library/river-2d-shallow/</dc:source>
+                <dc:language>en-US</dc:language>
+                <dc:subject>
+                <rdf:Bag>
+                    <rdf:li>diagram, template, base, ecosystem, aquatic, freshwater, river, stream, tributary, shallow, channel, water, column</rdf:li>
+                </rdf:Bag>
+                </dc:subject>
+                <dc:coverage></dc:coverage>
+                <dc:description>Illustration of shallow river base</dc:description>
+                <dc:contributor>
+                <cc:Agent>
+                    <dc:title></dc:title>
+                </cc:Agent>
+                </dc:contributor>
+            </cc:Work>
+            <cc:License
+                rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits
+                rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+            </rdf:RDF>
+            </metadata>
+            
+ <defs></defs>
+ <linearGradient id="ian_symbols_8ee0b1fcb04b05744da344643ac7c24b" y2="116.93" gradientUnits="userSpaceOnUse" x2="207.54" gradientTransform="matrix(.8617 0 0 1 68.755 -112.73)" y1="272.48" x1="213.84">
+  <stop stop-color="#0F97C2" offset="0"/>
+  <stop stop-color="#95BFD5" offset="1"/>
+ </linearGradient>
+ <path stroke="#231F20" stroke-width=".5" d="m.291 18.93c7.975-.51 22.777-4.166 22.777-4.166s7.568 4.076 16.767 3.729c9.153-.376 9.833-1.689 10.24-1.689.499 0 4.938-2.334 4.938-2.334s7.114 4.291 15.996 3.941c8.926-.375 15.496-4.021 15.496-4.021s9.56 4.825 17.444 4.021c7.93-.859 14.907-4.101 14.907-4.101s6.434 4.342 16.132 4.183c9.694-.162 15.541-4.023 15.541-4.023s8.698 4.371 16.946 4.102c8.248-.24 15.316-4.102 15.316-4.102s9.559 4.666 16.674 3.941c7.158-.75 15.179-4.021 15.179-4.021s7.159 4.53 16.493 4.021c9.288-.563 15.316-4.101 15.316-4.101s8.064 4.69 16.627 4.183c8.518-.537 15.498-4.183 15.498-4.183s8.564 4.904 16.812 4.183c8.2-.752 15.224-4.023 15.224-4.023s9.832 5.014 18.486 3.861c8.744-1.232 13.639-4.021 13.639-4.021s9.97 4.904 16.901 4.183c6.978-.752 15.226-4.104 15.226-4.104s6.389 4.263 16.492 4.021c10.104-.294 15.178-4.236 15.178-4.236s8.927 4.666 16.495 4.318c7.614-.376 15.631-3.941 15.631-3.941s5.617 3.565 15.725 3.779c10.103.162 16.355-4.156 16.355-4.156s7.206 4.396 16.402 3.942c9.2-.456 13.146-3.718 13.146-3.208v133.21h-500c-.11 0-.019-129.19-.019-129.19z" fill="url(#ian_symbols_8ee0b1fcb04b05744da344643ac7c24b)"/>
+ <path stroke="#231F20" stroke-width=".5" d="m.291.309s31.322 6.684 36.074 36.182c2.793 17.344 45.45 30.981 66.163 35.696 82.332 18.738 112.09 14.55 142.91 17.152 30.82 2.603 105.25-9.086 131.56-15.159 26.313-6.074 85.7-12.054 87.957-40.684 2.256-28.63 35.334-32.1 35.334-32.1v146.72h-500v-147.81z" fill="#B6A190"/>
+</svg>
