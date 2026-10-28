@@ -1,0 +1,331 @@
+import json
+import os
+
+os.makedirs("notebooks", exist_ok=True)
+
+nb = {
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "# Atlas Cartográfico e Análise Multitemporal de Cobertura da Terra\n",
+                "## REVIS Tabuleiro do Embaubal e RDS Vitória de Souzel (Baixo Rio Xingu, Pará)\n",
+                "\n",
+                "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/blob/main/notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb)\n",
+                "\n",
+                "**Instituição:** Instituto de Desenvolvimento Florestal e da Biodiversidade do Pará (IDEFLOR-Bio)  \n",
+                "**Diretoria:** Diretoria de Gestão e Monitoramento de Unidades de Conservação (DGMUC)  \n",
+                "**Execução:** Núcleo de Geotecnologias (NGEO)  \n",
+                "**Fonte de Dados:** MapBiomas Brasil (Coleção 11, Série Histórica 1985–2024) via Google Earth Engine (GEE)\n",
+                "\n",
+                "---"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 1. Instalação e Importação de Bibliotecas"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "!pip install geemap earthengine-api plotly pandas --quiet\n",
+                "\n",
+                "import ee\n",
+                "import pandas as pd\n",
+                "import plotly.graph_objects as go\n",
+                "import plotly.express as px\n",
+                "\n",
+                "print(\"Bibliotecas importadas com sucesso!\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 2. Autenticação e Inicialização do Google Earth Engine\n",
+                "> Execute a célula abaixo para autorizar sua conta do Google Earth Engine."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "try:\n",
+                "    ee.Initialize()\n",
+                "    print(\"Earth Engine já inicializado!\")\n",
+                "except Exception:\n",
+                "    ee.Authenticate()\n",
+                "    ee.Initialize()\n",
+                "    print(\"Earth Engine autenticado e inicializado com sucesso!\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 3. Carregamento dos Assets Oficiais (UCs e MapBiomas Coleção 11)"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# 1. Asset vetorial das Unidades de Conservação (REVIS e RDS)\n",
+                "asset_ucs = 'projects/ee-samuelsantosambientalcourse/assets/00_ucs_alvo_embaubal_souzel'\n",
+                "ucs = ee.FeatureCollection(asset_ucs)\n",
+                "\n",
+                "# 2. Asset oficial MapBiomas Coleção 11 (1985 - 2024)\n",
+                "asset_mapbiomas = 'projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_coverage_v3'\n",
+                "mapbiomas = ee.Image(asset_mapbiomas)\n",
+                "\n",
+                "print(\"Assets carregados com sucesso:\")\n",
+                "print(f\" - UCs: {ucs.size().getInfo()} feições\")\n",
+                "print(f\" - MapBiomas: {len(mapbiomas.bandNames().getInfo())} bandas disponíveis\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 4. Visualização Espacial Interativa no Mapa\n",
+                "Visualização das bandas de 1985 e 2024 recortadas para a área das UCs com a paleta oficial da Coleção 11."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "import geemap\n",
+                "\n",
+                "# Tabela oficial de cores MapBiomas C11\n",
+                "class_ids = [1, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 35, 36, 39, 40, 41, 46, 47, 48, 49, 50, 62, 75, 77, 84, 91]\n",
+                "class_colors = [\n",
+                "    '#1f8d49', '#1f8d49', '#7dc975', '#04381d', '#007785', '#228c70', '#7a5900', '#d6bc74',\n",
+                "    '#519799', '#d6bc74', '#ffefc3', '#edde8e', '#E974ED', '#C27BA0', '#db7093', '#ffefc3',\n",
+                "    '#d4271e', '#ffa07a', '#d4271e', '#db4d4f', '#2532e4', '#ffffff', '#ad5100', '#9c0027',\n",
+                "    '#091077', '#fc8114', '#2532e4', '#9065d0', '#d082de', '#f5b3c8', '#c71585', '#f54ca9',\n",
+                "    '#d68fe2', '#9932cc', '#e6ccff', '#02d659', '#ffaa5f', '#ff69b4', '#757272', '#86b074',\n",
+                "    '#81dbbf', '#403d3e'\n",
+                "]\n",
+                "\n",
+                "indices = list(range(len(class_ids)))\n",
+                "\n",
+                "def style_band(band_name):\n",
+                "    return mapbiomas.select(band_name).clip(ucs.geometry().buffer(3000)).remap(class_ids, indices).visualize(\n",
+                "        min=0, max=len(indices)-1, palette=class_colors\n",
+                "    )\n",
+                "\n",
+                "Map = geemap.Map(center=[-2.77, -51.97], zoom=11)\n",
+                "Map.add_basemap(\"HYBRID\")\n",
+                "Map.addLayer(style_band('classification_1985'), {}, 'MapBiomas 1985', False)\n",
+                "Map.addLayer(style_band('classification_2024'), {}, 'MapBiomas 2024 (Recente)', True)\n",
+                "Map.addLayer(ucs.style(color='ffff00', fillColor='00000000', width=2), {}, 'Limites REVIS e RDS')\n",
+                "Map"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 5. Análise Quantitativa e Estatísticas Zonais (1985 – 2024)\n",
+                "Carregamento dos dados estatísticos consolidados das UCs."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# URL da tabela consolidada no repositório GitHub oficial\n",
+                "csv_url = 'https://raw.githubusercontent.com/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/main/camadas/tabelas/estatisticas_mapbiomas_c11_revis_rds.csv'\n",
+                "\n",
+                "try:\n",
+                "    df = pd.read_csv(csv_url)\n",
+                "except Exception:\n",
+                "    df = pd.read_csv('../camadas/tabelas/estatisticas_mapbiomas_c11_revis_rds.csv')\n",
+                "\n",
+                "# Agrupamento para a área consolidada (REVIS + RDS somadas)\n",
+                "df_tot = df.groupby(['Ano', 'Classe_ID', 'Classe_Nome'], as_index=False)['Area_ha'].sum()\n",
+                "tot_ano = df_tot.groupby('Ano')['Area_ha'].transform('sum')\n",
+                "df_tot['Percentual'] = (df_tot['Area_ha'] / tot_ano) * 100.0\n",
+                "\n",
+                "display(df_tot[df_tot['Ano'] == 2024].sort_values('Area_ha', ascending=False))"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 6. Gráfico Interativo: Evolução Temporal da Cobertura (1985–2024)\n",
+                "Gráfico de barras empilhadas 100% com a paleta oficial do MapBiomas Coleção 11."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "cores_map = {\n",
+                "    6: '#007785',   # Floresta Alagável\n",
+                "    33: '#2532e4',  # Rio, Lago e Oceano\n",
+                "    11: '#519799',  # Campo Alagado\n",
+                "    15: '#edde8e',  # Pastagem\n",
+                "    21: '#ffefc3',  # Mosaico de Usos\n",
+                "    3: '#1f8d49',   # Formação Florestal\n",
+                "    12: '#d6bc74',  # Formação Campestre\n",
+                "    4: '#7dc975',   # Formação Savânica\n",
+                "    25: '#db4d4f'   # Outras Áreas não Vegetadas\n",
+                "}\n",
+                "\n",
+                "fig_bars = go.Figure()\n",
+                "anos = [1985, 1995, 2005, 2015, 2024]\n",
+                "\n",
+                "# Ordem de empilhamento das classes mais representativas\n",
+                "classes_ordem = [33, 6, 11, 15, 21, 12, 3]\n",
+                "\n",
+                "for cid in classes_ordem:\n",
+                "    sub = df_tot[df_tot['Classe_ID'] == cid].sort_values('Ano')\n",
+                "    if len(sub) == 0:\n",
+                "        continue\n",
+                "    nome = sub['Classe_Nome'].iloc[0]\n",
+                "    fig_bars.add_trace(go.Bar(\n",
+                "        x=sub['Ano'],\n",
+                "        y=sub['Percentual'],\n",
+                "        name=nome,\n",
+                "        marker_color=cores_map.get(cid, '#888888'),\n",
+                "        hovertemplate='<b>%{x}</b><br>' + nome + '<br>Área: %{customdata:,.1f} ha (%{y:.1f}%)<extra></extra>',\n",
+                "        customdata=sub['Area_ha']\n",
+                "    ))\n",
+                "\n",
+                "fig_bars.update_layout(\n",
+                "    title='<b>Evolução do Uso e Cobertura da Terra (1985 – 2024)</b><br><sup>REVIS Tabuleiro do Embaubal e RDS Vitória de Souzel (27.023 ha)</sup>',\n",
+                "    barmode='stack',\n",
+                "    xaxis=dict(title='Ano de Referência', tickmode='array', tickvals=anos),\n",
+                "    yaxis=dict(title='Proporção (%)', range=[0, 100]),\n",
+                "    template='plotly_white',\n",
+                "    legend=dict(title='Classe de Cobertura', orientation='h', y=-0.2),\n",
+                "    width=900, height=520\n",
+                ")\n",
+                "fig_bars.show()"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "### 7. Diagrama de Sankey Interativo (Transições 1985 → 2024)\n",
+                "Visualização das transições físicas de cobertura do solo entre 1985 e 2024, evidenciando estabilidade, dinâmica fluvial e antropização."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Matriz de transição oficial calculada via cruzamento de pixels\n",
+                "trans_url = 'https://raw.githubusercontent.com/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/main/camadas/tabelas/transicoes_mapbiomas_1985_2024.json'\n",
+                "import urllib.request\n",
+                "\n",
+                "try:\n",
+                "    with urllib.request.urlopen(trans_url) as resp:\n",
+                "        transicoes = json.loads(resp.read().decode('utf-8'))\n",
+                "except Exception:\n",
+                "    with open('../camadas/tabelas/transicoes_mapbiomas_1985_2024.json', encoding='utf-8') as f:\n",
+                "        transicoes = json.load(f)\n",
+                "\n",
+                "# Filtrar transições >= 20 ha\n",
+                "trans_sig = [t for t in transicoes if t['ha'] >= 20.0]\n",
+                "\n",
+                "labels_85 = ['Floresta Alagável (1985)', 'Rio/Lago (1985)', 'Campo Alagado (1985)', 'Mosaico de Usos (1985)', 'Formação Florestal (1985)']\n",
+                "labels_24 = ['Floresta Alagável (2024)', 'Rio/Lago (2024)', 'Campo Alagado (2024)', 'Pastagem (2024)', 'Mosaico de Usos (2024)', 'Formação Campestre (2024)', 'Formação Florestal (2024)']\n",
+                "\n",
+                "all_labels = labels_85 + labels_24\n",
+                "\n",
+                "id_to_src = {6: 0, 33: 1, 11: 2, 21: 3, 3: 4}\n",
+                "id_to_dst = {6: 5, 33: 6, 11: 7, 15: 8, 21: 9, 12: 10, 3: 11}\n",
+                "\n",
+                "sources = []\n",
+                "targets = []\n",
+                "values = []\n",
+                "colors_links = []\n",
+                "\n",
+                "cores_rgba = {\n",
+                "    6: 'rgba(0, 119, 133, 0.45)',\n",
+                "    33: 'rgba(37, 50, 228, 0.45)',\n",
+                "    11: 'rgba(81, 151, 153, 0.45)',\n",
+                "    21: 'rgba(255, 239, 195, 0.45)',\n",
+                "    3: 'rgba(31, 141, 73, 0.45)'\n",
+                "}\n",
+                "\n",
+                "for t in trans_sig:\n",
+                "    s_id = t['from']\n",
+                "    d_id = t['to']\n",
+                "    if s_id in id_to_src and d_id in id_to_dst:\n",
+                "        sources.append(id_to_src[s_id])\n",
+                "        targets.append(id_to_dst[d_id])\n",
+                "        values.append(t['ha'])\n",
+                "        colors_links.append(cores_rgba.get(s_id, 'rgba(128,128,128,0.4)'))\n",
+                "\n",
+                "fig_sankey = go.Figure(data=[go.Sankey(\n",
+                "    node=dict(\n",
+                "        pad=18,\n",
+                "        thickness=20,\n",
+                "        line=dict(color='black', width=0.5),\n",
+                "        label=all_labels,\n",
+                "        color=['#007785', '#2532e4', '#519799', '#ffefc3', '#1f8d49', '#007785', '#2532e4', '#519799', '#edde8e', '#ffefc3', '#d6bc74', '#1f8d49']\n",
+                "    ),\n",
+                "    link=dict(\n",
+                "        source=sources,\n",
+                "        target=targets,\n",
+                "        value=values,\n",
+                "        color=colors_links,\n",
+                "        hovertemplate='%{source.label} → %{target.label}<br>Área: %{value:,.1f} ha<extra></extra>'\n",
+                "    )\n",
+                ")])\n",
+                "\n",
+                "fig_sankey.update_layout(\n",
+                "    title='<b>Diagrama de Sankey: Transições de Cobertura da Terra (1985 → 2024)</b><br><sup>Dinâmica de Estabilidade, Erosão/Sedimentação Fluvial e Pastagem</sup>',\n",
+                "    template='plotly_white',\n",
+                "    width=960, height=560\n",
+                ")\n",
+                "fig_sankey.show()"
+            ]
+        }
+    ],
+    "metadata": {
+        "colab": {
+            "name": "analise_multitemporal_mapbiomas_embaubal_souzel.ipynb",
+            "provenance": []
+        },
+        "kernelspec": {
+            "display_name": "Python 3",
+            "name": "python3"
+        },
+        "language_info": {
+            "name": "python"
+        }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 0
+}
+
+with open("notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb", "w", encoding="utf-8") as f:
+    json.dump(nb, f, ensure_ascii=False, indent=2)
+
+print("Notebook gerado com sucesso em: notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb")

@@ -5,6 +5,7 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-GEE-blue.svg)](https://earthengine.google.com/)
 [![Datum](https://img.shields.io/badge/CRS-SIRGAS%202000%20%2F%20UTM%2022S-informational.svg)](https://epsg.io/31982)
 [![Instituição](https://img.shields.io/badge/IDEFLOR--Bio-Pará-green.svg)](https://ideflorbio.pa.gov.br/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/blob/main/notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb)
 
 ---
 
@@ -21,7 +22,71 @@ O projeto atende às demandas técnicas estabelecidas no Plano de Gestão das UC
 
 ---
 
-## 2. Dinâmica Multitemporal de Cobertura da Terra (1985 – 2024)
+## 2. Fluxograma Metodológico do Projeto
+
+O fluxo de trabalho foi estruturado de forma integrada entre o trabalho de campo, o processamento massivo em nuvem (GEE), a automação em desktop GIS (PyQGIS) e a visualização gráfica vetorial (SVG):
+
+```mermaid
+flowchart TD
+    subgraph ETAPA1["1. Bases de Entrada e Levantamento de Campo"]
+        A["Bases Cartográficas Oficiais (IBGE, ANA, IDEFLOR-Bio)"]
+        B["Levantamento de Campo: 282 Moradias, Furos, Desovas"]
+        C["Poligonais Legais das UCs (Decretos 1.566 e 1.567/2016)"]
+    end
+
+    subgraph ETAPA2["2. Processamento em Nuvem (Google Earth Engine)"]
+        D["Asset Vetorial das UCs no GEE"]
+        E["MapBiomas Coleção 11: 1985 a 2024 (30 m)"]
+        F["Redução Zonal e Estatísticas em Hectares"]
+        G["Exportação de GeoTIFFs (Buffer 5 km e Limite Exato)"]
+        H["Exportação da Tabela Consolidada (CSV)"]
+    end
+
+    subgraph ETAPA3["3. Automação e SIG (PyQGIS / QGIS 4.x)"]
+        I["Projeto Cartográfico: tabuleiro_do_embaubal_e_vitoria_souzel.qgz"]
+        J["Script PyQGIS: aplicar_estilo_mapbiomas_c11.py"]
+        K["Simbologia Oficial C11 com Filtro Inteligente de Classes"]
+        L["Estruturação do Grupo Temporal com os 5 Anos Desdobrados"]
+    end
+
+    subgraph ETAPA4["4. Infografia Vetorial e Relatórios (SVG)"]
+        M["5 Painéis Anuais (111,75 x 185,43 mm) para Layout A1"]
+        N["Gráfico Geral da Série Histórica (Formato A4)"]
+        O["Diagrama de Sankey de Transições 1985-2024 (Formato A4)"]
+    end
+
+    subgraph ETAPA5["5. Produtos Cartográficos e Acadêmicos"]
+        P["Série Cartográfica A1 (6 Mapas Oficiais em PDF)"]
+        Q["Figuras e Tabelas para Artigo / Relatório Técnico"]
+        R["Notebook Interativo no Google Colab"]
+    end
+
+    A --> I
+    B --> I
+    C --> D
+    D --> F
+    E --> F
+    F --> H
+    E --> G
+    G --> I
+    I --> J
+    J --> K
+    K --> L
+    L --> P
+    H --> M
+    H --> N
+    H --> O
+    M --> P
+    N --> Q
+    O --> Q
+    H --> R
+    D --> R
+    E --> R
+```
+
+---
+
+## 3. Dinâmica Multitemporal de Cobertura da Terra (1985 – 2024)
 
 Com base na **Coleção 11 do MapBiomas Brasil** (resolução espacial de 30 metros), foram avaliados 40 anos de dinâmica territorial em 5 marcos temporais decenais (**1985, 1995, 2005, 2015 e 2024**). O processamento zonal foi executado diretamente no Google Earth Engine através de redução elipsoidal de área por pixel.
 
@@ -46,7 +111,7 @@ Com base na **Coleção 11 do MapBiomas Brasil** (resolução espacial de 30 met
 
 ---
 
-## 3. Diagrama de Transições da Cobertura da Terra (Sankey 1985 → 2024)
+## 4. Diagrama de Transições da Cobertura da Terra (Sankey 1985 → 2024)
 
 O cruzamento espacial pixel a pixel (302.642 pixels avaliados) entre o marco inicial de 1985 e o marco recente de 2024 permitiu mapear os fluxos físicos de estabilidade, dinâmica fluvial e antropização:
 
@@ -66,7 +131,21 @@ O cruzamento espacial pixel a pixel (302.642 pixels avaliados) entre o marco ini
 
 ---
 
-## 4. Produtos Cartográficos Disponíveis (Série A1)
+## 5. Notebook Interativo no Google Colab
+
+Disponibilizamos um notebook interativo completo para reprodução das análises diretamente na nuvem:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/blob/main/notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb)
+
+O notebook [`notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb`](notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb) permite:
+* Autenticar no Google Earth Engine e carregar os assets oficiais do MapBiomas C11 e das UCs.
+* Visualizar o mapa interativo com basemap híbrido e camadas estilizadas com `geemap`.
+* Gerar os gráficos interativos de barras empilhadas e o Diagrama de Sankey animado via `Plotly`.
+* Baixar a tabela de dados e exportar novas consultas sob demanda.
+
+---
+
+## 6. Produtos Cartográficos Disponíveis (Série A1)
 
 Os mapas temáticos impressos foram estruturados na escala de detalhe em formato A1 com grid UTM 22S, legenda categorizada, mapa de localização estadual e painéis infográficos customizados:
 
@@ -81,11 +160,13 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 
 ---
 
-## 5. Estrutura de Diretórios do Repositório
+## 7. Estrutura de Diretórios do Repositório
 
 ```text
 ├── tabuleiro_do_embaubal_e_vitoria_souzel.qgz   # Projeto principal configurado no QGIS 4.x
 ├── layout.qpt                                   # Template padrão de impressão A1
+├── notebooks/                                   # Análises em Python / Google Colab
+│   └── analise_multitemporal_mapbiomas_embaubal_souzel.ipynb # Notebook executável via Colab
 ├── camadas/                                     # Dados vetoriais e matriciais organizados
 │   ├── 00_ucs_alvo_embaubal_souzel.geojson     # Polígonos oficiais do REVIS e da RDS
 │   ├── 00_ucs_estaduais_todas.geojson          # 29 Unidades de Conservação do Pará
@@ -126,7 +207,7 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 
 ---
 
-## 6. Como Reproduzir e Executar o Projeto
+## 8. Como Reproduzir e Executar o Projeto
 
 ### A. Abrir o Projeto no QGIS
 1. Certifique-se de ter o **QGIS 3.28 LTR** ou **QGIS 3.34+ / 4.x** instalado.
@@ -147,7 +228,7 @@ python scripts/gerar_todos_produtos_mapbiomas.py
 
 ---
 
-## 7. Responsabilidade Técnica e Expediente
+## 9. Responsabilidade Técnica e Expediente
 
 * **Governo do Estado do Pará**
 * **Secretaria de Estado de Meio Ambiente e Sustentabilidade (SEMAS/PA)**
