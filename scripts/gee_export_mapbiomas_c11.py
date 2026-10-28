@@ -6,7 +6,8 @@ Asset de UCs: 'projects/ee-samuelsantosambientalcourse/assets/00_ucs_alvo_embaub
 import ee
 
 def exportar_mapbiomas():
-    ee.Initialize()
+    # Inicializa o Earth Engine associando ao projeto do usuário
+    ee.Initialize(project='ee-samuelsantosambientalcourse')
     
     # Carrega o asset das UCs do usuário
     ucs = ee.FeatureCollection('projects/ee-samuelsantosambientalcourse/assets/00_ucs_alvo_embaubal_souzel')

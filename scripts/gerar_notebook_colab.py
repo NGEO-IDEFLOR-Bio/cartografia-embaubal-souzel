@@ -17,6 +17,7 @@ nb = {
                 "**Instituição:** Instituto de Desenvolvimento Florestal e da Biodiversidade do Pará (IDEFLOR-Bio)  \n",
                 "**Diretoria:** Diretoria de Gestão e Monitoramento de Unidades de Conservação (DGMUC)  \n",
                 "**Execução:** Núcleo de Geotecnologias (NGEO)  \n",
+                "**Projeto GEE:** `ee-samuelsantosambientalcourse`  \n",
                 "**Fonte de Dados:** MapBiomas Brasil (Coleção 11, Série Histórica 1985–2024) via Google Earth Engine (GEE)\n",
                 "\n",
                 "---"
@@ -50,7 +51,7 @@ nb = {
             "metadata": {},
             "source": [
                 "### 2. Autenticação e Inicialização do Google Earth Engine\n",
-                "> Execute a célula abaixo para autorizar sua conta do Google Earth Engine."
+                "> Utiliza o ID do projeto Google Cloud do usuário (`ee-samuelsantosambientalcourse`)."
             ]
         },
         {
@@ -59,13 +60,16 @@ nb = {
             "metadata": {},
             "outputs": [],
             "source": [
+                "PROJECT_ID = 'ee-samuelsantosambientalcourse'\n",
+                "\n",
                 "try:\n",
-                "    ee.Initialize()\n",
-                "    print(\"Earth Engine já inicializado!\")\n",
-                "except Exception:\n",
+                "    ee.Initialize(project=PROJECT_ID)\n",
+                "    print(f\"Earth Engine inicializado com sucesso no projeto: '{PROJECT_ID}'!\")\n",
+                "except Exception as e:\n",
+                "    print(f\"Solicitando autenticação para o projeto '{PROJECT_ID}'...\")\n",
                 "    ee.Authenticate()\n",
-                "    ee.Initialize()\n",
-                "    print(\"Earth Engine autenticado e inicializado com sucesso!\")"
+                "    ee.Initialize(project=PROJECT_ID)\n",
+                "    print(f\"Earth Engine autenticado e inicializado com sucesso no projeto: '{PROJECT_ID}'!\")"
             ]
         },
         {
@@ -328,4 +332,4 @@ nb = {
 with open("notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb", "w", encoding="utf-8") as f:
     json.dump(nb, f, ensure_ascii=False, indent=2)
 
-print("Notebook gerado com sucesso em: notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb")
+print("Notebook atualizado com PROJECT_ID='ee-samuelsantosambientalcourse'!")
