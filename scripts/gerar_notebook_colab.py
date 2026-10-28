@@ -3,6 +3,10 @@ import os
 
 os.makedirs("notebooks", exist_ok=True)
 
+# Carrega matriz de transições para embutir como fallback à prova de falhas
+with open("camadas/tabelas/transicoes_mapbiomas_1985_2024.json", encoding="utf-8") as f:
+    trans_local = json.load(f)
+
 nb = {
     "cells": [
         {
@@ -39,6 +43,8 @@ nb = {
                 "!pip install geemap earthengine-api plotly pandas --quiet\n",
                 "\n",
                 "import ee\n",
+                "import json\n",
+                "import urllib.request\n",
                 "import pandas as pd\n",
                 "import plotly.graph_objects as go\n",
                 "import plotly.express as px\n",
@@ -154,12 +160,13 @@ nb = {
             "metadata": {},
             "outputs": [],
             "source": [
-                "# URL da tabela consolidada no repositório GitHub oficial\n",
                 "csv_url = 'https://raw.githubusercontent.com/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/main/camadas/tabelas/estatisticas_mapbiomas_c11_revis_rds.csv'\n",
                 "\n",
                 "try:\n",
                 "    df = pd.read_csv(csv_url)\n",
-                "except Exception:\n",
+                "    print(\"Dados carregados com sucesso do GitHub!\")\n",
+                "except Exception as e:\n",
+                "    print(\"Tentando carregar dados locais:\", e)\n",
                 "    df = pd.read_csv('../camadas/tabelas/estatisticas_mapbiomas_c11_revis_rds.csv')\n",
                 "\n",
                 "# Agrupamento para a área consolidada (REVIS + RDS somadas)\n",
@@ -242,18 +249,25 @@ nb = {
             "metadata": {},
             "outputs": [],
             "source": [
-                "# Matriz de transição oficial calculada via cruzamento de pixels\n",
-                "trans_url = 'https://raw.githubusercontent.com/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/main/camadas/tabelas/transicoes_mapbiomas_1985_2024.json'\n",
+                "import json\n",
                 "import urllib.request\n",
                 "\n",
-                "try:\n",
-                "    with urllib.request.urlopen(trans_url) as resp:\n",
-                "        transicoes = json.loads(resp.read().decode('utf-8'))\n",
-                "except Exception:\n",
-                "    with open('../camadas/tabelas/transicoes_mapbiomas_1985_2024.json', encoding='utf-8') as f:\n",
-                "        transicoes = json.load(f)\n",
+                "# Matriz de transição oficial calculada via cruzamento de pixels\n",
+                "trans_url = 'https://raw.githubusercontent.com/NGEO-IDEFLOR-Bio/cartografia-embaubal-souzel/main/camadas/tabelas/transicoes_mapbiomas_1985_2024.json'\n",
                 "\n",
-                "# Filtrar transições >= 20 ha\n",
+                "# Dados pré-carregados de contingência (fallback garantido)\n",
+                f"FALLBACK_TRANSICOES = {json.dumps(trans_local)}\n",
+                "\n",
+                "try:\n",
+                "    req = urllib.request.Request(trans_url, headers={'User-Agent': 'Mozilla/5.0'})\n",
+                "    with urllib.request.urlopen(req) as resp:\n",
+                "        transicoes = json.loads(resp.read().decode('utf-8'))\n",
+                "    print(\"Matriz de transições carregada com sucesso do GitHub!\")\n",
+                "except Exception as e:\n",
+                "    print(\"Carregando matriz de transições interna pré-calculada...\")\n",
+                "    transicoes = FALLBACK_TRANSICOES\n",
+                "\n",
+                "# Filtrar transições >= 20 ha para clareza visual\n",
                 "trans_sig = [t for t in transicoes if t['ha'] >= 20.0]\n",
                 "\n",
                 "labels_85 = ['Floresta Alagável (1985)', 'Rio/Lago (1985)', 'Campo Alagado (1985)', 'Mosaico de Usos (1985)', 'Formação Florestal (1985)']\n",
@@ -332,4 +346,4 @@ nb = {
 with open("notebooks/analise_multitemporal_mapbiomas_embaubal_souzel.ipynb", "w", encoding="utf-8") as f:
     json.dump(nb, f, ensure_ascii=False, indent=2)
 
-print("Notebook atualizado com PROJECT_ID='ee-samuelsantosambientalcourse'!")
+print("Notebook atualizado com import json e fallback embutido!")
