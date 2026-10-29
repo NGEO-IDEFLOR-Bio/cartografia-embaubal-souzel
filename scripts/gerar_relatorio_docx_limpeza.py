@@ -205,12 +205,14 @@ add_item_lista(
 )
 
 add_item_lista(
-    "b) Filtragem e Eliminação de Waypoints de Tracklog Automático",
-    "Constatou-se que a camada temática de acessos ('10_trajetos_e_acessos.geojson') era composta integralmente por 49 pontos "
-    "de registro automático de receptores GPS (contendo nomenclaturas como 'quarta-feira Afternoon Activity', 'segunda-feira Almoço "
-    "Atividades off-road', 'quinta-feira Morning Pesca' e 'sábado Bom dia Atividades off-road'). Tais registros decorriam do log "
-    "de navegação das embarcações e não representavam rampas, portos ou trilhas reais. Por meio de rotina de análise léxica "
-    "e semântica, todos os 49 registros espúrios foram expurgados da base ativa e desativados do projeto cartográfico."
+    "b) Filtragem de Paradas Espúrias e Padronização da Camada de Acessos",
+    "A camada temática de acessos ('10_trajetos_e_acessos.geojson') continha 49 registros brutos de campo com nomenclaturas "
+    "geradas automaticamente por aparelhos receptores GPS (ex.: 'quarta-feira Afternoon Activity', 'quinta-feira Morning Pesca'). "
+    "Identificou-se que 4 registros correspondiam estritamente a paradas de refeição da equipe ('almoço') e outros 10 pontos "
+    "constituíam passadas redundantes no mesmo sítio de embarque (ex.: 5 passadas sobrepostas na Base Fluvial). "
+    "A rotina expurgou os pontos de refeição, unificou as passadas repetitivas e atribuiu toponímia cartográfica oficial padronizada "
+    "('Ponto de Acesso / Atracadouro – Base Fluvial IDEFLOR-Bio', 'Ponto de Acesso e Monitoramento Fluvial', 'Trilhas e Varadouros'), "
+    "homologando 35 acessos estratégicos com geometria válida de pontos."
 )
 
 add_item_lista(
@@ -248,8 +250,8 @@ add_item_lista(
 # 5. Resultados
 add_secao("5. Resultados e Balanço Quantitativo da Limpeza")
 add_paragrafo(
-    "A execução dos algoritmos de depuração promoveu uma redução líquida de 134 registros na base territorial, "
-    "passando de 746 pontos brutos consolidados para 612 feições geográficas unívocas, plenamente auditadas "
+    "A execução dos algoritmos de depuração promoveu uma redução líquida de 99 registros redundantes na base territorial, "
+    "passando de 746 pontos brutos consolidados para 647 feições geográficas unívocas, plenamente auditadas "
     "e sem sobreposições espúrias."
 )
 
@@ -290,8 +292,8 @@ dados_tab1 = [
     ("07. Marcos e Pontos de Referência Locais", "16", "15", "-1 duplicata"),
     ("08. Vegetação e Flora (Árvores Matrizes)", "50", "44", "-6 duplicatas"),
     ("09. Ocorrências e Impactos Ambientais", "7", "7", "0 (inalterado)"),
-    ("10. Trajetos e Acessos (Waypoints GPS)", "49", "0", "-49 tracklogs falsos"),
-    ("TOTAL CONSOLIDADO DE CAMPO", "746", "612", "-134 registros eliminados")
+    ("10. Trajetos e Acessos Fluviais e Trilhas", "49", "35", "-14 (4 almoços + 10 passadas)"),
+    ("TOTAL CONSOLIDADO DE CAMPO", "746", "647", "-99 registros eliminados")
 ]
 
 for row_data in dados_tab1:
