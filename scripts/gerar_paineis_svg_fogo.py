@@ -1,17 +1,16 @@
 # -*- coding: utf-8 -*-
 """
 Geração dos Painéis SVG para o Tema Fogo (MapBiomas Fogo 1985 - 2024)
-Área de Estudo: REVIS Tabuleiro do Embaubal, RDS Vitória de Souzel e Buffer 2km.
+Com dados reais e precisos integrados das UCs e do Buffer:
+- REVIS Tabuleiro do Embaubal
+- RDS Vitória de Souzel
+- Zona de Amortecimento (Buffer 2 km)
 
-Dimensões idênticas aos painéis de Cobertura do Solo:
-- Largura: 111.752 mm
-- Altura:  185.429 mm
-Padrão sem duplicidade, tipografia Segoe UI Variable, estética institucional IDEFLOR-Bio / NGEO.
+Dimensões: 111.752 mm x 185.429 mm
 """
 
 import pandas as pd
 import os
-import xml.sax.saxutils
 
 DIR_SVG = "paineis_tematicos_svg"
 os.makedirs(DIR_SVG, exist_ok=True)
@@ -19,42 +18,40 @@ os.makedirs(DIR_SVG, exist_ok=True)
 W = 111.752
 H = 185.429
 
-# Carrega estatísticas de intervalos
 df_int = pd.read_csv("camadas/tabelas/estatisticas_mapbiomas_fogo_intervalos.csv")
 df_anual = pd.read_csv("camadas/tabelas/estatisticas_anuais_mapbiomas_fogo_1985_2026.csv")
 
-# Paleta de cores cartográfica profissional para Fogo
 CORES_INTERVALO = {
-    "1985 – 1994": {"nome": "1985 – 1994", "hex": "#f39c12", "stroke": "#b9770e", "label": "Período 1985–1994"},
-    "1995 – 2004": {"nome": "1995 – 2004", "hex": "#e67e22", "stroke": "#a04000", "label": "Período 1995–2004"},
-    "2005 – 2014": {"nome": "2005 – 2014", "hex": "#e74c3c", "stroke": "#922b21", "label": "Período 2005–2014"},
-    "2015 – 2024": {"nome": "2015 – 2024", "hex": "#900c3f", "stroke": "#581845", "label": "Período 2015–2024"}
+    "1985 – 1994": {"hex": "#f39c12", "stroke": "#b9770e", "label": "1985 – 1994"},
+    "1995 – 2004": {"hex": "#e67e22", "stroke": "#a04000", "label": "1995 – 2004"},
+    "2005 – 2014": {"hex": "#e74c3c", "stroke": "#922b21", "label": "2005 – 2014"},
+    "2015 – 2024": {"hex": "#900c3f", "stroke": "#581845", "label": "2015 – 2024"}
 }
 
 # -------------------------------------------------------------
 # 1. PAINEL GERAL CONSOLIDADO DE FOGO (1985 – 2024)
 # -------------------------------------------------------------
 def gerar_painel_fogo_consolidado(output_path):
-    # Soma total das cicatrizes líquidas mapeadas no período
-    tot_liquido = df_int['Total_ha'].sum()
+    tot_liq_periodo = df_int['Total_ha'].sum()
     buf_tot = df_int['Buffer_ha'].sum()
     rds_tot = df_int['RDS_ha'].sum()
     revis_tot = df_int['REVIS_ha'].sum()
+    ucs_tot = rds_tot + revis_tot
 
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}mm" height="{H}mm" viewBox="0 0 {W} {H}">')
     svg.append(f'  <rect x="0" y="0" width="{W}" height="{H}" fill="#ffffff" fill-opacity="0" />')
 
-    # BLOCO SUPERIOR: TEMA EM DESTAQUE E ÁREA TOTAL
+    # Card Superior Destaque
     svg.append('  <!-- Card Destaque Fogo -->')
     svg.append(f'  <rect x="4.0" y="4.0" width="{W-8.0}" height="25.0" fill="#fdfaf6" stroke="#900c3f" stroke-width="0.8" rx="0" ry="0" />')
-    svg.append(f'  <text x="8.0" y="13.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" fill="#777777">MAPBIOMAS FOGO (COLEÇÃO 3.1)</text>')
-    svg.append(f'  <text x="8.0" y="24.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="8.8" font-weight="bold" fill="#900c3f">1985 – 2024</text>')
+    svg.append(f'  <text x="8.0" y="13.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" fill="#777777">MAPBIOMAS FOGO (1985 – 2024)</text>')
+    svg.append(f'  <text x="8.0" y="24.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="8.8" font-weight="bold" fill="#900c3f">ÁREA QUEIMADA</text>')
     
-    svg.append(f'  <text x="{W-8.0}" y="13.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#777777" text-anchor="end">TOTAL DE CICATRIZES</text>')
-    svg.append(f'  <text x="{W-8.0}" y="23.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="5.2" font-weight="bold" fill="#222222" text-anchor="end">{tot_liquido:,.0f} ha</text>')
+    svg.append(f'  <text x="{W-8.0}" y="13.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#777777" text-anchor="end">TOTAL LÍQUIDO</text>')
+    svg.append(f'  <text x="{W-8.0}" y="23.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="5.2" font-weight="bold" fill="#222222" text-anchor="end">{tot_liq_periodo:,.0f} ha</text>')
 
-    # SEÇÃO SUPERIOR: PROPORÇÃO POR INTERVALO (%)
+    # SEÇÃO SUPERIOR: DISTRIBUIÇÃO TEMPORAL (%)
     bar_y0 = 35.0
     svg.append(f'  <text x="4.0" y="{bar_y0:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.6" font-weight="bold" fill="#900c3f">DISTRIBUIÇÃO TEMPORAL (%)</text>')
     svg.append(f'  <line x1="4.0" y1="{bar_y0 + 2.5:.2f}" x2="{W-4.0}" y2="{bar_y0 + 2.5:.2f}" stroke="#cccccc" stroke-width="0.5" />')
@@ -66,7 +63,7 @@ def gerar_painel_fogo_consolidado(output_path):
         nome_int = r['Intervalo']
         cfg = CORES_INTERVALO.get(nome_int, {"hex": "#888888", "stroke": "#444444"})
         ha_val = r['Total_ha']
-        pct = (ha_val / tot_liquido) * 100.0 if tot_liquido > 0 else 0
+        pct = (ha_val / tot_liq_periodo) * 100.0 if tot_liq_periodo > 0 else 0
 
         svg.append(f'  <text x="4.0" y="{cur_y:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">{nome_int}</text>')
         svg.append(f'  <text x="{W-4.0}" y="{cur_y:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#900c3f" text-anchor="end">{pct:.1f}%</text>')
@@ -79,20 +76,20 @@ def gerar_painel_fogo_consolidado(output_path):
 
         cur_y += 12.8
 
-    # SEÇÃO INFERIOR: QUANTIFICAÇÃO POR UNIDADE TERRITORIAL
+    # SEÇÃO INFERIOR: QUANTIFICAÇÃO POR UNIDADE TERRITORIAL (ha)
     tab_y = cur_y + 1.0
     svg.append(f'  <line x1="4.0" y1="{tab_y:.2f}" x2="{W-4.0}" y2="{tab_y:.2f}" stroke="#cccccc" stroke-width="0.5" />')
     svg.append(f'  <text x="4.0" y="{tab_y + 5.5:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.6" font-weight="bold" fill="#900c3f">ÁREA QUEIMADA POR UNIDADE (ha)</text>')
 
     head_y = tab_y + 8.5
     svg.append(f'  <rect x="4.0" y="{head_y:.2f}" width="{W-8.0}" height="5.8" fill="#f9eae1" rx="0" ry="0" />')
-    svg.append(f'  <text x="7.0" y="{head_y + 4.1:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#222222">Unidade Territorial</text>')
-    svg.append(f'  <text x="{W-7.0}" y="{head_y + 4.1:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#900c3f" text-anchor="end">Área (ha)</text>')
+    svg.append(f'  <text x="7.0" y="{head_y + 4.1:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#222222">Unidade / Entorno</text>')
+    svg.append(f'  <text x="{W-7.0}" y="{head_y + 4.1:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#900c3f" text-anchor="end">Área Líquida (ha)</text>')
 
     unidades_dados = [
-        {"nome": "REVIS Tab. do Embaubal", "ha": revis_tot, "cor": "#27ae60", "obs": "0,00% (Intacto)"},
-        {"nome": "RDS Vitória de Souzel", "ha": rds_tot, "cor": "#2980b9", "obs": "0,58 ha (1988)"},
-        {"nome": "Entorno (Buffer 2 km)", "ha": buf_tot, "cor": "#e67e22", "obs": f"{buf_tot:,.0f} ha"}
+        {"nome": "RDS Vitória de Souzel", "ha": rds_tot, "cor": "#e67e22"},
+        {"nome": "Entorno (Buffer 2 km)", "ha": buf_tot, "cor": "#c0392b"},
+        {"nome": "REVIS Tab. do Embaubal", "ha": revis_tot, "cor": "#27ae60"}
     ]
 
     r_y = head_y + 5.8
@@ -105,15 +102,15 @@ def gerar_painel_fogo_consolidado(output_path):
 
     # Linha Total
     svg.append(f'  <rect x="4.0" y="{r_y + 1.0:.2f}" width="{W-8.0}" height="6.6" fill="#fdfaf6" stroke="#900c3f" stroke-width="0.4" rx="0" ry="0" />')
-    svg.append(f'  <text x="7.0" y="{r_y + 5.4:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#900c3f">TOTAL LÍQUIDO</text>')
-    svg.append(f'  <text x="{W-7.0}" y="{r_y + 5.4:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.3" font-weight="bold" fill="#900c3f" text-anchor="end">{tot_liquido:,.0f} ha</text>')
+    svg.append(f'  <text x="7.0" y="{r_y + 5.4:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#900c3f">TOTAL GERAL</text>')
+    svg.append(f'  <text x="{W-7.0}" y="{r_y + 5.4:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.3" font-weight="bold" fill="#900c3f" text-anchor="end">{tot_liq_periodo:,.0f} ha</text>')
 
-    # Linha comparativa UCs vs Buffer
+    # Linha Resumo UCs
     r_y += 8.5
     svg.append(f'  <rect x="4.0" y="{r_y:.2f}" width="{W-8.0}" height="13.5" fill="#f5f7f6" stroke="#cccccc" stroke-width="0.3" />')
-    svg.append(f'  <text x="7.0" y="{r_y + 4.5:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" font-weight="bold" fill="#1b3626">EFETIVIDADE DE PROTEÇÃO:</text>')
-    svg.append(f'  <text x="7.0" y="{r_y + 8.5:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.4" fill="#444444">• Interior das UCs: apenas 0,58 ha (&lt; 0,01%)</text>')
-    svg.append(f'  <text x="7.0" y="{r_y + 12.0:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.4" fill="#444444">• 99,99% do fogo concentrado na borda externa</text>')
+    svg.append(f'  <text x="7.0" y="{r_y + 4.5:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" font-weight="bold" fill="#1b3626">BALANÇO TERRITORIAL (1985–2024):</text>')
+    svg.append(f'  <text x="7.0" y="{r_y + 8.5:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.4" fill="#444444">• Interior das UCs: {ucs_tot:,.1f} ha ({ucs_tot/tot_liq_periodo*100:.1f}% do total)</text>')
+    svg.append(f'  <text x="7.0" y="{r_y + 12.0:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.4" fill="#444444">• Entorno (Buffer 2km): {buf_tot:,.1f} ha ({buf_tot/tot_liq_periodo*100:.1f}% do total)</text>')
 
     svg.append('</svg>')
 
@@ -135,7 +132,6 @@ def gerar_painel_intervalo(row, output_path):
     ha_rev = row['REVIS_ha']
     qtd_cic = row['Qtd_Cicatrizes']
     
-    # Anos abrangidos
     ano_ini, ano_fim = [int(x.strip()) for x in nome_int.split('–')]
     sub_anual = df_anual[(df_anual['ano'] >= ano_ini) & (df_anual['ano'] <= ano_fim)]
     
@@ -151,7 +147,7 @@ def gerar_painel_intervalo(row, output_path):
     svg.append(f'  <text x="{W-8.0}" y="13.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#777777" text-anchor="end">ÁREA QUEIMADA</text>')
     svg.append(f'  <text x="{W-8.0}" y="23.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="5.2" font-weight="bold" fill="#222222" text-anchor="end">{ha_tot:,.0f} ha</text>')
 
-    # SEÇÃO SUPERIOR: DINÂMICA ANUAL DO INTERVALO (%)
+    # SEÇÃO SUPERIOR: DISTRIBUIÇÃO POR UNIDADE (%)
     bar_y0 = 35.0
     svg.append(f'  <text x="4.0" y="{bar_y0:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.6" font-weight="bold" fill="{cfg["stroke"]}">DISTRIBUIÇÃO POR UNIDADE (%)</text>')
     svg.append(f'  <line x1="4.0" y1="{bar_y0 + 2.5:.2f}" x2="{W-4.0}" y2="{bar_y0 + 2.5:.2f}" stroke="#cccccc" stroke-width="0.5" />')
@@ -160,9 +156,9 @@ def gerar_painel_intervalo(row, output_path):
     bar_max_w = W - 26.0
 
     itens_barra = [
+        {"nome": "RDS Vitória de Souzel", "ha": ha_rds, "pct": (ha_rds/ha_tot*100.0) if ha_tot > 0 else 0, "cor": "#e67e22"},
         {"nome": "Entorno (Buffer 2 km)", "ha": ha_buf, "pct": (ha_buf/ha_tot*100.0) if ha_tot > 0 else 0, "cor": cfg["hex"]},
-        {"nome": "RDS Vitória de Souzel", "ha": ha_rds, "pct": (ha_rds/ha_tot*100.0) if ha_tot > 0 else 0, "cor": "#2980b9"},
-        {"nome": "REVIS Tab. do Embaubal", "ha": ha_rev, "pct": 0.0, "cor": "#27ae60"},
+        {"nome": "REVIS Tab. do Embaubal", "ha": ha_rev, "pct": (ha_rev/ha_tot*100.0) if ha_tot > 0 else 0, "cor": "#27ae60"},
     ]
 
     for item in itens_barra:
@@ -179,7 +175,7 @@ def gerar_painel_intervalo(row, output_path):
 
         cur_y += 12.8
 
-    # Histórico dos anos de maior pico no intervalo
+    # Anos de Maior Pico no Decênio
     cur_y += 2.0
     picos = sub_anual.sort_values(by='ha_total', ascending=False).head(3)
     svg.append(f'  <rect x="4.0" y="{cur_y:.2f}" width="{W-8.0}" height="14.0" fill="#fdfaf6" stroke="#e0e0e0" stroke-width="0.3" />')
@@ -199,12 +195,12 @@ def gerar_painel_intervalo(row, output_path):
     head_y = tab_y + 8.5
     svg.append(f'  <rect x="4.0" y="{head_y:.2f}" width="{W-8.0}" height="5.8" fill="#f9eae1" rx="0" ry="0" />')
     svg.append(f'  <text x="7.0" y="{head_y + 4.1:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#222222">Unidade / Entorno</text>')
-    svg.append(f'  <text x="{W-7.0}" y="{head_y + 4.1:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="{cfg["stroke"]}" text-anchor="end">Área (ha)</text>')
+    svg.append(f'  <text x="{W-7.0}" y="{head_y + 4.1:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="{cfg["stroke"]}" text-anchor="end">Área Líquida (ha)</text>')
 
     unidades_linhas = [
-        {"nome": "REVIS Tab. do Embaubal", "ha": ha_rev, "cor": "#27ae60"},
-        {"nome": "RDS Vitória de Souzel", "ha": ha_rds, "cor": "#2980b9"},
-        {"nome": "Zona de Amortecimento", "ha": ha_buf, "cor": cfg["hex"]}
+        {"nome": "RDS Vitória de Souzel", "ha": ha_rds, "cor": "#e67e22"},
+        {"nome": "Zona de Amortecimento", "ha": ha_buf, "cor": cfg["hex"]},
+        {"nome": "REVIS Tab. do Embaubal", "ha": ha_rev, "cor": "#27ae60"}
     ]
 
     r_y = head_y + 5.8
@@ -220,7 +216,6 @@ def gerar_painel_intervalo(row, output_path):
     svg.append(f'  <text x="7.0" y="{r_y + 5.4:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="{cfg["stroke"]}">TOTAL DO INTERVALO</text>')
     svg.append(f'  <text x="{W-7.0}" y="{r_y + 5.4:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.3" font-weight="bold" fill="{cfg["stroke"]}" text-anchor="end">{ha_tot:,.0f} ha</text>')
 
-    # Rodapé informativo: quantidade de polígonos
     r_y += 8.5
     svg.append(f'  <text x="4.0" y="{r_y + 4.0:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.5" fill="#888888">Cicatrizes detectadas no intervalo: {qtd_cic} polígonos</text>')
 
@@ -239,8 +234,7 @@ def gerar_grafico_serie_historica_fogo(output_path):
     H_g = 110.0
     
     sub = df_anual[(df_anual['ano'] >= 1985) & (df_anual['ano'] <= 2024)]
-    max_ha = sub['ha_total'].max()
-    max_y_val = 1100.0  # Arredondado para teto visual limpo
+    max_y_val = 3500.0  # Teto para o pico de 1988 (3.347 ha)
     
     margin_l = 18.0
     margin_r = 10.0
@@ -255,11 +249,11 @@ def gerar_grafico_serie_historica_fogo(output_path):
     svg.append(f'  <rect x="0" y="0" width="{W_g}" height="{H_g}" fill="#ffffff" />')
 
     # Título do Gráfico
-    svg.append(f'  <text x="{margin_l}" y="9.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="4.2" font-weight="bold" fill="#1b3626">Série Histórica de Queimadas no Entorno das UCs (1985 – 2024)</text>')
-    svg.append(f'  <text x="{margin_l}" y="14.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#666666">Área anual de cicatrizes de fogo (ha) mapeada pelo MapBiomas Fogo no REVIS, RDS e Buffer de 2 km</text>')
+    svg.append(f'  <text x="{margin_l}" y="9.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="4.2" font-weight="bold" fill="#1b3626">Série Histórica Integrada de Queimadas (1985 – 2024)</text>')
+    svg.append(f'  <text x="{margin_l}" y="14.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#666666">Área anual de cicatrizes de fogo (ha) mapeada no REVIS Tabuleiro do Embaubal, RDS Vitória de Souzel e Buffer 2km</text>')
 
     # Linhas de grade horizontais
-    y_steps = [0, 250, 500, 750, 1000]
+    y_steps = [0, 500, 1000, 1500, 2000, 2500, 3000, 3500]
     for yv in y_steps:
         y_pos = margin_t + plot_h - (yv / max_y_val) * plot_h
         svg.append(f'  <line x1="{margin_l}" y1="{y_pos:.2f}" x2="{margin_l + plot_w}" y2="{y_pos:.2f}" stroke="#e5e5e5" stroke-width="0.3" stroke-dasharray="1,1" />')
@@ -267,8 +261,8 @@ def gerar_grafico_serie_historica_fogo(output_path):
 
     # Barras anuais
     n_anos = len(sub)
-    bar_width = (plot_w / n_anos) * 0.75
     gap = plot_w / n_anos
+    bar_width = gap * 0.75
 
     for i, (_, r) in enumerate(sub.iterrows()):
         ano = int(r['ano'])
@@ -277,7 +271,6 @@ def gerar_grafico_serie_historica_fogo(output_path):
         h_bar = (ha / max_y_val) * plot_h
         y = margin_t + plot_h - h_bar
 
-        # Cor da barra pelo intervalo correspondente
         if ano < 1995:
             cor = "#f39c12"
         elif ano < 2005:
@@ -289,8 +282,8 @@ def gerar_grafico_serie_historica_fogo(output_path):
 
         svg.append(f'  <rect x="{x:.2f}" y="{y:.2f}" width="{bar_width:.2f}" height="{h_bar:.2f}" fill="{cor}" rx="0.3" ry="0.3" />')
 
-        # Destaque nos picos principais (2001, 1988, 2015, 2023)
-        if ano in [1988, 2001, 2015, 2023]:
+        # Destaque nos picos históricos (1988, 2001, 2017, 2023, 2024)
+        if ano in [1988, 2001, 2017, 2023, 2024]:
             svg.append(f'  <text x="{x + bar_width/2.0:.2f}" y="{y - 1.8:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" font-weight="bold" fill="#900c3f" text-anchor="middle">{ha:,.0f}</text>')
 
         # Labels do eixo X a cada 5 anos
@@ -298,7 +291,7 @@ def gerar_grafico_serie_historica_fogo(output_path):
             svg.append(f'  <text x="{x + bar_width/2.0:.2f}" y="{margin_t + plot_h + 4.5:.2f}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">{ano}</text>')
             svg.append(f'  <line x1="{x + bar_width/2.0:.2f}" y1="{margin_t + plot_h}" x2="{x + bar_width/2.0:.2f}" y2="{margin_t + plot_h + 1.5}" stroke="#999999" stroke-width="0.3" />')
 
-    # Eixo X e Y principais
+    # Eixos X e Y
     svg.append(f'  <line x1="{margin_l}" y1="{margin_t + plot_h}" x2="{margin_l + plot_w}" y2="{margin_t + plot_h}" stroke="#333333" stroke-width="0.5" />')
     svg.append(f'  <line x1="{margin_l}" y1="{margin_t}" x2="{margin_l}" y2="{margin_t + plot_h}" stroke="#333333" stroke-width="0.5" />')
 
@@ -319,8 +312,8 @@ def gerar_grafico_serie_historica_fogo(output_path):
         cur_lx += 18.0
     svg.append('  </g>')
 
-    # Nota de rodapé da figura
-    svg.append(f'  <text x="{margin_l}" y="{H_g - 4.5}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#888888">Nota: Dos 11.675 ha de cicatrizes mapeadas em 41 anos, 99,99% ocorreram no entorno (Buffer 2km). A RDS teve 0,58 ha e o REVIS 0,00 ha.</text>')
+    # Rodapé da figura
+    svg.append(f'  <text x="{margin_l}" y="{H_g - 4.5}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#888888">Totais líquidos (1985–2024): REVIS = 143,6 ha (3,6%); RDS = 5.528,3 ha (24,1%); Entorno (Buffer 2km) = 5.117,0 ha (29,9%).</text>')
 
     svg.append('</svg>')
 
@@ -329,7 +322,7 @@ def gerar_grafico_serie_historica_fogo(output_path):
     print(f"[OK] Gráfico Acadêmico de Fogo criado: {output_path}")
 
 
-# Executa a geração de todos os painéis
+# Executa
 gerar_painel_fogo_consolidado(f"{DIR_SVG}/painel_mapa_fogo_historico_1985_2024.svg")
 
 for _, r in df_int.iterrows():

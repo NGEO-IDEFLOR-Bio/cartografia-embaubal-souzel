@@ -221,20 +221,20 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 A análise da série histórica do **MapBiomas Fogo (Coleção 3.1)** revelou um padrão territorial de alta relevância para a gestão ambiental das Unidades de Conservação:
 
 ### Tabela Consolidada de Queimadas por Intervalo Decadal (ha)
-| Intervalo Decadal | Cicatrizes | REVIS (ha) | RDS (ha) | Entorno Buffer 2km (ha) | Total Geral (ha) | % Borda Entorno |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **1985 – 1994** | 280 | **0,00** | 0,58 | 1.551,18 | 1.553,81 | 99,83% |
-| **1995 – 2004** | 406 | **0,00** | 0,00 | 2.536,75 | 2.542,54 | 99,77% |
-| **2005 – 2014** | 246 | **0,00** | 0,00 | 1.450,25 | 1.450,25 | 100,00% |
-| **2015 – 2024** | 366 | **0,00** | 0,00 | 2.267,40 | 2.267,40 | 100,00% |
-| **Total Acumulado** | **1.298** | **0,00 ha** | **0,58 ha** | **7.798,58 ha** | **7.814,00 ha** | **99,99%** |
+| Intervalo Decadal | Cicatrizes | REVIS (ha) | RDS (ha) | UCs Total (ha) | Entorno Buffer 2km (ha) | Total Geral (ha) | % UCs | % Entorno |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **1985 – 1994** | 294 | 61,01 | 3.704,83 | **3.765,84** | 1.551,18 | **5.317,01** | 70,8% | 29,2% |
+| **1995 – 2004** | 417 | 9,81 | 787,13 | **796,94** | 2.536,75 | **3.333,69** | 23,9% | 76,1% |
+| **2005 – 2014** | 256 | 10,45 | 224,98 | **235,43** | 1.450,25 | **1.685,68** | 14,0% | 86,0% |
+| **2015 – 2024** | 379 | 75,47 | 2.875,90 | **2.951,36** | 2.267,40 | **5.218,76** | 56,6% | 43,4% |
+| **Total Líquido (1985–2024)** | **1.346** | **143,57 ha** | **5.528,31 ha** | **5.671,88 ha** | **5.117,03 ha** | **10.788,91 ha** | **52,6%** | **47,4%** |
 
 *Nota: Valores líquidos após dissolução espacial para eliminar sobreposições de re-queima no mesmo período.*
 
-### Conclusão Técnica sobre o Fogo:
-1. **REVIS Tabuleiro do Embaubal (4.035,71 ha):** Apresenta **zero hectares de cicatrizes de fogo** (0,00%) em toda a série de 41 anos (1985–2026), em virtude de sua conformação geomorfológica insular e praias fluviais alagáveis no Rio Xingu.
-2. **RDS Vitória de Souzel (22.987,41 ha):** Registrou apenas **0,58 ha** de cicatriz pontual em 1988 (&lt;0,003% da área da UC), mantendo-se imune ao fogo nas três décadas seguintes.
-3. **Efeito Barreira das UCs:** As queimadas ocorrem quase que exclusivamente no **entorno exterior (Zona de Amortecimento de 2 km)**, comprovando a **efetividade das UCs na contenção do fogo antropogênico**.
+### Conclusão Técnica e Dinâmica Territorial do Fogo:
+1. **REVIS Tabuleiro do Embaubal (4.035,71 ha):** Registrou **143,57 ha** de área líquida queimada acumulada ao longo de 40 anos (**3,56%** da UC), ocorrendo principalmente durante secas severas no Rio Xingu com rebaixamento do lençol freático das ilhas arenosas (pico histórico em 2024 com 75,3 ha e em 1988 com 34,9 ha).
+2. **RDS Vitória de Souzel (22.987,41 ha):** Totalizou **5.528,31 ha** de área líquida queimada (**24,05%** da UC), com dois grandes ciclos históricos de queimadas: o primeiro no final da década de 1980 (pico de 2.362 ha em 1988) e o segundo nas secas extremas recentes (1.089 ha em 2023 e 1.297 ha em 2024).
+3. **Entorno / Zona de Amortecimento (Buffer 2 km):** Concentrou **5.117,03 ha** de área líquida queimada (soma anual de 11.576 ha), demonstrando forte pressão antrópica nas bordas dos municípios de Senador José Porfírio e Porto de Moz, com destaque para a década de 1995–2004 onde 76,1% do fogo se concentrou no buffer exterior.
 
 ---
 

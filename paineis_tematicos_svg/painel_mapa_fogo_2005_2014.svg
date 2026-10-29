@@ -4,41 +4,43 @@
   <text x="8.0" y="13.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" fill="#777777">INTERVALO TEMPORAL</text>
   <text x="8.0" y="24.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="8.8" font-weight="bold" fill="#e74c3c">2005 – 2014</text>
   <text x="103.752" y="13.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#777777" text-anchor="end">ÁREA QUEIMADA</text>
-  <text x="103.752" y="23.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="5.2" font-weight="bold" fill="#222222" text-anchor="end">1,450 ha</text>
+  <text x="103.752" y="23.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="5.2" font-weight="bold" fill="#222222" text-anchor="end">1,686 ha</text>
   <text x="4.0" y="35.00" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.6" font-weight="bold" fill="#922b21">DISTRIBUIÇÃO POR UNIDADE (%)</text>
   <line x1="4.0" y1="37.50" x2="107.752" y2="37.50" stroke="#cccccc" stroke-width="0.5" />
-  <text x="4.0" y="43.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">Entorno (Buffer 2 km)</text>
-  <text x="107.752" y="43.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#922b21" text-anchor="end">100.0%</text>
+  <text x="4.0" y="43.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">RDS Vitória de Souzel</text>
+  <text x="107.752" y="43.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#922b21" text-anchor="end">13.3%</text>
   <rect x="4.0" y="45.50" width="85.75" height="5.2" fill="#f5f0eb" rx="0" ry="0" />
-  <rect x="4.0" y="45.50" width="85.75" height="5.2" fill="#e74c3c" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
-  <text x="4.0" y="56.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">RDS Vitória de Souzel</text>
-  <text x="107.752" y="56.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#922b21" text-anchor="end">0.0%</text>
+  <rect x="4.0" y="45.50" width="11.44" height="5.2" fill="#e67e22" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="4.0" y="56.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">Entorno (Buffer 2 km)</text>
+  <text x="107.752" y="56.30" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#922b21" text-anchor="end">86.0%</text>
   <rect x="4.0" y="58.30" width="85.75" height="5.2" fill="#f5f0eb" rx="0" ry="0" />
+  <rect x="4.0" y="58.30" width="73.78" height="5.2" fill="#e74c3c" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
   <text x="4.0" y="69.10" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.2" font-weight="bold" fill="#222222">REVIS Tab. do Embaubal</text>
-  <text x="107.752" y="69.10" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#922b21" text-anchor="end">0.0%</text>
+  <text x="107.752" y="69.10" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.8" font-weight="bold" fill="#922b21" text-anchor="end">0.6%</text>
   <rect x="4.0" y="71.10" width="85.75" height="5.2" fill="#f5f0eb" rx="0" ry="0" />
+  <rect x="4.0" y="71.10" width="1.80" height="5.2" fill="#27ae60" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
   <rect x="4.0" y="83.90" width="103.752" height="14.0" fill="#fdfaf6" stroke="#e0e0e0" stroke-width="0.3" />
   <text x="7.0" y="88.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" font-weight="bold" fill="#922b21">ANOS DE MAIOR OCORRÊNCIA NO DECÊNIO:</text>
-  <text x="7.0" y="93.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.7" fill="#444444">2014: 539 ha • 2005: 309 ha • 2012: 229 ha</text>
+  <text x="7.0" y="93.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.7" fill="#444444">2014: 573 ha • 2005: 379 ha • 2009: 300 ha</text>
   <line x1="4.0" y1="101.90" x2="107.752" y2="101.90" stroke="#cccccc" stroke-width="0.5" />
   <text x="4.0" y="107.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.6" font-weight="bold" fill="#922b21">QUANTIFICAÇÃO TERRITORIAL (ha)</text>
   <rect x="4.0" y="110.40" width="103.752" height="5.8" fill="#f9eae1" rx="0" ry="0" />
   <text x="7.0" y="114.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#222222">Unidade / Entorno</text>
-  <text x="104.752" y="114.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#922b21" text-anchor="end">Área (ha)</text>
-  <rect x="6.0" y="117.70" width="3.4" height="3.4" fill="#27ae60" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
-  <text x="12.0" y="120.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" fill="#222222">REVIS Tab. do Embaubal</text>
-  <text x="104.752" y="120.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#222222" text-anchor="end">0.0 ha</text>
+  <text x="104.752" y="114.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" font-weight="bold" fill="#922b21" text-anchor="end">Área Líquida (ha)</text>
+  <rect x="6.0" y="117.70" width="3.4" height="3.4" fill="#e67e22" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="120.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" fill="#222222">RDS Vitória de Souzel</text>
+  <text x="104.752" y="120.40" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#222222" text-anchor="end">225.0 ha</text>
   <line x1="4.0" y1="122.20" x2="107.752" y2="122.20" stroke="#eeeeee" stroke-width="0.3" />
-  <rect x="6.0" y="124.10" width="3.4" height="3.4" fill="#2980b9" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
-  <text x="12.0" y="126.80" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" fill="#222222">RDS Vitória de Souzel</text>
-  <text x="104.752" y="126.80" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#222222" text-anchor="end">0.0 ha</text>
+  <rect x="6.0" y="124.10" width="3.4" height="3.4" fill="#e74c3c" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="126.80" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" fill="#222222">Zona de Amortecimento</text>
+  <text x="104.752" y="126.80" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#222222" text-anchor="end">1,450.2 ha</text>
   <line x1="4.0" y1="128.60" x2="107.752" y2="128.60" stroke="#eeeeee" stroke-width="0.3" />
-  <rect x="6.0" y="130.50" width="3.4" height="3.4" fill="#e74c3c" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
-  <text x="12.0" y="133.20" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" fill="#222222">Zona de Amortecimento</text>
-  <text x="104.752" y="133.20" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#222222" text-anchor="end">1,450.2 ha</text>
+  <rect x="6.0" y="130.50" width="3.4" height="3.4" fill="#27ae60" stroke="#222222" stroke-width="0.25" rx="0" ry="0" />
+  <text x="12.0" y="133.20" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.8" fill="#222222">REVIS Tab. do Embaubal</text>
+  <text x="104.752" y="133.20" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#222222" text-anchor="end">10.4 ha</text>
   <line x1="4.0" y1="135.00" x2="107.752" y2="135.00" stroke="#eeeeee" stroke-width="0.3" />
   <rect x="4.0" y="136.40" width="103.752" height="6.6" fill="#fdfaf6" stroke="#922b21" stroke-width="0.4" rx="0" ry="0" />
   <text x="7.0" y="140.80" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#922b21">TOTAL DO INTERVALO</text>
-  <text x="104.752" y="140.80" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.3" font-weight="bold" fill="#922b21" text-anchor="end">1,450 ha</text>
-  <text x="4.0" y="147.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.5" fill="#888888">Cicatrizes detectadas no intervalo: 246 polígonos</text>
+  <text x="104.752" y="140.80" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.3" font-weight="bold" fill="#922b21" text-anchor="end">1,686 ha</text>
+  <text x="4.0" y="147.90" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.5" fill="#888888">Cicatrizes detectadas no intervalo: 256 polígonos</text>
 </svg>
