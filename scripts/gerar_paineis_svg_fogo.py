@@ -238,8 +238,8 @@ def gerar_grafico_serie_historica_fogo(output_path):
     
     margin_l = 18.0
     margin_r = 10.0
-    margin_t = 20.0
-    margin_b = 20.0
+    margin_t = 26.0  # Espaço para título, subtítulo e legenda sem sobreposição
+    margin_b = 18.0
     
     plot_w = W_g - margin_l - margin_r
     plot_h = H_g - margin_t - margin_b
@@ -248,9 +248,29 @@ def gerar_grafico_serie_historica_fogo(output_path):
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W_g}mm" height="{H_g}mm" viewBox="0 0 {W_g} {H_g}">')
     svg.append(f'  <rect x="0" y="0" width="{W_g}" height="{H_g}" fill="#ffffff" />')
 
-    # Título do Gráfico
-    svg.append(f'  <text x="{margin_l}" y="9.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="4.2" font-weight="bold" fill="#1b3626">Série Histórica Integrada de Queimadas (1985 – 2024)</text>')
-    svg.append(f'  <text x="{margin_l}" y="14.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.6" fill="#666666">Área anual de cicatrizes de fogo (ha) mapeada no REVIS Tabuleiro do Embaubal, RDS Vitória de Souzel e Buffer 2km</text>')
+    # 1. Título do Gráfico
+    svg.append(f'  <text x="{margin_l}" y="8.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="4.2" font-weight="bold" fill="#1b3626">Série Histórica Integrada de Queimadas (1985 – 2024)</text>')
+    
+    # 2. Subtítulo descritivo
+    svg.append(f'  <text x="{margin_l}" y="13.2" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.5" fill="#555555">Área anual de cicatrizes de fogo (ha) mapeada no REVIS Tabuleiro do Embaubal, RDS Vitória de Souzel e Buffer 2km</text>')
+
+    # 3. Legenda dos intervalos com linha própria (centralizada e sem colisão)
+    itens_leg = [
+        ("1985 – 1994", "#f39c12"),
+        ("1995 – 2004", "#e67e22"),
+        ("2005 – 2014", "#e74c3c"),
+        ("2015 – 2024", "#900c3f")
+    ]
+    leg_total_w = 4 * 28.0
+    leg_x = margin_l + (plot_w - leg_total_w) / 2.0
+    leg_y = 17.5
+    svg.append(f'  <g transform="translate({leg_x:.2f}, {leg_y:.2f})">')
+    cur_lx = 0.0
+    for l_txt, l_col in itens_leg:
+        svg.append(f'    <rect x="{cur_lx:.2f}" y="0" width="3.4" height="3.4" fill="{l_col}" stroke="#333333" stroke-width="0.2" rx="0.4" />')
+        svg.append(f'    <text x="{cur_lx + 4.8:.2f}" y="2.7" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.4" font-weight="bold" fill="#444444">{l_txt}</text>')
+        cur_lx += 28.0
+    svg.append('  </g>')
 
     # Linhas de grade horizontais
     y_steps = [0, 500, 1000, 1500, 2000, 2500, 3000, 3500]
@@ -294,23 +314,6 @@ def gerar_grafico_serie_historica_fogo(output_path):
     # Eixos X e Y
     svg.append(f'  <line x1="{margin_l}" y1="{margin_t + plot_h}" x2="{margin_l + plot_w}" y2="{margin_t + plot_h}" stroke="#333333" stroke-width="0.5" />')
     svg.append(f'  <line x1="{margin_l}" y1="{margin_t}" x2="{margin_l}" y2="{margin_t + plot_h}" stroke="#333333" stroke-width="0.5" />')
-
-    # Legenda dos intervalos no topo direito
-    leg_x = margin_l + plot_w - 75.0
-    leg_y = 12.0
-    svg.append(f'  <g transform="translate({leg_x}, {leg_y})">')
-    itens_leg = [
-        ("1985-94", "#f39c12"),
-        ("1995-04", "#e67e22"),
-        ("2005-14", "#e74c3c"),
-        ("2015-24", "#900c3f")
-    ]
-    cur_lx = 0
-    for l_txt, l_col in itens_leg:
-        svg.append(f'    <rect x="{cur_lx}" y="0" width="3.0" height="3.0" fill="{l_col}" rx="0.3" />')
-        svg.append(f'    <text x="{cur_lx + 4.0}" y="2.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#555555">{l_txt}</text>')
-        cur_lx += 18.0
-    svg.append('  </g>')
 
     # Rodapé da figura
     svg.append(f'  <text x="{margin_l}" y="{H_g - 4.5}" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#888888">Totais líquidos (1985–2024): REVIS = 143,6 ha (3,6%); RDS = 5.528,3 ha (24,1%); Entorno (Buffer 2km) = 5.117,0 ha (29,9%).</text>')
