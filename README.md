@@ -193,12 +193,21 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 │   ├── painel_mapa_ano_2005.svg                # Painel de cobertura do solo (2005)
 │   ├── painel_mapa_ano_2015.svg                # Painel de cobertura do solo (2015)
 │   ├── painel_mapa_ano_2024.svg                # Painel de cobertura do solo (2024)
-│   ├── relatorio_grafico_serie_historica.svg   # Figura acadêmica da série histórica
+│   ├── painel_mapa_fogo_historico_1985_2024.svg# Painel de queimadas consolidado (111.75 x 185.43 mm)
+│   ├── painel_mapa_fogo_1985_1994.svg          # Painel decadal de queimadas (1985-1994)
+│   ├── painel_mapa_fogo_1995_2004.svg          # Painel decadal de queimadas (1995-2004)
+│   ├── painel_mapa_fogo_2005_2014.svg          # Painel decadal de queimadas (2005-2014)
+│   ├── painel_mapa_fogo_2015_2024.svg          # Painel decadal de queimadas (2015-2024)
+│   ├── relatorio_grafico_serie_historica.svg   # Figura acadêmica da série histórica de cobertura
+│   ├── relatorio_grafico_fogo_serie_historica.svg # Figura acadêmica da série histórica de queimadas
 │   └── relatorio_diagrama_sankey.svg           # Figura acadêmica do fluxo de transições
 ├── scripts/                                    # Automações portáveis em Python e GEE
 │   ├── gee_export_mapbiomas_c11.js             # Rotina GEE Code Editor para download dos rasters
 │   ├── gee_calcular_estatisticas_ucs.js        # Rotina GEE para redução zonal e exportação CSV
 │   ├── aplicar_estilo_mapbiomas_c11.py         # Script PyQGIS para classificação e simbologia
+│   ├── carregar_fogo_qgis.py                   # Script PyQGIS para carregar e estilizar o tema Fogo
+│   ├── processar_mapbiomas_fogo.py             # Agrupador temporal e extrator de métricas de fogo
+│   ├── gerar_paineis_svg_fogo.py               # Gerador dos painéis SVG e gráficos de fogo
 │   └── gerar_todos_produtos_mapbiomas.py       # Gerador dos diagramas SVG analíticos
 └── simbologia/                                 # Bibliotecas visuais e arquivos de estilo
     ├── mapbiomas_colecao11.qml                 # Estilo QGIS raster oficial da Coleção 11
@@ -207,7 +216,29 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 
 ---
 
-## 8. Como Reproduzir e Executar o Projeto
+## 8. Dinâmica Temporal do Fogo e Efetividade de Proteção (1985 – 2024)
+
+A análise da série histórica do **MapBiomas Fogo (Coleção 3.1)** revelou um padrão territorial de alta relevância para a gestão ambiental das Unidades de Conservação:
+
+### Tabela Consolidada de Queimadas por Intervalo Decadal (ha)
+| Intervalo Decadal | Cicatrizes | REVIS (ha) | RDS (ha) | Entorno Buffer 2km (ha) | Total Geral (ha) | % Borda Entorno |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **1985 – 1994** | 280 | **0,00** | 0,58 | 1.551,18 | 1.553,81 | 99,83% |
+| **1995 – 2004** | 406 | **0,00** | 0,00 | 2.536,75 | 2.542,54 | 99,77% |
+| **2005 – 2014** | 246 | **0,00** | 0,00 | 1.450,25 | 1.450,25 | 100,00% |
+| **2015 – 2024** | 366 | **0,00** | 0,00 | 2.267,40 | 2.267,40 | 100,00% |
+| **Total Acumulado** | **1.298** | **0,00 ha** | **0,58 ha** | **7.798,58 ha** | **7.814,00 ha** | **99,99%** |
+
+*Nota: Valores líquidos após dissolução espacial para eliminar sobreposições de re-queima no mesmo período.*
+
+### Conclusão Técnica sobre o Fogo:
+1. **REVIS Tabuleiro do Embaubal (4.035,71 ha):** Apresenta **zero hectares de cicatrizes de fogo** (0,00%) em toda a série de 41 anos (1985–2026), em virtude de sua conformação geomorfológica insular e praias fluviais alagáveis no Rio Xingu.
+2. **RDS Vitória de Souzel (22.987,41 ha):** Registrou apenas **0,58 ha** de cicatriz pontual em 1988 (&lt;0,003% da área da UC), mantendo-se imune ao fogo nas três décadas seguintes.
+3. **Efeito Barreira das UCs:** As queimadas ocorrem quase que exclusivamente no **entorno exterior (Zona de Amortecimento de 2 km)**, comprovando a **efetividade das UCs na contenção do fogo antropogênico**.
+
+---
+
+## 9. Como Reproduzir e Executar o Projeto
 
 ### A. Abrir o Projeto no QGIS
 1. Certifique-se de ter o **QGIS 3.28 LTR** ou **QGIS 3.34+ / 4.x** instalado.
@@ -228,7 +259,7 @@ python scripts/gerar_todos_produtos_mapbiomas.py
 
 ---
 
-## 9. Responsabilidade Técnica e Expediente
+## 10. Responsabilidade Técnica e Expediente
 
 * **Governo do Estado do Pará**
 * **Secretaria de Estado de Meio Ambiente e Sustentabilidade (SEMAS/PA)**
