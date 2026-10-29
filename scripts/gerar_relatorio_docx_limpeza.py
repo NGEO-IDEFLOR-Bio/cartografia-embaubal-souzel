@@ -247,6 +247,18 @@ add_item_lista(
     "('ranger-station') em branco puro (7,0 mm), consagrando a identidade visual oficial do órgão no mapa."
 )
 
+add_item_lista(
+    "g) Reestruturação Temática e Categorização da Biodiversidade (Fauna vs. Flora)",
+    "Identificou-se que a camada anteriormente denominada 'Vegetação e Flora (Árvores Matrizes)' agregava de forma inadequada "
+    "feições faunísticas e pesqueiras de alta relevância sob símbolos arbóreos. A base foi reestruturada em 5 classes macro: "
+    "1) Fauna Aquática e Pesca (pontos de avistamento de botos, áreas de piracema de curimatã, berçários de pirarucu e peixe-boi e piscicultura); "
+    "2) Quelônios e Répteis (rotas migratórias, potenciais tabuleiros e ninhos de pitiú/tracajá); "
+    "3) Flora e Extrativismo (árvores matrizes de jatobá, seringais nativos e matas comunitárias); "
+    "4) Santuários e Refúgios Silvestres; e "
+    "5) Usos Tradicionais e Manejo. "
+    "No SIG, aplicou-se renderizador categorizado ('categorizedSymbol') com pictogramas SVG zoológicos e botânicos específicos para cada tema."
+)
+
 # 5. Resultados
 add_secao("5. Resultados e Balanço Quantitativo da Limpeza")
 add_paragrafo(
@@ -290,7 +302,7 @@ dados_tab1 = [
     ("05. Ilhas e Praias (Bancos de Areia)", "78", "73", "-5 duplicatas"),
     ("06. Infraestrutura e Equipamentos Públicos", "19", "16", "-3 duplicatas"),
     ("07. Marcos e Pontos de Referência Locais", "16", "15", "-1 duplicata"),
-    ("08. Vegetação e Flora (Árvores Matrizes)", "50", "44", "-6 duplicatas"),
+    ("08. Biodiversidade: Fauna, Flora e Recursos Naturais", "50", "44", "-6 duplicatas"),
     ("09. Ocorrências e Impactos Ambientais", "7", "7", "0 (inalterado)"),
     ("10. Trajetos e Acessos Fluviais e Trilhas", "49", "35", "-14 (4 almoços + 10 passadas)"),
     ("TOTAL CONSOLIDADO DE CAMPO", "746", "647", "-99 registros eliminados")

@@ -3,6 +3,6 @@
 "name": "base_ideflor",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
 "features": [
-{"type":"Feature","properties":{"PONTO":"Base Ideflor-bio","LAT":-2.693158,"LONG":-52.015005},"geometry":{"type":"Point","coordinates":[-52.015005,-2.693158]}}
+{"type":"Feature","properties":{"PONTO":"Base IDEFLOR-Bio","LAT":-2.693158,"LONG":-52.015005},"geometry":{"type":"Point","coordinates":[-52.015005,-2.693158]}}
 ]
 }
