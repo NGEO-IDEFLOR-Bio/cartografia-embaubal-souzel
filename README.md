@@ -199,7 +199,10 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 │   ├── painel_mapa_fogo_2005_2014.svg          # Painel decadal de queimadas (2005-2014)
 │   ├── painel_mapa_fogo_2015_2024.svg          # Painel decadal de queimadas (2015-2024)
 │   ├── relatorio_grafico_serie_historica.svg   # Figura acadêmica da série histórica de cobertura
-│   ├── relatorio_grafico_fogo_serie_historica.svg # Figura acadêmica da série histórica de queimadas
+│   ├── relatorio_grafico_fogo_serie_historica.svg # Figura acadêmica da série histórica integrada de queimadas
+│   ├── relatorio_grafico_fogo_revis_embaubal.svg  # Figura acadêmica individual do REVIS Tabuleiro do Embaubal
+│   ├── relatorio_grafico_fogo_rds_vitoria_souzel.svg # Figura acadêmica individual da RDS Vitória de Souzel
+│   ├── relatorio_grafico_fogo_comparativo_ucs.svg # Figura acadêmica comparativa (REVIS vs. RDS pareadas)
 │   └── relatorio_diagrama_sankey.svg           # Figura acadêmica do fluxo de transições
 ├── scripts/                                    # Automações portáveis em Python e GEE
 │   ├── gee_export_mapbiomas_c11.js             # Rotina GEE Code Editor para download dos rasters

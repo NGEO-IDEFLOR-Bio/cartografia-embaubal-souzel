@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180.0mm" height="130.0mm" viewBox="0 0 180.0 130.0">
+  <rect x="0" y="0" width="180.0" height="130.0" fill="#ffffff" />
+  <text x="18.0" y="8.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="4.2" font-weight="bold" fill="#1b3626">Série Histórica de Queimadas Comparada: REVIS vs. RDS (1985 – 2024)</text>
+  <text x="18.0" y="12.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.4" fill="#555555">Comparação temporal da área anual queimada (ha) no interior de cada Unidade de Conservação Estadual</text>
+  <g transform="translate(38.00, 16.50)">
+    <rect x="0.00" y="0" width="3.2" height="3.2" fill="#f39c12" stroke="#333333" stroke-width="0.2" rx="0.4" />
+    <text x="4.50" y="2.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" font-weight="bold" fill="#444444">1985 – 1994</text>
+    <rect x="28.00" y="0" width="3.2" height="3.2" fill="#e67e22" stroke="#333333" stroke-width="0.2" rx="0.4" />
+    <text x="32.50" y="2.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" font-weight="bold" fill="#444444">1995 – 2004</text>
+    <rect x="56.00" y="0" width="3.2" height="3.2" fill="#e74c3c" stroke="#333333" stroke-width="0.2" rx="0.4" />
+    <text x="60.50" y="2.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" font-weight="bold" fill="#444444">2005 – 2014</text>
+    <rect x="84.00" y="0" width="3.2" height="3.2" fill="#900c3f" stroke="#333333" stroke-width="0.2" rx="0.4" />
+    <text x="88.50" y="2.5" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" font-weight="bold" fill="#444444">2015 – 2024</text>
+  </g>
+  <text x="18.0" y="23.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#27ae60">A) REVIS Tabuleiro do Embaubal (4.035,71 ha) — Escala Detalhada (0 a 80 ha)</text>
+  <line x1="18.0" y1="62.50" x2="170.0" y2="62.50" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="63.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">0</text>
+  <line x1="18.0" y1="53.12" x2="170.0" y2="53.12" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="54.12" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">20</text>
+  <line x1="18.0" y1="43.75" x2="170.0" y2="43.75" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="44.75" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">40</text>
+  <line x1="18.0" y1="34.38" x2="170.0" y2="34.38" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="35.38" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">60</text>
+  <line x1="18.0" y1="25.00" x2="170.0" y2="25.00" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="26.00" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">80</text>
+  <rect x="18.49" y="62.00" width="2.92" height="0.50" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="26.28" y="61.77" width="2.92" height="0.73" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="30.18" y="46.14" width="2.92" height="16.36" fill="#f39c12" rx="0.3" ry="0.3" />
+  <text x="31.64" y="44.94" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.1" font-weight="bold" fill="#900c3f" text-anchor="middle">34.9</text>
+  <rect x="34.08" y="59.49" width="2.92" height="3.01" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="37.97" y="53.50" width="2.92" height="9.00" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="41.87" y="62.04" width="2.92" height="0.46" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="65.26" y="61.00" width="2.92" height="1.50" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="76.95" y="59.41" width="2.92" height="3.09" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="92.54" y="57.60" width="2.92" height="4.90" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="131.51" y="61.83" width="2.92" height="0.67" fill="#900c3f" rx="0.3" ry="0.3" />
+  <rect x="139.31" y="54.98" width="2.92" height="7.52" fill="#900c3f" rx="0.3" ry="0.3" />
+  <rect x="143.21" y="61.49" width="2.92" height="1.01" fill="#900c3f" rx="0.3" ry="0.3" />
+  <rect x="166.59" y="27.21" width="2.92" height="35.29" fill="#900c3f" rx="0.3" ry="0.3" />
+  <text x="168.05" y="26.01" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.1" font-weight="bold" fill="#900c3f" text-anchor="middle">75.3</text>
+  <line x1="18.0" y1="62.5" x2="170.0" y2="62.5" stroke="#333333" stroke-width="0.5" />
+  <line x1="18.0" y1="25.0" x2="18.0" y2="62.5" stroke="#333333" stroke-width="0.5" />
+  <text x="18.0" y="75.00" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="3.0" font-weight="bold" fill="#e67e22">B) RDS Vitória de Souzel (22.987,41 ha) — Escala Ampla (0 a 2.500 ha)</text>
+  <line x1="18.0" y1="114.00" x2="170.0" y2="114.00" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="115.00" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">0</text>
+  <line x1="18.0" y1="106.50" x2="170.0" y2="106.50" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="107.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">500</text>
+  <line x1="18.0" y1="99.00" x2="170.0" y2="99.00" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="100.00" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">1,000</text>
+  <line x1="18.0" y1="91.50" x2="170.0" y2="91.50" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="92.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">1,500</text>
+  <line x1="18.0" y1="84.00" x2="170.0" y2="84.00" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="85.00" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">2,000</text>
+  <line x1="18.0" y1="76.50" x2="170.0" y2="76.50" stroke="#e8e8e8" stroke-width="0.3" stroke-dasharray="1,1" />
+  <text x="15.5" y="77.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#777777" text-anchor="end">2,500</text>
+  <text x="19.95" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">1985</text>
+  <line x1="19.95" y1="114.0" x2="19.95" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <rect x="22.38" y="113.95" width="2.92" height="0.40" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="26.28" y="99.23" width="2.92" height="14.77" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="30.18" y="78.56" width="2.92" height="35.44" fill="#f39c12" rx="0.3" ry="0.3" />
+  <text x="31.64" y="77.36" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.1" font-weight="bold" fill="#900c3f" text-anchor="middle">2,363</text>
+  <rect x="34.08" y="99.64" width="2.92" height="14.36" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="37.97" y="113.53" width="2.92" height="0.47" fill="#f39c12" rx="0.3" ry="0.3" />
+  <text x="39.44" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">1990</text>
+  <line x1="39.44" y1="114.0" x2="39.44" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <rect x="45.77" y="113.07" width="2.92" height="0.93" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="49.67" y="113.96" width="2.92" height="0.40" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="53.56" y="113.96" width="2.92" height="0.40" fill="#f39c12" rx="0.3" ry="0.3" />
+  <rect x="57.46" y="113.92" width="2.92" height="0.40" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="61.36" y="110.10" width="2.92" height="3.90" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="65.26" y="109.94" width="2.92" height="4.06" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="69.15" y="113.56" width="2.92" height="0.44" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="73.05" y="113.29" width="2.92" height="0.71" fill="#e67e22" rx="0.3" ry="0.3" />
+  <text x="74.51" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">2000</text>
+  <line x1="74.51" y1="114.0" x2="74.51" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <rect x="76.95" y="107.61" width="2.92" height="6.39" fill="#e67e22" rx="0.3" ry="0.3" />
+  <text x="78.41" y="106.41" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.1" font-weight="bold" fill="#900c3f" text-anchor="middle">426</text>
+  <rect x="80.85" y="113.65" width="2.92" height="0.40" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="84.74" y="112.21" width="2.92" height="1.79" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="88.64" y="112.50" width="2.92" height="1.50" fill="#e67e22" rx="0.3" ry="0.3" />
+  <rect x="92.54" y="113.10" width="2.92" height="0.90" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <text x="94.00" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">2005</text>
+  <line x1="94.00" y1="114.0" x2="94.00" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <rect x="96.44" y="113.86" width="2.92" height="0.40" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="100.33" y="113.88" width="2.92" height="0.40" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="108.13" y="112.91" width="2.92" height="1.09" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="112.03" y="113.12" width="2.92" height="0.88" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <text x="113.49" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">2010</text>
+  <line x1="113.49" y1="114.0" x2="113.49" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <rect x="115.92" y="113.94" width="2.92" height="0.40" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="119.82" y="113.84" width="2.92" height="0.40" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="123.72" y="113.85" width="2.92" height="0.40" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="127.62" y="113.50" width="2.92" height="0.50" fill="#e74c3c" rx="0.3" ry="0.3" />
+  <rect x="131.51" y="108.49" width="2.92" height="5.51" fill="#900c3f" rx="0.3" ry="0.3" />
+  <text x="132.97" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">2015</text>
+  <line x1="132.97" y1="114.0" x2="132.97" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <rect x="135.41" y="111.16" width="2.92" height="2.84" fill="#900c3f" rx="0.3" ry="0.3" />
+  <rect x="139.31" y="102.71" width="2.92" height="11.29" fill="#900c3f" rx="0.3" ry="0.3" />
+  <text x="140.77" y="101.51" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.1" font-weight="bold" fill="#900c3f" text-anchor="middle">753</text>
+  <rect x="143.21" y="111.21" width="2.92" height="2.79" fill="#900c3f" rx="0.3" ry="0.3" />
+  <rect x="147.10" y="113.67" width="2.92" height="0.40" fill="#900c3f" rx="0.3" ry="0.3" />
+  <rect x="151.00" y="112.56" width="2.92" height="1.44" fill="#900c3f" rx="0.3" ry="0.3" />
+  <text x="152.46" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">2020</text>
+  <line x1="152.46" y1="114.0" x2="152.46" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <rect x="158.79" y="113.94" width="2.92" height="0.40" fill="#900c3f" rx="0.3" ry="0.3" />
+  <rect x="162.69" y="97.66" width="2.92" height="16.34" fill="#900c3f" rx="0.3" ry="0.3" />
+  <text x="164.15" y="96.46" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.1" font-weight="bold" fill="#900c3f" text-anchor="middle">1,089</text>
+  <rect x="166.59" y="94.55" width="2.92" height="19.45" fill="#900c3f" rx="0.3" ry="0.3" />
+  <text x="168.05" y="93.35" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.1" font-weight="bold" fill="#900c3f" text-anchor="middle">1,297</text>
+  <text x="168.05" y="118.50" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.3" fill="#555555" text-anchor="middle">2024</text>
+  <line x1="168.05" y1="114.0" x2="168.05" y2="115.5" stroke="#999999" stroke-width="0.3" />
+  <line x1="18.0" y1="114.0" x2="170.0" y2="114.0" stroke="#333333" stroke-width="0.5" />
+  <line x1="18.0" y1="76.5" x2="18.0" y2="114.0" stroke="#333333" stroke-width="0.5" />
+  <text x="18.0" y="126.0" font-family="Segoe UI Variable Small Semibold, Segoe UI, sans-serif" font-size="2.2" fill="#888888">Totais líquidos acumulados (1985–2024): REVIS = 143,6 ha (3,56% da área da UC); RDS = 5.528,3 ha (24,05% da área da UC). Fonte: MapBiomas Fogo Coleção 3.1.</text>
+</svg>
