@@ -1,30 +1,65 @@
 GOVERNO DO ESTADO DO PARÁ
 INSTITUTO DE DESENVOLVIMENTO FLORESTAL E DA BIODIVERSIDADE – IDEFLOR-BIO
+DIRETORIA DE GESTÃO E MONITORAMENTO DE UNIDADES DE CONSERVAÇÃO – DGMUC
 NÚCLEO DE GEOTECNOLOGIAS – NGEO
 
-FOLHA DE DESPACHO / RESTITUIÇÃO DE AUTOS (PAe / SEI)
+================================================================================
+            FOLHA DE DESPACHO / RESTITUIÇÃO DE AUTOS (PAe / SEI)
+================================================================================
 
-PROCESSO Nº: 2026/3605158
+PROCESSO PAe Nº: 2026/3605158
+DOCUMENTO DE REFERÊNCIA: Ofício nº 100/2026-GRX/DGMUC/IDEFLOR-Bio
 DE: Núcleo de Geotecnologias – NGEO
-PARA: Diretoria de Gestão e Monitoramento de Unidades de Conservação – DGMUC
-ASSUNTO: Tratamento Cartográfico, Deduplicação Espacial e Depuração da Base Vetorial de Campo (REVIS Tabuleiro do Embaubal e RDS Vitória de Souzel)
+PARA: Gerência Administrativa da Região do Xingu – GRX / DGMUC
+A/C: Sr. Marco Aurélio Xavier de Oliveira – Gerente da GRX / DGMUC
+ASSUNTO: Restituição de autos com atendimento técnico – Elaboração de Produtos Cartográficos e Análises Geoespaciais para os Planos de Gestão do REVIS Tabuleiro do Embaubal e da RDS Vitória de Souzel.
 
-Senhora Diretora,
+Senhor Gerente,
 
-1. Em atenção aos autos do processo em epígrafe, restituímos o presente expediente informando a conclusão dos trabalhos técnicos de auditoria, controle de qualidade topológica, deduplicação espacial de passadas múltiplas e padronização toponímica aplicados ao acervo de dados de campo das Unidades de Conservação Estaduais REVIS Tabuleiro do Embaubal e RDS Vitória de Souzel, no Baixo Rio Xingu.
+1. Em atenção ao Ofício nº 100/2026-GRX/DGMUC/IDEFLOR-Bio, restituímos os presentes autos a esta Gerência Regional Administrativa do Xingu (GRX/DGMUC), informando a conclusão integral dos serviços técnicos de organização de dados espaciais de campo, auditoria e controle de duplicidades toponímicas, análises multitemporais de cobertura da terra e de cicatrizes de queimadas, e elaboração da série cartográfica temático-institucional destinada a subsidiar a elaboração e a instrução dos Planos de Gestão do Refúgio de Vida Silvestre (REVIS) Tabuleiro do Embaubal e da Reserva de Desenvolvimento Sustentável (RDS) Vitória de Souzel.
 
-2. A rotina computacional automatizada desenvolvida por este Núcleo de Geotecnologias promoveu a depuração de 99 feições redundantes ou espúrias (sendo 4 pontos de parada para refeição eliminados e 95 passadas repetitivas unificadas com raio de tolerância euclidiana), consolidando a base cadastral de campo em 647 feições geográficas unívocas e auditadas (incluindo 35 acessos estratégicos e atracadouros fluviais devidamente homologados com geometria de ponto).
+2. Registra-se a juntada a estes autos do respectivo RELATÓRIO TÉCNICO consubstanciado, o qual documenta pormenorizadamente a metodologia de geoprocessamento empregada, a revisão nominal e espacial dos 746 pontos brutos de campo (com a homologação final de 647 feições unívocas após a depuração criteriosa de 99 inconsistências e duplicatas prováveis), os balanços estatísticos do histórico de fogo (1985–2025/2026 parcial) e a evolução do uso e cobertura da terra (1985–2024, MapBiomas Coleção 11).
 
-3. Adicionalmente, procedeu-se à revisão da identidade visual das pranchas cartográficas, com a ampliação da simbologia das praias de desova de quelônios e a instituição de marcador institucional oficial de destaque para a Base Operacional do IDEFLOR-Bio.
+3. Foram estruturadas e confeccionadas 14 (quatorze) pranchas cartográficas temáticas oficiais em formato A1 Paisagem (padrão institucional IDEFLOR-Bio / NGEO), a saber:
 
-4. Junta-se aos autos, para instrução processual, o respectivo RELATÓRIO TÉCNICO detalhado e as pranchas cartográficas institucionais em formato PDF vetorial.
+   Série Temática Geral de Campo e Gestão Territorial:
+   • 01 - Limites Territoriais e Unidades de Conservação Estaduais.pdf
+   • 02 - Gestão Territorial, Infraestrutura Operacional e Acessos.pdf
+   • 03 - Biodiversidade e Proteção Ambiental.pdf
+   • 04 - Comunidades e Uso Tradicional.pdf
+   • 05 - Quadro Hidrográfico e Referências Locais.pdf
 
-5. Registra-se que, em conformidade com os procedimentos técnicos vigentes, as bases vetoriais digitais higienizadas nos formatos GeoJSON, GeoPackage (.gpkg) e Shapefile (.shp), juntamente com o projeto cartográfico (.qgz) e tabelas associadas, encontram-se arquivadas no repositório institucional do NGEO e disponíveis para envio via correio eletrônico institucional (e-mail).
+   Série Histórica Multitemporal de Cobertura e Uso da Terra (MapBiomas Coleção 11):
+   • 06 - Cobertura do Solo 1985.pdf
+   • 06 - Cobertura do Solo 1995.pdf
+   • 06 - Cobertura do Solo 2005.pdf
+   • 06 - Cobertura do Solo 2015.pdf
+   • 06 - Cobertura do Solo 2024.pdf
 
-À consideração de Vossa Senhoria para os devidos encaminhamentos.
+   Série Histórica Multitemporal de Cicatrizes de Queimadas (MapBiomas Fogo Coleção 3.1):
+   • 07 - Cicatrizes de Fogo (1985 – 1994).pdf
+   • 07 - Cicatrizes de Fogo (1995 – 2004).pdf
+   • 07 - Cicatrizes de Fogo (2005 – 2014).pdf
+   • 07 - Cicatrizes de Fogo (2015 – 2024).pdf
 
-Belém (PA), Outubro de 2026.
+4. Tendo em vista o elevado volume de dados e as restrições técnicas de armazenamento de anexos vigentes no Sistema de Processo Eletrônico (PAe), informa-se que o acervo integral das 14 (quatorze) pranchas cartográficas em formato PDF vetorial de alta resolução, juntamente com o banco de dados geoespacial vetorial auditado nos formatos abertos GeoJSON, GeoPackage (.gpkg) e Shapefile (.shp), as tabelas quantitativas em formato CSV e o projeto cartográfico consolidado do QGIS ('tabuleiro_do_embaubal_e_vitoria_souzel.qgz'), foram formalmente transmitidos ao endereço eletrônico institucional desta gerência demandante (grx.ideflorbio@gmail.com).
 
+5. Junta-se, em anexo a este despacho, a CÓPIA DO E-MAIL INSTITUCIONAL IMPRESSA EM PDF, com o respectivo registro de envio e comprovante de entrega dos arquivos digitais, assegurando a rastreabilidade e a transparência técnica de todo o expediente.
+
+6. Diante do exposto, consideramos plenamente atendidas as demandas constantes no Ofício nº 100/2026-GRX/DGMUC/IDEFLOR-Bio, restituindo os autos para conhecimento, deliberação e prosseguimento da instrução processual dos Planos de Gestão das referidas Unidades de Conservação.
+
+Belém (PA), 29 de outubro de 2026.
+
+Atenciosamente,
+
+
+__________________________________________
 SAMUEL DA COSTA DOS SANTOS
 Coordenador do Núcleo de Geotecnologias – NGEO
+Instituto de Desenvolvimento Florestal e da Biodiversidade do Pará – IDEFLOR-Bio
+
+
+__________________________________________
+MARCUS VINICIUS SILVA DA SILVA
+Analista Ambiental – Núcleo de Geotecnologias – NGEO
 Instituto de Desenvolvimento Florestal e da Biodiversidade do Pará – IDEFLOR-Bio
