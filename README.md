@@ -198,7 +198,10 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 │   ├── painel_mapa_fogo_1995_2004.svg          # Painel decadal de queimadas (1995-2004)
 │   ├── painel_mapa_fogo_2005_2014.svg          # Painel decadal de queimadas (2005-2014)
 │   ├── painel_mapa_fogo_2015_2024.svg          # Painel decadal de queimadas (2015-2024)
-│   ├── relatorio_grafico_serie_historica.svg   # Figura acadêmica da série histórica de cobertura
+│   ├── relatorio_grafico_serie_historica.svg   # Figura acadêmica da série histórica consolidada de cobertura
+│   ├── relatorio_grafico_cobertura_revis_embaubal.svg # Figura acadêmica de cobertura: REVIS Tabuleiro do Embaubal
+│   ├── relatorio_grafico_cobertura_rds_vitoria_souzel.svg # Figura acadêmica de cobertura: RDS Vitória de Souzel
+│   ├── relatorio_grafico_cobertura_comparativo_ucs.svg # Figura acadêmica de cobertura comparativa (REVIS vs. RDS)
 │   ├── relatorio_grafico_fogo_serie_historica.svg # Figura acadêmica da série histórica integrada de queimadas
 │   ├── relatorio_grafico_fogo_revis_embaubal.svg  # Figura acadêmica individual do REVIS Tabuleiro do Embaubal
 │   ├── relatorio_grafico_fogo_rds_vitoria_souzel.svg # Figura acadêmica individual da RDS Vitória de Souzel
@@ -211,6 +214,7 @@ Os mapas temáticos impressos foram estruturados na escala de detalhe em formato
 │   ├── carregar_fogo_qgis.py                   # Script PyQGIS para carregar e estilizar o tema Fogo
 │   ├── processar_mapbiomas_fogo.py             # Agrupador temporal e extrator de métricas de fogo
 │   ├── gerar_paineis_svg_fogo.py               # Gerador dos painéis SVG e gráficos de fogo
+│   ├── gerar_graficos_cobertura_separados.py   # Gerador das figuras de cobertura separadas por UC
 │   └── gerar_todos_produtos_mapbiomas.py       # Gerador dos diagramas SVG analíticos
 └── simbologia/                                 # Bibliotecas visuais e arquivos de estilo
     ├── mapbiomas_colecao11.qml                 # Estilo QGIS raster oficial da Coleção 11
