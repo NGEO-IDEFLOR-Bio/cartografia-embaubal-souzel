@@ -1,0 +1,3108 @@
+{
+  "type": "FeatureCollection",
+  "name": "01_moradores_e_comunidades_simplificado",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Francinaldo",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Francinaldo)",
+        "data_coleta": "",
+        "cod_original": "10",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.859018,
+        "longitude": -51.979462,
+        "id": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.979462,
+          -2.859018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Xuxa",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Xuxa)",
+        "data_coleta": "",
+        "cod_original": "13",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.853204,
+        "longitude": -51.957762,
+        "id": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.957762,
+          -2.853204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Raimundo Nonato da Costa",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Raimundo Nonato da Costa)",
+        "data_coleta": "",
+        "cod_original": "2",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.758696,
+        "longitude": -52.01714,
+        "id": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.01714,
+          -2.758696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Curió",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Curió)",
+        "data_coleta": "",
+        "cod_original": "21",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.84572,
+        "longitude": -51.986673,
+        "id": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.986673,
+          -2.84572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Maria Buji",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Maria Buji)",
+        "data_coleta": "",
+        "cod_original": "22",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.840413,
+        "longitude": -51.991847,
+        "id": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.991847,
+          -2.840413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Beneilson / Marcelo",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Beneilson / Marcelo)",
+        "data_coleta": "",
+        "cod_original": "24",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.85061,
+        "longitude": -51.985521,
+        "id": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.985521,
+          -2.85061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho / Morador (Pedro da Voadeira)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "33",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.753594,
+        "longitude": -52.053106,
+        "id": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.053106,
+          -2.753594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Moradores (Maria e Mário)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "34",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.747523,
+        "longitude": -52.05835,
+        "id": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.05835,
+          -2.747523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto natural (Árvores secas)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "35",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.744102,
+        "longitude": -52.047904,
+        "id": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.047904,
+          -2.744102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Moradores (Prof. Beninha / Venceslau)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "36",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.769626,
+        "longitude": -52.06205,
+        "id": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.06205,
+          -2.769626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Moradores (Prof. Beninha / Venceslau)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "36",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.761645,
+        "longitude": -52.058917,
+        "id": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.058917,
+          -2.761645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho (Dono desconhecido)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "37",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.781533,
+        "longitude": -52.055879,
+        "id": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.055879,
+          -2.781533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho (Desconhecido)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "39",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.785716,
+        "longitude": -52.052498,
+        "id": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.052498,
+          -2.785716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho (Desconhecido)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "41",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.789341,
+        "longitude": -52.048653,
+        "id": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.048653,
+          -2.789341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho (Kinca)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "43",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.796933,
+        "longitude": -52.03841,
+        "id": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03841,
+          -2.796933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho (Abandonado)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "45",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.801227,
+        "longitude": -52.035526,
+        "id": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.035526,
+          -2.801227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho (Desconhecido)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "47",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.805035,
+        "longitude": -52.032741,
+        "id": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.032741,
+          -2.805035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho / Morador (Prof. Chiquinho Duarte)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "49",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.808163,
+        "longitude": -52.029083,
+        "id": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.029083,
+          -2.808163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho / Morador (Eleno)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "53",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.799446,
+        "longitude": -52.029324,
+        "id": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.029324,
+          -2.799446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho / Morador (Sabóia)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "54",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.793122,
+        "longitude": -52.031613,
+        "id": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.031613,
+          -2.793122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Francisco Barbosa Romano / Junior",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Apoio de Pesca / Morador (Francisco Barbosa Romano / Junior)",
+        "data_coleta": "",
+        "cod_original": "56",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.786548,
+        "longitude": -52.019788,
+        "id": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.019788,
+          -2.786548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Chica Catiara",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Chica Catiara)",
+        "data_coleta": "",
+        "cod_original": "57",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.804893,
+        "longitude": -52.015059,
+        "id": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.015059,
+          -2.804893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Marcelo do Ernandes",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Marcelo do Ernandes)",
+        "data_coleta": "",
+        "cod_original": "6",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.756463,
+        "longitude": -52.030088,
+        "id": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.030088,
+          -2.756463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Sebastião Leal Santos",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Sebastião Leal Santos)",
+        "data_coleta": "",
+        "cod_original": "7",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.7421,
+        "longitude": -52.017406,
+        "id": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.017406,
+          -2.7421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Registro / Morador (Sr. Albertino)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "73",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.840927,
+        "longitude": -51.963551,
+        "id": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.963551,
+          -2.840927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Moradores (Leoni Souza / Érica)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "82",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.840997,
+        "longitude": -51.983833,
+        "id": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.983833,
+          -2.840997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Francisco Anacleuso Tobias de Lima",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Morador (Francisco Anacleuso Tobias de Lima)",
+        "data_coleta": "",
+        "cod_original": "83",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.843951,
+        "longitude": -51.979837,
+        "id": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.979837,
+          -2.843951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Moradores (Naldo / Valdenir Caetano da Silva)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "84",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.839831,
+        "longitude": -51.977982,
+        "id": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.977982,
+          -2.839831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Adeilsa Guedes de Souza",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.786028,
+        "longitude": -52.00469,
+        "id": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00469,
+          -2.786028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ageu não estava em casa",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Agilson Ramos da Silva-Ageu",
+        "observacoes": "Ponto consolidado entre Kelly (Agilson Ramos da Silva-Ageu) e Lorena (Ageu não estava em casa). Distância aprox: 22.9m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.805158,
+        "longitude": -51.918409,
+        "id": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.918409,
+          -2.805158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Alexandre",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.733963,
+        "longitude": -51.947977,
+        "id": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.947977,
+          -2.733963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ananás (nome do local)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.777933,
+        "longitude": -52.023475,
+        "id": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.023475,
+          -2.777933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Angélica Serra",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.766498,
+        "longitude": -51.99247,
+        "id": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99247,
+          -2.766498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Bena - Silvinho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.742313,
+        "longitude": -51.944872,
+        "id": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.944872,
+          -2.742313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Beneditailene Gomes de Souza",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.754151,
+        "longitude": -52.018194,
+        "id": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.018194,
+          -2.754151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Benedito",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.735138,
+        "longitude": -51.96542,
+        "id": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.96542,
+          -2.735138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Benedito Ores dos Santos",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.76063,
+        "longitude": -51.944382,
+        "id": 116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.944382,
+          -2.76063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Benedito irmão do tuíca",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Benedito Gil Davi, casa abandonada",
+        "observacoes": "Ponto consolidado entre Kelly (Benedito Gil Davi, casa abandonada) e Lorena (Benedito irmão do tuíca-Wpt 23/10/2025, 18:02:28). Distância aprox: 29.9m",
+        "data_coleta": "23/10/2025, 18:02:28",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.763706,
+        "longitude": -52.028944,
+        "id": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.028944,
+          -2.763706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Bras não estava em casa",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Braz",
+        "observacoes": "Ponto consolidado entre Kelly (Braz) e Lorena (Bras não estava em casa). Distância aprox: 3.1m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.751324,
+        "longitude": -52.003831,
+        "id": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.003831,
+          -2.751324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Carlinhos",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "24/10/2025, 11:15:00",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.826292,
+        "longitude": -51.989861,
+        "id": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.989861,
+          -2.826292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa 01",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.707228,
+        "longitude": -52.008111,
+        "id": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.008111,
+          -2.707228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa Cezinho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: José Gomes Pinto da Silva ( Zézinho)",
+        "observacoes": "Ponto consolidado entre Kelly (José Gomes Pinto da Silva ( Zézinho)) e Lorena (Casa Cezinho-Wpt 27/08/2025, 22:17:20). Distância aprox: 5.7m",
+        "data_coleta": "27/08/2025, 22:17:20",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.768283,
+        "longitude": -51.937792,
+        "id": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.937792,
+          -2.768283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa abandonada do Geová do tempo da seringa",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Furo da Preguiça",
+        "observacoes": "Ponto consolidado entre Kelly (Furo da Preguiça) e Lorena (Casa abandonada do Geová do tempo da seringa). Distância aprox: 19.0m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.771512,
+        "longitude": -52.037314,
+        "id": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.037314,
+          -2.771512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa de porcos do Sr Zezinho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Rancho seu Zezinha",
+        "observacoes": "Ponto consolidado entre Kelly (Rancho seu Zezinha) e Lorena (Casa de porcos do Sr Zezinho). Distância aprox: 15.9m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.780828,
+        "longitude": -51.938491,
+        "id": 137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.938491,
+          -2.780828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa do Nilo",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Nilo",
+        "observacoes": "Ponto consolidado entre Kelly (Nilo) e Lorena (Casa do Nilo- Wpt 03/09/2025, 14:40:34). Distância aprox: 32.5m",
+        "data_coleta": "03/09/2025, 14:40:34",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.853136,
+        "longitude": -51.929419,
+        "id": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.929419,
+          -2.853136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa do Sr. Manoel",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Igarapé do Estragado",
+        "observacoes": "Ponto consolidado entre Kelly (Igarapé do Estragado) e Lorena (Casa do Sr. Manoel). Distância aprox: 25.3m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.696379,
+        "longitude": -52.000601,
+        "id": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.000601,
+          -2.696379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa do hermito (Hellen)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "19/02/2026, 16:23:35",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.819501,
+        "longitude": -52.021216,
+        "id": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.021216,
+          -2.819501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa do seu Walder",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "01/09/2025, 10:23:44",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.782731,
+        "longitude": -51.873022,
+        "id": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.873022,
+          -2.782731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa fechada Josimar sobrinho do Paulino",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.733805,
+        "longitude": -52.003081,
+        "id": 145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.003081,
+          -2.733805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa gado veraneio",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Dirceu Alves de Araújo",
+        "observacoes": "Ponto consolidado entre Kelly (Dirceu Alves de Araújo) e Lorena (Casa gado veraneio). Distância aprox: 16.7m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.729099,
+        "longitude": -51.979354,
+        "id": 146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.979354,
+          -2.729099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Clebson Gonçalves de Souza",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Clebson Gonçalves de Souza-Quebito",
+        "observacoes": "Ponto consolidado entre Kelly (Clebson Gonçalves de Souza-Quebito) e Lorena (Clebson Gonçalves de Souza). Distância aprox: 10.1m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.796683,
+        "longitude": -51.924986,
+        "id": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.924986,
+          -2.796683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Coelho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.739023,
+        "longitude": -51.957895,
+        "id": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.957895,
+          -2.739023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Deja Noeli",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.709469,
+        "longitude": -51.958783,
+        "id": 158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.958783,
+          -2.709469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Dona Creuza",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "23/10/2025, 16:02:18",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.761671,
+        "longitude": -52.037206,
+        "id": 170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.037206,
+          -2.761671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Donizeth Machado da Silva",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Donizeth Machado da Silva",
+        "observacoes": "Ponto consolidado entre Kelly (Donizeth Machado da Silva) e Lorena (Donizeth Machado da Silva). Distância aprox: 8.0m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.758036,
+        "longitude": -51.952253,
+        "id": 171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.952253,
+          -2.758036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ediane",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.746536,
+        "longitude": -51.941562,
+        "id": 172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.941562,
+          -2.746536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Edivan Rodrigues Batista",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.859228,
+        "longitude": -51.985261,
+        "id": 173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.985261,
+          -2.859228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Edmilson Santos Gil",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.801811,
+        "longitude": -51.979451,
+        "id": 174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.979451,
+          -2.801811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ednaldo - Dezão",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "22/10/2025, 12:35:25",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.773081,
+        "longitude": -52.008281,
+        "id": 175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.008281,
+          -2.773081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Edson Batista do Carmo",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.773586,
+        "longitude": -51.934641,
+        "id": 176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.934641,
+          -2.773586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Fazenda Luan",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.862053,
+        "longitude": -51.897067,
+        "id": 185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.897067,
+          -2.862053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Francisco Barbosa Romano",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.80932,
+        "longitude": -52.016511,
+        "id": 188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.016511,
+          -2.80932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Isabelina-Isabel",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "22/10/2025, 16:29:57",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.833625,
+        "longitude": -51.970393,
+        "id": 252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.970393,
+          -2.833625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Janice Lacerda Paiva",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.800221,
+        "longitude": -51.973003,
+        "id": 254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.973003,
+          -2.800221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "José Ferreira Neto",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.727413,
+        "longitude": -52.004521,
+        "id": 258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.004521,
+          -2.727413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "José Nonato Medeiros da Costa",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.755943,
+        "longitude": -51.998796,
+        "id": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.998796,
+          -2.755943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "José Raimundo da Silva Abreu",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: José Raimundo da Silva Abreu",
+        "observacoes": "Ponto consolidado entre Kelly (José Raimundo da Silva Abreu) e Lorena (José Raimundo da Silva Abreu). Distância aprox: 6.0m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.811281,
+        "longitude": -51.914945,
+        "id": 261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.914945,
+          -2.811281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Judith de Oliveira Cardoso (moradia de inverno)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.74655,
+        "longitude": -52.019354,
+        "id": 262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.019354,
+          -2.74655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ladico não mora",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Ladico",
+        "observacoes": "Ponto consolidado entre Kelly (Ladico) e Lorena (Ladico não mora). Distância aprox: 5.6m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.82609,
+        "longitude": -51.937434,
+        "id": 265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.937434,
+          -2.82609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Leo - lambança",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.880238,
+        "longitude": -51.899955,
+        "id": 268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.899955,
+          -2.880238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Lindalva Penha",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "24/10/2025, 12:26:14",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.818822,
+        "longitude": -51.966063,
+        "id": 272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.966063,
+          -2.818822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Lindoelson Nequinha",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Nequinha, Lindoelson",
+        "observacoes": "Ponto consolidado entre Kelly (Nequinha, Lindoelson) e Lorena (Lindoelson Nequinha). Distância aprox: 3.5m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.829678,
+        "longitude": -51.934645,
+        "id": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.934645,
+          -2.829678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Maria Anaíde Gonçalves de Souza",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.806584,
+        "longitude": -51.969679,
+        "id": 276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.969679,
+          -2.806584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Maria Benta Correia dos santos - mãe do neto pescador",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "24/10/2025, 11:58:54",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.831632,
+        "longitude": -51.986114,
+        "id": 277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.986114,
+          -2.831632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Maria mãe da Elivandra",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Casa da Mãe da Elivandra Ana Maria",
+        "observacoes": "Ponto consolidado entre Kelly (Casa da Mãe da Elivandra Ana Maria) e Lorena (Maria mãe da Elivandra-Wpt 13/12/2025, 11:49:50). Distância aprox: 8.0m",
+        "data_coleta": "13/12/2025, 11:49:50",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.716377,
+        "longitude": -51.955481,
+        "id": 286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.955481,
+          -2.716377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Martinha",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.701,
+        "longitude": -51.960808,
+        "id": 287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.960808,
+          -2.701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Meriam Penha",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "24/10/2025, 12:16:51",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.834872,
+        "longitude": -51.960453,
+        "id": 289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.960453,
+          -2.834872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Nilvan Pereira da Silva (Preto)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.859493,
+        "longitude": -51.967813,
+        "id": 293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.967813,
+          -2.859493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Não moram ninguém",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.794308,
+        "longitude": -51.988973,
+        "id": 298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.988973,
+          -2.794308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Odária e waldemjr",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "23/10/2025, 18:22:40",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.761403,
+        "longitude": -52.046531,
+        "id": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.046531,
+          -2.761403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Olinda Albuquerque- depois do revis",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "28/08/2025, 11:26:24",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.69048,
+        "longitude": -51.99942,
+        "id": 301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99942,
+          -2.69048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Orlando da Silva Cabral",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.850709,
+        "longitude": -51.949618,
+        "id": 302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.949618,
+          -2.850709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Pastora",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.874584,
+        "longitude": -51.893813,
+        "id": 306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.893813,
+          -2.874584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Pedro da Silva e Silva",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "22/10/2025, 16:48:47",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.812403,
+        "longitude": -51.976844,
+        "id": 308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.976844,
+          -2.812403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Professora Jaedna",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 14:24:44",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.865755,
+        "longitude": -51.933596,
+        "id": 338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.933596,
+          -2.865755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Raian Farias Teixeira",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Raian Farias Texeira",
+        "observacoes": "Ponto consolidado entre Kelly (Raian Farias Texeira) e Lorena (Raian Farias Teixeira). Distância aprox: 5.7m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.795721,
+        "longitude": -52.000028,
+        "id": 340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.000028,
+          -2.795721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Raimundo Ribeiro Braga",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Raimundo Ribeiro Braga - Bujo",
+        "observacoes": "Ponto consolidado entre Kelly (Raimundo Ribeiro Braga - Bujo) e Lorena (Raimundo Ribeiro Braga). Distância aprox: 9.0m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.851128,
+        "longitude": -51.969161,
+        "id": 344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.969161,
+          -2.851128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Raimundo Tenório",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.875668,
+        "longitude": -51.919268,
+        "id": 345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.919268,
+          -2.875668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho Rolon",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.866461,
+        "longitude": -51.899047,
+        "id": 351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.899047,
+          -2.866461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho da Eliane Jesus da Silva",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.851394,
+        "longitude": -51.90875,
+        "id": 355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.90875,
+          -2.851394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho do Josiel Duarte da Rocha (Jojoca)",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.768564,
+        "longitude": -52.025977,
+        "id": 398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.025977,
+          -2.768564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho do Nego",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.836651,
+        "longitude": -51.916116,
+        "id": 402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.916116,
+          -2.836651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Residencia do Nery- Mucuim",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 14:31:51",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.874003,
+        "longitude": -51.923497,
+        "id": 413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.923497,
+          -2.874003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Residencia-Marcelo Carvalho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 09:41:00",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.841875,
+        "longitude": -52.001008,
+        "id": 414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.001008,
+          -2.841875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Residencia-Yuri D’aqua",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 14:18:17",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.859639,
+        "longitude": -51.941213,
+        "id": 416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.941213,
+          -2.859639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Residencia-neguinho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 09:15:12",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.838294,
+        "longitude": -52.00541,
+        "id": 417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00541,
+          -2.838294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Residência Cristino Teixeira dos Santos",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 09:26:47",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.842809,
+        "longitude": -51.996448,
+        "id": 419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.996448,
+          -2.842809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Residência Seu Rudson",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "01/09/2025, 12:55:07",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.773558,
+        "longitude": -51.907147,
+        "id": 421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.907147,
+          -2.773558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Romildo Ferreira de Souza",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.797753,
+        "longitude": -51.917805,
+        "id": 431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.917805,
+          -2.797753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Sandra Maria Borges dos Santos",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.786963,
+        "longitude": -51.982215,
+        "id": 433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.982215,
+          -2.786963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Seco morador",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Adailton Pereira da Silva",
+        "observacoes": "Ponto consolidado entre Kelly (Adailton Pereira da Silva) e Lorena (Seco morador). Distância aprox: 33.0m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.846653,
+        "longitude": -51.932622,
+        "id": 437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.932622,
+          -2.846653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Sr Moraes- Revis",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "28/08/2025, 12:06:33",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.70153,
+        "longitude": -52.00699,
+        "id": 440
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00699,
+          -2.70153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "São cosmo-antes do Revis",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "28/08/2025, 11:54:24",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.69385,
+        "longitude": -52.00509,
+        "id": 441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.00509,
+          -2.69385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Vanda Sonia Teixeira Barbosa",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.763928,
+        "longitude": -51.969863,
+        "id": 452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.969863,
+          -2.763928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Wanda e Renato",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Vanda e Renato",
+        "observacoes": "Ponto consolidado entre Kelly (Vanda e Renato) e Lorena (Wanda e Renato). Distância aprox: 18.1m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.88049,
+        "longitude": -51.91333,
+        "id": 455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.91333,
+          -2.88049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "29/08/2025, 16:57:30",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.7211,
+        "longitude": -52.03925,
+        "id": 458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03925,
+          -2.7211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zezinho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.785964,
+        "longitude": -51.939599,
+        "id": 462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.939599,
+          -2.785964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zildo",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Zildo Pires Quaresma",
+        "observacoes": "Ponto consolidado entre Kelly (Zildo Pires Quaresma) e Lorena (Zildo). Distância aprox: 8.9m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.752684,
+        "longitude": -51.970176,
+        "id": 464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.970176,
+          -2.752684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zé Bonitinho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Benedito dos Anjos Miranda",
+        "observacoes": "Ponto consolidado entre Kelly (Benedito dos Anjos Miranda) e Lorena (Zé Bonitinho). Distância aprox: 14.2m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.715375,
+        "longitude": -51.963998,
+        "id": 465
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.963998,
+          -2.715375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zé Maria - antes do revis",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "28/08/2025, 11:34:54",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.68639,
+        "longitude": -51.99699,
+        "id": 466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99699,
+          -2.68639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "caxiado",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.858842,
+        "longitude": -51.973581,
+        "id": 481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.973581,
+          -2.858842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "pastor Luiz",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.852361,
+        "longitude": -51.981266,
+        "id": 504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.981266,
+          -2.852361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "rancho abandonado",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.70334,
+        "longitude": -52.000919,
+        "id": 536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.000919,
+          -2.70334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "rancho do Manoel Maruá",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.78032,
+        "longitude": -52.037691,
+        "id": 542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.037691,
+          -2.78032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "untitled",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.675516,
+        "longitude": -51.96633,
+        "id": 578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.96633,
+          -2.675516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "untitled",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.66892,
+        "longitude": -51.945754,
+        "id": 579
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.945754,
+          -2.66892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "veraneio João Cacetão e professora Vânia",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.856486,
+        "longitude": -51.944829,
+        "id": 580
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.944829,
+          -2.856486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Abordagem 1",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Ponto localizado no meio do rio xingu",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.815822,
+        "longitude": -52.026585,
+        "id": 593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.026585,
+          -2.815822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Adalberto de Souza Silva",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.74167,
+        "longitude": -52.003232,
+        "id": 594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.003232,
+          -2.74167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ana Maria Sítio velho",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.725928,
+        "longitude": -51.947628,
+        "id": 596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.947628,
+          -2.725928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Carina Chavier Vieira",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.776952,
+        "longitude": -51.986443,
+        "id": 600
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.986443,
+          -2.776952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa abandonada Zé Luiz Pires",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.832975,
+        "longitude": -51.943905,
+        "id": 602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.943905,
+          -2.832975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Geraldo Correa Farias",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.733863,
+        "longitude": -51.974172,
+        "id": 638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.974172,
+          -2.733863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Jhon Marquês",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.812889,
+        "longitude": -51.964972,
+        "id": 686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.964972,
+          -2.812889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Manuel de Freitas abandonado",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.707573,
+        "longitude": -51.990231,
+        "id": 693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.990231,
+          -2.707573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Maria de Fátima Soares Nascimento",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.820528,
+        "longitude": -51.949055,
+        "id": 694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.949055,
+          -2.820528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Nilo filho do Macapá",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.858528,
+        "longitude": -51.923528,
+        "id": 695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.923528,
+          -2.858528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Poço de lama",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Ponto no meio do riu xingu",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.66363,
+        "longitude": -52.025893,
+        "id": 698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.025893,
+          -2.66363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rosemiro Bentes Ferreira - Miro",
+        "categoria": "Moradores e Comunidades",
+        "subcategoria": "Residência Ribeirinha",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Kelly (Coordenadas.1)",
+        "latitude": -2.766755,
+        "longitude": -52.014747,
+        "id": 731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.014747,
+          -2.766755
+        ]
+      }
+    }
+  ]
+}

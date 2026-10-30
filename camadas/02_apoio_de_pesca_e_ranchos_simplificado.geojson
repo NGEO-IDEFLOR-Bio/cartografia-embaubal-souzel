@@ -1,0 +1,1140 @@
+{
+  "type": "FeatureCollection",
+  "name": "02_apoio_de_pesca_e_ranchos_simplificado",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto de pesca (Dono desconhecido)",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "29",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.766288,
+        "longitude": -52.049071,
+        "id": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.049071,
+          -2.766288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Francisco Barbosa Romano / Junior",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Apoio de Pesca / Morador (Francisco Barbosa Romano / Junior)",
+        "data_coleta": "",
+        "cod_original": "56",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.809411,
+        "longitude": -52.016458,
+        "id": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.016458,
+          -2.809411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Negão",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Apoio de Pesca / Morador (Negão)",
+        "data_coleta": "",
+        "cod_original": "65",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.781502,
+        "longitude": -51.991564,
+        "id": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.991564,
+          -2.781502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Apoio de Pesca / Moradores (Filhos do finado Pedrão)",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "66",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.811695,
+        "longitude": -51.976647,
+        "id": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.976647,
+          -2.811695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Desconhecido",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Apoio de Pesca (Desconhecido)",
+        "data_coleta": "",
+        "cod_original": "68",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.818627,
+        "longitude": -51.965966,
+        "id": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.965966,
+          -2.818627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Jailson, irmão do Beneilson",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "Apoio de Pesca / Morador (Jailson, irmão do Beneilson)",
+        "data_coleta": "",
+        "cod_original": "71",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.833583,
+        "longitude": -51.970163,
+        "id": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.970163,
+          -2.833583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Apoio de pesca desconhecido",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.842358,
+        "longitude": -51.961881,
+        "id": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.961881,
+          -2.842358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Apoio de pesca do Manuel Neto",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.831088,
+        "longitude": -51.986523,
+        "id": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.986523,
+          -2.831088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Apoio de pesca do Nilson",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.789426,
+        "longitude": -51.990893,
+        "id": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.990893,
+          -2.789426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Apoio de pesca do irmão",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.843662,
+        "longitude": -51.974815,
+        "id": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.974815,
+          -2.843662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Benedito Trindade dos Santos (apoio de Pesca)",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.816048,
+        "longitude": -52.017068,
+        "id": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.017068,
+          -2.816048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Izael - rancho de pesca- antes do revis",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "28/08/2025, 11:24:30",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.69095,
+        "longitude": -51.99987,
+        "id": 253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99987,
+          -2.69095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Joaquim do Carlos Botelho Martins (apoio de pesca)",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.834906,
+        "longitude": -51.965743,
+        "id": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.965743,
+          -2.834906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Maria Eduarda Freitas Alvarez (apoio de pesca)",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.749981,
+        "longitude": -52.018295,
+        "id": 279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.018295,
+          -2.749981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Melhor ponto pra pesca esportiva",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "13/12/2025, 11:23:38",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.685206,
+        "longitude": -51.987147,
+        "id": 288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.987147,
+          -2.685206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto de pesca - Sr Bruto",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.66892,
+        "longitude": -51.945754,
+        "id": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.945754,
+          -2.66892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto de pesca Sr Bruto",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "01/09/2025, 13:51:34",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.802859,
+        "longitude": -51.9279,
+        "id": 317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9279,
+          -2.802859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto de pesca de tucunaré",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.758009,
+        "longitude": -52.050227,
+        "id": 318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.050227,
+          -2.758009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto de pesca pescadinha",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.860419,
+        "longitude": -51.97047,
+        "id": 320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.97047,
+          -2.860419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "23/10/2025, 17:42:00",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.773133,
+        "longitude": -52.033955,
+        "id": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.033955,
+          -2.773133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto de pesca- parente do seu tuíca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "22/10/2025, 13:10:40",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.735775,
+        "longitude": -52.016033,
+        "id": 322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.016033,
+          -2.735775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho abandonado",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.693737,
+        "longitude": -52.004918,
+        "id": 352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.004918,
+          -2.693737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho abandonado",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.801276,
+        "longitude": -52.035443,
+        "id": 353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.035443,
+          -2.801276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Casemiro Guedes Texeira",
+        "observacoes": "Ponto consolidado entre Kelly (Casemiro Guedes Texeira) e Lorena (Rancho de pesca). Distância aprox: 27.1m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.6996,
+        "longitude": -51.982238,
+        "id": 359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.982238,
+          -2.6996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca abandonado",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 10:52:57",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.834676,
+        "longitude": -52.007243,
+        "id": 360
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.007243,
+          -2.834676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca do Arnaldo de Souza",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "01/09/2025, 13:45:50",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.797275,
+        "longitude": -51.928968,
+        "id": 361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.928968,
+          -2.797275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca do Jó",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 14:28:36",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.868675,
+        "longitude": -51.929808,
+        "id": 362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.929808,
+          -2.868675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca dono desconhecido",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.781505,
+        "longitude": -52.055979,
+        "id": 363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.055979,
+          -2.781505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca- Aderivaldo",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 15:50:27",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.846897,
+        "longitude": -51.961411,
+        "id": 364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.961411,
+          -2.846897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca- Chico bala",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 14:21:55",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.862706,
+        "longitude": -51.937062,
+        "id": 365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.937062,
+          -2.862706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca- antigo dono: GIL",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 15:46:32",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.855259,
+        "longitude": -51.954996,
+        "id": 368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.954996,
+          -2.855259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 12:01:33",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.847826,
+        "longitude": -52.001391,
+        "id": 371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.001391,
+          -2.847826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 12:08:15",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.8522,
+        "longitude": -51.997439,
+        "id": 375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.997439,
+          -2.8522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 12:16:40",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.856449,
+        "longitude": -51.994594,
+        "id": 379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.994594,
+          -2.856449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 12:20:35",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.859492,
+        "longitude": -51.987447,
+        "id": 381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.987447,
+          -2.859492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho de pessoa desconhecida",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.8539,
+        "longitude": -51.983598,
+        "id": 384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.983598,
+          -2.8539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho desconhecido",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.805046,
+        "longitude": -52.032673,
+        "id": 390
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.032673,
+          -2.805046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho desconhecido",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.796926,
+        "longitude": -52.038376,
+        "id": 392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.038376,
+          -2.796926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho do Adelar Bezerra",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.778098,
+        "longitude": -52.023298,
+        "id": 394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.023298,
+          -2.778098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho do Luiz",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Rancho Luiz, veraneio",
+        "observacoes": "Ponto consolidado entre Kelly (Rancho Luiz, veraneio) e Lorena (Rancho do Luiz). Distância aprox: 11.1m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.7404,
+        "longitude": -52.017551,
+        "id": 400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.017551,
+          -2.7404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Rancho do Nilo, filho do finado Macapa",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Irisleide Aranha Rebelo",
+        "observacoes": "Ponto consolidado entre Kelly (Irisleide Aranha Rebelo) e Lorena (Rancho do Nilo, filho do finado Macapa). Distância aprox: 15.6m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.858526,
+        "longitude": -51.923541,
+        "id": 403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.923541,
+          -2.858526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Seu Branco-Rancho de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "03/09/2025, 11:14:00",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.804257,
+        "longitude": -51.995297,
+        "id": 438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.995297,
+          -2.804257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.854436,
+        "longitude": -51.908779,
+        "id": 506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.908779,
+          -2.854436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "pesca de acari, curimatã,",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.699018,
+        "longitude": -51.99161,
+        "id": 508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.99161,
+          -2.699018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "pesca do curimatã",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.702216,
+        "longitude": -51.972201,
+        "id": 511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.972201,
+          -2.702216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "rancho de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "Kelly: Casemiro Guedes Texeira",
+        "observacoes": "Ponto consolidado entre Kelly (Casemiro Guedes Texeira) e Lorena (Rancho de pesca). Distância aprox: 27.1m",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Consolidado (Lorena & Kelly)",
+        "latitude": -2.746197,
+        "longitude": -51.9587,
+        "id": 539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9587,
+          -2.746197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "área de pesca",
+        "categoria": "Apoio de Pesca e Ranchos",
+        "subcategoria": "Ponto de Apoio / Pesqueiro",
+        "unidade_conservacao": "REVIS Tabuleiro do Embaubal / RDS Vitória de Souzel",
+        "nome_alternativo": "",
+        "observacoes": "",
+        "data_coleta": "",
+        "cod_original": "",
+        "fonte": "Lorena (Coordenadas.2)",
+        "latitude": -2.872407,
+        "longitude": -51.918189,
+        "id": 591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.918189,
+          -2.872407
+        ]
+      }
+    }
+  ]
+}
